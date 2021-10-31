@@ -1,7 +1,152 @@
 [
   {
+    "key": "FNY7QPHQ",
+    "version": 25,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FNY7QPHQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FNY7QPHQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/9GXVVJD5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 183193
+      }
+    },
+    "meta": {
+      "creatorSummary": "Meier and Stutzer",
+      "parsedDate": "2007-09-24",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "FNY7QPHQ",
+      "version": 25,
+      "itemType": "journalArticle",
+      "title": "Is Volunteering Rewarding in Itself?",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Stephan",
+          "lastName": "Meier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alois",
+          "lastName": "Stutzer"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Economica",
+      "volume": "0",
+      "issue": "0",
+      "pages": "070924100058002-???",
+      "date": "2007-09-24",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Economica",
+      "language": "en",
+      "DOI": "10.1111/j.1468-0335.2007.00597.x",
+      "ISSN": "0013-0427, 1468-0335",
+      "shortTitle": "",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0335.2007.00597.x",
+      "accessDate": "2021-10-31T12:39:03Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: meierVolunteeringRewardingItself2007",
+      "tags": [
+        {
+          "tag": "octalysis/cd1"
+        }
+      ],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-31T12:39:03Z",
+      "dateModified": "2021-10-31T12:39:32Z"
+    }
+  },
+  {
+    "key": "9GXVVJD5",
+    "version": 23,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9GXVVJD5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9GXVVJD5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/FNY7QPHQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9GXVVJD5/file/view",
+        "title": "Meier and Stutzer - 2007 - Is Volunteering Rewarding in Itself.pdf",
+        "length": 183193
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9GXVVJD5",
+      "version": 23,
+      "parentItem": "FNY7QPHQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Meier and Stutzer - 2007 - Is Volunteering Rewarding in Itself.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Meier and Stutzer - 2007 - Is Volunteering Rewarding in Itself.pdf",
+      "md5": "44e07f9a2770a6f5a9c1aee4f96ab6d1",
+      "mtime": 1635683943000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-31T12:39:00Z",
+      "dateModified": "2021-10-31T12:39:03Z"
+    }
+  },
+  {
     "key": "V5DFT7ZG",
-    "version": 20,
+    "version": 21,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -36,7 +181,7 @@
     },
     "data": {
       "key": "V5DFT7ZG",
-      "version": 20,
+      "version": 21,
       "itemType": "journalArticle",
       "title": "Storytelling as Research/Research as Storytelling",
       "creators": [
@@ -68,13 +213,17 @@
       "callNumber": "",
       "rights": "",
       "extra": "Citation Key: lewisStorytellingResearch2011",
-      "tags": [],
+      "tags": [
+        {
+          "tag": "octalysis/cd1"
+        }
+      ],
       "collections": [
         "YRDSMPUP"
       ],
       "relations": {},
       "dateAdded": "2021-10-28T13:32:55Z",
-      "dateModified": "2021-10-31T11:24:02Z"
+      "dateModified": "2021-10-31T12:37:22Z"
     }
   },
   {
