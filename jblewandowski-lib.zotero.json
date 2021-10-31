@@ -1,5 +1,146 @@
 [
   {
+    "key": "HRQK2XAA",
+    "version": 26,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HRQK2XAA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HRQK2XAA",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/8SJPICX7",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3586693
+      }
+    },
+    "meta": {
+      "creatorSummary": "Wilson and Musick",
+      "parsedDate": "1999",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HRQK2XAA",
+      "version": 26,
+      "itemType": "journalArticle",
+      "title": "The Effects of Volunteering on the Volunteer",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Wilson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marc",
+          "lastName": "Musick"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Law and Contemporary Problems",
+      "volume": "62",
+      "issue": "4",
+      "pages": "141",
+      "date": "23/1999",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Law and Contemporary Problems",
+      "language": "en",
+      "DOI": "10.2307/1192270",
+      "ISSN": "00239186",
+      "shortTitle": "",
+      "url": "https://www.jstor.org/stable/1192270?origin=crossref",
+      "accessDate": "2021-10-31T14:06:12Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: wilsonEffectsVolunteeringVolunteer23",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-31T14:06:12Z",
+      "dateModified": "2021-10-31T14:06:23Z"
+    }
+  },
+  {
+    "key": "8SJPICX7",
+    "version": 27,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8SJPICX7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8SJPICX7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HRQK2XAA",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/8SJPICX7/file/view",
+        "title": "Wilson and Musick - 1999 - The Effects of Volunteering on the Volunteer.pdf",
+        "length": 3586693
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "8SJPICX7",
+      "version": 27,
+      "parentItem": "HRQK2XAA",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Wilson and Musick - 1999 - The Effects of Volunteering on the Volunteer.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Wilson and Musick - 1999 - The Effects of Volunteering on the Volunteer.pdf",
+      "md5": "575b111635feaffe363a24228dc81d00",
+      "mtime": 1635689172000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-31T14:06:09Z",
+      "dateModified": "2021-10-31T14:06:12Z"
+    }
+  },
+  {
     "key": "FNY7QPHQ",
     "version": 25,
     "library": {
@@ -171,7 +312,7 @@
         "href": "https://api.zotero.org/users/8674355/items/2UAU44SX",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 266715
+        "attachmentSize": 267422
       }
     },
     "meta": {
@@ -228,7 +369,7 @@
   },
   {
     "key": "2UAU44SX",
-    "version": 15,
+    "version": 30,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -257,7 +398,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/2UAU44SX/file/view",
         "title": "2UAU44SX.pdf",
-        "length": 266715
+        "length": 267422
       }
     },
     "meta": {
@@ -265,7 +406,7 @@
     },
     "data": {
       "key": "2UAU44SX",
-      "version": 15,
+      "version": 30,
       "parentItem": "V5DFT7ZG",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -276,8 +417,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "2UAU44SX.pdf",
-      "md5": "e1e65c7fd8d757fc5f19ede784b12f58",
-      "mtime": 1635591017110,
+      "md5": "cda13827adcac0b525e18be734b03815",
+      "mtime": 1635690549923,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-10-28T13:32:51Z",
@@ -453,7 +594,7 @@
         "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 462473
+        "attachmentSize": 464717
       }
     },
     "meta": {
@@ -773,6 +914,64 @@
     }
   },
   {
+    "key": "9WG8CX4Y",
+    "version": 29,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9WG8CX4Y",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EGYPXIRL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y/file/view",
+        "title": "9WG8CX4Y.pdf",
+        "length": 464717
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9WG8CX4Y",
+      "version": 29,
+      "parentItem": "EGYPXIRL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Attachment",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "9WG8CX4Y.pdf",
+      "md5": "c26ab064228ca22fc8feffb69935bbfe",
+      "mtime": 1635690548023,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:28Z",
+      "dateModified": "2021-10-24T19:15:28Z"
+    }
+  },
+  {
     "key": "2G5EXBK7",
     "version": 16,
     "library": {
@@ -885,64 +1084,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-10-24T19:15:27Z",
-      "dateModified": "2021-10-24T19:15:28Z"
-    }
-  },
-  {
-    "key": "9WG8CX4Y",
-    "version": 9,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/9WG8CX4Y",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/EGYPXIRL",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y/file/view",
-        "title": "Leclercq, Poncin, Hammedi - 2020 - Opening the black box of gameful experience Implications for gamification process design.pdf",
-        "length": 462473
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "9WG8CX4Y",
-      "version": 9,
-      "parentItem": "EGYPXIRL",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Attachment",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Leclercq, Poncin, Hammedi - 2020 - Opening the black box of gameful experience Implications for gamification process design.pdf",
-      "md5": "240ef97f60bd6f23e0e97f13b784c785",
-      "mtime": 1635102928000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:28Z",
       "dateModified": "2021-10-24T19:15:28Z"
     }
   },
