@@ -17,8 +17,8 @@ jobs:
       - run: npm --prefix fetch-zotero ci
       - run: npm --prefix fetch-zotero run start
         env:
-          BIBTEX_PATH: jblewandowski-lib.bib
-          ZOTEROJSON_PATH: jblewandowski-lib.zotero.json
+          BIBTEX_PATH: "${{ github.workspace }}/jblewandowski-lib.bib"
+          ZOTEROJSON_PATH: "${{ github.workspace }}/jblewandowski-lib.zotero.json"
           ZOTERO_USERID: "8674355"
           ZOTERO_APIKEY: "${{ secrets.ZOTERO_APIKEY }}"
       - run: ls -a
