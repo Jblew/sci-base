@@ -22,3 +22,13 @@ jobs:
           ZOTERO_USERID: "8674355"
           ZOTERO_APIKEY: "${{ secrets.ZOTERO_APIKEY }}"
       - run: ls -a
+      - run: |
+          if [[ `git status --porcelain` ]]; then
+            git config --global user.name 'fetch-zotero.yml (JB Lewandowski)'
+            git config --global user.email 'jblew@users.noreply.github.com'
+            git add jblewandowski-lib.bib jblewandowski-lib.zotero.json
+            git commit -m "sync: bibliography"
+            git push origin main
+          else
+            echo "No changes"
+          fi
