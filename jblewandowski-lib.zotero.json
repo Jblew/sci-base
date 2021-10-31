@@ -1,0 +1,928 @@
+[
+  {
+    "key": "2UAU44SX",
+    "version": 15,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2UAU44SX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/V5DFT7ZG",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX/file/view",
+        "title": "2UAU44SX.pdf",
+        "length": 266715
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2UAU44SX",
+      "version": 15,
+      "parentItem": "V5DFT7ZG",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lewis - 2011 - Storytelling as ResearchResearch as Storytelling.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2UAU44SX.pdf",
+      "md5": "e1e65c7fd8d757fc5f19ede784b12f58",
+      "mtime": 1635591017110,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-28T13:32:51Z",
+      "dateModified": "2021-10-28T13:32:55Z"
+    }
+  },
+  {
+    "key": "V5DFT7ZG",
+    "version": 3,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V5DFT7ZG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V5DFT7ZG",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 266715
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lewis",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "V5DFT7ZG",
+      "version": 3,
+      "itemType": "journalArticle",
+      "title": "Storytelling as Research/Research as Storytelling",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Patrick J.",
+          "lastName": "Lewis"
+        }
+      ],
+      "abstractNote": "If story is central to human meaning why, in the research world, is there not more storytelling? Walter Benjamin (1973) noted that, “a story is different. It does not expend itself. It preserves and concentrates its strength and is capable of releasing it even after a long time” (p. 90). How might research not expend itself, but preserve and concentrate its strength?",
+      "publicationTitle": "Qualitative Inquiry",
+      "volume": "17",
+      "issue": "6",
+      "pages": "505-510",
+      "date": "07/2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Qualitative Inquiry",
+      "language": "en",
+      "DOI": "10.1177/1077800411409883",
+      "ISSN": "1077-8004, 1552-7565",
+      "shortTitle": "",
+      "url": "http://journals.sagepub.com/doi/10.1177/1077800411409883",
+      "accessDate": "2021-10-28T13:32:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-28T13:32:55Z",
+      "dateModified": "2021-10-28T13:32:55Z"
+    }
+  },
+  {
+    "key": "PSCAAL8V",
+    "version": 3,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PSCAAL8V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PSCAAL8V",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2G5EXBK7",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 137644
+      }
+    },
+    "meta": {
+      "creatorSummary": "Landers et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "PSCAAL8V",
+      "version": 3,
+      "itemType": "journalArticle",
+      "title": "Gamification Science, Its History and Future: Definitions and a Research Agenda",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Richard N.",
+          "lastName": "Landers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elena M.",
+          "lastName": "Auer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew B.",
+          "lastName": "Collmus"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael B.",
+          "lastName": "Armstrong"
+        }
+      ],
+      "abstractNote": "Background. Definitions of gamification tend to vary by person, both in industry and within academia. One particularly popular lay interpretation, introduced and popularized by Ian Bogost, and reiterated by Jan Klabbers, is that gamification is “bullshit” and “exploitationware.” They describe gamification as a marketing term or business practice invented to sell products rather than to represent a real and unique phenomenon relevant to a nascent game science. However, this view is an oversimplification, one which ignores a growing body of theory development and empirical research on gamification within a post-positivist epistemology. In fact, because gamification is so much more outcome-focused than general game design, current gamification research in many ways has a stronger footing in modern social science than much games research does. Aim. In this article, to address common misunderstandings like these, we describe the philosophical underpinnings of modern gamification research, define the relationship between games and gamification, define and situate gamification science as a subdiscipline of game science, and explicate a six-element framework of major concerns within gamification science: predictor constructs, criterion constructs, mediator constructs, moderator constructs, design processes, and research methods. This framework is also presented diagrammatically as a causal path model. Conclusion. Gamification science refers to the development of theories of gamification design and their empirical evaluation within a post-positivist epistemology. The goal of gamification scientist-practitioners should be to understand how to best meet organizational goals through the design of gamification interventions, drawing upon insights derived from both gamification science and games research more broadly.",
+      "publicationTitle": "Simulation and Gaming",
+      "volume": "49",
+      "issue": "3",
+      "pages": "315–337",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1177/1046878118774385",
+      "ISSN": "1552826X",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "ISBN: 1046878118774\nCitation Key: Landers2018GamificationScience",
+      "tags": [
+        {
+          "tag": "constructs"
+        },
+        {
+          "tag": "criteria"
+        },
+        {
+          "tag": "criterion"
+        },
+        {
+          "tag": "design"
+        },
+        {
+          "tag": "game"
+        },
+        {
+          "tag": "game science"
+        },
+        {
+          "tag": "gamification"
+        },
+        {
+          "tag": "gamification science"
+        },
+        {
+          "tag": "gamification-definition"
+        },
+        {
+          "tag": "mediator"
+        },
+        {
+          "tag": "moderator"
+        },
+        {
+          "tag": "post-positivism"
+        },
+        {
+          "tag": "predictor"
+        },
+        {
+          "tag": "research methods"
+        },
+        {
+          "tag": "science"
+        },
+        {
+          "tag": "theory"
+        }
+      ],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:28Z",
+      "dateModified": "2021-10-24T19:43:07Z"
+    }
+  },
+  {
+    "key": "EGYPXIRL",
+    "version": 3,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EGYPXIRL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EGYPXIRL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 462473
+      }
+    },
+    "meta": {
+      "creatorSummary": "Leclercq et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EGYPXIRL",
+      "version": 3,
+      "itemType": "journalArticle",
+      "title": "Opening the black box of gameful experience: Implications for gamification process design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Leclercq"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ingrid",
+          "lastName": "Poncin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wafa",
+          "lastName": "Hammedi"
+        }
+      ],
+      "abstractNote": "Gamification is attracting the attention of practitioners and researchers because of its power to generate experiential value for users. However, despite its wide adoption by managers, the practice is poorly conceptualized. In response to this theoretical gap, we propose a set of foundational propositions developed using a microfoundational approach. We explain gameful experience, and we construct a conceptual framework that depicts the underlying process. We expand prior research on the topic through the notion of gameplay. Our conceptual discussion of gamification suggests a research agenda that can stimulate further academic efforts.",
+      "publicationTitle": "Journal of Retailing and Consumer Services",
+      "volume": "52",
+      "issue": "January 2019",
+      "pages": "",
+      "date": "2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1016/j.jretconser.2019.07.007",
+      "ISSN": "09696989",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: Leclercq2020BlackBox",
+      "tags": [
+        {
+          "tag": "Gameful experience"
+        },
+        {
+          "tag": "Gameplay"
+        },
+        {
+          "tag": "Gamification"
+        },
+        {
+          "tag": "Microfoundation"
+        },
+        {
+          "tag": "gamification-definition"
+        }
+      ],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:28Z",
+      "dateModified": "2021-10-24T19:42:58Z"
+    }
+  },
+  {
+    "key": "SEAB5VQE",
+    "version": 3,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SEAB5VQE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SEAB5VQE",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BPGBINHC",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 277674
+      }
+    },
+    "meta": {
+      "creatorSummary": "Levac et al.",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "SEAB5VQE",
+      "version": 3,
+      "itemType": "journalArticle",
+      "title": "Scoping studies: Advancing the methodology",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Danielle",
+          "lastName": "Levac"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heather",
+          "lastName": "Colquhoun"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kelly K.",
+          "lastName": "O'Brien"
+        }
+      ],
+      "abstractNote": "Background: Scoping studies are an increasingly popular approach to reviewing health research evidence. In 2005, Arksey and O'Malley published the first methodological framework for conducting scoping studies. While this framework provides an excellent foundation for scoping study methodology, further clarifying and enhancing this framework will help support the consistency with which authors undertake and report scoping studies and may encourage researchers and clinicians to engage in this process.Discussion: We build upon our experiences conducting three scoping studies using the Arksey and O'Malley methodology to propose recommendations that clarify and enhance each stage of the framework. Recommendations include: clarifying and linking the purpose and research question (stage one); balancing feasibility with breadth and comprehensiveness of the scoping process (stage two); using an iterative team approach to selecting studies (stage three) and extracting data (stage four); incorporating a numerical summary and qualitative thematic analysis, reporting results, and considering the implications of study findings to policy, practice, or research (stage five); and incorporating consultation with stakeholders as a required knowledge translation component of scoping study methodology (stage six). Lastly, we propose additional considerations for scoping study methodology in order to support the advancement, application and relevance of scoping studies in health research.Summary: Specific recommendations to clarify and enhance this methodology are outlined for each stage of the Arksey and O'Malley framework. Continued debate and development about scoping study methodology will help to maximize the usefulness and rigor of scoping study findings within healthcare research and practice. © 2010 Levac et al; licensee BioMed Central Ltd.",
+      "publicationTitle": "Implementation Science",
+      "volume": "5",
+      "issue": "1",
+      "pages": "1–9",
+      "date": "2010",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1186/1748-5908-5-69",
+      "ISSN": "17485908",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "PMID: 20854677\nCitation Key: Levac2010Scoping",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:27Z",
+      "dateModified": "2021-10-24T19:42:49Z"
+    }
+  },
+  {
+    "key": "HFUV6IER",
+    "version": 3,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HFUV6IER",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HFUV6IER",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YQ9G4Q6C",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 242014
+      }
+    },
+    "meta": {
+      "creatorSummary": "Arksey and O'Malley",
+      "parsedDate": "2005",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HFUV6IER",
+      "version": 3,
+      "itemType": "journalArticle",
+      "title": "Scoping studies: Towards a methodological framework",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Hilary",
+          "lastName": "Arksey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lisa",
+          "lastName": "O'Malley"
+        }
+      ],
+      "abstractNote": "This paper focuses on scoping studies, an approach to reviewing the literature which to date has received little attention in the research methods literature. We distinguish between different types of scoping studies and indicate where these stand in relation to full systematic reviews. We outline a framework for conducting a scoping study based on our recent experiences of reviewing the literature on services for carers for people with mental health problems. Where appropriate, our approach to scoping the field is contrasted with the procedures followed in systematic reviews. We emphasize how including a consultation exercise in this sort of study may enhance the results, making them more useful to policy makers, practitioners and service users. Finally, we consider the advantages and limitations of the approach and suggest that a wider debate is called for about the role of the scoping study in relation to other types of literature reviews. © 2005 Taylor & Francis Group Ltd.",
+      "publicationTitle": "International Journal of Social Research Methodology: Theory and Practice",
+      "volume": "8",
+      "issue": "1",
+      "pages": "19–32",
+      "date": "2005",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1080/1364557032000119616",
+      "ISSN": "13645579",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: Arksey2005Scoping",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:27Z",
+      "dateModified": "2021-10-24T19:42:16Z"
+    }
+  },
+  {
+    "key": "M9TGUT64",
+    "version": 3,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M9TGUT64",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M9TGUT64",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2015",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "M9TGUT64",
+      "version": 3,
+      "itemType": "book",
+      "title": "Actionable Gamification",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "Createspace Independent Publishing Platform",
+      "date": "2015",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: actionablegamification_2015",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:28Z",
+      "dateModified": "2021-10-24T19:41:52Z"
+    }
+  },
+  {
+    "key": "2G5EXBK7",
+    "version": 16,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2G5EXBK7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2G5EXBK7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/PSCAAL8V",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2G5EXBK7/file/view",
+        "title": "2G5EXBK7.pdf",
+        "length": 137644
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2G5EXBK7",
+      "version": 16,
+      "parentItem": "PSCAAL8V",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Attachment",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2G5EXBK7.pdf",
+      "md5": "18c6c40410e67891c41eae52c066fcbe",
+      "mtime": 1635591021307,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:28Z",
+      "dateModified": "2021-10-24T19:15:28Z"
+    }
+  },
+  {
+    "key": "YQ9G4Q6C",
+    "version": 12,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YQ9G4Q6C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YQ9G4Q6C",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HFUV6IER",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YQ9G4Q6C/file/view",
+        "title": "Scoping studies- towards a methodological framework.pdf",
+        "length": 242014
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YQ9G4Q6C",
+      "version": 12,
+      "parentItem": "HFUV6IER",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Attachment",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Scoping studies- towards a methodological framework.pdf",
+      "md5": "e42a3879e2a1618a2996090e6fbf9aa8",
+      "mtime": 1635102927000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:27Z",
+      "dateModified": "2021-10-24T19:15:28Z"
+    }
+  },
+  {
+    "key": "9WG8CX4Y",
+    "version": 9,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9WG8CX4Y",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EGYPXIRL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y/file/view",
+        "title": "Leclercq, Poncin, Hammedi - 2020 - Opening the black box of gameful experience Implications for gamification process design.pdf",
+        "length": 462473
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9WG8CX4Y",
+      "version": 9,
+      "parentItem": "EGYPXIRL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Attachment",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Leclercq, Poncin, Hammedi - 2020 - Opening the black box of gameful experience Implications for gamification process design.pdf",
+      "md5": "240ef97f60bd6f23e0e97f13b784c785",
+      "mtime": 1635102928000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:28Z",
+      "dateModified": "2021-10-24T19:15:28Z"
+    }
+  },
+  {
+    "key": "BPGBINHC",
+    "version": 18,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BPGBINHC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BPGBINHC",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/SEAB5VQE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BPGBINHC/file/view",
+        "title": "BPGBINHC.pdf",
+        "length": 277674
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BPGBINHC",
+      "version": 18,
+      "parentItem": "SEAB5VQE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Attachment",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "BPGBINHC.pdf",
+      "md5": "8547e1201af3d6179ebe31f9c899ce8c",
+      "mtime": 1635591209000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:27Z",
+      "dateModified": "2021-10-24T19:15:27Z"
+    }
+  },
+  {
+    "key": "3JE4EMCJ",
+    "version": 3,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3JE4EMCJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3JE4EMCJ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2014",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3JE4EMCJ",
+      "version": 3,
+      "itemType": "journalArticle",
+      "title": "Actionable gamification",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Beyond Points, Badges, and Leaderboards",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "2014",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:10:47Z",
+      "dateModified": "2021-10-24T19:10:47Z"
+    }
+  }
+]
