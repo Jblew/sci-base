@@ -594,7 +594,7 @@
         "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 464717
+        "attachmentSize": 467629
       }
     },
     "meta": {
@@ -915,7 +915,7 @@
   },
   {
     "key": "9WG8CX4Y",
-    "version": 29,
+    "version": 31,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -944,7 +944,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y/file/view",
         "title": "9WG8CX4Y.pdf",
-        "length": 464717
+        "length": 467629
       }
     },
     "meta": {
@@ -952,7 +952,7 @@
     },
     "data": {
       "key": "9WG8CX4Y",
-      "version": 29,
+      "version": 31,
       "parentItem": "EGYPXIRL",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -963,8 +963,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "9WG8CX4Y.pdf",
-      "md5": "c26ab064228ca22fc8feffb69935bbfe",
-      "mtime": 1635690548023,
+      "md5": "a14dc97cabccc7c9fdc330931d7f8953",
+      "mtime": 1635790640575,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-10-24T19:15:28Z",
