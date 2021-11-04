@@ -177,7 +177,7 @@
         "href": "https://api.zotero.org/users/8674355/items/9GXVVJD5",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 183193
+        "attachmentSize": 200122
       }
     },
     "meta": {
@@ -239,7 +239,7 @@
   },
   {
     "key": "9GXVVJD5",
-    "version": 23,
+    "version": 35,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -267,8 +267,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/9GXVVJD5/file/view",
-        "title": "Meier and Stutzer - 2007 - Is Volunteering Rewarding in Itself.pdf",
-        "length": 183193
+        "title": "9GXVVJD5.pdf",
+        "length": 200122
       }
     },
     "meta": {
@@ -276,7 +276,7 @@
     },
     "data": {
       "key": "9GXVVJD5",
-      "version": 23,
+      "version": 35,
       "parentItem": "FNY7QPHQ",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -286,9 +286,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "Meier and Stutzer - 2007 - Is Volunteering Rewarding in Itself.pdf",
-      "md5": "44e07f9a2770a6f5a9c1aee4f96ab6d1",
-      "mtime": 1635683943000,
+      "filename": "9GXVVJD5.pdf",
+      "md5": "a7f454e016331c6676c086dbf3327445",
+      "mtime": 1636050393820,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-10-31T12:39:00Z",
