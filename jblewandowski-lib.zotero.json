@@ -1,7 +1,89 @@
 [
   {
+    "key": "V5DFT7ZG",
+    "version": 39,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V5DFT7ZG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V5DFT7ZG",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 267422
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lewis",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "V5DFT7ZG",
+      "version": 39,
+      "itemType": "journalArticle",
+      "title": "Storytelling as Research/Research as Storytelling",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Patrick J.",
+          "lastName": "Lewis"
+        }
+      ],
+      "abstractNote": "If story is central to human meaning why, in the research world, is there not more storytelling? Walter Benjamin (1973) noted that, “a story is different. It does not expend itself. It preserves and concentrates its strength and is capable of releasing it even after a long time” (p. 90). How might research not expend itself, but preserve and concentrate its strength?",
+      "publicationTitle": "Qualitative Inquiry",
+      "volume": "17",
+      "issue": "6",
+      "pages": "505-510",
+      "date": "2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Qualitative Inquiry",
+      "language": "en",
+      "DOI": "10.1177/1077800411409883",
+      "ISSN": "1077-8004, 1552-7565",
+      "shortTitle": "",
+      "url": "http://journals.sagepub.com/doi/10.1177/1077800411409883",
+      "accessDate": "2021-10-28T13:32:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: lewisStorytellingResearch2011",
+      "tags": [
+        {
+          "tag": "octalysis/cd1"
+        }
+      ],
+      "collections": [
+        "WK98NAUN"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-28T13:32:55Z",
+      "dateModified": "2021-11-04T18:52:03Z"
+    }
+  },
+  {
     "key": "HRQK2XAA",
-    "version": 33,
+    "version": 38,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -36,7 +118,7 @@
     },
     "data": {
       "key": "HRQK2XAA",
-      "version": 33,
+      "version": 38,
       "itemType": "journalArticle",
       "title": "The Effects of Volunteering on the Volunteer",
       "creators": [
@@ -85,7 +167,8 @@
         }
       ],
       "collections": [
-        "YRDSMPUP"
+        "YRDSMPUP",
+        "WK98NAUN"
       ],
       "relations": {},
       "dateAdded": "2021-10-31T14:06:12Z",
@@ -152,7 +235,7 @@
   },
   {
     "key": "FNY7QPHQ",
-    "version": 25,
+    "version": 37,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -187,7 +270,7 @@
     },
     "data": {
       "key": "FNY7QPHQ",
-      "version": 25,
+      "version": 37,
       "itemType": "journalArticle",
       "title": "Is Volunteering Rewarding in Itself?",
       "creators": [
@@ -230,7 +313,8 @@
         }
       ],
       "collections": [
-        "YRDSMPUP"
+        "YRDSMPUP",
+        "WK98NAUN"
       ],
       "relations": {},
       "dateAdded": "2021-10-31T12:39:03Z",
@@ -293,88 +377,6 @@
       "relations": {},
       "dateAdded": "2021-10-31T12:39:00Z",
       "dateModified": "2021-10-31T12:39:03Z"
-    }
-  },
-  {
-    "key": "V5DFT7ZG",
-    "version": 21,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/V5DFT7ZG",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/V5DFT7ZG",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 267422
-      }
-    },
-    "meta": {
-      "creatorSummary": "Lewis",
-      "parsedDate": "2011",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "V5DFT7ZG",
-      "version": 21,
-      "itemType": "journalArticle",
-      "title": "Storytelling as Research/Research as Storytelling",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Patrick J.",
-          "lastName": "Lewis"
-        }
-      ],
-      "abstractNote": "If story is central to human meaning why, in the research world, is there not more storytelling? Walter Benjamin (1973) noted that, “a story is different. It does not expend itself. It preserves and concentrates its strength and is capable of releasing it even after a long time” (p. 90). How might research not expend itself, but preserve and concentrate its strength?",
-      "publicationTitle": "Qualitative Inquiry",
-      "volume": "17",
-      "issue": "6",
-      "pages": "505-510",
-      "date": "07/2011",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Qualitative Inquiry",
-      "language": "en",
-      "DOI": "10.1177/1077800411409883",
-      "ISSN": "1077-8004, 1552-7565",
-      "shortTitle": "",
-      "url": "http://journals.sagepub.com/doi/10.1177/1077800411409883",
-      "accessDate": "2021-10-28T13:32:55Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: lewisStorytellingResearch2011",
-      "tags": [
-        {
-          "tag": "octalysis/cd1"
-        }
-      ],
-      "collections": [
-        "YRDSMPUP"
-      ],
-      "relations": {},
-      "dateAdded": "2021-10-28T13:32:55Z",
-      "dateModified": "2021-10-31T12:37:22Z"
     }
   },
   {
