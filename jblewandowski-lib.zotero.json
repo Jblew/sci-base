@@ -1,5 +1,162 @@
 [
   {
+    "key": "XMLUYU34",
+    "version": 78,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XMLUYU34",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XMLUYU34",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/P9KJIDE5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 466339
+      }
+    },
+    "meta": {
+      "creatorSummary": "Franco et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XMLUYU34",
+      "version": 78,
+      "itemType": "journalArticle",
+      "title": "Heroism Research: A Review of Theories, Methods, Challenges, and Trends",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Zeno E.",
+          "lastName": "Franco"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Scott T.",
+          "lastName": "Allison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elaine L.",
+          "lastName": "Kinsella"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ari",
+          "lastName": "Kohen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matt",
+          "lastName": "Langdon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip G.",
+          "lastName": "Zimbardo"
+        }
+      ],
+      "abstractNote": "Heroism as an expression of self-actualization and a pinnacle social state is of fundamental interest to humanistic psychology and the field more broadly. This review places the growing discussion on heroic action in a humanistic perspective, as heroism aligns with ethical self-actualization in its highest form, personal meaning making, and social good, and can also involve profound existential costs. This review is organized in four major sections: First, the historical and philosophical underpinnings of heroism are examined, moving from ancient Greco-Roman perspectives, to more modern interpretations of Continental philosophy, and to Freud and Le Bon. Second, the article summarizes in detail a renaissance of interest in the psychology of heroism that began in the early 2000s, moving from a modern re-theorizing of heroism toward empirical exploration. This renewal of interest is described as six overlapping phases: theory building and exploration of operational definitions of heroism, taxonometric approaches to heroic figures, implicit theories of heroism, social ascription of heroic status, social influence of heroes, and internal motivations for heroic action. Third, key methodological challenges in studying heroism are discussed. Finally, the renewed interest in heroism is considered as a social movement involving not just researchers but also the broader public.",
+      "publicationTitle": "Journal of Humanistic Psychology",
+      "volume": "58",
+      "issue": "4",
+      "pages": "382-396",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Humanistic Psychology",
+      "language": "en",
+      "DOI": "10.1177/0022167816681232",
+      "ISSN": "0022-1678, 1552-650X",
+      "shortTitle": "Heroism Research",
+      "url": "http://journals.sagepub.com/doi/10.1177/0022167816681232",
+      "accessDate": "2021-11-04T19:09:21Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: francoHeroismResearchReview2018",
+      "tags": [],
+      "collections": [
+        "WK98NAUN"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-04T19:09:21Z",
+      "dateModified": "2021-11-05T10:07:29Z"
+    }
+  },
+  {
+    "key": "MR3NK64P",
+    "version": 75,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MR3NK64P",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P/file/view",
+        "title": "Yerba_mate_Pharmacological_Properties_Research_and.pdf",
+        "length": 253675
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "MR3NK64P",
+      "version": 75,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Yerba_mate_Pharmacological_Properties_Research_and.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Yerba_mate_Pharmacological_Properties_Research_and.pdf",
+      "md5": "44bcbbc924c080d4ba722b1df9d8fd7d",
+      "mtime": 1636106817135,
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-05T10:06:56Z",
+      "dateModified": "2021-11-05T10:06:56Z"
+    }
+  },
+  {
     "key": "9ZJYIK2Q",
     "version": 42,
     "library": {
@@ -902,110 +1059,6 @@
     }
   },
   {
-    "key": "XMLUYU34",
-    "version": 41,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/XMLUYU34",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/XMLUYU34",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/P9KJIDE5",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 437988
-      }
-    },
-    "meta": {
-      "creatorSummary": "Franco et al.",
-      "parsedDate": "2018",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "XMLUYU34",
-      "version": 41,
-      "itemType": "journalArticle",
-      "title": "Heroism Research: A Review of Theories, Methods, Challenges, and Trends",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Zeno E.",
-          "lastName": "Franco"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Scott T.",
-          "lastName": "Allison"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Elaine L.",
-          "lastName": "Kinsella"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ari",
-          "lastName": "Kohen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Matt",
-          "lastName": "Langdon"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Philip G.",
-          "lastName": "Zimbardo"
-        }
-      ],
-      "abstractNote": "Heroism as an expression of self-actualization and a pinnacle social state is of fundamental interest to humanistic psychology and the field more broadly. This review places the growing discussion on heroic action in a humanistic perspective, as heroism aligns with ethical self-actualization in its highest form, personal meaning making, and social good, and can also involve profound existential costs. This review is organized in four major sections: First, the historical and philosophical underpinnings of heroism are examined, moving from ancient Greco-Roman perspectives, to more modern interpretations of Continental philosophy, and to Freud and Le Bon. Second, the article summarizes in detail a renaissance of interest in the psychology of heroism that began in the early 2000s, moving from a modern re-theorizing of heroism toward empirical exploration. This renewal of interest is described as six overlapping phases: theory building and exploration of operational definitions of heroism, taxonometric approaches to heroic figures, implicit theories of heroism, social ascription of heroic status, social influence of heroes, and internal motivations for heroic action. Third, key methodological challenges in studying heroism are discussed. Finally, the renewed interest in heroism is considered as a social movement involving not just researchers but also the broader public.",
-      "publicationTitle": "Journal of Humanistic Psychology",
-      "volume": "58",
-      "issue": "4",
-      "pages": "382-396",
-      "date": "07/2018",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Journal of Humanistic Psychology",
-      "language": "en",
-      "DOI": "10.1177/0022167816681232",
-      "ISSN": "0022-1678, 1552-650X",
-      "shortTitle": "Heroism Research",
-      "url": "http://journals.sagepub.com/doi/10.1177/0022167816681232",
-      "accessDate": "2021-11-04T19:09:21Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: francoHeroismResearchReview2018",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:21Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
     "key": "59555AK8",
     "version": 41,
     "library": {
@@ -1739,7 +1792,7 @@
         "href": "https://api.zotero.org/users/8674355/items/99EFK9AU",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 270495
+        "attachmentSize": 273633
       }
     },
     "meta": {
@@ -2049,85 +2102,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:09:01Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "BDW4V8MK",
-    "version": 40,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/BDW4V8MK",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/BDW4V8MK",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/MMFSFTAH",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 300969
-      }
-    },
-    "meta": {
-      "creatorSummary": "Reiter",
-      "parsedDate": "1997",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "BDW4V8MK",
-      "version": 40,
-      "itemType": "journalArticle",
-      "title": "STORYTELLING AND ETHICS IN FINANCIAL ECONOMICS",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Sara Ann",
-          "lastName": "Reiter"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "Critical Perspectives on Accounting",
-      "volume": "8",
-      "issue": "6",
-      "pages": "605-632",
-      "date": "12/1997",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Critical Perspectives on Accounting",
-      "language": "en",
-      "DOI": "10.1006/cpac.1996.0117",
-      "ISSN": "10452354",
-      "shortTitle": "",
-      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1045235496901173",
-      "accessDate": "2021-11-04T19:08:46Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: reiterSTORYTELLINGETHICSFINANCIAL1997",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:08:47Z",
       "dateModified": "2021-11-04T19:09:49Z"
     }
   }
