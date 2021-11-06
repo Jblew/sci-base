@@ -1,5 +1,83 @@
 [
   {
+    "key": "SPF9C4EF",
+    "version": 91,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SPF9C4EF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SPF9C4EF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/PNT79ETC",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 326728
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bennett",
+      "parsedDate": "2003",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "SPF9C4EF",
+      "version": 91,
+      "itemType": "journalArticle",
+      "title": "Factors underlying the inclination to donate to particular types of charity",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roger",
+          "lastName": "Bennett"
+        }
+      ],
+      "abstractNote": "Two hundred and fifty members of the general public were interviewed in central London and asked to assume that they had been given a certain sum of money, all of which they had to donate to a single good cause. The interviewees were presented with the names of three organisations in different fields (cancer care, animal welfare and human rights) and asked to make a selection. Respondents were then questioned about their personal values, inclinations and other characteristics potentially relevant to the choice. It emerged that personal values and inclinations exerted powerful influences on selections. Moreover, the possession of certain personal values and inclinations correlated significantly with specific organisational values that the respondents most admired.",
+      "publicationTitle": "International Journal of Nonprofit and Voluntary Sector Marketing",
+      "volume": "8",
+      "issue": "1",
+      "pages": "12-29",
+      "date": "2003",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Int. J. Nonprofit Volunt. Sect. Mark.",
+      "language": "en",
+      "DOI": "10.1002/nvsm.198",
+      "ISSN": "1465-4520, 1479-103X",
+      "shortTitle": "",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/nvsm.198",
+      "accessDate": "2021-11-04T19:09:03Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: bennettFactorsUnderlyingInclination2003",
+      "tags": [],
+      "collections": [
+        "WK98NAUN"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-04T19:09:03Z",
+      "dateModified": "2021-11-06T17:46:48Z"
+    }
+  },
+  {
     "key": "4M3XKA3S",
     "version": 89,
     "library": {
@@ -657,85 +735,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:08:49Z",
-      "dateModified": "2021-11-04T19:09:50Z"
-    }
-  },
-  {
-    "key": "SPF9C4EF",
-    "version": 40,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/SPF9C4EF",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/SPF9C4EF",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/PNT79ETC",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 246561
-      }
-    },
-    "meta": {
-      "creatorSummary": "Bennett",
-      "parsedDate": "2003",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "SPF9C4EF",
-      "version": 40,
-      "itemType": "journalArticle",
-      "title": "Factors underlying the inclination to donate to particular types of charity",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Roger",
-          "lastName": "Bennett"
-        }
-      ],
-      "abstractNote": "Two hundred and fifty members of the general public were interviewed in central London and asked to assume that they had been given a certain sum of money, all of which they had to donate to a single good cause. The interviewees were presented with the names of three organisations in different fields (cancer care, animal welfare and human rights) and asked to make a selection. Respondents were then questioned about their personal values, inclinations and other characteristics potentially relevant to the choice. It emerged that personal values and inclinations exerted powerful influences on selections. Moreover, the possession of certain personal values and inclinations correlated significantly with specific organisational values that the respondents most admired.",
-      "publicationTitle": "International Journal of Nonprofit and Voluntary Sector Marketing",
-      "volume": "8",
-      "issue": "1",
-      "pages": "12-29",
-      "date": "02/2003",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Int. J. Nonprofit Volunt. Sect. Mark.",
-      "language": "en",
-      "DOI": "10.1002/nvsm.198",
-      "ISSN": "1465-4520, 1479-103X",
-      "shortTitle": "",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/nvsm.198",
-      "accessDate": "2021-11-04T19:09:03Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: bennettFactorsUnderlyingInclination2003",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:03Z",
       "dateModified": "2021-11-04T19:09:50Z"
     }
   },
