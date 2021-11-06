@@ -1,5 +1,179 @@
 [
   {
+    "key": "4DN9SCJ3",
+    "version": 94,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4DN9SCJ3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4DN9SCJ3",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CIDESMVK",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4DN9SCJ3/file/view",
+        "title": "pone.0225749.pdf",
+        "length": 717110
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4DN9SCJ3",
+      "version": 94,
+      "parentItem": "CIDESMVK",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "pone.0225749.pdf",
+      "md5": "c20fefb588af6765df7e298de30e9dea",
+      "mtime": 1636231976110,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-06T20:52:56Z",
+      "dateModified": "2021-11-06T20:52:56Z"
+    }
+  },
+  {
+    "key": "CIDESMVK",
+    "version": 92,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CIDESMVK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CIDESMVK",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/4DN9SCJ3",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 717110
+      }
+    },
+    "meta": {
+      "creatorSummary": "Buijze et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CIDESMVK",
+      "version": 92,
+      "itemType": "journalArticle",
+      "title": "An add-on training program involving breathing exercises, cold exposure, and meditation attenuates inflammation and disease activity in axial spondyloarthritis – A proof of concept trial",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "G. A.",
+          "lastName": "Buijze"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "H. M. Y.",
+          "lastName": "De Jong"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Kox"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M. G.",
+          "lastName": "van de Sande"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D.",
+          "lastName": "Van Schaardenburg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R. M.",
+          "lastName": "Van Vugt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C. D.",
+          "lastName": "Popa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P.",
+          "lastName": "Pickkers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D. L. P.",
+          "lastName": "Baeten"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "PLOS ONE",
+      "volume": "14",
+      "issue": "12",
+      "pages": "e0225749",
+      "date": "2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1371/journal.pone.0225749",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-06T20:52:55Z",
+      "dateModified": "2021-11-06T20:52:55Z"
+    }
+  },
+  {
     "key": "SPF9C4EF",
     "version": 91,
     "library": {
@@ -1923,178 +2097,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:08:58Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "52Z7S223",
-    "version": 40,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/52Z7S223",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/52Z7S223",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/HQ2KSZBR",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 294369
-      }
-    },
-    "meta": {
-      "creatorSummary": "Polletta et al.",
-      "parsedDate": "2011-08-11",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "52Z7S223",
-      "version": 40,
-      "itemType": "journalArticle",
-      "title": "The Sociology of Storytelling",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Francesca",
-          "lastName": "Polletta"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Pang Ching Bobby",
-          "lastName": "Chen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Beth Gharrity",
-          "lastName": "Gardner"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Alice",
-          "lastName": "Motes"
-        }
-      ],
-      "abstractNote": "In contrast to the antistructuralist and antipositivist agenda that has animated the “narrative turn” in the social sciences since the 1980s, a more uniquely sociological approach has studied stories in the interactional, institutional, and political contexts of their telling. Scholars working in this vein have seen narrative as powerful, but as variably so, and they have focused on the ways in which narrative competence is socially organized and unevenly distributed. We show how this approach, or cluster of approaches, rooted variously in conversational analysis, symbolic interactionism, network analysis, and structuralist cultural sociologies, has both responded to problems associated with the narrative turn and shed light on enduring sociological questions such as the bases of institutional authority, how inequalities are maintained and reproduced, why political challengers are sometimes able to win support, and the cultural foundations of self-interest and instrumental rationality.",
-      "publicationTitle": "Annual Review of Sociology",
-      "volume": "37",
-      "issue": "1",
-      "pages": "109-130",
-      "date": "2011-08-11",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Annu. Rev. Sociol.",
-      "language": "en",
-      "DOI": "10.1146/annurev-soc-081309-150106",
-      "ISSN": "0360-0572, 1545-2115",
-      "shortTitle": "",
-      "url": "https://www.annualreviews.org/doi/10.1146/annurev-soc-081309-150106",
-      "accessDate": "2021-11-04T19:08:56Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: pollettaSociologyStorytelling2011",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:08:56Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "UUZ2JKPW",
-    "version": 40,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/UUZ2JKPW",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/UUZ2JKPW",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/BKQ7IHQD",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 2968540
-      }
-    },
-    "meta": {
-      "creatorSummary": "Pruce",
-      "parsedDate": "2015",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "UUZ2JKPW",
-      "version": 40,
-      "itemType": "book",
-      "title": "The Social Practice of Human Rights",
-      "creators": [
-        {
-          "creatorType": "editor",
-          "firstName": "Joel R.",
-          "lastName": "Pruce"
-        }
-      ],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "New York",
-      "publisher": "Palgrave Macmillan US",
-      "date": "2015",
-      "numPages": "",
-      "language": "en",
-      "ISBN": "978-1-349-69997-1 978-1-137-50377-0",
-      "shortTitle": "",
-      "url": "http://link.springer.com/10.1057/9781137503770",
-      "accessDate": "2021-11-04T19:09:01Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "DOI: 10.1057/9781137503770\nCitation Key: pruceSocialPracticeHuman2015",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:01Z",
       "dateModified": "2021-11-04T19:09:49Z"
     }
   }
