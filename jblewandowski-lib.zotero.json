@@ -1,5 +1,158 @@
 [
   {
+    "key": "DKGT7IHE",
+    "version": 97,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DKGT7IHE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DKGT7IHE",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 257010
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bastos et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "DKGT7IHE",
+      "version": 97,
+      "itemType": "journalArticle",
+      "title": "Pharmacological Properties, Research and Biotechnology",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Deborah Helena Markowicz",
+          "lastName": "Bastos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniela Moura",
+          "lastName": "de Oliveira"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ruth Lobato",
+          "lastName": "Teixeira"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patrícia de Oliveira",
+          "lastName": "Carvalho"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marcelo Lima",
+          "lastName": "Ribeiro"
+        }
+      ],
+      "abstractNote": "Maté (Ilex paraguariensis St. Hilaire) is a plant originary from the subtropical region of South America, and present in the South of Brazil, North of Argentina, Paraguay and Uruguay. Maté beverages have been widely consumed for hundreds of years as infusions popularly known as chimarrão, tererê (both from green dried mate leaves) and maté tea (roasted mate leaves). The popular medicine and the herbalists recommend it for arthritis, migraines, constipation, rheumatism, hemorrhoids, obesity, fatigue, retention of liquid, hypertension, and for stomach and liver diseases. Recently published research has proved scientifically the actions of maté which may explain many of the cited pharmacologic effects such as its chemopreventive activity, cholerectic effect and intestinal propulsion, vasodilatation effect, inhibition of the glication and as a free radical scavenger. Maté beverages are rich in many bioactive compounds such as caffeine, phenolic compounds (mainly phenolic acids) and saponins. This review discusses the latest scientific data on maté physiological properties and their correlation with the bioactive compounds present in the maté leaves and aqueous infusions.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "10",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-07T12:06:03Z",
+      "dateModified": "2021-11-07T12:06:03Z"
+    }
+  },
+  {
+    "key": "MR3NK64P",
+    "version": 97,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MR3NK64P",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DKGT7IHE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P/file/view",
+        "title": "MR3NK64P.pdf",
+        "length": 257010
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "MR3NK64P",
+      "version": 97,
+      "parentItem": "DKGT7IHE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Bastos et al. - Pharmacological Properties, Research and Biotechno.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Bastos et al. - Pharmacological Properties, Research and Biotechno.pdf",
+      "md5": "cdf0559dc495e3cf5808f479df0ef9f2",
+      "mtime": 1636125124888,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-05T10:06:56Z",
+      "dateModified": "2021-11-07T12:06:03Z"
+    }
+  },
+  {
     "key": "J9DIZZ4Y",
     "version": 96,
     "library": {
@@ -714,60 +867,6 @@
       "relations": {},
       "dateAdded": "2021-11-04T19:09:21Z",
       "dateModified": "2021-11-05T10:07:29Z"
-    }
-  },
-  {
-    "key": "MR3NK64P",
-    "version": 80,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/MR3NK64P",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P/file/view",
-        "title": "MR3NK64P.pdf",
-        "length": 257010
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "MR3NK64P",
-      "version": 80,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Yerba_mate_Pharmacological_Properties_Research_and.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "MR3NK64P.pdf",
-      "md5": "cdf0559dc495e3cf5808f479df0ef9f2",
-      "mtime": 1636125124888,
-      "tags": [],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2021-11-05T10:06:56Z",
-      "dateModified": "2021-11-05T10:06:56Z"
     }
   },
   {
@@ -2022,85 +2121,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:08:59Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "REYK3ZTF",
-    "version": 40,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/REYK3ZTF",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/REYK3ZTF",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/G5BESE4Y",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 683714
-      }
-    },
-    "meta": {
-      "creatorSummary": "Mair",
-      "parsedDate": "1988",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "REYK3ZTF",
-      "version": 40,
-      "itemType": "journalArticle",
-      "title": "Psychology as Storytelling",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Miller",
-          "lastName": "Mair"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "International Journal of Personal Construct Psychology",
-      "volume": "1",
-      "issue": "2",
-      "pages": "125-137",
-      "date": "04/1988",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "International Journal of Personal Construct Psychology",
-      "language": "en",
-      "DOI": "10.1080/10720538808412771",
-      "ISSN": "0893-603X",
-      "shortTitle": "",
-      "url": "http://www.tandfonline.com/doi/abs/10.1080/10720538808412771",
-      "accessDate": "2021-11-04T19:08:58Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: mairPsychologyStorytelling1988",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:08:58Z",
       "dateModified": "2021-11-04T19:09:49Z"
     }
   }
