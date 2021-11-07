@@ -1,5 +1,98 @@
 [
   {
+    "key": "J9DIZZ4Y",
+    "version": 96,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/J9DIZZ4Y",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/J9DIZZ4Y",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/IU83SCRI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 499758
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kinsella et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "J9DIZZ4Y",
+      "version": 96,
+      "itemType": "journalArticle",
+      "title": "Heroism and the Pursuit of a Meaningful Life",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Elaine L.",
+          "lastName": "Kinsella"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eric R.",
+          "lastName": "Igou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Timothy D.",
+          "lastName": "Ritchie"
+        }
+      ],
+      "abstractNote": "Individuals and groups of individuals are motivated to find meaning in their activities and in life, generally. That is, when events or affective states threaten or reduce a person’s sense of meaning, psychological processes are mobilized to serve the goals of meaning maintenance and meaning reestablishment, respectively. We examined two avenues for meaning maintenance: First, we considered psychological resources from the enhancing, moral modelling, and protecting functions of heroes, and second, we considered engagement in heroic behavior as a means to create meaning. We addressed contemporary heroes via conceptual and empirical literatures to discuss a variety of ways that heroes derive meaning from their own actions, and the extent to which others could glean personal meaning from a hero’s characteristics and actions. We present a meaning regulation framework that explains how heroes and heroic behavior each boost meaning and the meaning maintenance processes, such as heroism as a buffer against meaning threats. We synthesized relevant literatures on meaning and heroism, and offer a framework that illustrates heroic functions in the context of meaning in life: a central, superordinate psychological variable that is familiar to many individuals and groups. This framework offers many opportunities for future research and practical application of heroism.",
+      "publicationTitle": "Journal of Humanistic Psychology",
+      "volume": "59",
+      "issue": "4",
+      "pages": "474-498",
+      "date": "2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Humanistic Psychology",
+      "language": "en",
+      "DOI": "10.1177/0022167817701002",
+      "ISSN": "0022-1678, 1552-650X",
+      "shortTitle": "",
+      "url": "http://journals.sagepub.com/doi/10.1177/0022167817701002",
+      "accessDate": "2021-11-04T19:09:16Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: kinsellaHeroismPursuitMeaningful2019",
+      "tags": [
+        {
+          "tag": "wip"
+        }
+      ],
+      "collections": [
+        "YRDSMPUP",
+        "ZZAUDEFX"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-04T19:09:16Z",
+      "dateModified": "2021-11-07T06:49:10Z"
+    }
+  },
+  {
     "key": "4DN9SCJ3",
     "version": 94,
     "library": {
@@ -1489,95 +1582,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:09:18Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "J9DIZZ4Y",
-    "version": 41,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/J9DIZZ4Y",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/J9DIZZ4Y",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/IU83SCRI",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 470050
-      }
-    },
-    "meta": {
-      "creatorSummary": "Kinsella et al.",
-      "parsedDate": "2019",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "J9DIZZ4Y",
-      "version": 41,
-      "itemType": "journalArticle",
-      "title": "Heroism and the Pursuit of a Meaningful Life",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Elaine L.",
-          "lastName": "Kinsella"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Eric R.",
-          "lastName": "Igou"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Timothy D.",
-          "lastName": "Ritchie"
-        }
-      ],
-      "abstractNote": "Individuals and groups of individuals are motivated to find meaning in their activities and in life, generally. That is, when events or affective states threaten or reduce a person’s sense of meaning, psychological processes are mobilized to serve the goals of meaning maintenance and meaning reestablishment, respectively. We examined two avenues for meaning maintenance: First, we considered psychological resources from the enhancing, moral modelling, and protecting functions of heroes, and second, we considered engagement in heroic behavior as a means to create meaning. We addressed contemporary heroes via conceptual and empirical literatures to discuss a variety of ways that heroes derive meaning from their own actions, and the extent to which others could glean personal meaning from a hero’s characteristics and actions. We present a meaning regulation framework that explains how heroes and heroic behavior each boost meaning and the meaning maintenance processes, such as heroism as a buffer against meaning threats. We synthesized relevant literatures on meaning and heroism, and offer a framework that illustrates heroic functions in the context of meaning in life: a central, superordinate psychological variable that is familiar to many individuals and groups. This framework offers many opportunities for future research and practical application of heroism.",
-      "publicationTitle": "Journal of Humanistic Psychology",
-      "volume": "59",
-      "issue": "4",
-      "pages": "474-498",
-      "date": "07/2019",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Journal of Humanistic Psychology",
-      "language": "en",
-      "DOI": "10.1177/0022167817701002",
-      "ISSN": "0022-1678, 1552-650X",
-      "shortTitle": "",
-      "url": "http://journals.sagepub.com/doi/10.1177/0022167817701002",
-      "accessDate": "2021-11-04T19:09:16Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: kinsellaHeroismPursuitMeaningful2019",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:16Z",
       "dateModified": "2021-11-04T19:09:49Z"
     }
   },
