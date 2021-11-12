@@ -1,5 +1,131 @@
 [
   {
+    "key": "3IWTBUU2",
+    "version": 101,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3IWTBUU2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3IWTBUU2",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/N9JAJPJ7",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3IWTBUU2/file/view",
+        "title": "fundamental.pdf",
+        "length": 2164780
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3IWTBUU2",
+      "version": 101,
+      "parentItem": "N9JAJPJ7",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "fundamental.pdf",
+      "md5": "082f67fc5c29c5406358575068406e3e",
+      "mtime": 1636709327781,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-12T09:28:47Z",
+      "dateModified": "2021-11-12T09:28:47Z"
+    }
+  },
+  {
+    "key": "N9JAJPJ7",
+    "version": 99,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N9JAJPJ7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N9JAJPJ7",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3IWTBUU2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2164780
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "N9JAJPJ7",
+      "version": 99,
+      "itemType": "journalArticle",
+      "title": "fundamental templates",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-12T09:28:46Z",
+      "dateModified": "2021-11-12T09:28:46Z"
+    }
+  },
+  {
     "key": "DKGT7IHE",
     "version": 97,
     "library": {
@@ -1948,179 +2074,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:09:07Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "UMGHJYZ3",
-    "version": 40,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/UMGHJYZ3",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/UMGHJYZ3",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/PZL8NLUQ",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 328435
-      }
-    },
-    "meta": {
-      "creatorSummary": "Konrath and Handy",
-      "parsedDate": "2018",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "UMGHJYZ3",
-      "version": 40,
-      "itemType": "journalArticle",
-      "title": "The Development and Validation of the Motives to Donate Scale",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Sara",
-          "lastName": "Konrath"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Femida",
-          "lastName": "Handy"
-        }
-      ],
-      "abstractNote": "In this article, we develop and validate a comprehensive self-report scale of why people make charitable donations, relying on a theoretical model of private versus public benefits to donors. In Study 1, we administered an initial pool of 54 items to a general adult sample online. An exploratory factor analysis supported six final factors in the Motives to Donate scale: Trust, Altruism, Social, Tax benefits, Egoism, and Constraints. We then verified this factor structure in a confirmatory factor analysis. Study 1 also examined the final 18-item scale’s demographic correlates and construct validity using the same sample. We found that the scale correlated in predictable ways with personality traits and motives to volunteer. In Study 2, we also found test–retest correlations between .67 and .80 after 2 weeks. Taken together, we provide initial evidence for the scale’s internal reliability, test–retest reliability, and validity, and we suggest future directions for research.",
-      "publicationTitle": "Nonprofit and Voluntary Sector Quarterly",
-      "volume": "47",
-      "issue": "2",
-      "pages": "347-375",
-      "date": "04/2018",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Nonprofit and Voluntary Sector Quarterly",
-      "language": "en",
-      "DOI": "10.1177/0899764017744894",
-      "ISSN": "0899-7640, 1552-7395",
-      "shortTitle": "",
-      "url": "http://journals.sagepub.com/doi/10.1177/0899764017744894",
-      "accessDate": "2021-11-04T19:09:05Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: konrathDevelopmentValidationMotives2018",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:05Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "STCUKI3K",
-    "version": 40,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/STCUKI3K",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/STCUKI3K",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/99EFK9AU",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 273633
-      }
-    },
-    "meta": {
-      "creatorSummary": "Liang et al.",
-      "parsedDate": "2016",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "STCUKI3K",
-      "version": 40,
-      "itemType": "journalArticle",
-      "title": "Inspire me to donate: The use of strength emotion in donation appeals",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Jianping",
-          "lastName": "Liang"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Zengxiang",
-          "lastName": "Chen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jing",
-          "lastName": "Lei"
-        }
-      ],
-      "abstractNote": "Previous research has shown that the use of negative emotions such as sadness in donation appeals can make people empathetic towards the donation target, increasing their tendency to donate (the “empathy-helping” hypothesis). In this research we propose an “inspiration-helping” hypothesis, and find that the positive emotion of strength can inspire people to donate. We show that combining the positive emotion of strength and the negative emotion of sadness is more effective as a means of persuading people to donate than the sadness-dominating or the strength-dominating emotion.",
-      "publicationTitle": "Journal of Consumer Psychology",
-      "volume": "26",
-      "issue": "2",
-      "pages": "283-288",
-      "date": "04/2016",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Journal of Consumer Psychology",
-      "language": "en",
-      "DOI": "10.1016/j.jcps.2015.09.001",
-      "ISSN": "10577408",
-      "shortTitle": "Inspire me to donate",
-      "url": "http://doi.wiley.com/10.1016/j.jcps.2015.09.001",
-      "accessDate": "2021-11-04T19:08:59Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: liangInspireMeDonate2016",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:08:59Z",
       "dateModified": "2021-11-04T19:09:49Z"
     }
   }
