@@ -1,5 +1,323 @@
 [
   {
+    "key": "393K5UVB",
+    "version": 110,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/393K5UVB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/393K5UVB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/UC7X2AIR",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/393K5UVB/file/view",
+        "title": "tversky1992.pdf",
+        "length": 1312529
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "393K5UVB",
+      "version": 110,
+      "parentItem": "UC7X2AIR",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "tversky1992.pdf",
+      "md5": "333eaec428ec6000092d3cdb26ff309b",
+      "mtime": 1636735309336,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-12T16:41:49Z",
+      "dateModified": "2021-11-12T16:41:49Z"
+    }
+  },
+  {
+    "key": "UC7X2AIR",
+    "version": 108,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UC7X2AIR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UC7X2AIR",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/393K5UVB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1312529
+      }
+    },
+    "meta": {
+      "creatorSummary": "Tversky and Shafir",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UC7X2AIR",
+      "version": 108,
+      "itemType": "journalArticle",
+      "title": "The Disjunction Effect in Choice under Uncertainty",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Amos",
+          "lastName": "Tversky"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eldar",
+          "lastName": "Shafir"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Psychological Science",
+      "volume": "3",
+      "issue": "5",
+      "pages": "305-310",
+      "date": "2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1111/j.1467-9280.1992.tb00678.x",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-12T16:41:48Z",
+      "dateModified": "2021-11-12T16:41:48Z"
+    }
+  },
+  {
+    "key": "M3BRTTR7",
+    "version": 107,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M3BRTTR7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M3BRTTR7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KWS4CHB2",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/M3BRTTR7/file/view",
+        "title": "EJ1188721.pdf",
+        "length": 405072
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "M3BRTTR7",
+      "version": 107,
+      "parentItem": "KWS4CHB2",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "EJ1188721.pdf",
+      "md5": "9519974767b729ae946bebf7908f072c",
+      "mtime": 1636735057540,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-12T16:37:37Z",
+      "dateModified": "2021-11-12T16:37:37Z"
+    }
+  },
+  {
+    "key": "KWS4CHB2",
+    "version": 105,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KWS4CHB2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KWS4CHB2",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/M3BRTTR7",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 405072
+      }
+    },
+    "meta": {
+      "creatorSummary": "Wollast et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KWS4CHB2",
+      "version": 105,
+      "itemType": "journalArticle",
+      "title": "Who Are the Doctoral Students Who Drop Out? Factors Associated with the Rate of Doctoral Degree Completion in Universities",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Robin",
+          "lastName": "Wollast"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gentiane",
+          "lastName": "Boudrenghien"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicolas",
+          "lastName": "Van der Linden"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benoît",
+          "lastName": "Galand"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nathalie",
+          "lastName": "Roland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christelle",
+          "lastName": "Devos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mikaël",
+          "lastName": "De Clercq"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Olivier",
+          "lastName": "Klein"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Assad",
+          "lastName": "Azzi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mariane",
+          "lastName": "Frenay"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "International Journal of Higher Education",
+      "volume": "7",
+      "issue": "4",
+      "pages": "143",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.5430/ijhe.v7n4p143",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-12T16:37:36Z",
+      "dateModified": "2021-11-12T16:37:36Z"
+    }
+  },
+  {
     "key": "ZIJUQSTN",
     "version": 104,
     "library": {
@@ -1697,337 +2015,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:09:37Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "RAE2WUTW",
-    "version": 42,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/RAE2WUTW",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/RAE2WUTW",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/JD4UNCJM",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1772501
-      }
-    },
-    "meta": {
-      "creatorSummary": "Stebbins",
-      "parsedDate": "1996",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "RAE2WUTW",
-      "version": 42,
-      "itemType": "journalArticle",
-      "title": "Volunteering: A Serious Leisure Perspective",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Robert A.",
-          "lastName": "Stebbins"
-        }
-      ],
-      "abstractNote": "A handful of observers have suggested that volunteering can be defined and described as a leisure activity. Extending this reasoning, it is argued that many kinds of volunteering, because they foster the acquisition and expression of a combination of special skills, knowledge, and experience, can be looked on as serious leisure. The serious leisure perspective not only defines and explains volunteers and volunteering as self-interested leisure but also opens the way to a more comprehensive theoretical statement of leisure volunteering than was heretofore available. In this artick, the author explores the leisure components of all volunteering to learn where the serious leisure model applies. Distinctions are drawn between types of volunteering: career and casual, formal and informal, and occupational and nonoccupational. The perspective fails to fit each type equally well. It fits best the types of volunteering classifiable as formal and nonoccupational, types in which wlunteers normally find substantial leisure careers.",
-      "publicationTitle": "Nonprofit and Voluntary Sector Quarterly",
-      "volume": "25",
-      "issue": "2",
-      "pages": "211-224",
-      "date": "06/1996",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Nonprofit and Voluntary Sector Quarterly",
-      "language": "en",
-      "DOI": "10.1177/0899764096252005",
-      "ISSN": "0899-7640, 1552-7395",
-      "shortTitle": "Volunteering",
-      "url": "http://journals.sagepub.com/doi/10.1177/0899764096252005",
-      "accessDate": "2021-11-04T19:09:33Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: stebbinsVolunteeringSeriousLeisure1996",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:33Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "59555AK8",
-    "version": 41,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/59555AK8",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/59555AK8",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/5YG689XG",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 106148
-      }
-    },
-    "meta": {
-      "creatorSummary": "Frisk",
-      "parsedDate": "2019",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "59555AK8",
-      "version": 41,
-      "itemType": "journalArticle",
-      "title": "What Makes a Hero? Theorising the Social Structuring of Heroism",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Kristian",
-          "lastName": "Frisk"
-        }
-      ],
-      "abstractNote": "The article discusses four dominant perspectives in the sociology of heroism: the study of great men; hero stories; heroic actions; and hero institutions. The discussion ties together heroism and fundamental sociological debates about the relationship between the individual and the social order; it elucidates the socio-psychological, cultural/ideational and socio-political structuring of heroism, which challenges the tendency to understand people, actions and events as naturally, or intrinsically, heroic; and it points to a theoretical trajectory within the literature, which has moved from very exclusive to more inclusive conceptualisations of a hero. After this discussion, the article examines three problematic areas in the sociology of heroism: the underlying masculine character of heroism; the presumed disappearance of the hero with modernisation; and the principal idea of heroism as a pro-social phenomenon. The article calls for a more self-conscious engagement with this legacy, which could stimulate dialogue across different areas of sociological research.",
-      "publicationTitle": "Sociology",
-      "volume": "53",
-      "issue": "1",
-      "pages": "87-103",
-      "date": "02/2019",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Sociology",
-      "language": "en",
-      "DOI": "10.1177/0038038518764568",
-      "ISSN": "0038-0385, 1469-8684",
-      "shortTitle": "What Makes a Hero?",
-      "url": "http://journals.sagepub.com/doi/10.1177/0038038518764568",
-      "accessDate": "2021-11-04T19:09:20Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: friskWhatMakesHero2019",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:20Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "VGDA8E2Z",
-    "version": 41,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/VGDA8E2Z",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/VGDA8E2Z",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/2N4BJ3ZY",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 401834
-      }
-    },
-    "meta": {
-      "creatorSummary": "Efthimiou and Allison",
-      "parsedDate": "2018",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "VGDA8E2Z",
-      "version": 41,
-      "itemType": "journalArticle",
-      "title": "Heroism Science: Frameworks for an Emerging Field",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Olivia",
-          "lastName": "Efthimiou"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Scott T.",
-          "lastName": "Allison"
-        }
-      ],
-      "abstractNote": "This article outlines the conceptual framework for a new science focused on heroism using multiple perspectives to generate a science that is explicitly in service to humanity. The role of heroism as a case study for deviant interdisciplinarity, heroism science as storytelling and story revising, and its impacts for research and communities are considered. The primary concern of the deviant agenda of heroism science is the unity of knowledge and the testability of narrative-driven scientific inquiry. In this agenda, science as “episteme” and heroism are unified in their core epistemic function. Heroism science is posited as a prime candidate for promoting science as enabler for improving the world, based on Hefner’s concept of embodied science, and a nonlinear, open, and participatory model of science. Contemporary heroism research trends across the disciplines are mapped in a preliminary taxonomy of peak, emerging, and low subfields of research activity. Heroism science is defined as a nascent multiple disciplinary field which seeks to reconceptualize heroism and its correlates through a close examination of the origins, types, and processes of these interrelated phenomena.",
-      "publicationTitle": "Journal of Humanistic Psychology",
-      "volume": "58",
-      "issue": "5",
-      "pages": "556-570",
-      "date": "09/2018",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Journal of Humanistic Psychology",
-      "language": "en",
-      "DOI": "10.1177/0022167817708063",
-      "ISSN": "0022-1678, 1552-650X",
-      "shortTitle": "Heroism Science",
-      "url": "http://journals.sagepub.com/doi/10.1177/0022167817708063",
-      "accessDate": "2021-11-04T19:09:18Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: efthimiouHeroismScienceFrameworks2018",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:18Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "8MZZTPAD",
-    "version": 41,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/8MZZTPAD",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/8MZZTPAD",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/9FXZEF3M",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 691769
-      }
-    },
-    "meta": {
-      "creatorSummary": "Lin et al.",
-      "parsedDate": "2019",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "8MZZTPAD",
-      "version": 41,
-      "itemType": "journalArticle",
-      "title": "Why people donate their brain to science: a systematic review",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Meng-Jiun Penny",
-          "lastName": "Lin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tanisha",
-          "lastName": "Jowsey"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Maurice A.",
-          "lastName": "Curtis"
-        }
-      ],
-      "abstractNote": "Abstract\n            The acquisition of brain tissue for research purposes is an important endeavour in research on ageing, pathological diagnosis, and the advancement of treatment of neurological or neurodegenerative diseases. While some tissue samples can be obtained from a living patient, the procurement of a whole brain requires the donation from people after their death. In order to promote positive attitudes towards brain donation, it is essential to understand why people do or do not donate their brain to medical research. In 2018 we undertook a systematic review of the international literature concerning people’s attitudes, motivations, and feelings about brain donation. Five electronic databases were searched: Scopus, PsycINFO, Embase, Medline, and Google Scholar. Search terms included: (“brain donor*” OR “brain donation” OR “brain banking” OR “banking on brain”) AND (attitude* OR motivation* OR decision*”) AND (LIMIT-TO “human”) AND (LIMIT-TO (LANGUAGE, “English”)). Articles were analysed using the Framework for Assessing Qualitative Evaluations and a meta-ethnographic approach. Fourteen articles were included for review. The findings suggest four universal factors informing a person’s decision to donate their brain: (1) contextual knowledge, (2) conceptual understandings, (3) family/friends matter, and (4) personal experience, time and process. The findings also indicate that the way healthcare professionals present themselves can influence people’s feelings and attitudes towards brain donation. Healthcare and research professionals who are involved in brain donation processes must be mindful of the complex and multiple factors that influence donation outcomes. Effective and sensitive communication with potential donors and their family/friends is paramount.",
-      "publicationTitle": "Cell and Tissue Banking",
-      "volume": "20",
-      "issue": "4",
-      "pages": "447-466",
-      "date": "12/2019",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Cell Tissue Bank",
-      "language": "en",
-      "DOI": "10.1007/s10561-019-09786-3",
-      "ISSN": "1389-9333, 1573-6814",
-      "shortTitle": "Why people donate their brain to science",
-      "url": "http://link.springer.com/10.1007/s10561-019-09786-3",
-      "accessDate": "2021-11-04T19:09:14Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: linWhyPeopleDonate2019",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:14Z",
       "dateModified": "2021-11-04T19:09:49Z"
     }
   }
