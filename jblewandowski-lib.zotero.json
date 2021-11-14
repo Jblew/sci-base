@@ -823,7 +823,7 @@
   },
   {
     "key": "4DN9SCJ3",
-    "version": 94,
+    "version": 111,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -851,8 +851,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/4DN9SCJ3/file/view",
-        "title": "pone.0225749.pdf",
-        "length": 717110
+        "title": "4DN9SCJ3.pdf",
+        "length": 722876
       }
     },
     "meta": {
@@ -860,7 +860,7 @@
     },
     "data": {
       "key": "4DN9SCJ3",
-      "version": 94,
+      "version": 111,
       "parentItem": "CIDESMVK",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -870,9 +870,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "pone.0225749.pdf",
-      "md5": "c20fefb588af6765df7e298de30e9dea",
-      "mtime": 1636231976110,
+      "filename": "4DN9SCJ3.pdf",
+      "md5": "04a40da6f7b386d2195ee93997e9a8b7",
+      "mtime": 1636897790161,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-06T20:52:56Z",
@@ -906,7 +906,7 @@
         "href": "https://api.zotero.org/users/8674355/items/4DN9SCJ3",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 717110
+        "attachmentSize": 722876
       }
     },
     "meta": {
