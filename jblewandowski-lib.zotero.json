@@ -1,5 +1,144 @@
 [
   {
+    "key": "X3JAEKIZ",
+    "version": 114,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/X3JAEKIZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/X3JAEKIZ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WJPRP7S8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/X3JAEKIZ/file/view",
+        "title": "Clothing_and_embodiment-with-cover-page-v2.pdf",
+        "length": 235514
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "X3JAEKIZ",
+      "version": 114,
+      "parentItem": "WJPRP7S8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Clothing_and_embodiment-with-cover-page-v2.pdf",
+      "md5": "4da11b8adcea1b315a9b98bf5b32a9c3",
+      "mtime": 1637101849027,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-16T22:30:48Z",
+      "dateModified": "2021-11-16T22:30:48Z"
+    }
+  },
+  {
+    "key": "WJPRP7S8",
+    "version": 112,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WJPRP7S8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WJPRP7S8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/X3JAEKIZ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 235514
+      }
+    },
+    "meta": {
+      "creatorSummary": "Frith and Gleeson",
+      "parsedDate": "2004",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WJPRP7S8",
+      "version": 112,
+      "itemType": "journalArticle",
+      "title": "Clothing and Embodiment: Men Managing Body Image and Appearance.",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Hannah",
+          "lastName": "Frith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kate",
+          "lastName": "Gleeson"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Psychology of Men & Masculinity",
+      "volume": "5",
+      "issue": "1",
+      "pages": "40-48",
+      "date": "2004",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1037/1524-9220.5.1.40",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-16T22:30:48Z",
+      "dateModified": "2021-11-16T22:30:48Z"
+    }
+  },
+  {
     "key": "393K5UVB",
     "version": 110,
     "library": {
@@ -1838,183 +1977,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-04T19:09:25Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "F4F2THL5",
-    "version": 42,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/F4F2THL5",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/F4F2THL5",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/MBKZMJBL",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 120319
-      }
-    },
-    "meta": {
-      "creatorSummary": "Morrow-Howell et al.",
-      "parsedDate": "2009-02-01",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "F4F2THL5",
-      "version": 42,
-      "itemType": "journalArticle",
-      "title": "Who Benefits From Volunteering? Variations in Perceived Benefits",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "N.",
-          "lastName": "Morrow-Howell"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S.-I.",
-          "lastName": "Hong"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "F.",
-          "lastName": "Tang"
-        }
-      ],
-      "abstractNote": "Purpose: The purpose of this study was to document the beneﬁts of volunteering perceived by older adults and to explain variation in these self-perceived beneﬁts. Design and Methods: This is a quantitative study of 13 volunteer programs and 401 older adults serving in those programs. Program directors completed telephone interviews, and older volunteers completed mailed surveys. Volunteer-level and programlevel data were merged. Results: Older volunteers reported a wide variety of beneﬁts to the people they served, themselves, their families, and communities. More than 30% reported that they were “a great deal better off” because of volunteering, and almost 60% identiﬁed a beneﬁt to their families. When considering only individual characteristics, lower-income and lower-educated volunteers reported more beneﬁt. Yet, aspects of the volunteer experience, like amount of involvement, adequacy of training and ongoing support, and stipends, were more important in understanding who beneﬁts from volunteering. Implications: These ﬁndings suggest that characteristics of volunteer programs can be strengthened to maximize the beneﬁts of volunteering to older adults. These characteristics are more mutable by public policies and organizational procedures than individual characteristics. Focusing on the recruitment of lower socioeconomic status older adults may result in an increase in beneﬁts from the growth of volunteering.",
-      "publicationTitle": "The Gerontologist",
-      "volume": "49",
-      "issue": "1",
-      "pages": "91-102",
-      "date": "2009-02-01",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "The Gerontologist",
-      "language": "en",
-      "DOI": "10.1093/geront/gnp007",
-      "ISSN": "0016-9013, 1758-5341",
-      "shortTitle": "Who Benefits From Volunteering?",
-      "url": "https://academic.oup.com/gerontologist/article-lookup/doi/10.1093/geront/gnp007",
-      "accessDate": "2021-11-04T19:09:32Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: morrow-howellWhoBenefitsVolunteering2009",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:32Z",
-      "dateModified": "2021-11-04T19:09:49Z"
-    }
-  },
-  {
-    "key": "5SIT7W6A",
-    "version": 42,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/5SIT7W6A",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/5SIT7W6A",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/KVRAG64B",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 25542382
-      }
-    },
-    "meta": {
-      "creatorSummary": "Dekker and Halman",
-      "parsedDate": "2003",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "5SIT7W6A",
-      "version": 42,
-      "itemType": "book",
-      "title": "The Values of Volunteering: Cross-Cultural Perspectives",
-      "creators": [
-        {
-          "creatorType": "editor",
-          "firstName": "Paul",
-          "lastName": "Dekker"
-        },
-        {
-          "creatorType": "editor",
-          "firstName": "Loek",
-          "lastName": "Halman"
-        },
-        {
-          "creatorType": "seriesEditor",
-          "firstName": "Helmut K.",
-          "lastName": "Anheier"
-        }
-      ],
-      "abstractNote": "",
-      "series": "Nonprofit and Civil Society Studies",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "Boston, MA",
-      "publisher": "Springer US",
-      "date": "2003",
-      "numPages": "",
-      "language": "en",
-      "ISBN": "978-0-306-47854-3 978-1-4615-0145-9",
-      "shortTitle": "The Values of Volunteering",
-      "url": "http://link.springer.com/10.1007/978-1-4615-0145-9",
-      "accessDate": "2021-11-04T19:09:37Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "DOI: 10.1007/978-1-4615-0145-9\nCitation Key: dekkerValuesVolunteeringCrossCultural2003",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:37Z",
       "dateModified": "2021-11-04T19:09:49Z"
     }
   }
