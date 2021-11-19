@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: cd scripts && npm i -g axios parse-link-header && npm link axios parse-link-header
-      - run: node scripts/fetch-zotero.js
+      - run: cd scripts && npm i -g zotero-fetch-cli@v1.1.0
+      - run: |
+          zotero-fetch bibliography --format bibtex "${{ github.workspace }}/jblewandowski-lib.bib"
+          zotero-fetch bibliography --format json "${{ github.workspace }}/jblewandowski-lib.zotero.json"
         env:
-          BIBTEX_PATH: "${{ github.workspace }}/jblewandowski-lib.bib"
-          ZOTEROJSON_PATH: "${{ github.workspace }}/jblewandowski-lib.zotero.json"
           ZOTERO_USERID: "8674355"
           ZOTERO_APIKEY: "${{ secrets.ZOTERO_APIKEY }}"
       - run: ls -a
