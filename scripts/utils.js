@@ -18,7 +18,6 @@ async function getItemsFromZotero(apiUrl, opts) {
     else out += resp.data;
 
     const nextUrl = getNextUrlFromZoteroResponseHeaders(resp.headers);
-    console.log({ apiUrl, headers: resp.headers, nextUrl });
     if (nextUrl) url = nextUrl;
     else url = undefined;
   }
