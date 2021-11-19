@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: cd scripts && npm i -g zotero-fetch-cli@v1.1.0
+      - run: npm i -g zotero-fetch-cli@v1.1.0
       - run: |
           zotero-fetch bibliography --format bibtex "${{ github.workspace }}/jblewandowski-lib.bib"
           zotero-fetch bibliography --format json "${{ github.workspace }}/jblewandowski-lib.zotero.json"
