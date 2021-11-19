@@ -38,7 +38,7 @@ async function getFromZoteroRaw(url) {
   return resp;
 }
 
-async function getNextUrlFromZoteroResponseHeaders(headers) {
+function getNextUrlFromZoteroResponseHeaders(headers) {
   const linkHeader = headers["Link"];
   if (!linkHeader) return;
   const parsed = parseLinkHeader(linkHeader);
