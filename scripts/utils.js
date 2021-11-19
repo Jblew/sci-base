@@ -7,19 +7,21 @@ if (!ZOTERO_APIKEY) throw new Error("Missing env ZOTERO_APIKEY");
 const ZOTERO_USERID = process.env.ZOTERO_USERID;
 if (!ZOTERO_USERID) throw new Error("Missing env ZOTERO_USERID");
 
-async function getItemsFromZotero(apiUrl) {
+async function getItemsFromZotero(apiUrl, opts) {
   const userid = ZOTERO_USERID;
   let url = `https://api.zotero.org/users/${userid}/${apiUrl}`;
-  const items = [];
+  let out = opts && opts.type === "array" ? [] : "";
 
   while (url) {
     const resp = await getFromZoteroRaw(url);
-    items.push(...resp.data);
+    if (opts.type === "array") out.push(...resp.data);
+    else out += resp.data;
+
     const nextUrl = getNextUrlFromZoteroResponseHeaders(resp.headers);
     if (nextUrl) url = nextUrl;
     else url = undefined;
   }
-  return items;
+  return out;
 }
 
 async function getFromZoteroRaw(url) {
