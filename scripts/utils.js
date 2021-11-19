@@ -42,7 +42,7 @@ async function getFromZoteroRaw(url) {
 }
 
 function getNextUrlFromZoteroResponseHeaders(headers) {
-  const linkHeader = headers["Link"];
+  const linkHeader = headers["link"] || headers["Link"];
   if (!linkHeader) return;
   const parsed = parseLinkHeader(linkHeader);
   if (parsed.next) {
