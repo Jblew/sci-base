@@ -48,7 +48,7 @@ function getNextUrlFromZoteroResponseHeaders(headers) {
 }
 
 async function writeToFile(path, data) {
-  return fs.writeFileSync(path, data);
+  return fs.writeFileSync(path, data.toString());
 }
 
 module.exports = { getItemsFromZotero, writeToFile };
