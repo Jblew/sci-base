@@ -7,7 +7,7 @@ const ZOTERO_USERID = process.env.ZOTERO_USERID;
 if (!ZOTERO_USERID) throw new Error("Missing env ZOTERO_USERID");
 
 async function getFromZotero(apiUrl, params) {
-  const apikey = ZOTERO_APIKEY;
+  const key = ZOTERO_APIKEY;
   const userid = ZOTERO_USERID;
   const url = `https://api.zotero.org/users/${userid}/${apiUrl}`;
   const resp = await Axios({
@@ -16,9 +16,10 @@ async function getFromZotero(apiUrl, params) {
     params: {
       ...params,
       v: "3",
-      key: ZOTERO_APIKEY,
+      key,
     },
   });
+  console.log("Response from zotero", resp);
   if (!resp.status === 200) {
     throw new Error(`Response status is ${resp.status}`);
   }

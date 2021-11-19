@@ -14,8 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: npm --prefix fetch-zotero ci
-      - run: npm --prefix fetch-zotero run start
+      - run: npm i -g axios
+      - run: node scripts/fetch-zotero.js
         env:
           BIBTEX_PATH: "${{ github.workspace }}/jblewandowski-lib.bib"
           ZOTEROJSON_PATH: "${{ github.workspace }}/jblewandowski-lib.zotero.json"
