@@ -1,4 +1,4 @@
-const { getFromZotero, writeToFile } = require("./utils");
+const { getItemsFromZotero, writeToFile } = require("./utils");
 
 const BIBTEX_PATH = process.env.BIBTEX_PATH;
 if (!BIBTEX_PATH) throw new Error("Missing env BIBTEX_PATH");
@@ -19,7 +19,7 @@ async function fetchFromZotero() {
   console.log(items);
   await writeToFile(ZOTEROJSON_PATH, JSON.stringify(items, undefined, 2));
 
-  const bibtex = await getFromZotero("items?format=bibtex");
+  const bibtex = await getItemsFromZotero("items?format=bibtex");
   console.log(bibtex);
   await writeToFile(BIBTEX_PATH, bibtex);
   console.log("Done");
