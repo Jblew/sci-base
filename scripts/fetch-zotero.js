@@ -15,13 +15,13 @@ if (!ZOTEROJSON_PATH) throw new Error("Missing env ZOTEROJSON_PATH");
 })(fetchFromZotero);
 
 async function fetchFromZotero() {
-  const items = await getItemsFromZotero("items?format=json", {
+  const items = await getItemsFromZotero("items?format=json&limit=50", {
     type: "array",
   });
   console.log(items);
   await writeToFile(ZOTEROJSON_PATH, JSON.stringify(items, undefined, 2));
 
-  const bibtex = await getItemsFromZotero("items?format=bibtex", {
+  const bibtex = await getItemsFromZotero("items?format=bibtex&limit=50", {
     type: "string",
   });
   console.log(bibtex);
