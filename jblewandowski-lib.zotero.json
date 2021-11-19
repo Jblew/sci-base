@@ -1,7 +1,7 @@
 [
   {
-    "key": "V5DFT7ZG",
-    "version": 20,
+    "key": "D75P6VCW",
+    "version": 169,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -15,463 +15,184 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/V5DFT7ZG",
+        "href": "https://api.zotero.org/users/8674355/items/D75P6VCW",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/V5DFT7ZG",
+        "href": "https://www.zotero.org/jblewandowski/items/D75P6VCW",
         "type": "text/html"
       },
       "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX",
+        "href": "https://api.zotero.org/users/8674355/items/4MKC3V9C",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 266715
+        "attachmentSize": 758382
       }
     },
     "meta": {
-      "creatorSummary": "Lewis",
-      "parsedDate": "2011",
+      "creatorSummary": "Landers",
+      "parsedDate": "2015",
       "numChildren": 1
     },
     "data": {
-      "key": "V5DFT7ZG",
-      "version": 20,
+      "key": "D75P6VCW",
+      "version": 169,
       "itemType": "journalArticle",
-      "title": "Storytelling as Research/Research as Storytelling",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Patrick J.",
-          "lastName": "Lewis"
-        }
-      ],
-      "abstractNote": "If story is central to human meaning why, in the research world, is there not more storytelling? Walter Benjamin (1973) noted that, “a story is different. It does not expend itself. It preserves and concentrates its strength and is capable of releasing it even after a long time” (p. 90). How might research not expend itself, but preserve and concentrate its strength?",
-      "publicationTitle": "Qualitative Inquiry",
-      "volume": "17",
-      "issue": "6",
-      "pages": "505-510",
-      "date": "07/2011",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Qualitative Inquiry",
-      "language": "en",
-      "DOI": "10.1177/1077800411409883",
-      "ISSN": "1077-8004, 1552-7565",
-      "shortTitle": "",
-      "url": "http://journals.sagepub.com/doi/10.1177/1077800411409883",
-      "accessDate": "2021-10-28T13:32:55Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: lewisStorytellingResearch2011",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP"
-      ],
-      "relations": {},
-      "dateAdded": "2021-10-28T13:32:55Z",
-      "dateModified": "2021-10-31T11:24:02Z"
-    }
-  },
-  {
-    "key": "2UAU44SX",
-    "version": 15,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/2UAU44SX",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/V5DFT7ZG",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/2UAU44SX/file/view",
-        "title": "2UAU44SX.pdf",
-        "length": 266715
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "2UAU44SX",
-      "version": 15,
-      "parentItem": "V5DFT7ZG",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Lewis - 2011 - Storytelling as ResearchResearch as Storytelling.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "2UAU44SX.pdf",
-      "md5": "e1e65c7fd8d757fc5f19ede784b12f58",
-      "mtime": 1635591017110,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-10-28T13:32:51Z",
-      "dateModified": "2021-10-28T13:32:55Z"
-    }
-  },
-  {
-    "key": "PSCAAL8V",
-    "version": 3,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/PSCAAL8V",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/PSCAAL8V",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/2G5EXBK7",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 137644
-      }
-    },
-    "meta": {
-      "creatorSummary": "Landers et al.",
-      "parsedDate": "2018",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "PSCAAL8V",
-      "version": 3,
-      "itemType": "journalArticle",
-      "title": "Gamification Science, Its History and Future: Definitions and a Research Agenda",
+      "title": "Developing a Theory of Gamified Learning",
       "creators": [
         {
           "creatorType": "author",
           "firstName": "Richard N.",
           "lastName": "Landers"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Elena M.",
-          "lastName": "Auer"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew B.",
-          "lastName": "Collmus"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Michael B.",
-          "lastName": "Armstrong"
         }
       ],
-      "abstractNote": "Background. Definitions of gamification tend to vary by person, both in industry and within academia. One particularly popular lay interpretation, introduced and popularized by Ian Bogost, and reiterated by Jan Klabbers, is that gamification is “bullshit” and “exploitationware.” They describe gamification as a marketing term or business practice invented to sell products rather than to represent a real and unique phenomenon relevant to a nascent game science. However, this view is an oversimplification, one which ignores a growing body of theory development and empirical research on gamification within a post-positivist epistemology. In fact, because gamification is so much more outcome-focused than general game design, current gamification research in many ways has a stronger footing in modern social science than much games research does. Aim. In this article, to address common misunderstandings like these, we describe the philosophical underpinnings of modern gamification research, define the relationship between games and gamification, define and situate gamification science as a subdiscipline of game science, and explicate a six-element framework of major concerns within gamification science: predictor constructs, criterion constructs, mediator constructs, moderator constructs, design processes, and research methods. This framework is also presented diagrammatically as a causal path model. Conclusion. Gamification science refers to the development of theories of gamification design and their empirical evaluation within a post-positivist epistemology. The goal of gamification scientist-practitioners should be to understand how to best meet organizational goals through the design of gamification interventions, drawing upon insights derived from both gamification science and games research more broadly.",
-      "publicationTitle": "Simulation and Gaming",
-      "volume": "49",
-      "issue": "3",
-      "pages": "315–337",
+      "abstractNote": "",
+      "publicationTitle": "Simulation &amp; Gaming",
+      "volume": "45",
+      "issue": "6",
+      "pages": "752-768",
+      "date": "2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1177/1046878114563660",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:13:21Z",
+      "dateModified": "2021-11-19T14:23:49Z"
+    }
+  },
+  {
+    "key": "UU7KC36U",
+    "version": 165,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UU7KC36U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UU7KC36U",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/GICJJ3TH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1414817
+      }
+    },
+    "meta": {
+      "creatorSummary": "Gorbanev et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UU7KC36U",
+      "version": 165,
+      "itemType": "journalArticle",
+      "title": "A systematic review of serious games in medical education: quality of evidence and pedagogical strategy",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Iouri",
+          "lastName": "Gorbanev"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sandra",
+          "lastName": "Agudelo-Londoño"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rafael A.",
+          "lastName": "González"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ariel",
+          "lastName": "Cortes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandra",
+          "lastName": "Pomares"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vivian",
+          "lastName": "Delgadillo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francisco J.",
+          "lastName": "Yepes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Óscar",
+          "lastName": "Muñoz"
+        }
+      ],
+      "abstractNote": "Introduction: The literature shows an optimistic landscape for the effectiveness of games in medical education. Nevertheless, games are not considered mainstream material in medical teaching. Two research questions that arise are the following: What pedagogical strategies do developers use when creating games for medical education? And what is the quality of the evidence on the effectiveness of games? Methods: A systematic review was made by a multi-disciplinary team of researchers following the Cochrane Collaboration Guidelines. We included peer-reviewed journal articles which described or assessed the use of serious games or gamified apps in medical education. We used the Medical Education Research Study Quality Instrument (MERSQI) to assess the quality of evidence in the use of games. We also evaluated the pedagogical perspectives of such articles.",
+      "publicationTitle": "Medical Education Online",
+      "volume": "23",
+      "issue": "1",
+      "pages": "1438718",
       "date": "2018",
       "series": "",
       "seriesTitle": "",
       "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "10.1177/1046878118774385",
-      "ISSN": "1552826X",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
+      "journalAbbreviation": "Medical Education Online",
+      "language": "en",
+      "DOI": "10.1080/10872981.2018.1438718",
+      "ISSN": "1087-2981",
+      "shortTitle": "A systematic review of serious games in medical education",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10872981.2018.1438718",
+      "accessDate": "2021-11-18T14:45:04Z",
       "archive": "",
       "archiveLocation": "",
-      "libraryCatalog": "",
+      "libraryCatalog": "DOI.org (Crossref)",
       "callNumber": "",
       "rights": "",
-      "extra": "ISBN: 1046878118774\nCitation Key: Landers2018GamificationScience",
-      "tags": [
-        {
-          "tag": "constructs"
-        },
-        {
-          "tag": "criteria"
-        },
-        {
-          "tag": "criterion"
-        },
-        {
-          "tag": "design"
-        },
-        {
-          "tag": "game"
-        },
-        {
-          "tag": "game science"
-        },
-        {
-          "tag": "gamification"
-        },
-        {
-          "tag": "gamification science"
-        },
-        {
-          "tag": "gamification-definition"
-        },
-        {
-          "tag": "mediator"
-        },
-        {
-          "tag": "moderator"
-        },
-        {
-          "tag": "post-positivism"
-        },
-        {
-          "tag": "predictor"
-        },
-        {
-          "tag": "research methods"
-        },
-        {
-          "tag": "science"
-        },
-        {
-          "tag": "theory"
-        }
-      ],
-      "collections": [
-        "YRDSMPUP"
-      ],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:28Z",
-      "dateModified": "2021-10-24T19:43:07Z"
-    }
-  },
-  {
-    "key": "EGYPXIRL",
-    "version": 3,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/EGYPXIRL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/EGYPXIRL",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 462473
-      }
-    },
-    "meta": {
-      "creatorSummary": "Leclercq et al.",
-      "parsedDate": "2020",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "EGYPXIRL",
-      "version": 3,
-      "itemType": "journalArticle",
-      "title": "Opening the black box of gameful experience: Implications for gamification process design",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Thomas",
-          "lastName": "Leclercq"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ingrid",
-          "lastName": "Poncin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Wafa",
-          "lastName": "Hammedi"
-        }
-      ],
-      "abstractNote": "Gamification is attracting the attention of practitioners and researchers because of its power to generate experiential value for users. However, despite its wide adoption by managers, the practice is poorly conceptualized. In response to this theoretical gap, we propose a set of foundational propositions developed using a microfoundational approach. We explain gameful experience, and we construct a conceptual framework that depicts the underlying process. We expand prior research on the topic through the notion of gameplay. Our conceptual discussion of gamification suggests a research agenda that can stimulate further academic efforts.",
-      "publicationTitle": "Journal of Retailing and Consumer Services",
-      "volume": "52",
-      "issue": "January 2019",
-      "pages": "",
-      "date": "2020",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "10.1016/j.jretconser.2019.07.007",
-      "ISSN": "09696989",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: Leclercq2020BlackBox",
-      "tags": [
-        {
-          "tag": "Gameful experience"
-        },
-        {
-          "tag": "Gameplay"
-        },
-        {
-          "tag": "Gamification"
-        },
-        {
-          "tag": "Microfoundation"
-        },
-        {
-          "tag": "gamification-definition"
-        }
-      ],
-      "collections": [
-        "YRDSMPUP"
-      ],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:28Z",
-      "dateModified": "2021-10-24T19:42:58Z"
-    }
-  },
-  {
-    "key": "SEAB5VQE",
-    "version": 3,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/SEAB5VQE",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/SEAB5VQE",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/BPGBINHC",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 277674
-      }
-    },
-    "meta": {
-      "creatorSummary": "Levac et al.",
-      "parsedDate": "2010",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "SEAB5VQE",
-      "version": 3,
-      "itemType": "journalArticle",
-      "title": "Scoping studies: Advancing the methodology",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Danielle",
-          "lastName": "Levac"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Heather",
-          "lastName": "Colquhoun"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Kelly K.",
-          "lastName": "O'Brien"
-        }
-      ],
-      "abstractNote": "Background: Scoping studies are an increasingly popular approach to reviewing health research evidence. In 2005, Arksey and O'Malley published the first methodological framework for conducting scoping studies. While this framework provides an excellent foundation for scoping study methodology, further clarifying and enhancing this framework will help support the consistency with which authors undertake and report scoping studies and may encourage researchers and clinicians to engage in this process.Discussion: We build upon our experiences conducting three scoping studies using the Arksey and O'Malley methodology to propose recommendations that clarify and enhance each stage of the framework. Recommendations include: clarifying and linking the purpose and research question (stage one); balancing feasibility with breadth and comprehensiveness of the scoping process (stage two); using an iterative team approach to selecting studies (stage three) and extracting data (stage four); incorporating a numerical summary and qualitative thematic analysis, reporting results, and considering the implications of study findings to policy, practice, or research (stage five); and incorporating consultation with stakeholders as a required knowledge translation component of scoping study methodology (stage six). Lastly, we propose additional considerations for scoping study methodology in order to support the advancement, application and relevance of scoping studies in health research.Summary: Specific recommendations to clarify and enhance this methodology are outlined for each stage of the Arksey and O'Malley framework. Continued debate and development about scoping study methodology will help to maximize the usefulness and rigor of scoping study findings within healthcare research and practice. © 2010 Levac et al; licensee BioMed Central Ltd.",
-      "publicationTitle": "Implementation Science",
-      "volume": "5",
-      "issue": "1",
-      "pages": "1–9",
-      "date": "2010",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "10.1186/1748-5908-5-69",
-      "ISSN": "17485908",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "PMID: 20854677\nCitation Key: Levac2010Scoping",
+      "extra": "",
       "tags": [],
       "collections": [
-        "YRDSMPUP"
+        "YFB4NCTU"
       ],
       "relations": {},
-      "dateAdded": "2021-10-24T19:15:27Z",
-      "dateModified": "2021-10-24T19:42:49Z"
+      "dateAdded": "2021-11-18T14:45:04Z",
+      "dateModified": "2021-11-19T14:23:48Z"
     }
   },
   {
-    "key": "HFUV6IER",
-    "version": 3,
+    "key": "4MKC3V9C",
+    "version": 162,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -485,423 +206,151 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/HFUV6IER",
+        "href": "https://api.zotero.org/users/8674355/items/4MKC3V9C",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/HFUV6IER",
+        "href": "https://www.zotero.org/jblewandowski/items/4MKC3V9C",
         "type": "text/html"
       },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/YQ9G4Q6C",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 242014
-      }
-    },
-    "meta": {
-      "creatorSummary": "Arksey and O'Malley",
-      "parsedDate": "2005",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "HFUV6IER",
-      "version": 3,
-      "itemType": "journalArticle",
-      "title": "Scoping studies: Towards a methodological framework",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Hilary",
-          "lastName": "Arksey"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lisa",
-          "lastName": "O'Malley"
-        }
-      ],
-      "abstractNote": "This paper focuses on scoping studies, an approach to reviewing the literature which to date has received little attention in the research methods literature. We distinguish between different types of scoping studies and indicate where these stand in relation to full systematic reviews. We outline a framework for conducting a scoping study based on our recent experiences of reviewing the literature on services for carers for people with mental health problems. Where appropriate, our approach to scoping the field is contrasted with the procedures followed in systematic reviews. We emphasize how including a consultation exercise in this sort of study may enhance the results, making them more useful to policy makers, practitioners and service users. Finally, we consider the advantages and limitations of the approach and suggest that a wider debate is called for about the role of the scoping study in relation to other types of literature reviews. © 2005 Taylor & Francis Group Ltd.",
-      "publicationTitle": "International Journal of Social Research Methodology: Theory and Practice",
-      "volume": "8",
-      "issue": "1",
-      "pages": "19–32",
-      "date": "2005",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "10.1080/1364557032000119616",
-      "ISSN": "13645579",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: Arksey2005Scoping",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP"
-      ],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:27Z",
-      "dateModified": "2021-10-24T19:42:16Z"
-    }
-  },
-  {
-    "key": "M9TGUT64",
-    "version": 3,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/M9TGUT64",
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/D75P6VCW",
         "type": "application/json"
       },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/M9TGUT64",
-        "type": "text/html"
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4MKC3V9C/file/view",
+        "title": "Landers_2015_-_Theory_of_gamified_learning-with-cover-page-v2.pdf",
+        "length": 758382
       }
     },
     "meta": {
-      "creatorSummary": "Chou",
-      "parsedDate": "2015",
       "numChildren": 0
     },
     "data": {
-      "key": "M9TGUT64",
-      "version": 3,
-      "itemType": "book",
-      "title": "Actionable Gamification",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Yu-kai",
-          "lastName": "Chou"
+      "key": "4MKC3V9C",
+      "version": 162,
+      "parentItem": "D75P6VCW",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Landers_2015_-_Theory_of_gamified_learning-with-cover-page-v2.pdf",
+      "md5": "7bba8f00b73ee2e331dc18b6aa86e07f",
+      "mtime": 1637331208364,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:13:28Z",
+      "dateModified": "2021-11-19T14:13:28Z"
+    }
+  },
+  {
+    "key": "KGQJXHWQ",
+    "version": 159,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
         }
-      ],
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KGQJXHWQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KGQJXHWQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/E5CB67DM",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KGQJXHWQ/file/view",
+        "title": "Implementing-the-Four-Levels-EXCERPT.pdf",
+        "length": 356986
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KGQJXHWQ",
+      "version": 159,
+      "parentItem": "E5CB67DM",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Implementing-the-Four-Levels-EXCERPT.pdf",
+      "md5": "569a5e87d063b53efff05f385897676b",
+      "mtime": 1637331088390,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:11:28Z",
+      "dateModified": "2021-11-19T14:11:28Z"
+    }
+  },
+  {
+    "key": "E5CB67DM",
+    "version": 166,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/E5CB67DM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/E5CB67DM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KGQJXHWQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 356986
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "E5CB67DM",
+      "version": 166,
+      "itemType": "journalArticle",
+      "title": "Implementing-the-Four-Levels",
+      "creators": [],
       "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "",
-      "publisher": "Createspace Independent Publishing Platform",
-      "date": "2015",
-      "numPages": "",
-      "language": "",
-      "ISBN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: actionablegamification_2015",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP"
-      ],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:28Z",
-      "dateModified": "2021-10-24T19:41:52Z"
-    }
-  },
-  {
-    "key": "2G5EXBK7",
-    "version": 16,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/2G5EXBK7",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/2G5EXBK7",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/PSCAAL8V",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/2G5EXBK7/file/view",
-        "title": "2G5EXBK7.pdf",
-        "length": 137644
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "2G5EXBK7",
-      "version": 16,
-      "parentItem": "PSCAAL8V",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Attachment",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "2G5EXBK7.pdf",
-      "md5": "18c6c40410e67891c41eae52c066fcbe",
-      "mtime": 1635591021307,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:28Z",
-      "dateModified": "2021-10-24T19:15:28Z"
-    }
-  },
-  {
-    "key": "YQ9G4Q6C",
-    "version": 12,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/YQ9G4Q6C",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/YQ9G4Q6C",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/HFUV6IER",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/YQ9G4Q6C/file/view",
-        "title": "Scoping studies- towards a methodological framework.pdf",
-        "length": 242014
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "YQ9G4Q6C",
-      "version": 12,
-      "parentItem": "HFUV6IER",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Attachment",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Scoping studies- towards a methodological framework.pdf",
-      "md5": "e42a3879e2a1618a2996090e6fbf9aa8",
-      "mtime": 1635102927000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:27Z",
-      "dateModified": "2021-10-24T19:15:28Z"
-    }
-  },
-  {
-    "key": "9WG8CX4Y",
-    "version": 9,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/9WG8CX4Y",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/EGYPXIRL",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/9WG8CX4Y/file/view",
-        "title": "Leclercq, Poncin, Hammedi - 2020 - Opening the black box of gameful experience Implications for gamification process design.pdf",
-        "length": 462473
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "9WG8CX4Y",
-      "version": 9,
-      "parentItem": "EGYPXIRL",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Attachment",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Leclercq, Poncin, Hammedi - 2020 - Opening the black box of gameful experience Implications for gamification process design.pdf",
-      "md5": "240ef97f60bd6f23e0e97f13b784c785",
-      "mtime": 1635102928000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:28Z",
-      "dateModified": "2021-10-24T19:15:28Z"
-    }
-  },
-  {
-    "key": "BPGBINHC",
-    "version": 18,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/BPGBINHC",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/BPGBINHC",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/SEAB5VQE",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/BPGBINHC/file/view",
-        "title": "BPGBINHC.pdf",
-        "length": 277674
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "BPGBINHC",
-      "version": 18,
-      "parentItem": "SEAB5VQE",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Attachment",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "BPGBINHC.pdf",
-      "md5": "8547e1201af3d6179ebe31f9c899ce8c",
-      "mtime": 1635591209000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:27Z",
-      "dateModified": "2021-10-24T19:15:27Z"
-    }
-  },
-  {
-    "key": "3JE4EMCJ",
-    "version": 3,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/3JE4EMCJ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/3JE4EMCJ",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Chou",
-      "parsedDate": "2014",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "3JE4EMCJ",
-      "version": 3,
-      "itemType": "journalArticle",
-      "title": "Actionable gamification",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Yu-Kai",
-          "lastName": "Chou"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "Beyond Points, Badges, and Leaderboards",
+      "publicationTitle": "",
       "volume": "",
       "issue": "",
       "pages": "",
-      "date": "2014",
+      "date": "",
       "series": "",
       "seriesTitle": "",
       "seriesText": "",
@@ -919,10 +368,1504 @@
       "rights": "",
       "extra": "",
       "tags": [],
-      "collections": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
       "relations": {},
-      "dateAdded": "2021-10-24T19:10:47Z",
-      "dateModified": "2021-10-24T19:10:47Z"
+      "dateAdded": "2021-11-19T14:11:25Z",
+      "dateModified": "2021-11-19T14:11:25Z"
+    }
+  },
+  {
+    "key": "2593UKUE",
+    "version": 156,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2593UKUE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2593UKUE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/8RWJVNPA",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2593UKUE/file/view",
+        "title": "reed2009.pdf",
+        "length": 126747
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2593UKUE",
+      "version": 156,
+      "parentItem": "8RWJVNPA",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "reed2009.pdf",
+      "md5": "843e2ce256abf19bd92a9d7dd259b866",
+      "mtime": 1637330965732,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:09:25Z",
+      "dateModified": "2021-11-19T14:09:25Z"
+    }
+  },
+  {
+    "key": "8RWJVNPA",
+    "version": 167,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8RWJVNPA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8RWJVNPA",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2593UKUE",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 126747
+      }
+    },
+    "meta": {
+      "creatorSummary": "Reed et al.",
+      "parsedDate": "2009",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "8RWJVNPA",
+      "version": 167,
+      "itemType": "journalArticle",
+      "title": "An assessment of the methodologic quality of medical education research studies published in The American Journal of Surgery",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Darcy A.",
+          "lastName": "Reed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas J.",
+          "lastName": "Beckman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Scott M.",
+          "lastName": "Wright"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "The American Journal of Surgery",
+      "volume": "198",
+      "issue": "3",
+      "pages": "442-444",
+      "date": "2009",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1016/j.amjsurg.2009.01.024",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:09:24Z",
+      "dateModified": "2021-11-19T14:09:24Z"
+    }
+  },
+  {
+    "key": "ZPZPJEFZ",
+    "version": 153,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZPZPJEFZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZPZPJEFZ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/PNNGEQNR",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ZPZPJEFZ/file/view",
+        "title": "Reed2008_Article_PredictiveValidityEvidenceForM.pdf",
+        "length": 132931
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "ZPZPJEFZ",
+      "version": 153,
+      "parentItem": "PNNGEQNR",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Reed2008_Article_PredictiveValidityEvidenceForM.pdf",
+      "md5": "9a61a353d353347758b035c1fe76891e",
+      "mtime": 1637330868625,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:07:48Z",
+      "dateModified": "2021-11-19T14:07:48Z"
+    }
+  },
+  {
+    "key": "PNNGEQNR",
+    "version": 168,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PNNGEQNR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PNNGEQNR",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ZPZPJEFZ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 132931
+      }
+    },
+    "meta": {
+      "creatorSummary": "Reed et al.",
+      "parsedDate": "2008",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "PNNGEQNR",
+      "version": 168,
+      "itemType": "journalArticle",
+      "title": "Predictive Validity Evidence for Medical Education Research Study Quality Instrument Scores: Quality of Submissions to JGIM’s Medical Education Special Issue",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Darcy A.",
+          "lastName": "Reed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas J.",
+          "lastName": "Beckman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Scott M.",
+          "lastName": "Wright"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rachel B.",
+          "lastName": "Levine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David E.",
+          "lastName": "Kern"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David A.",
+          "lastName": "Cook"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Journal of General Internal Medicine",
+      "volume": "23",
+      "issue": "7",
+      "pages": "903-907",
+      "date": "2008",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1007/s11606-008-0664-3",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:07:47Z",
+      "dateModified": "2021-11-19T14:07:47Z"
+    }
+  },
+  {
+    "key": "7UAEKP4M",
+    "version": 142,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7UAEKP4M",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7UAEKP4M",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/FIRCPHDI",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "7UAEKP4M",
+      "version": 142,
+      "parentItem": "FIRCPHDI",
+      "itemType": "note",
+      "note": "<p>Rzeczywista próba uruchomienia gamifikacji w CSM</p>",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:50:14Z",
+      "dateModified": "2021-11-18T14:50:36Z"
+    }
+  },
+  {
+    "key": "FIRCPHDI",
+    "version": 140,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FIRCPHDI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FIRCPHDI",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/6LVWDE4T",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 4096547
+      }
+    },
+    "meta": {
+      "creatorSummary": "Salerno et al.",
+      "parsedDate": "2018-11-08",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "FIRCPHDI",
+      "version": 140,
+      "itemType": "journalArticle",
+      "title": "Challenging Hazards Amidst Observational Simulation in the Emergency Department: Advancing Gamification in Simulation Education Through a Novel Resident-led Skills Competition",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Salerno"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dimitrios",
+          "lastName": "Papanagnou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Priyha",
+          "lastName": "Mahesh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kaitlin M",
+          "lastName": "Bowers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Scott H",
+          "lastName": "Pasichow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sara",
+          "lastName": "Paradise"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiao Chi",
+          "lastName": "Zhang"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Cureus",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "2018-11-8",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.7759/cureus.3563",
+      "ISSN": "2168-8184",
+      "shortTitle": "Challenging Hazards Amidst Observational Simulation in the Emergency Department",
+      "url": "https://www.cureus.com/articles/15160-challenging-hazards-amidst-observational-simulation-in-the-emergency-department-advancing-gamification-in-simulation-education-through-a-novel-resident-led-skills-competition",
+      "accessDate": "2021-11-18T14:45:25Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "gamification-csm"
+        }
+      ],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:45:25Z",
+      "dateModified": "2021-11-18T14:49:30Z"
+    }
+  },
+  {
+    "key": "6LVWDE4T",
+    "version": 145,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6LVWDE4T",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6LVWDE4T",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/FIRCPHDI",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6LVWDE4T/file/view",
+        "title": "Salerno et al. - 2018 - Challenging Hazards Amidst Observational Simulatio.pdf",
+        "length": 4096547
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6LVWDE4T",
+      "version": 145,
+      "parentItem": "FIRCPHDI",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Salerno et al. - 2018 - Challenging Hazards Amidst Observational Simulatio.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Salerno et al. - 2018 - Challenging Hazards Amidst Observational Simulatio.pdf",
+      "md5": "d8278d02b9b3b2c0a19bc21a295a6d4d",
+      "mtime": 1637247090000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:43:52Z",
+      "dateModified": "2021-11-18T14:45:25Z"
+    }
+  },
+  {
+    "key": "YVKAN7QA",
+    "version": 149,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YVKAN7QA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YVKAN7QA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JHBA4CUN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YVKAN7QA/file/view",
+        "title": "Nevin et al. - 2014 - Gamification as a tool for enhancing graduate medi.pdf",
+        "length": 3435556
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YVKAN7QA",
+      "version": 149,
+      "parentItem": "JHBA4CUN",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Nevin et al. - 2014 - Gamification as a tool for enhancing graduate medi.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Nevin et al. - 2014 - Gamification as a tool for enhancing graduate medi.pdf",
+      "md5": "4fd9efbd59e140fa2874049755797a66",
+      "mtime": 1637247262000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:52Z",
+      "dateModified": "2021-11-18T14:45:16Z"
+    }
+  },
+  {
+    "key": "JHBA4CUN",
+    "version": 125,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JHBA4CUN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JHBA4CUN",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YVKAN7QA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3435556
+      }
+    },
+    "meta": {
+      "creatorSummary": "Nevin et al.",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JHBA4CUN",
+      "version": 125,
+      "itemType": "journalArticle",
+      "title": "Gamification as a tool for enhancing graduate medical education",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Christa R",
+          "lastName": "Nevin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew O",
+          "lastName": "Westfall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J Martin",
+          "lastName": "Rodriguez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donald M",
+          "lastName": "Dempsey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrea",
+          "lastName": "Cherrington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brita",
+          "lastName": "Roy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mukesh",
+          "lastName": "Patel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James H",
+          "lastName": "Willig"
+        }
+      ],
+      "abstractNote": "Introduction The last decade has seen many changes in graduate medical education training in the USA, most notably the implementation of duty hour standards for residents by the Accreditation Council of Graduate Medical Education. As educators are left to balance more limited time available between patient care and resident education, new methods to augment traditional graduate medical education are needed.\nObjectives To assess acceptance and use of a novel gamiﬁcation-based medical knowledge software among internal medicine residents and to determine retention of information presented to participants by this medical knowledge software.\nMethods We designed and developed software using principles of gamiﬁcation to deliver a web-based medical knowledge competition among internal medicine residents at the University of Alabama (UA) at Birmingham and UA at Huntsville in 2012–2013. Residents participated individually and in teams. Participants accessed daily questions and tracked their online leaderboard competition scores through any internet-enabled device. We completed focus groups to assess participant acceptance and analysed software use, retention of knowledge and factors associated with loss of participants (attrition).\nResults Acceptance: In focus groups, residents (n=17) reported leaderboards were the most important motivator of participation. Use: 16 427 questions were completed: 28.8% on Saturdays/Sundays, 53.1% between 17:00 and 08:00. Retention of knowledge: 1046 paired responses (for repeated questions) were collected. Correct responses increased by 11.9% ( p<0.0001) on retest. Differences per time since question introduction, trainee level and style of play were observed. Attrition: In ordinal regression analyses, completing more questions (0.80 per 10% increase; 0.70 to 0.93) decreased, while postgraduate year 3 class (4.25; 1.44 to 12.55) and non-daily play (4.51; 1.50 to 13.58) increased odds of attrition.\nConclusions Our software-enabled, gamiﬁcation-based educational intervention was well accepted among our millennial learners. Coupling software with gamiﬁcation and analysis of trainee use and engagement data can be used to develop strategies to augment learning in timeconstrained educational settings.",
+      "publicationTitle": "Postgraduate Medical Journal",
+      "volume": "90",
+      "issue": "1070",
+      "pages": "685-693",
+      "date": "12/2014",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Postgrad Med J",
+      "language": "en",
+      "DOI": "10.1136/postgradmedj-2013-132486",
+      "ISSN": "0032-5473, 1469-0756",
+      "shortTitle": "",
+      "url": "https://pmj.bmj.com/lookup/doi/10.1136/postgradmedj-2013-132486",
+      "accessDate": "2021-11-18T14:45:16Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:45:16Z",
+      "dateModified": "2021-11-18T14:45:16Z"
+    }
+  },
+  {
+    "key": "89KRFPCG",
+    "version": 131,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/89KRFPCG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/89KRFPCG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/58DG7CFM",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/89KRFPCG/file/view",
+        "title": "Ahmed et al. - 2015 - Gamification in medical education.pdf",
+        "length": 645436
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "89KRFPCG",
+      "version": 131,
+      "parentItem": "58DG7CFM",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ahmed et al. - 2015 - Gamification in medical education.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ahmed et al. - 2015 - Gamification in medical education.pdf",
+      "md5": "d13b7f1226b5a0fdf7c4979e26b8c9c5",
+      "mtime": 1637246714000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:52Z",
+      "dateModified": "2021-11-18T14:45:14Z"
+    }
+  },
+  {
+    "key": "58DG7CFM",
+    "version": 125,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/58DG7CFM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/58DG7CFM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/89KRFPCG",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 645436
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ahmed et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "58DG7CFM",
+      "version": 125,
+      "itemType": "journalArticle",
+      "title": "Gamification in medical education",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Maroof",
+          "lastName": "Ahmed"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yusuf",
+          "lastName": "Sherwani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Osama",
+          "lastName": "Al-Jibury"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Muhammad",
+          "lastName": "Najim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Riham",
+          "lastName": "Rabee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Muhammad",
+          "lastName": "Ashraf"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education Online",
+      "volume": "20",
+      "issue": "1",
+      "pages": "29536",
+      "date": "01/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Medical Education Online",
+      "language": "en",
+      "DOI": "10.3402/meo.v20.29536",
+      "ISSN": "1087-2981",
+      "shortTitle": "",
+      "url": "https://www.tandfonline.com/doi/full/10.3402/meo.v20.29536",
+      "accessDate": "2021-11-18T14:45:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:45:14Z",
+      "dateModified": "2021-11-18T14:45:14Z"
+    }
+  },
+  {
+    "key": "8XHZKXDD",
+    "version": 147,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8XHZKXDD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8XHZKXDD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XS6CRN6X",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/8XHZKXDD/file/view",
+        "title": "McCoy et al. - 2016 - Gamification and Multimedia for Medical Education.pdf",
+        "length": 1246752
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "8XHZKXDD",
+      "version": 147,
+      "parentItem": "XS6CRN6X",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "McCoy et al. - 2016 - Gamification and Multimedia for Medical Education.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "McCoy et al. - 2016 - Gamification and Multimedia for Medical Education.pdf",
+      "md5": "9049c38bc83246cdedfada4a8bb38eb7",
+      "mtime": 1637247208000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:52Z",
+      "dateModified": "2021-11-18T14:45:12Z"
+    }
+  },
+  {
+    "key": "XS6CRN6X",
+    "version": 125,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XS6CRN6X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XS6CRN6X",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/8XHZKXDD",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1246752
+      }
+    },
+    "meta": {
+      "creatorSummary": "McCoy et al.",
+      "parsedDate": "2016-01-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XS6CRN6X",
+      "version": 125,
+      "itemType": "journalArticle",
+      "title": "Gamification and Multimedia for Medical Education: A Landscape Review",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lise",
+          "lastName": "McCoy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joy H.",
+          "lastName": "Lewis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Dalton"
+        }
+      ],
+      "abstractNote": "Background: Medical education is rapidly evolving. Students enter medical school with a high level of technological literacy and an expectation for instructional variety in the curriculum. In response, many medical schools now incorporate technology-enhanced active learning and multimedia education applications. Education games, medical mobile applications, and virtual patient simulations are together termed gamified training platforms.\nObjective: To review available literature for the benefits of using gamified training platforms for medical education (both preclinical and clinical) and training. Also, to identify platforms suitable for these purposes with links to multimedia content.\nMethods: Peer-reviewed literature, commercially published media, and grey literature were searched to compile an archive of recently published scientific evaluations of gamified training platforms for medical education. Specific educational games, mobile applications, and virtual simulations useful for preclinical and clinical training were identified and categorized. Available evidence was summarized as it related to potential educational advantages of the identified platforms for medical education.\nResults: Overall, improved learning outcomes have been demonstrated with virtual patient simulations. Games have the potential to promote learning, increase engagement, allow for real-word application, and enhance collaboration. They can also provide opportunities for risk-free clinical decision making, distance training, learning analytics, and swift feedback. A total of 5 electronic games and 4 mobile applications were identified for preclinical training, and 5 electronic games, 10 mobile applications, and 12 virtual patient simulation tools were identified for clinical training. Nine additional gamified, virtual environment training tools not commercially available were also identified.\nConclusion: Many published studies suggest possible benefits from using gamified media in medical curriculum. This is a rapidly growing field. More research is required to rigorously evaluate the specific educational benefits of these interventions. This archive of hyperlinked tools can be used as a resource for all levels of medical trainees, providers, and educators.",
+      "publicationTitle": "Journal of Osteopathic Medicine",
+      "volume": "116",
+      "issue": "1",
+      "pages": "22-34",
+      "date": "2016-01-01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.7556/jaoa.2016.003",
+      "ISSN": "2702-3648",
+      "shortTitle": "Gamification and Multimedia for Medical Education",
+      "url": "https://www.degruyter.com/document/doi/10.7556/jaoa.2016.003/html",
+      "accessDate": "2021-11-18T14:45:12Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:45:12Z",
+      "dateModified": "2021-11-18T14:45:12Z"
+    }
+  },
+  {
+    "key": "FQYD6PST",
+    "version": 133,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FQYD6PST",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FQYD6PST",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/U7PJNWD8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/FQYD6PST/file/view",
+        "title": "Ismail et al. - 2019 - Using Kahoot! as a formative assessment tool in me.pdf",
+        "length": 851865
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "FQYD6PST",
+      "version": 133,
+      "parentItem": "U7PJNWD8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ismail et al. - 2019 - Using Kahoot! as a formative assessment tool in me.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ismail et al. - 2019 - Using Kahoot! as a formative assessment tool in me.pdf",
+      "md5": "85a065dcfc24dc42b270c5ee0cda0572",
+      "mtime": 1637246709000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:51Z",
+      "dateModified": "2021-11-18T14:45:09Z"
+    }
+  },
+  {
+    "key": "U7PJNWD8",
+    "version": 125,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U7PJNWD8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U7PJNWD8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/FQYD6PST",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 851865
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ismail et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "U7PJNWD8",
+      "version": 125,
+      "itemType": "journalArticle",
+      "title": "Using Kahoot! as a formative assessment tool in medical education: a phenomenological study",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Muhd Al-Aarifin",
+          "lastName": "Ismail"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anisa",
+          "lastName": "Ahmad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jamilah Al-Muhammady",
+          "lastName": "Mohammad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nik Mohd Rizal Mohd",
+          "lastName": "Fakri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mohd Zarawi Mat",
+          "lastName": "Nor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mohamad Najib Mat",
+          "lastName": "Pa"
+        }
+      ],
+      "abstractNote": "Background: Gamification is an increasingly common phenomenon in education. It is a technique to facilitate formative assessment and to promote student learning. It has been shown to be more effective than traditional methods. This phenomenological study was conducted to explore the advantages of gamification through the use of the Kahoot! platform for formative assessment in medical education.\nMethods: This study employed a phenomenological design. Five focus groups were conducted with medical students who had participated in several Kahoot! sessions.\nResults: Thirty-six categories and nine sub-themes emerged from the focus group discussions. They were grouped into three themes: attractive learning tool, learning guidance and source of motivation.\nConclusions: The results suggest that Kahoot! sessions motivate students to study, to determine the subject matter that needs to be studied and to be aware of what they have learned. Thus, the platform is a promising tool for formative assessment in medical education.",
+      "publicationTitle": "BMC Medical Education",
+      "volume": "19",
+      "issue": "1",
+      "pages": "230",
+      "date": "12/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "BMC Med Educ",
+      "language": "en",
+      "DOI": "10.1186/s12909-019-1658-z",
+      "ISSN": "1472-6920",
+      "shortTitle": "Using Kahoot! as a formative assessment tool in medical education",
+      "url": "https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-019-1658-z",
+      "accessDate": "2021-11-18T14:45:09Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:45:09Z",
+      "dateModified": "2021-11-18T14:45:09Z"
+    }
+  },
+  {
+    "key": "NJHKTXLH",
+    "version": 135,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NJHKTXLH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NJHKTXLH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DS6GMV8M",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/NJHKTXLH/file/view",
+        "title": "Mesko et al. - 2015 - Digital Literacy in the Medical Curriculum A Cour.pdf",
+        "length": 376902
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "NJHKTXLH",
+      "version": 135,
+      "parentItem": "DS6GMV8M",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mesko et al. - 2015 - Digital Literacy in the Medical Curriculum A Cour.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mesko et al. - 2015 - Digital Literacy in the Medical Curriculum A Cour.pdf",
+      "md5": "065be109581cfc367b3d9dd43fdc9c79",
+      "mtime": 1637246707000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:51Z",
+      "dateModified": "2021-11-18T14:45:07Z"
+    }
+  },
+  {
+    "key": "DS6GMV8M",
+    "version": 125,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DS6GMV8M",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DS6GMV8M",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/NJHKTXLH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 376902
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mesko et al.",
+      "parsedDate": "2015-10-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "DS6GMV8M",
+      "version": 125,
+      "itemType": "journalArticle",
+      "title": "Digital Literacy in the Medical Curriculum: A Course With Social Media Tools and Gamification",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bertalan",
+          "lastName": "Mesko"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zsuzsanna",
+          "lastName": "Győrffy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "János",
+          "lastName": "Kollár"
+        }
+      ],
+      "abstractNote": "Background: The profession of practicing medicine is based on communication, and as social media and other digital technologies play a major role in today’s communication, digital literacy must be included in the medical curriculum. The value of social media has been demonstrated several times in medicine and health care, therefore it is time to prepare medical students for the conditions they will have to face when they graduate.\nObjective: The aim of our study was to design a new e-learning-based curriculum and test it with medical students.\nMethod: An elective course was designed to teach students how to use the Internet, with a special emphasis on social media. An e-learning platform was also made available and students could access material about using digital technologies on the online platforms they utilized the most. All students filled in online surveys before and after the course in order to provide feedback about the curriculum.\nResults: Over a 3-year period, 932 students completed the course. The course did not increase the number of hours spent online but aimed at making that time more efficient and useful. Based on the responses of students, they found the information provided by the curriculum useful for their studies and future practices.\nConclusions: A well-designed course, improved by constant evaluation-based feedback, can be suitable for preparing students for the massive use of the Internet, social media platforms, and digital technologies. New approaches must be applied in modern medical education in order to teach students new skills. Such curriculums that put emphasis on reaching students on the online channels they use in their studies and everyday lives introduce them to the world of empowered patients and prepare them to deal with the digital world.",
+      "publicationTitle": "JMIR Medical Education",
+      "volume": "1",
+      "issue": "2",
+      "pages": "e6",
+      "date": "2015-10-01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "JMIR Medical Education",
+      "language": "en",
+      "DOI": "10.2196/mededu.4411",
+      "ISSN": "2369-3762",
+      "shortTitle": "Digital Literacy in the Medical Curriculum",
+      "url": "http://mededu.jmir.org/2015/2/e6/",
+      "accessDate": "2021-11-18T14:45:06Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:45:06Z",
+      "dateModified": "2021-11-18T14:45:06Z"
+    }
+  },
+  {
+    "key": "GICJJ3TH",
+    "version": 164,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GICJJ3TH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GICJJ3TH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/UU7KC36U",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GICJJ3TH/file/view",
+        "title": "GICJJ3TH.pdf",
+        "length": 1414817
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "GICJJ3TH",
+      "version": 164,
+      "parentItem": "UU7KC36U",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Gorbanev et al. - 2018 - A systematic review of serious games in medical ed.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "GICJJ3TH.pdf",
+      "md5": "f4fa93492faf5364782b3fc4dcb49b3b",
+      "mtime": 1637331820002,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:51Z",
+      "dateModified": "2021-11-18T14:45:04Z"
+    }
+  },
+  {
+    "key": "HZRNAB74",
+    "version": 134,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HZRNAB74",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HZRNAB74",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/L3JJC4CZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/HZRNAB74/file/view",
+        "title": "2015 - The gamification of medical education a broader p.pdf",
+        "length": 300488
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "HZRNAB74",
+      "version": 134,
+      "parentItem": "L3JJC4CZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "2015 - The gamification of medical education a broader p.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2015 - The gamification of medical education a broader p.pdf",
+      "md5": "7e050bd3b38cad7858f79e0facea68e0",
+      "mtime": 1637246702000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:51Z",
+      "dateModified": "2021-11-18T14:45:02Z"
+    }
+  },
+  {
+    "key": "L3JJC4CZ",
+    "version": 125,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L3JJC4CZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L3JJC4CZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/HZRNAB74",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 300488
+      }
+    },
+    "meta": {
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "L3JJC4CZ",
+      "version": 125,
+      "itemType": "journalArticle",
+      "title": "The gamification of medical education: a broader perspective",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education Online",
+      "volume": "20",
+      "issue": "1",
+      "pages": "30566",
+      "date": "01/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Medical Education Online",
+      "language": "en",
+      "DOI": "10.3402/meo.v20.30566",
+      "ISSN": "1087-2981",
+      "shortTitle": "The gamification of medical education",
+      "url": "https://www.tandfonline.com/doi/full/10.3402/meo.v20.30566",
+      "accessDate": "2021-11-18T14:45:01Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:45:01Z",
+      "dateModified": "2021-11-18T14:45:01Z"
     }
   }
 ]
