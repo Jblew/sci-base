@@ -1,7 +1,7 @@
 [
   {
     "key": "X9WJGBGL",
-    "version": 181,
+    "version": 182,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -36,7 +36,7 @@
     },
     "data": {
       "key": "X9WJGBGL",
-      "version": 181,
+      "version": 182,
       "itemType": "book",
       "title": "Handbook of positive psychology",
       "creators": [
@@ -71,7 +71,7 @@
       "libraryCatalog": "Library of Congress ISBN",
       "callNumber": "BF121 .H212 2002",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: snyderHandbookPositivePsychology2002",
       "tags": [
         {
           "tag": "Positive psychology",
@@ -84,7 +84,7 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-21T15:08:55Z",
-      "dateModified": "2021-11-21T15:08:55Z"
+      "dateModified": "2021-11-21T17:02:43Z"
     }
   },
   {
