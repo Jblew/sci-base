@@ -1,5 +1,93 @@
 [
   {
+    "key": "X9WJGBGL",
+    "version": 181,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/X9WJGBGL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/X9WJGBGL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/FTR6YA7P",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 8930895
+      }
+    },
+    "meta": {
+      "creatorSummary": "Snyder and Lopez",
+      "parsedDate": "2002",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "X9WJGBGL",
+      "version": 181,
+      "itemType": "book",
+      "title": "Handbook of positive psychology",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "C. R.",
+          "lastName": "Snyder"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Shane J.",
+          "lastName": "Lopez"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Oxford [England] ; New York",
+      "publisher": "Oxford University Press",
+      "date": "2002",
+      "numPages": "829",
+      "language": "en",
+      "ISBN": "978-0-19-513533-6",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "BF121 .H212 2002",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "Positive psychology",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "PT5M2NF4",
+        "2VHM72EP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-21T15:08:55Z",
+      "dateModified": "2021-11-21T15:08:55Z"
+    }
+  },
+  {
     "key": "FTR6YA7P",
     "version": 178,
     "library": {
@@ -54,93 +142,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-21T15:08:52Z",
-      "dateModified": "2021-11-21T15:08:55Z"
-    }
-  },
-  {
-    "key": "X9WJGBGL",
-    "version": 177,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/X9WJGBGL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/X9WJGBGL",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/FTR6YA7P",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 8930895
-      }
-    },
-    "meta": {
-      "creatorSummary": "Snyder and Lopez",
-      "parsedDate": "2002",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "X9WJGBGL",
-      "version": 177,
-      "itemType": "book",
-      "title": "Handbook of positive psychology",
-      "creators": [
-        {
-          "creatorType": "editor",
-          "firstName": "C. R.",
-          "lastName": "Snyder"
-        },
-        {
-          "creatorType": "editor",
-          "firstName": "Shane J.",
-          "lastName": "Lopez"
-        }
-      ],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "Oxford [England] ; New York",
-      "publisher": "Oxford University Press",
-      "date": "2002",
-      "numPages": "829",
-      "language": "en",
-      "ISBN": "978-0-19-513533-6",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Library of Congress ISBN",
-      "callNumber": "BF121 .H212 2002",
-      "rights": "",
-      "extra": "",
-      "tags": [
-        {
-          "tag": "Positive psychology",
-          "type": 1
-        }
-      ],
-      "collections": [
-        "ZZAUDEFX"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-21T15:08:55Z",
       "dateModified": "2021-11-21T15:08:55Z"
     }
   },
