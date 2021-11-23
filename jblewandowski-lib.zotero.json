@@ -26,7 +26,7 @@
         "href": "https://api.zotero.org/users/8674355/items/FTR6YA7P",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 9540939
+        "attachmentSize": 9554812
       }
     },
     "meta": {
@@ -89,7 +89,7 @@
   },
   {
     "key": "FTR6YA7P",
-    "version": 183,
+    "version": 184,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -117,8 +117,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/FTR6YA7P/file/view",
-        "title": "Snyder and Lopez - 2002 - Handbook of positive psychology.pdf",
-        "length": 9540939
+        "title": "FTR6YA7P.pdf",
+        "length": 9554812
       }
     },
     "meta": {
@@ -126,7 +126,7 @@
     },
     "data": {
       "key": "FTR6YA7P",
-      "version": 183,
+      "version": 184,
       "parentItem": "X9WJGBGL",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -136,9 +136,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "Snyder and Lopez - 2002 - Handbook of positive psychology.pdf",
-      "md5": "95f2087d2195125068fa55f54e7f8c66",
-      "mtime": 1637522922000,
+      "filename": "FTR6YA7P.pdf",
+      "md5": "67500b9ba3dc1ce6740cc5df02d5b753",
+      "mtime": 1637691389173,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-21T15:08:52Z",
