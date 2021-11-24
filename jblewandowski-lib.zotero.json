@@ -26,7 +26,7 @@
         "href": "https://api.zotero.org/users/8674355/items/FTR6YA7P",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 9554812
+        "attachmentSize": 9570777
       }
     },
     "meta": {
@@ -89,7 +89,7 @@
   },
   {
     "key": "FTR6YA7P",
-    "version": 184,
+    "version": 185,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -118,7 +118,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/FTR6YA7P/file/view",
         "title": "FTR6YA7P.pdf",
-        "length": 9554812
+        "length": 9570777
       }
     },
     "meta": {
@@ -126,7 +126,7 @@
     },
     "data": {
       "key": "FTR6YA7P",
-      "version": 184,
+      "version": 185,
       "parentItem": "X9WJGBGL",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -137,8 +137,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "FTR6YA7P.pdf",
-      "md5": "67500b9ba3dc1ce6740cc5df02d5b753",
-      "mtime": 1637691389173,
+      "md5": "81ca0aeafa0238e0e3ceaf0c0b5f81e9",
+      "mtime": 1637734216230,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-21T15:08:52Z",
