@@ -4141,7 +4141,7 @@
         "href": "https://api.zotero.org/users/8674355/items/IU83SCRI",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 499758
+        "attachmentSize": 507057
       }
     },
     "meta": {
@@ -6940,7 +6940,7 @@
   },
   {
     "key": "IU83SCRI",
-    "version": 95,
+    "version": 192,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -6969,7 +6969,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/IU83SCRI/file/view",
         "title": "IU83SCRI.pdf",
-        "length": 499758
+        "length": 507057
       }
     },
     "meta": {
@@ -6977,7 +6977,7 @@
     },
     "data": {
       "key": "IU83SCRI",
-      "version": 95,
+      "version": 192,
       "parentItem": "J9DIZZ4Y",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -6988,8 +6988,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "IU83SCRI.pdf",
-      "md5": "e557b53f7bc92a656b59542cdf5fbeec",
-      "mtime": 1636267704258,
+      "md5": "343b8a13a48cafe53c608cee92ed8854",
+      "mtime": 1637819899722,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-04T19:08:41Z",
