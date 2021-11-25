@@ -26,7 +26,7 @@
         "href": "https://api.zotero.org/users/8674355/items/WPYYJHWZ",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 417841
+        "attachmentSize": 430436
       }
     },
     "meta": {
@@ -85,7 +85,7 @@
   },
   {
     "key": "WPYYJHWZ",
-    "version": 188,
+    "version": 193,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -114,7 +114,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/WPYYJHWZ/file/view",
         "title": "van Tilburg and Igou - 2013 - On the meaningfulness of behavior An expectancy x.pdf",
-        "length": 417841
+        "length": 430436
       }
     },
     "meta": {
@@ -122,7 +122,7 @@
     },
     "data": {
       "key": "WPYYJHWZ",
-      "version": 188,
+      "version": 193,
       "parentItem": "9DK6MTB4",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -133,8 +133,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "van Tilburg and Igou - 2013 - On the meaningfulness of behavior An expectancy x.pdf",
-      "md5": "5ace0ce0100e02bc4adf596f2d9abd13",
-      "mtime": 1637787297000,
+      "md5": "714e19cfe5eacca8b313086a3fb0302e",
+      "mtime": 1637787472000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-24T20:54:52Z",
