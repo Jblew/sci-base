@@ -1,5 +1,131 @@
 [
   {
+    "key": "R9XVRFB5",
+    "version": 197,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/R9XVRFB5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/R9XVRFB5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/89Q78CWR",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/R9XVRFB5/file/view",
+        "title": "barbalet1999.pdf",
+        "length": 136402
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "R9XVRFB5",
+      "version": 197,
+      "parentItem": "89Q78CWR",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "barbalet1999.pdf",
+      "md5": "67f27e1509f2645a8f5c760c793ca897",
+      "mtime": 1637906834675,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-26T06:07:14Z",
+      "dateModified": "2021-11-26T06:07:14Z"
+    }
+  },
+  {
+    "key": "89Q78CWR",
+    "version": 195,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/89Q78CWR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/89Q78CWR",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/R9XVRFB5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 136402
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "89Q78CWR",
+      "version": 195,
+      "itemType": "journalArticle",
+      "title": "barbalet1999",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-26T06:07:14Z",
+      "dateModified": "2021-11-26T06:07:14Z"
+    }
+  },
+  {
     "key": "9DK6MTB4",
     "version": 191,
     "library": {
