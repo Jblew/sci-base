@@ -1,5 +1,86 @@
 [
   {
+    "key": "YGIQBBLN",
+    "version": 210,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YGIQBBLN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YGIQBBLN",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chevallier",
+      "parsedDate": "2016",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YGIQBBLN",
+      "version": 210,
+      "itemType": "book",
+      "title": "Strategic thinking in complex problem solving",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Arnaud",
+          "lastName": "Chevallier"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Oxford ; New York",
+      "publisher": "Oxford University Press",
+      "date": "2016",
+      "numPages": "289",
+      "language": "",
+      "ISBN": "978-0-19-046390-8",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "BF449 .C476 2016",
+      "rights": "",
+      "extra": "Citation Key: chevallierStrategicThinkingComplex2016",
+      "tags": [
+        {
+          "tag": "Problem solving",
+          "type": 1
+        },
+        {
+          "tag": "Reasoning",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "YRDSMPUP",
+        "ZZAUDEFX"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-26T15:17:19Z",
+      "dateModified": "2021-11-26T15:17:28Z"
+    }
+  },
+  {
     "key": "R9XVRFB5",
     "version": 208,
     "library": {
