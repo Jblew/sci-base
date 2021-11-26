@@ -1,5 +1,64 @@
 [
   {
+    "key": "5KXHQQ4R",
+    "version": 204,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5KXHQQ4R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5KXHQQ4R",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Unknown",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5KXHQQ4R",
+      "version": 204,
+      "itemType": "webpage",
+      "title": "Case Studies — The Octalysis Group",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Unknown"
+        }
+      ],
+      "abstractNote": "The Octalysis Group has worked on innovative projects with many projects around the world. Due to NDAs we often cannot publicly showcase our success stories.\n\nHave a look at some of the high ROI projects we can show here. Want to know more about how we achieve high ROIs? Contact us!",
+      "websiteTitle": "The Octalysis Group",
+      "websiteType": "",
+      "date": "",
+      "shortTitle": "Case Studies",
+      "url": "https://octalysisgroup.com/case-studies/",
+      "accessDate": "2021-11-26",
+      "language": "English",
+      "rights": "",
+      "extra": "Citation Key: unknownCaseStudiesOctalysis",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-26T14:00:58Z",
+      "dateModified": "2021-11-26T14:36:07Z"
+    }
+  },
+  {
     "key": "LS2IJHPT",
     "version": 203,
     "library": {
@@ -60,8 +119,8 @@
     }
   },
   {
-    "key": "5KXHQQ4R",
-    "version": 199,
+    "key": "89Q78CWR",
+    "version": 206,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -75,92 +134,43 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/5KXHQQ4R",
+        "href": "https://api.zotero.org/users/8674355/items/89Q78CWR",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/5KXHQQ4R",
+        "href": "https://www.zotero.org/jblewandowski/items/89Q78CWR",
         "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Unknown",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "5KXHQQ4R",
-      "version": 199,
-      "itemType": "webpage",
-      "title": "Case Studies — The Octalysis Group",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "",
-          "lastName": "Unknown"
-        }
-      ],
-      "abstractNote": "",
-      "websiteTitle": "The Octalysis Group",
-      "websiteType": "",
-      "date": "",
-      "shortTitle": "Case Studies",
-      "url": "https://octalysisgroup.com/case-studies/",
-      "accessDate": "2021-11-26",
-      "language": "English",
-      "rights": "",
-      "extra": "Citation Key: unknownCaseStudiesOctalysis",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-26T14:00:58Z",
-      "dateModified": "2021-11-26T14:03:11Z"
-    }
-  },
-  {
-    "key": "K4J3MR22",
-    "version": 198,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/K4J3MR22",
-        "type": "application/json"
       },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/K4J3MR22",
-        "type": "text/html"
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/R9XVRFB5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 136402
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
-      "key": "K4J3MR22",
-      "version": 198,
-      "itemType": "newspaperArticle",
-      "title": "",
+      "key": "89Q78CWR",
+      "version": 206,
+      "itemType": "journalArticle",
+      "title": "barbalet1999",
       "creators": [],
       "abstractNote": "",
       "publicationTitle": "",
-      "place": "",
-      "edition": "",
-      "date": "",
-      "section": "",
+      "volume": "",
+      "issue": "",
       "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
       "language": "",
-      "shortTitle": "",
+      "DOI": "",
       "ISSN": "",
+      "shortTitle": "",
       "url": "",
       "accessDate": "",
       "archive": "",
@@ -170,10 +180,12 @@
       "rights": "",
       "extra": "",
       "tags": [],
-      "collections": [],
+      "collections": [
+        "ZZAUDEFX"
+      ],
       "relations": {},
-      "dateAdded": "2021-11-26T14:00:29Z",
-      "dateModified": "2021-11-26T14:00:29Z"
+      "dateAdded": "2021-11-26T06:07:14Z",
+      "dateModified": "2021-11-26T06:07:14Z"
     }
   },
   {
@@ -229,74 +241,6 @@
       "md5": "67f27e1509f2645a8f5c760c793ca897",
       "mtime": 1637906834675,
       "tags": [],
-      "relations": {},
-      "dateAdded": "2021-11-26T06:07:14Z",
-      "dateModified": "2021-11-26T06:07:14Z"
-    }
-  },
-  {
-    "key": "89Q78CWR",
-    "version": 195,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/89Q78CWR",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/89Q78CWR",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/R9XVRFB5",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 136402
-      }
-    },
-    "meta": {
-      "numChildren": 1
-    },
-    "data": {
-      "key": "89Q78CWR",
-      "version": 195,
-      "itemType": "journalArticle",
-      "title": "barbalet1999",
-      "creators": [],
-      "abstractNote": "",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
       "relations": {},
       "dateAdded": "2021-11-26T06:07:14Z",
       "dateModified": "2021-11-26T06:07:14Z"
