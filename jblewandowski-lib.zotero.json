@@ -1,7 +1,7 @@
 [
   {
     "key": "LS2IJHPT",
-    "version": 200,
+    "version": 203,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -24,31 +24,39 @@
       }
     },
     "meta": {
+      "creatorSummary": "Beerda",
+      "parsedDate": "2021-09-13",
       "numChildren": 0
     },
     "data": {
       "key": "LS2IJHPT",
-      "version": 200,
+      "version": 203,
       "itemType": "blogPost",
-      "title": "",
-      "creators": [],
-      "abstractNote": "",
-      "blogTitle": "",
+      "title": "Octalysis: the Gamification Framework backed by Science",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Joris",
+          "lastName": "Beerda"
+        }
+      ],
+      "abstractNote": "Most people have heard of The Octalysis Framework: the groundbreaking Gamification Framework that explains human motivation at its core. But did you know that Octalysis is also based on a strong foundation in behavioral and neurological science? In fact, The Octalysis Framework is the only gamification framework that is quoted in over 1,500 PhD theses and academic publications. Not only is Octalysis backed by numbers, it is also backed by science!",
+      "blogTitle": "The Octalysis Group",
       "websiteType": "",
-      "date": "",
-      "url": "",
-      "accessDate": "",
-      "language": "",
+      "date": "2021-09-13",
+      "url": "https://octalysisgroup.com/octalysis-the-gamification-framework-backed-by-science/",
+      "accessDate": "2021-11-26",
+      "language": "English",
       "shortTitle": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: beerdaOctalysisBackedByScience2021",
       "tags": [],
       "collections": [
         "YRDSMPUP"
       ],
       "relations": {},
       "dateAdded": "2021-11-26T14:03:50Z",
-      "dateModified": "2021-11-26T14:03:50Z"
+      "dateModified": "2021-11-26T14:06:38Z"
     }
   },
   {
