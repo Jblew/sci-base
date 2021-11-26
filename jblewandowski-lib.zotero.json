@@ -1,5 +1,174 @@
 [
   {
+    "key": "LS2IJHPT",
+    "version": 200,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LS2IJHPT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LS2IJHPT",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "LS2IJHPT",
+      "version": 200,
+      "itemType": "blogPost",
+      "title": "",
+      "creators": [],
+      "abstractNote": "",
+      "blogTitle": "",
+      "websiteType": "",
+      "date": "",
+      "url": "",
+      "accessDate": "",
+      "language": "",
+      "shortTitle": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-26T14:03:50Z",
+      "dateModified": "2021-11-26T14:03:50Z"
+    }
+  },
+  {
+    "key": "5KXHQQ4R",
+    "version": 199,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5KXHQQ4R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5KXHQQ4R",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Unknown",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5KXHQQ4R",
+      "version": 199,
+      "itemType": "webpage",
+      "title": "Case Studies — The Octalysis Group",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Unknown"
+        }
+      ],
+      "abstractNote": "",
+      "websiteTitle": "The Octalysis Group",
+      "websiteType": "",
+      "date": "",
+      "shortTitle": "Case Studies",
+      "url": "https://octalysisgroup.com/case-studies/",
+      "accessDate": "2021-11-26",
+      "language": "English",
+      "rights": "",
+      "extra": "Citation Key: unknownCaseStudiesOctalysis",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-26T14:00:58Z",
+      "dateModified": "2021-11-26T14:03:11Z"
+    }
+  },
+  {
+    "key": "K4J3MR22",
+    "version": 198,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K4J3MR22",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K4J3MR22",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "K4J3MR22",
+      "version": 198,
+      "itemType": "newspaperArticle",
+      "title": "",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "place": "",
+      "edition": "",
+      "date": "",
+      "section": "",
+      "pages": "",
+      "language": "",
+      "shortTitle": "",
+      "ISSN": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-11-26T14:00:29Z",
+      "dateModified": "2021-11-26T14:00:29Z"
+    }
+  },
+  {
     "key": "R9XVRFB5",
     "version": 197,
     "library": {
