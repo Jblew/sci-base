@@ -296,64 +296,8 @@
     }
   },
   {
-    "key": "8449CLZU",
-    "version": 215,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/8449CLZU",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/8449CLZU",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/8449CLZU/file/view",
-        "title": "cd7c307a00a42b8e6174353151f42b93.pdf",
-        "length": 138969
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "8449CLZU",
-      "version": 215,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "cd7c307a00a42b8e6174353151f42b93.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "cd7c307a00a42b8e6174353151f42b93.pdf",
-      "md5": "979b8bcabbb4002a99e8cc16662832b0",
-      "mtime": 1638129431000,
-      "tags": [],
-      "collections": [
-        "PT5M2NF4"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-28T19:57:11Z",
-      "dateModified": "2021-11-28T19:57:11Z"
-    }
-  },
-  {
     "key": "DUY3YMMD",
-    "version": 217,
+    "version": 219,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -382,7 +326,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/DUY3YMMD/file/view",
         "title": "Fuchs - 2014 - Gamification as twenty-first-century ideology.pdf",
-        "length": 845683
+        "length": 887272
       }
     },
     "meta": {
@@ -390,7 +334,7 @@
     },
     "data": {
       "key": "DUY3YMMD",
-      "version": 217,
+      "version": 219,
       "parentItem": "7ZYQBK23",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -401,8 +345,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Fuchs - 2014 - Gamification as twenty-first-century ideology.pdf",
-      "md5": "7bbe741c4ca97d3bfa68d1e1dd5cf3f7",
-      "mtime": 1638129427000,
+      "md5": "edf97b600f8eb386325be00f56deda8a",
+      "mtime": 1638130828000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-28T19:57:05Z",
@@ -436,7 +380,7 @@
         "href": "https://api.zotero.org/users/8674355/items/DUY3YMMD",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 845683
+        "attachmentSize": 887272
       }
     },
     "meta": {
