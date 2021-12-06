@@ -1,5 +1,159 @@
 [
   {
+    "key": "IIHB7X62",
+    "version": 224,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IIHB7X62",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IIHB7X62",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/BSDJHTI3",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/IIHB7X62/file/view",
+        "title": "lin2017.pdf",
+        "length": 164285
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "IIHB7X62",
+      "version": 224,
+      "parentItem": "BSDJHTI3",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "lin2017.pdf",
+      "md5": "6a59e39ba5e079674fba6d214f39cbb8",
+      "mtime": 1638779401986,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-06T08:30:01Z",
+      "dateModified": "2021-12-06T08:30:01Z"
+    }
+  },
+  {
+    "key": "BSDJHTI3",
+    "version": 222,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BSDJHTI3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BSDJHTI3",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/IIHB7X62",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 164285
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lin et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "BSDJHTI3",
+      "version": 222,
+      "itemType": "journalArticle",
+      "title": "Implementing economic evaluation in simulation-based medical education: challenges and opportunities",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yiqun",
+          "lastName": "Lin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Cheng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kent",
+          "lastName": "Hecker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vincent",
+          "lastName": "Grant"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gillian R.",
+          "lastName": "Currie"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education",
+      "volume": "52",
+      "issue": "2",
+      "pages": "150-160",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1111/medu.13411",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-06T08:30:01Z",
+      "dateModified": "2021-12-06T08:30:01Z"
+    }
+  },
+  {
     "key": "Z9ASMBUS",
     "version": 216,
     "library": {
