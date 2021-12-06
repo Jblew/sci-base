@@ -154,6 +154,77 @@
     }
   },
   {
+    "key": "HE9E7DJC",
+    "version": 226,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HE9E7DJC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HE9E7DJC",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Parikh",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "HE9E7DJC",
+      "version": 226,
+      "itemType": "journalArticle",
+      "title": "Social software",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Parikh"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "http://dx.doi.org/10.1023/A.A1020391420768",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "97KVKMED"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-05T20:10:48Z",
+      "dateModified": "2021-12-05T20:12:20Z"
+    }
+  },
+  {
     "key": "Z9ASMBUS",
     "version": 216,
     "library": {
