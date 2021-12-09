@@ -1,5 +1,201 @@
 [
   {
+    "key": "RH4JKQLD",
+    "version": 235,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RH4JKQLD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RH4JKQLD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/UREPE343",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "RH4JKQLD",
+      "version": 235,
+      "parentItem": "UREPE343",
+      "itemType": "note",
+      "note": "<p>Revised edition of Oxford handbook of positive psychology</p>",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-09T19:54:09Z",
+      "dateModified": "2021-12-09T20:02:00Z"
+    }
+  },
+  {
+    "key": "56LSN45L",
+    "version": 231,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/56LSN45L",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/56LSN45L",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Frankl",
+      "parsedDate": "1963",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "56LSN45L",
+      "version": 231,
+      "itemType": "journalArticle",
+      "title": "Man’s search for meaning: An introduction to logotherapy (i. Lasch, trans.)",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Viktor E",
+          "lastName": "Frankl"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "New York, NY: Pocket",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "1963",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: frankl1963man",
+      "tags": [],
+      "collections": [
+        "P46RHP3Z"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-09T19:59:10Z",
+      "dateModified": "2021-12-09T19:59:10Z"
+    }
+  },
+  {
+    "key": "UREPE343",
+    "version": 230,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UREPE343",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UREPE343",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Snyder and Lopez",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UREPE343",
+      "version": 230,
+      "itemType": "book",
+      "title": "The Oxford handbook of positive psychology",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "C. R.",
+          "lastName": "Snyder"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Shane J.",
+          "lastName": "Lopez"
+        }
+      ],
+      "abstractNote": "\"The Oxford Handbook of Positive Psychology is the seminal reference in the field of positive psychology, which continues to transcend the boundaries of academia to capture the imagination of the general public. Almost 20 years after the first publication of this groundbreaking reference, this new third edition showcases how positive psychology is thriving in diverse contexts and fields of psychology. Consisting of 68 chapters of the most current theory and research, this updated handbook provides an unparalleled cross-disciplinary look at positive psychology from diverse fields and all branches of psychology, including social, clinical, personality, counseling, health, school, and developmental psychology. Several new chapters are included which highlight the latest research on positive psychology and neuroscience, as well as growing areas for applications of positive psychology\"--",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "Third Edition",
+      "place": "New York",
+      "publisher": "Oxford University Press",
+      "date": "2020",
+      "numPages": "1",
+      "language": "",
+      "ISBN": "978-0-19-939653-5",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "BF204.6",
+      "rights": "",
+      "extra": "Citation Key: snyderOxfordHandbookPositive2020",
+      "tags": [
+        {
+          "tag": "Positive psychology",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "P46RHP3Z"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-09T19:54:09Z",
+      "dateModified": "2021-12-09T19:54:18Z"
+    }
+  },
+  {
     "key": "BRYWFIXH",
     "version": 229,
     "library": {
@@ -1344,7 +1540,7 @@
   },
   {
     "key": "X9WJGBGL",
-    "version": 182,
+    "version": 234,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1379,7 +1575,7 @@
     },
     "data": {
       "key": "X9WJGBGL",
-      "version": 182,
+      "version": 234,
       "itemType": "book",
       "title": "Handbook of positive psychology",
       "creators": [
@@ -1423,6 +1619,7 @@
       ],
       "collections": [
         "PT5M2NF4",
+        "P46RHP3Z",
         "2VHM72EP"
       ],
       "relations": {},
