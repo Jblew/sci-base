@@ -1,5 +1,146 @@
 [
   {
+    "key": "BRYWFIXH",
+    "version": 228,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BRYWFIXH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BRYWFIXH",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Suits",
+      "parsedDate": "1978",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BRYWFIXH",
+      "version": 228,
+      "itemType": "book",
+      "title": "The grasshopper: games, life, and Utopia",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bernard",
+          "lastName": "Suits"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Toronto ; Buffalo",
+      "publisher": "University of Toronto Press",
+      "date": "1978",
+      "numPages": "178",
+      "language": "",
+      "ISBN": "978-0-8020-2301-8",
+      "shortTitle": "The grasshopper",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "HX806 .S78",
+      "rights": "",
+      "extra": "Citation Key: suitsGrasshopperGamesLife1978",
+      "tags": [
+        {
+          "tag": "Game theory",
+          "type": 1
+        },
+        {
+          "tag": "Utopias",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "T46PNHBN"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-09T13:19:56Z",
+      "dateModified": "2021-12-09T13:20:00Z"
+    }
+  },
+  {
+    "key": "QQ47I522",
+    "version": 228,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QQ47I522",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QQ47I522",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "QQ47I522",
+      "version": 228,
+      "itemType": "book",
+      "title": "",
+      "creators": [],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-09T13:19:45Z",
+      "dateModified": "2021-12-09T13:19:45Z"
+    }
+  },
+  {
     "key": "IIHB7X62",
     "version": 224,
     "library": {
