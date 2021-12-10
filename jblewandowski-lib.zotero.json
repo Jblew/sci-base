@@ -1,7 +1,294 @@
 [
   {
+    "key": "AJHI6JCD",
+    "version": 264,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AJHI6JCD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AJHI6JCD",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/WGJMV3IJ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 740626
+      }
+    },
+    "meta": {
+      "creatorSummary": "McGaghie et al.",
+      "parsedDate": "2009",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AJHI6JCD",
+      "version": 264,
+      "itemType": "journalArticle",
+      "title": "Lessons for Continuing Medical Education From Simulation Research in Undergraduate and Graduate Medical Education",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William C.",
+          "lastName": "McGaghie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Viva J.",
+          "lastName": "Siddall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul E.",
+          "lastName": "Mazmanian"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Janet",
+          "lastName": "Myers"
+        }
+      ],
+      "abstractNote": "Background: Simulation technology is widely used in undergraduate and graduate medical education as well as for personnel training and evaluation in other healthcare professions. Simulation provides safe and effective opportunities for learners at all levels to practice and acquire clinical skills needed for patient care. A growing body of research evidence documents the utility of simulation technology for educating healthcare professionals. However, simulation has not been widely endorsed or used for continuing medical education (CME).\nMethods: This article reviews and evaluates evidence from studies on simulation technology in undergraduate and graduate medical education and addresses its implications for CME.\nResults: The Agency for Healthcare Research and Quality Evidence Report suggests that simulation training is effective, especially for psychomotor and communication skills, but that the strength of the evidence is low. In another review, the Best Evidence Medical Education collaboration supported the use of simulation technology, focusing on high-fidelity medical simulations under specific conditions. Other studies enumerate best practices that include mastery learning, deliberate practice, and recognition and attention to cultural barriers within the medical profession that present obstacles to wider use of this technology.\nConclusions: Simulation technology is a powerful tool for the education of physicians and other healthcare professionals at all levels. Its educational effectiveness depends on informed use for trainees, including providing feedback, engaging learners in deliberate practice, integrating simulation into an overall curriculum, as well as on the instruction and competence of faculty in its use. Medical simulation complements, but does not replace, educational activities based on real patient-care experiences.",
+      "publicationTitle": "Chest",
+      "volume": "135",
+      "issue": "3",
+      "pages": "62S-68S",
+      "date": "03/2009",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Chest",
+      "language": "en",
+      "DOI": "10.1378/chest.08-2521",
+      "ISSN": "00123692",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0012369209601768",
+      "accessDate": "2021-12-10T19:28:36Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mcgaghieLessonsContinuingMedical2009",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:28:36Z",
+      "dateModified": "2021-12-10T19:28:39Z"
+    }
+  },
+  {
+    "key": "WGJMV3IJ",
+    "version": 265,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WGJMV3IJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WGJMV3IJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/AJHI6JCD",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/WGJMV3IJ/file/view",
+        "title": "McGaghie et al. - 2009 - Lessons for Continuing Medical Education From Simu.pdf",
+        "length": 740626
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WGJMV3IJ",
+      "version": 265,
+      "parentItem": "AJHI6JCD",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "McGaghie et al. - 2009 - Lessons for Continuing Medical Education From Simu.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "McGaghie et al. - 2009 - Lessons for Continuing Medical Education From Simu.pdf",
+      "md5": "a147a3152d7b95f7a333905f521c54d2",
+      "mtime": 1639164516000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:28:34Z",
+      "dateModified": "2021-12-10T19:28:36Z"
+    }
+  },
+  {
+    "key": "V65XKC8V",
+    "version": 261,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V65XKC8V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V65XKC8V",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3PX7NZA8",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 828223
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ericsson",
+      "parsedDate": "2006",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "V65XKC8V",
+      "version": 261,
+      "itemType": "journalArticle",
+      "title": "The Inﬂuence of Experience and Deliberate Practice on the Development of Superior Expert Performance",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "K Anders",
+          "lastName": "Ericsson"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "the cambridge handbook of expertise and expert performance",
+      "volume": "",
+      "issue": "",
+      "pages": "22",
+      "date": "2006",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: ericssonInfluenceExperienceDeliberate2006",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:25:58Z",
+      "dateModified": "2021-12-10T19:26:04Z"
+    }
+  },
+  {
+    "key": "3PX7NZA8",
+    "version": 262,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3PX7NZA8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3PX7NZA8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/V65XKC8V",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3PX7NZA8/file/view",
+        "title": "Ericsson - 2006 - The Inﬂuence of Experience and Deliberate Practice.pdf",
+        "length": 828223
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3PX7NZA8",
+      "version": 262,
+      "parentItem": "V65XKC8V",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ericsson - 2006 - The Inﬂuence of Experience and Deliberate Practice.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ericsson - 2006 - The Inﬂuence of Experience and Deliberate Practice.pdf",
+      "md5": "1b53bcfe3818da04d508704f0698c83f",
+      "mtime": 1639164358000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:25:56Z",
+      "dateModified": "2021-12-10T19:25:58Z"
+    }
+  },
+  {
     "key": "ITML9U4D",
-    "version": 257,
+    "version": 260,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -30,7 +317,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/ITML9U4D/file/view",
         "title": "Ericsson - 2004 - Deliberate Practice and the Acquisition and Mainte.pdf",
-        "length": 231505
+        "length": 392447
       }
     },
     "meta": {
@@ -38,7 +325,7 @@
     },
     "data": {
       "key": "ITML9U4D",
-      "version": 257,
+      "version": 260,
       "parentItem": "5XBLMPDQ",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -49,8 +336,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Ericsson - 2004 - Deliberate Practice and the Acquisition and Mainte.pdf",
-      "md5": "4fc32d888cc94986887e4fce1ab42d08",
-      "mtime": 1639162084000,
+      "md5": "2dbc5ccbd5f39e01fecb4fed374221be",
+      "mtime": 1639164307000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-10T18:48:00Z",
@@ -84,7 +371,7 @@
         "href": "https://api.zotero.org/users/8674355/items/ITML9U4D",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 231505
+        "attachmentSize": 392447
       }
     },
     "meta": {
@@ -162,7 +449,7 @@
         "href": "https://api.zotero.org/users/8674355/items/JL4AY9JR",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 65244
+        "attachmentSize": 80783
       }
     },
     "meta": {
@@ -235,7 +522,7 @@
   },
   {
     "key": "JL4AY9JR",
-    "version": 253,
+    "version": 259,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -263,8 +550,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/JL4AY9JR/file/view",
-        "title": "McGaghie et al. - 2011 - Does Simulation-based Medical Education with Delib.pdf",
-        "length": 65244
+        "title": "McGaghie et al. - 2011 - Does Simulation-Based Medical Education With Delib.pdf",
+        "length": 80783
       }
     },
     "meta": {
@@ -272,7 +559,7 @@
     },
     "data": {
       "key": "JL4AY9JR",
-      "version": 253,
+      "version": 259,
       "parentItem": "JC87MRZ4",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -283,8 +570,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "McGaghie et al. - 2011 - Does Simulation-Based Medical Education With Delib.pdf",
-      "md5": "2d5eb5272e77d97fe0daa529cbca6f22",
-      "mtime": 1639157149000,
+      "md5": "4211d70d1381938ed07b8954384781df",
+      "mtime": 1639157341000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-10T17:25:46Z",
