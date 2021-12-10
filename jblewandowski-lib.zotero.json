@@ -1,5 +1,175 @@
 [
   {
+    "key": "HKHMTAH2",
+    "version": 242,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HKHMTAH2",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/B7VHBS4J",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2/file/view",
+        "title": "Czekajlo et al. - Symulacja medyczna jako profesjonalne narzędzie wp.pdf",
+        "length": 677614
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "HKHMTAH2",
+      "version": 242,
+      "parentItem": "B7VHBS4J",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Czekajlo et al. - Symulacja medyczna jako profesjonalne narzędzie wp.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Czekajlo et al. - Symulacja medyczna jako profesjonalne narzędzie wp.pdf",
+      "md5": "916b91aee83f46b4fde577ea0a389b7a",
+      "mtime": 1639142693000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T13:24:51Z",
+      "dateModified": "2021-12-10T13:24:54Z"
+    }
+  },
+  {
+    "key": "B7VHBS4J",
+    "version": 241,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B7VHBS4J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B7VHBS4J",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 677614
+      }
+    },
+    "meta": {
+      "creatorSummary": "Czekajlo et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "B7VHBS4J",
+      "version": 241,
+      "itemType": "journalArticle",
+      "title": "Symulacja medyczna jako profesjonalne narzędzie wpływające na bezpieczeństwo pacjenta wykorzystywane w procesie nauczania",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Czekajlo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marek",
+          "lastName": "Dąbrowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Agata",
+          "lastName": "Dąbrowska"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kamil",
+          "lastName": "Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Magdalena",
+          "lastName": "Witt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Łukasz",
+          "lastName": "Gąsiorowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Magdalena",
+          "lastName": "Szukała"
+        }
+      ],
+      "abstractNote": "Czekajlo M1,4, Dąbrowski M2, Dąbrowska A2, Torres K4, Torres A5, Witt M2, Gąsiorowski Ł3, Szukała M4. 1Anestesiology Department, Virginia Commonwealth University Health System, Richmond VA, USA; 2The Department of Emergency Medicine and Disaster Medicine, Medical University of Poznań, Poland; 3Medical Simulations Center, Medical University of Poznań, Poland; 4Medical Simulation Centre, Medical University of Lublin, Poland; 5Laboratory of Biostructure, Human Anatomy Department, Medical University of Lublin, Poland Simulation is the methodology of teaching, learning process using educational equipment from simple simulators, designed to study individual tasks, through advanced mannequins called human patient stimulators faithfully mimic the human and its parameters. The medical simulation’s main task is education and improvement patients’ safety. Advanced human simulators can realistically cough, vomit with artificial chyme and bleed with artificial blood causing a real stress of medical personnel and the need for immediate action. Medical simulation gives the opportunity to prepare medical personnel to the profession more effectively, in less time than traditional education and also clearly affects the patients' safety.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "5",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "pl",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "VAU62IIC"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T13:24:53Z",
+      "dateModified": "2021-12-10T13:24:53Z"
+    }
+  },
+  {
     "key": "FQGT6E6B",
     "version": 240,
     "library": {
