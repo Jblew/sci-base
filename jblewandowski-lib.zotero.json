@@ -1,5 +1,118 @@
 [
   {
+    "key": "B7VHBS4J",
+    "version": 250,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B7VHBS4J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B7VHBS4J",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 732738
+      }
+    },
+    "meta": {
+      "creatorSummary": "Czekajlo et al.",
+      "parsedDate": "2015-06",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "B7VHBS4J",
+      "version": 250,
+      "itemType": "journalArticle",
+      "title": "Symulacja medyczna jako profesjonalne narzędzie wpływające na bezpieczeństwo pacjenta wykorzystywane w procesie nauczania",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Czekajlo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marek",
+          "lastName": "Dąbrowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Agata",
+          "lastName": "Dąbrowska"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kamil",
+          "lastName": "Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Magdalena",
+          "lastName": "Witt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Łukasz",
+          "lastName": "Gąsiorowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Magdalena",
+          "lastName": "Szukała"
+        }
+      ],
+      "abstractNote": "Czekajlo M1,4, Dąbrowski M2, Dąbrowska A2, Torres K4, Torres A5, Witt M2, Gąsiorowski Ł3, Szukała M4. 1Anestesiology Department, Virginia Commonwealth University Health System, Richmond VA, USA; 2The Department of Emergency Medicine and Disaster Medicine, Medical University of Poznań, Poland; 3Medical Simulations Center, Medical University of Poznań, Poland; 4Medical Simulation Centre, Medical University of Lublin, Poland; 5Laboratory of Biostructure, Human Anatomy Department, Medical University of Lublin, Poland Simulation is the methodology of teaching, learning process using educational equipment from simple simulators, designed to study individual tasks, through advanced mannequins called human patient stimulators faithfully mimic the human and its parameters. The medical simulation’s main task is education and improvement patients’ safety. Advanced human simulators can realistically cough, vomit with artificial chyme and bleed with artificial blood causing a real stress of medical personnel and the need for immediate action. Medical simulation gives the opportunity to prepare medical personnel to the profession more effectively, in less time than traditional education and also clearly affects the patients' safety.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "5",
+      "date": "2015/06",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "pl",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "VAU62IIC"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T13:24:53Z",
+      "dateModified": "2021-12-10T16:03:57Z"
+    }
+  },
+  {
     "key": "MLNAVPPP",
     "version": 249,
     "library": {
@@ -26,7 +139,7 @@
         "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 456295
+        "attachmentSize": 472829
       }
     },
     "meta": {
@@ -79,7 +192,7 @@
   },
   {
     "key": "8ZS35S9W",
-    "version": 245,
+    "version": 251,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -108,7 +221,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W/file/view",
         "title": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
-        "length": 456295
+        "length": 472829
       }
     },
     "meta": {
@@ -116,7 +229,7 @@
     },
     "data": {
       "key": "8ZS35S9W",
-      "version": 245,
+      "version": 251,
       "parentItem": "MLNAVPPP",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -127,8 +240,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
-      "md5": "42219a19d57cea1dae02f4567312b40e",
-      "mtime": 1639148038000,
+      "md5": "5f18f4c7729af1a472a8cb0fe1ed9395",
+      "mtime": 1639148211000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-10T14:53:55Z",
@@ -191,118 +304,6 @@
       "relations": {},
       "dateAdded": "2021-12-10T13:24:51Z",
       "dateModified": "2021-12-10T13:24:54Z"
-    }
-  },
-  {
-    "key": "B7VHBS4J",
-    "version": 241,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/B7VHBS4J",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/B7VHBS4J",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 732738
-      }
-    },
-    "meta": {
-      "creatorSummary": "Czekajlo et al.",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "B7VHBS4J",
-      "version": 241,
-      "itemType": "journalArticle",
-      "title": "Symulacja medyczna jako profesjonalne narzędzie wpływające na bezpieczeństwo pacjenta wykorzystywane w procesie nauczania",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Michael",
-          "lastName": "Czekajlo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Marek",
-          "lastName": "Dąbrowski"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Agata",
-          "lastName": "Dąbrowska"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Kamil",
-          "lastName": "Torres"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Anna",
-          "lastName": "Torres"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Magdalena",
-          "lastName": "Witt"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Łukasz",
-          "lastName": "Gąsiorowski"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Magdalena",
-          "lastName": "Szukała"
-        }
-      ],
-      "abstractNote": "Czekajlo M1,4, Dąbrowski M2, Dąbrowska A2, Torres K4, Torres A5, Witt M2, Gąsiorowski Ł3, Szukała M4. 1Anestesiology Department, Virginia Commonwealth University Health System, Richmond VA, USA; 2The Department of Emergency Medicine and Disaster Medicine, Medical University of Poznań, Poland; 3Medical Simulations Center, Medical University of Poznań, Poland; 4Medical Simulation Centre, Medical University of Lublin, Poland; 5Laboratory of Biostructure, Human Anatomy Department, Medical University of Lublin, Poland Simulation is the methodology of teaching, learning process using educational equipment from simple simulators, designed to study individual tasks, through advanced mannequins called human patient stimulators faithfully mimic the human and its parameters. The medical simulation’s main task is education and improvement patients’ safety. Advanced human simulators can realistically cough, vomit with artificial chyme and bleed with artificial blood causing a real stress of medical personnel and the need for immediate action. Medical simulation gives the opportunity to prepare medical personnel to the profession more effectively, in less time than traditional education and also clearly affects the patients' safety.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "5",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "pl",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "VAU62IIC"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-10T13:24:53Z",
-      "dateModified": "2021-12-10T13:24:53Z"
     }
   },
   {
