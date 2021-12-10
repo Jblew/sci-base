@@ -1,7 +1,143 @@
 [
   {
+    "key": "MLNAVPPP",
+    "version": 249,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MLNAVPPP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MLNAVPPP",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 456295
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hansen",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "MLNAVPPP",
+      "version": 249,
+      "itemType": "journalArticle",
+      "title": "The Definition of Nudge and Libertarian Paternalism: Does the Hand Fit the Glove?",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Pelle Guldborg",
+          "lastName": "Hansen"
+        }
+      ],
+      "abstractNote": "In recent years the concepts of ‘nudge’ and ‘libertarian paternalism’ have become popular theoretical as well as practical concepts inside as well as outside academia. But in spite of the widespread interest, confusion reigns as to what exactly is to be regarded as a nudge and how the underlying approach to behaviour change relates to libertarian paternalism. This article sets out to improve the clarity and value of the definition of nudge by reconciling it with its theoretical foundations in behavioural economics. In doing so it not only explicates the relationship between nudges and libertarian paternalism, but also clarifies how nudges relate to incentives and information, and may even be consistent with the removal of certain types of choices. In the end we are left with a revised definition of the concept of nudge that allows for consistently categorising behaviour change interventions as such and that places them relative to libertarian paternalism.",
+      "publicationTitle": "European Journal of Risk Regulation",
+      "volume": "7",
+      "issue": "1",
+      "pages": "155-174",
+      "date": "03/2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Eur. j. risk regul.",
+      "language": "en",
+      "DOI": "10.1017/S1867299X00005468",
+      "ISSN": "1867-299X, 2190-8249",
+      "shortTitle": "The Definition of Nudge and Libertarian Paternalism",
+      "url": "https://www.cambridge.org/core/product/identifier/S1867299X00005468/type/journal_article",
+      "accessDate": "2021-12-10T14:53:57Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: hansenDefinitionNudgeLibertarian2016",
+      "tags": [],
+      "collections": [
+        "97KVKMED"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T14:53:57Z",
+      "dateModified": "2021-12-10T14:54:34Z"
+    }
+  },
+  {
+    "key": "8ZS35S9W",
+    "version": 245,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8ZS35S9W",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/MLNAVPPP",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W/file/view",
+        "title": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
+        "length": 456295
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "8ZS35S9W",
+      "version": 245,
+      "parentItem": "MLNAVPPP",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
+      "md5": "42219a19d57cea1dae02f4567312b40e",
+      "mtime": 1639148038000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T14:53:55Z",
+      "dateModified": "2021-12-10T14:53:58Z"
+    }
+  },
+  {
     "key": "HKHMTAH2",
-    "version": 242,
+    "version": 246,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -30,7 +166,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2/file/view",
         "title": "Czekajlo et al. - Symulacja medyczna jako profesjonalne narzędzie wp.pdf",
-        "length": 677614
+        "length": 732738
       }
     },
     "meta": {
@@ -38,7 +174,7 @@
     },
     "data": {
       "key": "HKHMTAH2",
-      "version": 242,
+      "version": 246,
       "parentItem": "B7VHBS4J",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -49,8 +185,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Czekajlo et al. - Symulacja medyczna jako profesjonalne narzędzie wp.pdf",
-      "md5": "916b91aee83f46b4fde577ea0a389b7a",
-      "mtime": 1639142693000,
+      "md5": "d1f2e56612cbf27b20cca93ad76fa44e",
+      "mtime": 1639145776000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-10T13:24:51Z",
@@ -84,7 +220,7 @@
         "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 677614
+        "attachmentSize": 732738
       }
     },
     "meta": {
@@ -196,7 +332,7 @@
         "href": "https://api.zotero.org/users/8674355/items/JIM3MFWH",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 136615
+        "attachmentSize": 165437
       }
     },
     "meta": {
@@ -249,7 +385,7 @@
   },
   {
     "key": "JIM3MFWH",
-    "version": 240,
+    "version": 247,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -278,7 +414,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/JIM3MFWH/file/view",
         "title": "parikh2002.pdf",
-        "length": 136615
+        "length": 165437
       }
     },
     "meta": {
@@ -286,7 +422,7 @@
     },
     "data": {
       "key": "JIM3MFWH",
-      "version": 240,
+      "version": 247,
       "parentItem": "FQGT6E6B",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -297,8 +433,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "parikh2002.pdf",
-      "md5": "96acdedd7a8ba4d5da413ff006396334",
-      "mtime": 1639134430000,
+      "md5": "228792ce573a62d8cf234b022a2528ee",
+      "mtime": 1639140383000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-10T11:07:10Z",
