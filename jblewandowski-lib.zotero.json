@@ -1,5 +1,196 @@
 [
   {
+    "key": "5XBLMPDQ",
+    "version": 270,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5XBLMPDQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5XBLMPDQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ITML9U4D",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 392447
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ericsson",
+      "parsedDate": "2004",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5XBLMPDQ",
+      "version": 270,
+      "itemType": "journalArticle",
+      "title": "Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains:",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "K Anders",
+          "lastName": "Ericsson"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Academic Medicine",
+      "volume": "79",
+      "issue": "Supplement",
+      "pages": "S70-S81",
+      "date": "10/2004",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Academic Medicine",
+      "language": "en",
+      "DOI": "10.1097/00001888-200410001-00022",
+      "ISSN": "1040-2446",
+      "shortTitle": "Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains",
+      "url": "http://journals.lww.com/00001888-200410001-00022",
+      "accessDate": "2021-12-10T18:48:04Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: ericssonDeliberatePracticeAcquisition2004",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T18:48:04Z",
+      "dateModified": "2021-12-10T19:41:08Z"
+    }
+  },
+  {
+    "key": "B7VHBS4J",
+    "version": 270,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B7VHBS4J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B7VHBS4J",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 732738
+      }
+    },
+    "meta": {
+      "creatorSummary": "Czekajlo et al.",
+      "parsedDate": "2015-06",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "B7VHBS4J",
+      "version": 270,
+      "itemType": "journalArticle",
+      "title": "Symulacja medyczna jako profesjonalne narzędzie wpływające na bezpieczeństwo pacjenta wykorzystywane w procesie nauczania",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Czekajlo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marek",
+          "lastName": "Dąbrowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Agata",
+          "lastName": "Dąbrowska"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kamil",
+          "lastName": "Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Torres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Magdalena",
+          "lastName": "Witt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Łukasz",
+          "lastName": "Gąsiorowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Magdalena",
+          "lastName": "Szukała"
+        }
+      ],
+      "abstractNote": "Czekajlo M1,4, Dąbrowski M2, Dąbrowska A2, Torres K4, Torres A5, Witt M2, Gąsiorowski Ł3, Szukała M4. 1Anestesiology Department, Virginia Commonwealth University Health System, Richmond VA, USA; 2The Department of Emergency Medicine and Disaster Medicine, Medical University of Poznań, Poland; 3Medical Simulations Center, Medical University of Poznań, Poland; 4Medical Simulation Centre, Medical University of Lublin, Poland; 5Laboratory of Biostructure, Human Anatomy Department, Medical University of Lublin, Poland Simulation is the methodology of teaching, learning process using educational equipment from simple simulators, designed to study individual tasks, through advanced mannequins called human patient stimulators faithfully mimic the human and its parameters. The medical simulation’s main task is education and improvement patients’ safety. Advanced human simulators can realistically cough, vomit with artificial chyme and bleed with artificial blood causing a real stress of medical personnel and the need for immediate action. Medical simulation gives the opportunity to prepare medical personnel to the profession more effectively, in less time than traditional education and also clearly affects the patients' safety.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "5",
+      "date": "2015/06",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "pl",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: czekajloSymulacjaMedycznaJako2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T13:24:53Z",
+      "dateModified": "2021-12-10T19:41:08Z"
+    }
+  },
+  {
     "key": "AJHI6JCD",
     "version": 264,
     "library": {
@@ -26,7 +217,7 @@
         "href": "https://api.zotero.org/users/8674355/items/WGJMV3IJ",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 740626
+        "attachmentSize": 751922
       }
     },
     "meta": {
@@ -94,7 +285,7 @@
   },
   {
     "key": "WGJMV3IJ",
-    "version": 265,
+    "version": 267,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -123,7 +314,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/WGJMV3IJ/file/view",
         "title": "McGaghie et al. - 2009 - Lessons for Continuing Medical Education From Simu.pdf",
-        "length": 740626
+        "length": 751922
       }
     },
     "meta": {
@@ -131,7 +322,7 @@
     },
     "data": {
       "key": "WGJMV3IJ",
-      "version": 265,
+      "version": 267,
       "parentItem": "AJHI6JCD",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -142,8 +333,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "McGaghie et al. - 2009 - Lessons for Continuing Medical Education From Simu.pdf",
-      "md5": "a147a3152d7b95f7a333905f521c54d2",
-      "mtime": 1639164516000,
+      "md5": "0fb4dda13766d5bb0e696262f566a615",
+      "mtime": 1639164673000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-10T19:28:34Z",
@@ -345,84 +536,6 @@
     }
   },
   {
-    "key": "5XBLMPDQ",
-    "version": 256,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/5XBLMPDQ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/5XBLMPDQ",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/ITML9U4D",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 392447
-      }
-    },
-    "meta": {
-      "creatorSummary": "Ericsson",
-      "parsedDate": "2004",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "5XBLMPDQ",
-      "version": 256,
-      "itemType": "journalArticle",
-      "title": "Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains:",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "K Anders",
-          "lastName": "Ericsson"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "Academic Medicine",
-      "volume": "79",
-      "issue": "Supplement",
-      "pages": "S70-S81",
-      "date": "10/2004",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Academic Medicine",
-      "language": "en",
-      "DOI": "10.1097/00001888-200410001-00022",
-      "ISSN": "1040-2446",
-      "shortTitle": "Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains",
-      "url": "http://journals.lww.com/00001888-200410001-00022",
-      "accessDate": "2021-12-10T18:48:04Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-10T18:48:04Z",
-      "dateModified": "2021-12-10T18:48:04Z"
-    }
-  },
-  {
     "key": "JC87MRZ4",
     "version": 255,
     "library": {
@@ -576,119 +689,6 @@
       "relations": {},
       "dateAdded": "2021-12-10T17:25:46Z",
       "dateModified": "2021-12-10T17:25:49Z"
-    }
-  },
-  {
-    "key": "B7VHBS4J",
-    "version": 250,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/B7VHBS4J",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/B7VHBS4J",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/HKHMTAH2",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 732738
-      }
-    },
-    "meta": {
-      "creatorSummary": "Czekajlo et al.",
-      "parsedDate": "2015-06",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "B7VHBS4J",
-      "version": 250,
-      "itemType": "journalArticle",
-      "title": "Symulacja medyczna jako profesjonalne narzędzie wpływające na bezpieczeństwo pacjenta wykorzystywane w procesie nauczania",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Michael",
-          "lastName": "Czekajlo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Marek",
-          "lastName": "Dąbrowski"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Agata",
-          "lastName": "Dąbrowska"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Kamil",
-          "lastName": "Torres"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Anna",
-          "lastName": "Torres"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Magdalena",
-          "lastName": "Witt"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Łukasz",
-          "lastName": "Gąsiorowski"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Magdalena",
-          "lastName": "Szukała"
-        }
-      ],
-      "abstractNote": "Czekajlo M1,4, Dąbrowski M2, Dąbrowska A2, Torres K4, Torres A5, Witt M2, Gąsiorowski Ł3, Szukała M4. 1Anestesiology Department, Virginia Commonwealth University Health System, Richmond VA, USA; 2The Department of Emergency Medicine and Disaster Medicine, Medical University of Poznań, Poland; 3Medical Simulations Center, Medical University of Poznań, Poland; 4Medical Simulation Centre, Medical University of Lublin, Poland; 5Laboratory of Biostructure, Human Anatomy Department, Medical University of Lublin, Poland Simulation is the methodology of teaching, learning process using educational equipment from simple simulators, designed to study individual tasks, through advanced mannequins called human patient stimulators faithfully mimic the human and its parameters. The medical simulation’s main task is education and improvement patients’ safety. Advanced human simulators can realistically cough, vomit with artificial chyme and bleed with artificial blood causing a real stress of medical personnel and the need for immediate action. Medical simulation gives the opportunity to prepare medical personnel to the profession more effectively, in less time than traditional education and also clearly affects the patients' safety.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "5",
-      "date": "2015/06",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "pl",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "VAU62IIC"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-10T13:24:53Z",
-      "dateModified": "2021-12-10T16:03:57Z"
     }
   },
   {
@@ -1219,7 +1219,7 @@
   },
   {
     "key": "BRYWFIXH",
-    "version": 229,
+    "version": 268,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1248,7 +1248,7 @@
     },
     "data": {
       "key": "BRYWFIXH",
-      "version": 229,
+      "version": 268,
       "itemType": "book",
       "title": "The grasshopper: games, life, and Utopia",
       "creators": [
@@ -1290,8 +1290,8 @@
         }
       ],
       "collections": [
-        "P46RHP3Z",
-        "T46PNHBN"
+        "S2BGKY6M",
+        "P46RHP3Z"
       ],
       "relations": {},
       "dateAdded": "2021-12-09T13:19:56Z",
@@ -4917,7 +4917,7 @@
   },
   {
     "key": "UU7KC36U",
-    "version": 171,
+    "version": 268,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -4952,7 +4952,7 @@
     },
     "data": {
       "key": "UU7KC36U",
-      "version": 171,
+      "version": 268,
       "itemType": "journalArticle",
       "title": "A systematic review of serious games in medical education: quality of evidence and pedagogical strategy",
       "creators": [
@@ -5021,7 +5021,7 @@
       "extra": "Citation Key: gorbanevSystematicReviewSerious2018",
       "tags": [],
       "collections": [
-        "YFB4NCTU"
+        "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-11-18T14:45:04Z",
