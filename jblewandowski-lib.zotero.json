@@ -1,5 +1,141 @@
 [
   {
+    "key": "FQGT6E6B",
+    "version": 240,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FQGT6E6B",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FQGT6E6B",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/JIM3MFWH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 136615
+      }
+    },
+    "meta": {
+      "creatorSummary": "Parikh",
+      "parsedDate": "2002",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "FQGT6E6B",
+      "version": 240,
+      "itemType": "journalArticle",
+      "title": "Social Software",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rohit",
+          "lastName": "Parikh"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Synthese",
+      "volume": "132",
+      "issue": "3",
+      "pages": "187-211",
+      "date": "2002",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1023/A:1020391420768",
+      "ISSN": "00397857",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1023/A:1020391420768",
+      "accessDate": "2021-12-10T11:07:40Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: parikhSocialSoftware2002",
+      "tags": [],
+      "collections": [
+        "97KVKMED"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T11:07:40Z",
+      "dateModified": "2021-12-10T11:08:01Z"
+    }
+  },
+  {
+    "key": "JIM3MFWH",
+    "version": 240,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JIM3MFWH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JIM3MFWH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/FQGT6E6B",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/JIM3MFWH/file/view",
+        "title": "parikh2002.pdf",
+        "length": 136615
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JIM3MFWH",
+      "version": 240,
+      "parentItem": "FQGT6E6B",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "parikh2002.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "parikh2002.pdf",
+      "md5": "96acdedd7a8ba4d5da413ff006396334",
+      "mtime": 1639134430000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T11:07:10Z",
+      "dateModified": "2021-12-10T11:07:40Z"
+    }
+  },
+  {
     "key": "RH4JKQLD",
     "version": 235,
     "library": {
@@ -489,77 +625,6 @@
       "relations": {},
       "dateAdded": "2021-12-06T08:30:01Z",
       "dateModified": "2021-12-06T08:30:01Z"
-    }
-  },
-  {
-    "key": "HE9E7DJC",
-    "version": 226,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/HE9E7DJC",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/HE9E7DJC",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Parikh",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "HE9E7DJC",
-      "version": 226,
-      "itemType": "journalArticle",
-      "title": "Social software",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "",
-          "lastName": "Parikh"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "http://dx.doi.org/10.1023/A.A1020391420768",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "97KVKMED"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-05T20:10:48Z",
-      "dateModified": "2021-12-05T20:12:20Z"
     }
   },
   {
