@@ -1,5 +1,141 @@
 [
   {
+    "key": "ITML9U4D",
+    "version": 257,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ITML9U4D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ITML9U4D",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5XBLMPDQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ITML9U4D/file/view",
+        "title": "Ericsson - 2004 - Deliberate Practice and the Acquisition and Mainte.pdf",
+        "length": 231505
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "ITML9U4D",
+      "version": 257,
+      "parentItem": "5XBLMPDQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ericsson - 2004 - Deliberate Practice and the Acquisition and Mainte.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ericsson - 2004 - Deliberate Practice and the Acquisition and Mainte.pdf",
+      "md5": "4fc32d888cc94986887e4fce1ab42d08",
+      "mtime": 1639162084000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T18:48:00Z",
+      "dateModified": "2021-12-10T18:48:04Z"
+    }
+  },
+  {
+    "key": "5XBLMPDQ",
+    "version": 256,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5XBLMPDQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5XBLMPDQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ITML9U4D",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 231505
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ericsson",
+      "parsedDate": "2004",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5XBLMPDQ",
+      "version": 256,
+      "itemType": "journalArticle",
+      "title": "Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains:",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "K Anders",
+          "lastName": "Ericsson"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Academic Medicine",
+      "volume": "79",
+      "issue": "Supplement",
+      "pages": "S70-S81",
+      "date": "10/2004",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Academic Medicine",
+      "language": "en",
+      "DOI": "10.1097/00001888-200410001-00022",
+      "ISSN": "1040-2446",
+      "shortTitle": "Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains",
+      "url": "http://journals.lww.com/00001888-200410001-00022",
+      "accessDate": "2021-12-10T18:48:04Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T18:48:04Z",
+      "dateModified": "2021-12-10T18:48:04Z"
+    }
+  },
+  {
     "key": "JC87MRZ4",
     "version": 255,
     "library": {
