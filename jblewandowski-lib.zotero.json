@@ -1,5 +1,103 @@
 [
   {
+    "key": "JC87MRZ4",
+    "version": 255,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JC87MRZ4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JC87MRZ4",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/JL4AY9JR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 65244
+      }
+    },
+    "meta": {
+      "creatorSummary": "McGaghie et al.",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JC87MRZ4",
+      "version": 255,
+      "itemType": "journalArticle",
+      "title": "Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education? A Meta-Analytic Comparative Review of the Evidence:",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William C.",
+          "lastName": "McGaghie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S. Barry",
+          "lastName": "Issenberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elaine R.",
+          "lastName": "Cohen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeffrey H.",
+          "lastName": "Barsuk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diane B.",
+          "lastName": "Wayne"
+        }
+      ],
+      "abstractNote": "Purpose—This article presents a comparison of the effectiveness of traditional clinical education toward skill acquisition goals versus simulation-based medical education (SBME) with deliberate practice (DP).\nMethod—This is a quantitative meta-analysis that spans twenty years, 1990 to 2010. A search strategy involving three literature databases, 12 search terms, and four inclusion criteria was used. Four authors independently retrieved and reviewed articles. Main outcome measures were extracted to calculate effect sizes.\nResults—Of 3,742 articles identified, 14 met inclusion criteria. The overall effect size for the 14 studies evaluating the comparative effectiveness of SBME compared to traditional clinical medical education was 0.71 (95% confidence interval, 0.65–0.76; P < .001).\nConclusions—Although the number of reports analyzed in this meta analysis is small, these results show that SBME with DP is superior to traditional clinical medical education in achieving specific clinical skill acquisition goals. SBME is a complex educational intervention that should",
+      "publicationTitle": "Academic Medicine",
+      "volume": "86",
+      "issue": "6",
+      "pages": "706-711",
+      "date": "06/2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Academic Medicine",
+      "language": "en",
+      "DOI": "10.1097/ACM.0b013e318217e119",
+      "ISSN": "1040-2446",
+      "shortTitle": "Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education?",
+      "url": "http://journals.lww.com/00001888-201106000-00018",
+      "accessDate": "2021-12-10T17:25:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mcgaghieDoesSimulationBasedMedical2011",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T17:25:49Z",
+      "dateModified": "2021-12-10T18:46:05Z"
+    }
+  },
+  {
     "key": "JL4AY9JR",
     "version": 253,
     "library": {
@@ -54,104 +152,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-10T17:25:46Z",
-      "dateModified": "2021-12-10T17:25:49Z"
-    }
-  },
-  {
-    "key": "JC87MRZ4",
-    "version": 252,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/JC87MRZ4",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/JC87MRZ4",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/JL4AY9JR",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 65244
-      }
-    },
-    "meta": {
-      "creatorSummary": "McGaghie et al.",
-      "parsedDate": "2011",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "JC87MRZ4",
-      "version": 252,
-      "itemType": "journalArticle",
-      "title": "Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education? A Meta-Analytic Comparative Review of the Evidence:",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "William C.",
-          "lastName": "McGaghie"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "S. Barry",
-          "lastName": "Issenberg"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Elaine R.",
-          "lastName": "Cohen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jeffrey H.",
-          "lastName": "Barsuk"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Diane B.",
-          "lastName": "Wayne"
-        }
-      ],
-      "abstractNote": "Purpose—This article presents a comparison of the effectiveness of traditional clinical education toward skill acquisition goals versus simulation-based medical education (SBME) with deliberate practice (DP).\nMethod—This is a quantitative meta-analysis that spans twenty years, 1990 to 2010. A search strategy involving three literature databases, 12 search terms, and four inclusion criteria was used. Four authors independently retrieved and reviewed articles. Main outcome measures were extracted to calculate effect sizes.\nResults—Of 3,742 articles identified, 14 met inclusion criteria. The overall effect size for the 14 studies evaluating the comparative effectiveness of SBME compared to traditional clinical medical education was 0.71 (95% confidence interval, 0.65–0.76; P < .001).\nConclusions—Although the number of reports analyzed in this meta analysis is small, these results show that SBME with DP is superior to traditional clinical medical education in achieving specific clinical skill acquisition goals. SBME is a complex educational intervention that should",
-      "publicationTitle": "Academic Medicine",
-      "volume": "86",
-      "issue": "6",
-      "pages": "706-711",
-      "date": "06/2011",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Academic Medicine",
-      "language": "en",
-      "DOI": "10.1097/ACM.0b013e318217e119",
-      "ISSN": "1040-2446",
-      "shortTitle": "Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education?",
-      "url": "http://journals.lww.com/00001888-201106000-00018",
-      "accessDate": "2021-12-10T17:25:49Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-10T17:25:49Z",
       "dateModified": "2021-12-10T17:25:49Z"
     }
   },
