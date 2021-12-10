@@ -1,5 +1,317 @@
 [
   {
+    "key": "WQAX995F",
+    "version": 273,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WQAX995F",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WQAX995F",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/NTUJVL4C",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/WQAX995F/file/view",
+        "title": "Motola et al. - 2013 - Simulation in healthcare education A best evidenc.pdf",
+        "length": 1178210
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WQAX995F",
+      "version": 273,
+      "parentItem": "NTUJVL4C",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Motola et al. - 2013 - Simulation in healthcare education A best evidenc.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Motola et al. - 2013 - Simulation in healthcare education A best evidenc.pdf",
+      "md5": "b81f7bbbd450850c86e9651972079ca2",
+      "mtime": 1639165836000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:50:34Z",
+      "dateModified": "2021-12-10T19:50:36Z"
+    }
+  },
+  {
+    "key": "NTUJVL4C",
+    "version": 272,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NTUJVL4C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NTUJVL4C",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/WQAX995F",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1178210
+      }
+    },
+    "meta": {
+      "creatorSummary": "Motola et al.",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "NTUJVL4C",
+      "version": 272,
+      "itemType": "journalArticle",
+      "title": "Simulation in healthcare education: A best evidence practical guide. AMEE Guide No. 82",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ivette",
+          "lastName": "Motola"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luke A.",
+          "lastName": "Devine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hyun Soo",
+          "lastName": "Chung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John E.",
+          "lastName": "Sullivan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S. Barry",
+          "lastName": "Issenberg"
+        }
+      ],
+      "abstractNote": "Over the past two decades, there has been an exponential and enthusiastic adoption of simulation in healthcare education internationally. Medicine has learned much from professions that have established programs in simulation for training, such as aviation, the military and space exploration. Increased demands on training hours, limited patient encounters, and a focus on patient safety have led to a new paradigm of education in healthcare that increasingly involves technology and innovative ways to provide a standardized curriculum. A robust body of literature is growing, seeking to answer the question of how best to use simulation in healthcare education. Building on the groundwork of the Best Evidence in Medical Education (BEME) Guide on the features of simulators that lead to effective learning, this current Guide provides practical guidance to aid educators in effectively using simulation for training. It is a selective review to describe best practices and illustrative case studies. This Guide is the second part of a two-part AMEE Guide on simulation in healthcare education. The first Guide focuses on building a simulation program, and discusses more operational topics such as types of simulators, simulation center structure and set-up, fidelity management, and scenario engineering, as well as faculty preparation. This Guide will focus on the educational principles that lead to effective learning, and include topics such as feedback and debriefing, deliberate practice, and curriculum integration – all central to simulation efficacy. The important subjects of mastery learning, range of difficulty, capturing clinical variation, and individualized learning are also examined. Finally, we discuss approaches to team training and suggest future directions. Each section follows a framework of background and definition, its importance to effective use of simulation, practical points with examples, and challenges generally encountered. Simulation-based healthcare education has great potential for use throughout the healthcare education continuum, from undergraduate to continuing education. It can also be used to train a variety of healthcare providers in different disciplines from novices to experts. This Guide aims to equip healthcare educators with the tools to use this learning modality to its full capability.",
+      "publicationTitle": "Medical Teacher",
+      "volume": "35",
+      "issue": "10",
+      "pages": "e1511-e1530",
+      "date": "10/2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Medical Teacher",
+      "language": "en",
+      "DOI": "10.3109/0142159X.2013.818632",
+      "ISSN": "0142-159X, 1466-187X",
+      "shortTitle": "Simulation in healthcare education",
+      "url": "http://www.tandfonline.com/doi/full/10.3109/0142159X.2013.818632",
+      "accessDate": "2021-12-10T19:50:36Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:50:36Z",
+      "dateModified": "2021-12-10T19:50:36Z"
+    }
+  },
+  {
+    "key": "D3ENSUHG",
+    "version": 274,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/D3ENSUHG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/D3ENSUHG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/Y8YSMW7J",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/D3ENSUHG/file/view",
+        "title": "Lyons et al. - 2021 - The clinical educator’s guide to fostering learner.pdf",
+        "length": 1628519
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "D3ENSUHG",
+      "version": 274,
+      "parentItem": "Y8YSMW7J",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lyons et al. - 2021 - The clinical educator’s guide to fostering learner.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lyons et al. - 2021 - The clinical educator’s guide to fostering learner.pdf",
+      "md5": "2c73df06eb9700e096ee67a0ea535db6",
+      "mtime": 1639165834000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:50:30Z",
+      "dateModified": "2021-12-10T19:50:34Z"
+    }
+  },
+  {
+    "key": "Y8YSMW7J",
+    "version": 272,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y8YSMW7J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y8YSMW7J",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/D3ENSUHG",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1628519
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lyons et al.",
+      "parsedDate": "2021-05-04",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "Y8YSMW7J",
+      "version": 272,
+      "itemType": "journalArticle",
+      "title": "The clinical educator’s guide to fostering learner motivation: AMEE Guide No. 137",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kayley M.",
+          "lastName": "Lyons"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeff J.",
+          "lastName": "Cain"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stuart T.",
+          "lastName": "Haines"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Danijela",
+          "lastName": "Gasevic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tina P.",
+          "lastName": "Brock"
+        }
+      ],
+      "abstractNote": "Motivation theory and research remain underused by health professions educators. Some educators say it can seem too abstract. To address this, we applied health care language to learner motivation theories. Using a familiar metaphor, we examined the indications, mechanism of action, administration, and monitoring of learner motivation interventions. Similar to the treatment monographs in medicine compendia, we summarized each motivation intervention in the form of a monograph. The purpose of this guide is for health professions educators to develop an understanding of when (i.e. indication) and how (i.e. mechanism of action) learner motivation interventions work. With this information, they can then access ready-to-implement strategies (i.e. administration) to increase their learner interest and assess the effects of these interventions (i.e. monitoring).",
+      "publicationTitle": "Medical Teacher",
+      "volume": "43",
+      "issue": "5",
+      "pages": "492-500",
+      "date": "2021-05-04",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Medical Teacher",
+      "language": "en",
+      "DOI": "10.1080/0142159X.2020.1837764",
+      "ISSN": "0142-159X, 1466-187X",
+      "shortTitle": "The clinical educator’s guide to fostering learner motivation",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/0142159X.2020.1837764",
+      "accessDate": "2021-12-10T19:50:34Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-10T19:50:34Z",
+      "dateModified": "2021-12-10T19:50:34Z"
+    }
+  },
+  {
     "key": "5XBLMPDQ",
     "version": 270,
     "library": {
