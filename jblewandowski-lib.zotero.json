@@ -1,5 +1,508 @@
 [
   {
+    "key": "WQ86QHFJ",
+    "version": 284,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WQ86QHFJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WQ86QHFJ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2WGSJGBS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 523369
+      }
+    },
+    "meta": {
+      "creatorSummary": "Miller",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WQ86QHFJ",
+      "version": 284,
+      "itemType": "journalArticle",
+      "title": "The Gamification Of Education",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Craig",
+          "lastName": "Miller"
+        }
+      ],
+      "abstractNote": "The concept of gamification was first introduced in the literature in 2008 has increasingly been a topic for published books, blogs, and numerous articles in journals and other media outlets. Drawing on the author’s personal experience and published research this paper is intended to establish a definition of gamification that can be generally accepted, explain the popularity of the concept in terms of those elements that support effective learning, and make a case that those of us that have been involved with simulation are long time gamifiers.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "5",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: millerGamificationEducation",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-28T19:57:16Z",
+      "dateModified": "2021-12-11T18:39:36Z"
+    }
+  },
+  {
+    "key": "7ZYQBK23",
+    "version": 284,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7ZYQBK23",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7ZYQBK23",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/DUY3YMMD",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 887272
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fuchs",
+      "parsedDate": "2014-06-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "7ZYQBK23",
+      "version": 284,
+      "itemType": "journalArticle",
+      "title": "Gamification as twenty-first-century ideology",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mathias",
+          "lastName": "Fuchs"
+        }
+      ],
+      "abstractNote": "Gamification as the process of turning extra-ludic activities into play can be seen in two different ways: following Bataille, we would hope that play could be a flight line from the servitude of the capital-labour relationship. Following Adorno and Benjamin, however, we might discover that the escape from the drudgery of the worker leads to an equally alienating drudgery of the player. I argue that gamification might be seen as a form of ideology and therefore a mechanism of the dominant class to set agenda and to legitimize actions taken by this very class or group. Ever since the notion of gamification was introduced widely, scholars have suggested that work might be seen as a sort of leisure activity. This article analyses the controversial dialectics of play and labour and the ubiquitous notion of gamification as ideology.",
+      "publicationTitle": "Journal of Gaming & Virtual Worlds",
+      "volume": "6",
+      "issue": "2",
+      "pages": "143-157",
+      "date": "2014-06-01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "journal of gaming & virtual worlds",
+      "language": "en",
+      "DOI": "10.1386/jgvw.6.2.143_1",
+      "ISSN": "1757191X, 17571928",
+      "shortTitle": "",
+      "url": "http://openurl.ingenta.com/content/xref?genre=article&issn=1757-191X&volume=6&issue=2&spage=143",
+      "accessDate": "2021-11-28T19:57:07Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: fuchsGamificationTwentyfirstcenturyIdeology2014",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-28T19:57:07Z",
+      "dateModified": "2021-12-11T18:39:36Z"
+    }
+  },
+  {
+    "key": "HXLB3DMB",
+    "version": 284,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HXLB3DMB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HXLB3DMB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3NZ4EXHU",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1653378
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ouariachi et al.",
+      "parsedDate": "2020-06-03",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HXLB3DMB",
+      "version": 284,
+      "itemType": "journalArticle",
+      "title": "Gamification Approaches for Education and Engagement on Pro-Environmental Behaviors: Searching for Best Practices",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Tania",
+          "lastName": "Ouariachi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chih-Yen",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wim J. L.",
+          "lastName": "Elving"
+        }
+      ],
+      "abstractNote": "Education is a key factor to respond to the threat of climate change, increasing not only knowledge but also encouraging changes in attitudes and behaviors to adopt sustainable lifestyles. Scholars and practitioners in the ﬁeld of education call for innovative ways of engaging youth—a reason why gamiﬁcation has gained more attention in recent years. This paper aims at exploring the role of gamiﬁcation in aﬀecting pro-environmental behavioral change and searching for best practices for educational purposes. For that aim, pro-environmental gamiﬁcation platforms are identiﬁed and analyzed by applying two diﬀerent frameworks: the Octalysis Framework and the Climate Change Engagement through Games Framework. After scanning 181 cases, a ﬁnal sample of six is analyzed and two of them are selected as best practices with higher potential to engage users in pro-environmental behavioral change: SaveOhno and JouleBug. Meaning, ownership, and social inﬂuence, as well as achievability, challenge, and credibility, are seen as core elements that can increase the success of gamiﬁcation platforms. In conclusion, the more attributes are enclosed in the gamiﬁcation design, the stronger physical and mental connections it builds up with participants. Insights from this study can help educators to select best practices and gamiﬁcation designers to better inﬂuence behavioral change through game mechanics.",
+      "publicationTitle": "Sustainability",
+      "volume": "12",
+      "issue": "11",
+      "pages": "4565",
+      "date": "2020-06-03",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Sustainability",
+      "language": "en",
+      "DOI": "10.3390/su12114565",
+      "ISSN": "2071-1050",
+      "shortTitle": "Gamification Approaches for Education and Engagement on Pro-Environmental Behaviors",
+      "url": "https://www.mdpi.com/2071-1050/12/11/4565",
+      "accessDate": "2021-11-28T19:57:01Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: ouariachiGamificationApproachesEducation2020",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-28T19:57:01Z",
+      "dateModified": "2021-12-11T18:39:36Z"
+    }
+  },
+  {
+    "key": "QQ47I522",
+    "version": 284,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QQ47I522",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QQ47I522",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "QQ47I522",
+      "version": 284,
+      "itemType": "book",
+      "title": "",
+      "creators": [],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: zotero-145",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-09T13:19:45Z",
+      "dateModified": "2021-12-11T18:39:35Z"
+    }
+  },
+  {
+    "key": "BSDJHTI3",
+    "version": 284,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BSDJHTI3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BSDJHTI3",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/IIHB7X62",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 164285
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lin et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "BSDJHTI3",
+      "version": 284,
+      "itemType": "journalArticle",
+      "title": "Implementing economic evaluation in simulation-based medical education: challenges and opportunities",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yiqun",
+          "lastName": "Lin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Cheng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kent",
+          "lastName": "Hecker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vincent",
+          "lastName": "Grant"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gillian R.",
+          "lastName": "Currie"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education",
+      "volume": "52",
+      "issue": "2",
+      "pages": "150-160",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1111/medu.13411",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: linImplementingEconomicEvaluation2018",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-06T08:30:01Z",
+      "dateModified": "2021-12-11T18:39:35Z"
+    }
+  },
+  {
+    "key": "KPNLD84Z",
+    "version": 284,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KPNLD84Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KPNLD84Z",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/Z9ASMBUS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 454694
+      }
+    },
+    "meta": {
+      "creatorSummary": "Roepke et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KPNLD84Z",
+      "version": 284,
+      "itemType": "journalArticle",
+      "title": "Randomized Controlled Trial of SuperBetter, a Smartphone-Based/Internet-Based Self-Help Tool to Reduce Depressive Symptoms",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ann Marie",
+          "lastName": "Roepke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sara R.",
+          "lastName": "Jaffee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Olivia M.",
+          "lastName": "Riffle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane",
+          "lastName": "McGonigal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rose",
+          "lastName": "Broome"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bez",
+          "lastName": "Maxwell"
+        }
+      ],
+      "abstractNote": "Objective: Technological advances have sparked the development of computer- and smartphone-based self-help programs for depressed people, but these programs’ efﬁcacy is uncertain. This randomized controlled trial evaluated an intervention called SuperBetter (SB), which is accessed via smartphone and/or the SB Web site. Materials and Methods: Online, we recruited 283 adult iPhoneÒ (Apple, Cupertino, CA) users with signiﬁcant depression symptoms according to the Center for Epidemiological Studies Depression questionnaire (CES-D). They were randomly assigned to one of three conditions: (a) a version of SB using cognitive-behavioral therapy and positive psychotherapy strategies to target depression (CBT-PPT SB); (b) a general SB version focused on self-esteem and acceptance (General SB); or (c) a waiting list control group (WL). The two SB groups were instructed to use SB for 10 minutes daily for 1 month. All participants completed psychological distress and well-being measures online every 2 weeks through follow-up. An intent-to-treat analysis was conducted using hierarchical linear modeling.\nResults: As hypothesized, SB participants achieved greater reductions in CES-D scores than WL participants by posttest (Cohen’s d = 0.67) and by follow-up (d = 1.05). Contrary to prediction, CBT-PPT SB did not perform better than General SB; both versions of SB were more effective than the WL control. Differences between SB versions favored General SB but were not statistically signiﬁcant.\nConclusions: These large effect sizes should be interpreted cautiously in light of high attrition rates and the motivated, self-selected sample. Nonetheless, smartphone-based/Internet-based self-help may play an important role in treating depression.",
+      "publicationTitle": "Games for Health Journal",
+      "volume": "4",
+      "issue": "3",
+      "pages": "235-246",
+      "date": "06/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Games for Health Journal",
+      "language": "en",
+      "DOI": "10.1089/g4h.2014.0046",
+      "ISSN": "2161-783X, 2161-7856",
+      "shortTitle": "",
+      "url": "http://www.liebertpub.com/doi/10.1089/g4h.2014.0046",
+      "accessDate": "2021-11-28T19:57:22Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: roepkeRandomizedControlledTrial2015",
+      "tags": [],
+      "collections": [
+        "99WJCRUH"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-28T19:57:22Z",
+      "dateModified": "2021-12-11T18:39:35Z"
+    }
+  },
+  {
     "key": "Y8RBVIB4",
     "version": 283,
     "library": {
@@ -1748,67 +2251,6 @@
     }
   },
   {
-    "key": "QQ47I522",
-    "version": 228,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/QQ47I522",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/QQ47I522",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "QQ47I522",
-      "version": 228,
-      "itemType": "book",
-      "title": "",
-      "creators": [],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "",
-      "publisher": "",
-      "date": "",
-      "numPages": "",
-      "language": "",
-      "ISBN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2021-12-09T13:19:45Z",
-      "dateModified": "2021-12-09T13:19:45Z"
-    }
-  },
-  {
     "key": "IIHB7X62",
     "version": 224,
     "library": {
@@ -1861,102 +2303,6 @@
       "md5": "6a59e39ba5e079674fba6d214f39cbb8",
       "mtime": 1638779401986,
       "tags": [],
-      "relations": {},
-      "dateAdded": "2021-12-06T08:30:01Z",
-      "dateModified": "2021-12-06T08:30:01Z"
-    }
-  },
-  {
-    "key": "BSDJHTI3",
-    "version": 222,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/BSDJHTI3",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/BSDJHTI3",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/IIHB7X62",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 164285
-      }
-    },
-    "meta": {
-      "creatorSummary": "Lin et al.",
-      "parsedDate": "2018",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "BSDJHTI3",
-      "version": 222,
-      "itemType": "journalArticle",
-      "title": "Implementing economic evaluation in simulation-based medical education: challenges and opportunities",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Yiqun",
-          "lastName": "Lin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Adam",
-          "lastName": "Cheng"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Kent",
-          "lastName": "Hecker"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Vincent",
-          "lastName": "Grant"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Gillian R.",
-          "lastName": "Currie"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "Medical Education",
-      "volume": "52",
-      "issue": "2",
-      "pages": "150-160",
-      "date": "2018",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "10.1111/medu.13411",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
       "relations": {},
       "dateAdded": "2021-12-06T08:30:01Z",
       "dateModified": "2021-12-06T08:30:01Z"
@@ -2021,109 +2367,6 @@
     }
   },
   {
-    "key": "KPNLD84Z",
-    "version": 212,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/KPNLD84Z",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/KPNLD84Z",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/Z9ASMBUS",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 454694
-      }
-    },
-    "meta": {
-      "creatorSummary": "Roepke et al.",
-      "parsedDate": "2015",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "KPNLD84Z",
-      "version": 212,
-      "itemType": "journalArticle",
-      "title": "Randomized Controlled Trial of SuperBetter, a Smartphone-Based/Internet-Based Self-Help Tool to Reduce Depressive Symptoms",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Ann Marie",
-          "lastName": "Roepke"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Sara R.",
-          "lastName": "Jaffee"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Olivia M.",
-          "lastName": "Riffle"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jane",
-          "lastName": "McGonigal"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Rose",
-          "lastName": "Broome"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Bez",
-          "lastName": "Maxwell"
-        }
-      ],
-      "abstractNote": "Objective: Technological advances have sparked the development of computer- and smartphone-based self-help programs for depressed people, but these programs’ efﬁcacy is uncertain. This randomized controlled trial evaluated an intervention called SuperBetter (SB), which is accessed via smartphone and/or the SB Web site. Materials and Methods: Online, we recruited 283 adult iPhoneÒ (Apple, Cupertino, CA) users with signiﬁcant depression symptoms according to the Center for Epidemiological Studies Depression questionnaire (CES-D). They were randomly assigned to one of three conditions: (a) a version of SB using cognitive-behavioral therapy and positive psychotherapy strategies to target depression (CBT-PPT SB); (b) a general SB version focused on self-esteem and acceptance (General SB); or (c) a waiting list control group (WL). The two SB groups were instructed to use SB for 10 minutes daily for 1 month. All participants completed psychological distress and well-being measures online every 2 weeks through follow-up. An intent-to-treat analysis was conducted using hierarchical linear modeling.\nResults: As hypothesized, SB participants achieved greater reductions in CES-D scores than WL participants by posttest (Cohen’s d = 0.67) and by follow-up (d = 1.05). Contrary to prediction, CBT-PPT SB did not perform better than General SB; both versions of SB were more effective than the WL control. Differences between SB versions favored General SB but were not statistically signiﬁcant.\nConclusions: These large effect sizes should be interpreted cautiously in light of high attrition rates and the motivated, self-selected sample. Nonetheless, smartphone-based/Internet-based self-help may play an important role in treating depression.",
-      "publicationTitle": "Games for Health Journal",
-      "volume": "4",
-      "issue": "3",
-      "pages": "235-246",
-      "date": "06/2015",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Games for Health Journal",
-      "language": "en",
-      "DOI": "10.1089/g4h.2014.0046",
-      "ISSN": "2161-783X, 2161-7856",
-      "shortTitle": "",
-      "url": "http://www.liebertpub.com/doi/10.1089/g4h.2014.0046",
-      "accessDate": "2021-11-28T19:57:22Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "99WJCRUH"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-28T19:57:22Z",
-      "dateModified": "2021-11-28T19:57:22Z"
-    }
-  },
-  {
     "key": "2WGSJGBS",
     "version": 213,
     "library": {
@@ -2178,83 +2421,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-28T19:57:15Z",
-      "dateModified": "2021-11-28T19:57:16Z"
-    }
-  },
-  {
-    "key": "WQ86QHFJ",
-    "version": 212,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/WQ86QHFJ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/WQ86QHFJ",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/2WGSJGBS",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 523369
-      }
-    },
-    "meta": {
-      "creatorSummary": "Miller",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "WQ86QHFJ",
-      "version": 212,
-      "itemType": "journalArticle",
-      "title": "The Gamification Of Education",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Craig",
-          "lastName": "Miller"
-        }
-      ],
-      "abstractNote": "The concept of gamification was first introduced in the literature in 2008 has increasingly been a topic for published books, blogs, and numerous articles in journals and other media outlets. Drawing on the author’s personal experience and published research this paper is intended to establish a definition of gamification that can be generally accepted, explain the popularity of the concept in terms of those elements that support effective learning, and make a case that those of us that have been involved with simulation are long time gamifiers.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "5",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "PT5M2NF4"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-28T19:57:16Z",
       "dateModified": "2021-11-28T19:57:16Z"
     }
   },
@@ -2317,84 +2483,6 @@
     }
   },
   {
-    "key": "7ZYQBK23",
-    "version": 212,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/7ZYQBK23",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/7ZYQBK23",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/DUY3YMMD",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 887272
-      }
-    },
-    "meta": {
-      "creatorSummary": "Fuchs",
-      "parsedDate": "2014-06-01",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "7ZYQBK23",
-      "version": 212,
-      "itemType": "journalArticle",
-      "title": "Gamification as twenty-first-century ideology",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Mathias",
-          "lastName": "Fuchs"
-        }
-      ],
-      "abstractNote": "Gamification as the process of turning extra-ludic activities into play can be seen in two different ways: following Bataille, we would hope that play could be a flight line from the servitude of the capital-labour relationship. Following Adorno and Benjamin, however, we might discover that the escape from the drudgery of the worker leads to an equally alienating drudgery of the player. I argue that gamification might be seen as a form of ideology and therefore a mechanism of the dominant class to set agenda and to legitimize actions taken by this very class or group. Ever since the notion of gamification was introduced widely, scholars have suggested that work might be seen as a sort of leisure activity. This article analyses the controversial dialectics of play and labour and the ubiquitous notion of gamification as ideology.",
-      "publicationTitle": "Journal of Gaming & Virtual Worlds",
-      "volume": "6",
-      "issue": "2",
-      "pages": "143-157",
-      "date": "2014-06-01",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "journal of gaming & virtual worlds",
-      "language": "en",
-      "DOI": "10.1386/jgvw.6.2.143_1",
-      "ISSN": "1757191X, 17571928",
-      "shortTitle": "",
-      "url": "http://openurl.ingenta.com/content/xref?genre=article&issn=1757-191X&volume=6&issue=2&spage=143",
-      "accessDate": "2021-11-28T19:57:07Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "PT5M2NF4"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-28T19:57:07Z",
-      "dateModified": "2021-11-28T19:57:07Z"
-    }
-  },
-  {
     "key": "3NZ4EXHU",
     "version": 214,
     "library": {
@@ -2449,94 +2537,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-28T19:56:58Z",
-      "dateModified": "2021-11-28T19:57:01Z"
-    }
-  },
-  {
-    "key": "HXLB3DMB",
-    "version": 212,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/HXLB3DMB",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/HXLB3DMB",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/3NZ4EXHU",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1653378
-      }
-    },
-    "meta": {
-      "creatorSummary": "Ouariachi et al.",
-      "parsedDate": "2020-06-03",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "HXLB3DMB",
-      "version": 212,
-      "itemType": "journalArticle",
-      "title": "Gamification Approaches for Education and Engagement on Pro-Environmental Behaviors: Searching for Best Practices",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Tania",
-          "lastName": "Ouariachi"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Chih-Yen",
-          "lastName": "Li"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Wim J. L.",
-          "lastName": "Elving"
-        }
-      ],
-      "abstractNote": "Education is a key factor to respond to the threat of climate change, increasing not only knowledge but also encouraging changes in attitudes and behaviors to adopt sustainable lifestyles. Scholars and practitioners in the ﬁeld of education call for innovative ways of engaging youth—a reason why gamiﬁcation has gained more attention in recent years. This paper aims at exploring the role of gamiﬁcation in aﬀecting pro-environmental behavioral change and searching for best practices for educational purposes. For that aim, pro-environmental gamiﬁcation platforms are identiﬁed and analyzed by applying two diﬀerent frameworks: the Octalysis Framework and the Climate Change Engagement through Games Framework. After scanning 181 cases, a ﬁnal sample of six is analyzed and two of them are selected as best practices with higher potential to engage users in pro-environmental behavioral change: SaveOhno and JouleBug. Meaning, ownership, and social inﬂuence, as well as achievability, challenge, and credibility, are seen as core elements that can increase the success of gamiﬁcation platforms. In conclusion, the more attributes are enclosed in the gamiﬁcation design, the stronger physical and mental connections it builds up with participants. Insights from this study can help educators to select best practices and gamiﬁcation designers to better inﬂuence behavioral change through game mechanics.",
-      "publicationTitle": "Sustainability",
-      "volume": "12",
-      "issue": "11",
-      "pages": "4565",
-      "date": "2020-06-03",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Sustainability",
-      "language": "en",
-      "DOI": "10.3390/su12114565",
-      "ISSN": "2071-1050",
-      "shortTitle": "Gamification Approaches for Education and Engagement on Pro-Environmental Behaviors",
-      "url": "https://www.mdpi.com/2071-1050/12/11/4565",
-      "accessDate": "2021-11-28T19:57:01Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "PT5M2NF4"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-28T19:57:01Z",
       "dateModified": "2021-11-28T19:57:01Z"
     }
   },
