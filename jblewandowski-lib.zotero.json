@@ -1,5 +1,141 @@
 [
   {
+    "key": "Y8RBVIB4",
+    "version": 283,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y8RBVIB4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y8RBVIB4",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/DMDGF2TY",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5156428
+      }
+    },
+    "meta": {
+      "creatorSummary": "Pratt",
+      "parsedDate": "2000",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "Y8RBVIB4",
+      "version": 283,
+      "itemType": "journalArticle",
+      "title": "The Good, the Bad, and the Ambivalent: Managing Identification among Amway Distributors",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael G.",
+          "lastName": "Pratt"
+        }
+      ],
+      "abstractNote": "An ethnographic study of distributors for Amway, a network marketing organization, examines the practices and processes involved in managing members' organizational identification. It shows that this organization manages identification by using two types of practices: sensebreaking practices that break down meaning and sensegiving practices that provide meaning. When both sensebreaking and sensegiving practices are successful, members positively identify with the organization. When either sensebreaking or sensegiving practices fail, members deidentify, disidentify, or experience ambivalent identification with the organization. A general model of identification management is posited, and implications for both theory and practice are offered.",
+      "publicationTitle": "Administrative Science Quarterly",
+      "volume": "45",
+      "issue": "3",
+      "pages": "456-493",
+      "date": "09/2000",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Administrative Science Quarterly",
+      "language": "en",
+      "DOI": "10.2307/2667106",
+      "ISSN": "0001-8392, 1930-3815",
+      "shortTitle": "The Good, the Bad, and the Ambivalent",
+      "url": "http://journals.sagepub.com/doi/10.2307/2667106",
+      "accessDate": "2021-12-11T17:35:28Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: prattGoodBadAmbivalent2000",
+      "tags": [],
+      "collections": [
+        "ZZAUDEFX"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-11T17:35:28Z",
+      "dateModified": "2021-12-11T17:35:38Z"
+    }
+  },
+  {
+    "key": "DMDGF2TY",
+    "version": 283,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DMDGF2TY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DMDGF2TY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/Y8RBVIB4",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/DMDGF2TY/file/view",
+        "title": "2000 Pratt The good, the bad, and the ambivalent Managin Identification among Amway Distributors.pdf",
+        "length": 5156428
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "DMDGF2TY",
+      "version": 283,
+      "parentItem": "Y8RBVIB4",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Pratt - 2000 - The Good, the Bad, and the Ambivalent Managing Id.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Pratt - 2000 - The Good, the Bad, and the Ambivalent Managing Id.pdf",
+      "md5": "8a9390c3255b1bf2dd5742a4e61aec8d",
+      "mtime": 1639244120000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-11T17:35:20Z",
+      "dateModified": "2021-12-11T17:35:28Z"
+    }
+  },
+  {
     "key": "Y8YSMW7J",
     "version": 278,
     "library": {
