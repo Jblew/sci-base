@@ -1,5 +1,677 @@
 [
   {
+    "key": "MQ78XM77",
+    "version": 325,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MQ78XM77",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MQ78XM77",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/EVHWNX8S",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 163722
+      }
+    },
+    "meta": {
+      "creatorSummary": "Werbach",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "MQ78XM77",
+      "version": 325,
+      "itemType": "bookSection",
+      "title": "(Re)Defining Gamification: A Process Approach",
+      "creators": [
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "David",
+          "lastName": "Hutchison"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Takeo",
+          "lastName": "Kanade"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Josef",
+          "lastName": "Kittler"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Jon M.",
+          "lastName": "Kleinberg"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Alfred",
+          "lastName": "Kobsa"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Friedemann",
+          "lastName": "Mattern"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "John C.",
+          "lastName": "Mitchell"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Moni",
+          "lastName": "Naor"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Oscar",
+          "lastName": "Nierstrasz"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "C.",
+          "lastName": "Pandu Rangan"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Bernhard",
+          "lastName": "Steffen"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Demetri",
+          "lastName": "Terzopoulos"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Doug",
+          "lastName": "Tygar"
+        },
+        {
+          "creatorType": "seriesEditor",
+          "firstName": "Gerhard",
+          "lastName": "Weikum"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Anna",
+          "lastName": "Spagnolli"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Luca",
+          "lastName": "Chittaro"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Luciano",
+          "lastName": "Gamberini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Werbach"
+        }
+      ],
+      "abstractNote": "Gamification is a growing phenomenon of interest to both practitioners and researchers. There remains, however, uncertainty about the contours of the field. Defining gamification as “the process of making activities more game-like” focuses on the crucial space between the components that make up games and the holistic experience of gamefulness. It better fits realworld examples and connects gamification with the literature on persuasive design.",
+      "bookTitle": "Persuasive Technology",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "8462",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2014",
+      "pages": "266-272",
+      "language": "en",
+      "ISBN": "978-3-319-07126-8 978-3-319-07127-5",
+      "shortTitle": "(Re)Defining Gamification",
+      "url": "http://link.springer.com/10.1007/978-3-319-07127-5_23",
+      "accessDate": "2021-12-12T12:12:21Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Series Title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-319-07127-5_23\nCitation Key: werbachReDefiningGamification2014",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:12:21Z",
+      "dateModified": "2021-12-12T12:12:28Z"
+    }
+  },
+  {
+    "key": "EVHWNX8S",
+    "version": 326,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EVHWNX8S",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EVHWNX8S",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/MQ78XM77",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EVHWNX8S/file/view",
+        "title": "Werbach - 2014 - (Re)Defining Gamification A Process Approach.pdf",
+        "length": 163722
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "EVHWNX8S",
+      "version": 326,
+      "parentItem": "MQ78XM77",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Werbach - 2014 - (Re)Defining Gamification A Process Approach.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Werbach - 2014 - (Re)Defining Gamification A Process Approach.pdf",
+      "md5": "09ce92ec2479b3c970352662874342aa",
+      "mtime": 1639311141000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:12:18Z",
+      "dateModified": "2021-12-12T12:12:21Z"
+    }
+  },
+  {
+    "key": "AASY926Z",
+    "version": 322,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AASY926Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AASY926Z",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/IV44X37S",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 791788
+      }
+    },
+    "meta": {
+      "creatorSummary": "Deterding et al.",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AASY926Z",
+      "version": 322,
+      "itemType": "conferencePaper",
+      "title": "From game design elements to gamefulness: defining \"gamification\"",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sebastian",
+          "lastName": "Deterding"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dan",
+          "lastName": "Dixon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rilla",
+          "lastName": "Khaled"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lennart",
+          "lastName": "Nacke"
+        }
+      ],
+      "abstractNote": "Recent years have seen a rapid proliferation of mass-market consumer software that takes inspiration from video games. Usually summarized as “gamification”, this trend connects to a sizeable body of existing concepts and research in humancomputer interaction and game studies, such as serious games, pervasive games, alternate reality games, or playful design. However, it is not clear how “gamification” relates to these, whether it denotes a novel phenomenon, and how to define it. Thus, in this paper we investigate “gamification” and the historical origins of the term in relation to precursors and similar concepts. It is suggested that “gamified” applications provide insight into novel, gameful phenomena complementary to playful phenomena. Based on our research, we propose a definition of “gamification” as the use of game design elements in non-game contexts.",
+      "date": "2011",
+      "proceedingsTitle": "Proceedings of the 15th International Academic MindTrek Conference on Envisioning Future Media Environments - MindTrek '11",
+      "conferenceName": "the 15th International Academic MindTrek Conference",
+      "place": "Tampere, Finland",
+      "publisher": "ACM Press",
+      "volume": "",
+      "pages": "9",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/2181037.2181040",
+      "ISBN": "978-1-4503-0816-8",
+      "shortTitle": "From game design elements to gamefulness",
+      "url": "http://dl.acm.org/citation.cfm?doid=2181037.2181040",
+      "accessDate": "2021-12-12T12:10:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: deterdingGameDesignElements2011",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:10:31Z",
+      "dateModified": "2021-12-12T12:10:35Z"
+    }
+  },
+  {
+    "key": "IV44X37S",
+    "version": 323,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IV44X37S",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IV44X37S",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/AASY926Z",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/IV44X37S/file/view",
+        "title": "Deterding et al. - 2011 - From game design elements to gamefulness defining.pdf",
+        "length": 791788
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "IV44X37S",
+      "version": 323,
+      "parentItem": "AASY926Z",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Deterding et al. - 2011 - From game design elements to gamefulness defining.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Deterding et al. - 2011 - From game design elements to gamefulness defining.pdf",
+      "md5": "5806d595c0a23db1152fc75d0cf5ed4d",
+      "mtime": 1639311031000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:10:28Z",
+      "dateModified": "2021-12-12T12:10:31Z"
+    }
+  },
+  {
+    "key": "42LD8H95",
+    "version": 319,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/42LD8H95",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/42LD8H95",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/6MSSLT9L",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 283732
+      }
+    },
+    "meta": {
+      "creatorSummary": "De Croon et al.",
+      "parsedDate": "2021",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "42LD8H95",
+      "version": 319,
+      "itemType": "bookSection",
+      "title": "A Systematic Review of the Effect of Gamification on Adherence Across Disciplines",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Xiaowen",
+          "lastName": "Fang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robin",
+          "lastName": "De Croon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jonas",
+          "lastName": "Geuens"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katrien",
+          "lastName": "Verbert"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vero",
+          "lastName": "Vanden Abeele"
+        }
+      ],
+      "abstractNote": "Systematic reviews of gamiﬁcation research often focus on effects on motivation and engagement. Fewer studies systematically investigate the effect of gamiﬁcation on ‘adherence’, the extent to which individuals use a gamiﬁed service and experience its content, as envisioned by the creators, to derive a certain beneﬁt. To this end, this paper presents a systematic review of the effect of gamiﬁcation on adherence across disciplines, including only studies with experimental designs and empirical measurements of adherence. The results lend support to the hypothesis that gamiﬁcation has a positive effect on adherence: 19 out of 27 studies report a signiﬁcantly positive effect or trend. However, we also demonstrate that further debate is necessary on how to conceptualize and measure adherence across disciplines, and suggest that studies on gamiﬁcation on adherence not only measure the usage behavior of individuals, but equally provide an a priori operationalization of intended use along with a justiﬁcation.",
+      "bookTitle": "HCI in Games: Experience Design and Game Mechanics",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "12789",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2021",
+      "pages": "168-184",
+      "language": "en",
+      "ISBN": "978-3-030-77276-5 978-3-030-77277-2",
+      "shortTitle": "",
+      "url": "https://link.springer.com/10.1007/978-3-030-77277-2_14",
+      "accessDate": "2021-12-12T12:09:01Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Series Title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-030-77277-2_14\nCitation Key: decroonSystematicReviewEffect2021",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:09:01Z",
+      "dateModified": "2021-12-12T12:09:06Z"
+    }
+  },
+  {
+    "key": "6MSSLT9L",
+    "version": 320,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6MSSLT9L",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6MSSLT9L",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/42LD8H95",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6MSSLT9L/file/view",
+        "title": "De Croon et al. - 2021 - A Systematic Review of the Effect of Gamification .pdf",
+        "length": 283732
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6MSSLT9L",
+      "version": 320,
+      "parentItem": "42LD8H95",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "De Croon et al. - 2021 - A Systematic Review of the Effect of Gamification .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "De Croon et al. - 2021 - A Systematic Review of the Effect of Gamification .pdf",
+      "md5": "9c0a2ff6a03788940fb1f8923bec667e",
+      "mtime": 1639310941000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:08:59Z",
+      "dateModified": "2021-12-12T12:09:02Z"
+    }
+  },
+  {
+    "key": "F959JDZW",
+    "version": 318,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F959JDZW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F959JDZW",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/AXBPEYMS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 625259
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hamari et al.",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "F959JDZW",
+      "version": 318,
+      "itemType": "conferencePaper",
+      "title": "Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Juho",
+          "lastName": "Hamari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jonna",
+          "lastName": "Koivisto"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Harri",
+          "lastName": "Sarsa"
+        }
+      ],
+      "abstractNote": "This paper reviews peer-reviewed empirical studies on gamification. We create a framework for examining the effects of gamification by drawing from the definitions of gamification and the discussion on motivational affordances. The literature review covers results, independent variables (examined motivational affordances), dependent variables (examined psychological/behavioral outcomes from gamification), the contexts of gamification, and types of studies performed on the gamified systems. The paper examines the state of current research on the topic and points out gaps in existing literature. The review indicates that gamification provides positive effects, however, the effects are greatly dependent on the context in which the gamification is being implemented, as well as on the users using it. The findings of the review provide insight for further studies as well as for the design of gamified systems.",
+      "date": "1/2014",
+      "proceedingsTitle": "2014 47th Hawaii International Conference on System Sciences",
+      "conferenceName": "2014 47th Hawaii International Conference on System Sciences (HICSS)",
+      "place": "Waikoloa, HI",
+      "publisher": "IEEE",
+      "volume": "",
+      "pages": "3025-3034",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1109/HICSS.2014.377",
+      "ISBN": "978-1-4799-2504-9",
+      "shortTitle": "Does Gamification Work?",
+      "url": "http://ieeexplore.ieee.org/document/6758978/",
+      "accessDate": "2021-12-12T12:06:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: hamariDoesGamificationWork2014",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:06:14Z",
+      "dateModified": "2021-12-12T12:06:34Z"
+    }
+  },
+  {
+    "key": "AXBPEYMS",
+    "version": 316,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AXBPEYMS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AXBPEYMS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/F959JDZW",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/AXBPEYMS/file/view",
+        "title": "Hamari et al. - 2014 - Does Gamification Work -- A Literature Review of .pdf",
+        "length": 625259
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "AXBPEYMS",
+      "version": 316,
+      "parentItem": "F959JDZW",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hamari et al. - 2014 - Does Gamification Work -- A Literature Review of .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hamari et al. - 2014 - Does Gamification Work -- A Literature Review of .pdf",
+      "md5": "405924e913c2ba20433424f3c98bc79d",
+      "mtime": 1639310774000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:06:11Z",
+      "dateModified": "2021-12-12T12:06:14Z"
+    }
+  },
+  {
     "key": "7TUJA3GF",
     "version": 311,
     "library": {
