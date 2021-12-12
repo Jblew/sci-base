@@ -1,5 +1,389 @@
 [
   {
+    "key": "LSJWYIDS",
+    "version": 298,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LSJWYIDS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LSJWYIDS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/SQH97P7H",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 196775
+      }
+    },
+    "meta": {
+      "creatorSummary": "Aparicio et al.",
+      "parsedDate": "2012",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "LSJWYIDS",
+      "version": 298,
+      "itemType": "conferencePaper",
+      "title": "Analysis and application of gamification",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Andrés Francisco",
+          "lastName": "Aparicio"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francisco Luis Gutiérrez",
+          "lastName": "Vela"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "José Luis González",
+          "lastName": "Sánchez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "José Luis Isla",
+          "lastName": "Montes"
+        }
+      ],
+      "abstractNote": "In this paper we present a method for analysis and application of gamification as a tool to assist the participation and motivation of people in carrying out various tasks and activities. We analyze what are the psychological and social motivations of human beings, and how game mechanics can help when it comes to satisfy these needs. Likewise, it is proposed a method for analyzing the effectiveness of gamification based on a quality service model and the metrics associated with the properties of the playability as a measure of fun induced by the process of gamification.",
+      "date": "2012",
+      "proceedingsTitle": "Proceedings of the 13th International Conference on Interacción Persona-Ordenador - INTERACCION '12",
+      "conferenceName": "the 13th International Conference",
+      "place": "Elche, Spain",
+      "publisher": "ACM Press",
+      "volume": "",
+      "pages": "1-2",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/2379636.2379653",
+      "ISBN": "978-1-4503-1314-8",
+      "shortTitle": "",
+      "url": "http://dl.acm.org/citation.cfm?doid=2379636.2379653",
+      "accessDate": "2021-12-12T10:23:20Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: aparicioAnalysisApplicationGamification2012",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T10:23:20Z",
+      "dateModified": "2021-12-12T10:23:45Z"
+    }
+  },
+  {
+    "key": "X89GSEWL",
+    "version": 298,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/X89GSEWL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/X89GSEWL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BL3H7629",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 400722
+      }
+    },
+    "meta": {
+      "creatorSummary": "Dyer",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "X89GSEWL",
+      "version": 298,
+      "itemType": "bookSection",
+      "title": "A Conceptual Framework for Gamification Measurement",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Torsten",
+          "lastName": "Reiners"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Lincoln C.",
+          "lastName": "Wood"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ronald",
+          "lastName": "Dyer"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "Gamification in Education and Business",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2015",
+      "pages": "47-66",
+      "language": "en",
+      "ISBN": "978-3-319-10207-8 978-3-319-10208-5",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/978-3-319-10208-5_3",
+      "accessDate": "2021-12-12T10:22:19Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-319-10208-5_3\nCitation Key: dyerConceptualFrameworkGamification2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T10:22:19Z",
+      "dateModified": "2021-12-12T10:23:45Z"
+    }
+  },
+  {
+    "key": "SQH97P7H",
+    "version": 296,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SQH97P7H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SQH97P7H",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/LSJWYIDS",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/SQH97P7H/file/view",
+        "title": "Aparicio et al. - 2012 - Analysis and application of gamification.pdf",
+        "length": 196775
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SQH97P7H",
+      "version": 296,
+      "parentItem": "LSJWYIDS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Aparicio et al. - 2012 - Analysis and application of gamification.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Aparicio et al. - 2012 - Analysis and application of gamification.pdf",
+      "md5": "5bc3e489ab852c4c1391832447a270b2",
+      "mtime": 1639304600000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T10:23:16Z",
+      "dateModified": "2021-12-12T10:23:20Z"
+    }
+  },
+  {
+    "key": "BL3H7629",
+    "version": 293,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BL3H7629",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BL3H7629",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/X89GSEWL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BL3H7629/file/view",
+        "title": "Dyer - 2015 - A Conceptual Framework for Gamification Measuremen.pdf",
+        "length": 400722
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BL3H7629",
+      "version": 293,
+      "parentItem": "X89GSEWL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Dyer - 2015 - A Conceptual Framework for Gamification Measuremen.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Dyer - 2015 - A Conceptual Framework for Gamification Measuremen.pdf",
+      "md5": "abf3efb20bbd9cbaae0c574bb5490a83",
+      "mtime": 1639304539000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T10:22:16Z",
+      "dateModified": "2021-12-12T10:22:19Z"
+    }
+  },
+  {
+    "key": "TKZCRZCZ",
+    "version": 288,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TKZCRZCZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TKZCRZCZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1427136
+      }
+    },
+    "meta": {
+      "creatorSummary": "Cash et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TKZCRZCZ",
+      "version": 288,
+      "itemType": "journalArticle",
+      "title": "Behavioural design: A process for integrating behaviour change and design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Philip J.",
+          "lastName": "Cash"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charlotte Gram",
+          "lastName": "Hartlev"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christine Boysen",
+          "lastName": "Durazo"
+        }
+      ],
+      "abstractNote": "Nudge, persuasion, and the inﬂuencing of human behaviour through design are increasingly important topics in design research and in the wider public consciousness. However, current theoretical approaches to behaviour change have yet to be operationalized this in design process support. Speciﬁcally, there are few empirically grounded processes supporting designers in realising behaviour change projects. In response to this, 20 design projects from a case company are analysed in order to distil a core process for behavioural design. Results show a number of process stages and activities associated with project success, pointing to a new perspective on the traditional design process, and allowing designers to integrate key insights from behaviour change theory. Using this foundation we propose the Behavioural Design process. Ó 2016 Elsevier Ltd. All rights reserved.",
+      "publicationTitle": "Design Studies",
+      "volume": "48",
+      "issue": "",
+      "pages": "96-128",
+      "date": "01/2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Design Studies",
+      "language": "en",
+      "DOI": "10.1016/j.destud.2016.10.001",
+      "ISSN": "0142694X",
+      "shortTitle": "Behavioural design",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0142694X16300667",
+      "accessDate": "2021-12-12T10:16:32Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: cashBehaviouralDesignProcess2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T10:16:32Z",
+      "dateModified": "2021-12-12T10:18:33Z"
+    }
+  },
+  {
     "key": "XUGFX4KN",
     "version": 286,
     "library": {
@@ -54,94 +438,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-12T10:16:29Z",
-      "dateModified": "2021-12-12T10:16:32Z"
-    }
-  },
-  {
-    "key": "TKZCRZCZ",
-    "version": 285,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/TKZCRZCZ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/TKZCRZCZ",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1427136
-      }
-    },
-    "meta": {
-      "creatorSummary": "Cash et al.",
-      "parsedDate": "2017",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "TKZCRZCZ",
-      "version": 285,
-      "itemType": "journalArticle",
-      "title": "Behavioural design: A process for integrating behaviour change and design",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Philip J.",
-          "lastName": "Cash"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Charlotte Gram",
-          "lastName": "Hartlev"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Christine Boysen",
-          "lastName": "Durazo"
-        }
-      ],
-      "abstractNote": "Nudge, persuasion, and the inﬂuencing of human behaviour through design are increasingly important topics in design research and in the wider public consciousness. However, current theoretical approaches to behaviour change have yet to be operationalized this in design process support. Speciﬁcally, there are few empirically grounded processes supporting designers in realising behaviour change projects. In response to this, 20 design projects from a case company are analysed in order to distil a core process for behavioural design. Results show a number of process stages and activities associated with project success, pointing to a new perspective on the traditional design process, and allowing designers to integrate key insights from behaviour change theory. Using this foundation we propose the Behavioural Design process. Ó 2016 Elsevier Ltd. All rights reserved.",
-      "publicationTitle": "Design Studies",
-      "volume": "48",
-      "issue": "",
-      "pages": "96-128",
-      "date": "01/2017",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Design Studies",
-      "language": "en",
-      "DOI": "10.1016/j.destud.2016.10.001",
-      "ISSN": "0142694X",
-      "shortTitle": "Behavioural design",
-      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0142694X16300667",
-      "accessDate": "2021-12-12T10:16:32Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-12T10:16:32Z",
       "dateModified": "2021-12-12T10:16:32Z"
     }
   },
@@ -3117,7 +3413,7 @@
     "meta": {
       "creatorSummary": "Snyder and Lopez",
       "parsedDate": "2002",
-      "numChildren": 1
+      "numChildren": 2
     },
     "data": {
       "key": "X9WJGBGL",
