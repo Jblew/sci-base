@@ -1,5 +1,151 @@
 [
   {
+    "key": "XUGFX4KN",
+    "version": 286,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XUGFX4KN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/TKZCRZCZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN/file/view",
+        "title": "Cash et al. - 2017 - Behavioural design A process for integrating beha.pdf",
+        "length": 1427136
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "XUGFX4KN",
+      "version": 286,
+      "parentItem": "TKZCRZCZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Cash et al. - 2017 - Behavioural design A process for integrating beha.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Cash et al. - 2017 - Behavioural design A process for integrating beha.pdf",
+      "md5": "f33baab0857ecebcf566d88330b978b4",
+      "mtime": 1639304192000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T10:16:29Z",
+      "dateModified": "2021-12-12T10:16:32Z"
+    }
+  },
+  {
+    "key": "TKZCRZCZ",
+    "version": 285,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TKZCRZCZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TKZCRZCZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1427136
+      }
+    },
+    "meta": {
+      "creatorSummary": "Cash et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TKZCRZCZ",
+      "version": 285,
+      "itemType": "journalArticle",
+      "title": "Behavioural design: A process for integrating behaviour change and design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Philip J.",
+          "lastName": "Cash"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charlotte Gram",
+          "lastName": "Hartlev"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christine Boysen",
+          "lastName": "Durazo"
+        }
+      ],
+      "abstractNote": "Nudge, persuasion, and the inﬂuencing of human behaviour through design are increasingly important topics in design research and in the wider public consciousness. However, current theoretical approaches to behaviour change have yet to be operationalized this in design process support. Speciﬁcally, there are few empirically grounded processes supporting designers in realising behaviour change projects. In response to this, 20 design projects from a case company are analysed in order to distil a core process for behavioural design. Results show a number of process stages and activities associated with project success, pointing to a new perspective on the traditional design process, and allowing designers to integrate key insights from behaviour change theory. Using this foundation we propose the Behavioural Design process. Ó 2016 Elsevier Ltd. All rights reserved.",
+      "publicationTitle": "Design Studies",
+      "volume": "48",
+      "issue": "",
+      "pages": "96-128",
+      "date": "01/2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Design Studies",
+      "language": "en",
+      "DOI": "10.1016/j.destud.2016.10.001",
+      "ISSN": "0142694X",
+      "shortTitle": "Behavioural design",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0142694X16300667",
+      "accessDate": "2021-12-12T10:16:32Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T10:16:32Z",
+      "dateModified": "2021-12-12T10:16:32Z"
+    }
+  },
+  {
     "key": "WQ86QHFJ",
     "version": 284,
     "library": {
