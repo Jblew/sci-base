@@ -1,5 +1,674 @@
 [
   {
+    "key": "7TUJA3GF",
+    "version": 311,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7TUJA3GF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7TUJA3GF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BUVAPEH4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 170506
+      }
+    },
+    "meta": {
+      "creatorSummary": "Shahri et al.",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "7TUJA3GF",
+      "version": 311,
+      "itemType": "bookSection",
+      "title": "Towards a Code of Ethics for Gamification at Enterprise",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Ulrich",
+          "lastName": "Frank"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Pericles",
+          "lastName": "Loucopoulos"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Óscar",
+          "lastName": "Pastor"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Ilias",
+          "lastName": "Petrounias"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alimohammad",
+          "lastName": "Shahri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mahmood",
+          "lastName": "Hosseini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Keith",
+          "lastName": "Phalp"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jacqui",
+          "lastName": "Taylor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raian",
+          "lastName": "Ali"
+        }
+      ],
+      "abstractNote": "Gamiﬁcation is an emerging technique which utilises the “fun theory” mainly to motivate people to change their perception and attitude towards certain subjects. Within enterprises, gamiﬁcation is used to motivate employees to do their tasks more efﬁciently and perhaps more enjoyably and sometimes to increase their feeling of being members of the enterprise as a community. While the literature has often emphasised the positive side of gamiﬁcation, mainly from economic and business perspectives, little emphasis has been paid to the ethical use of gamiﬁcation within enterprises. In this paper we report an empirical research to explore the ethical aspects of using gamiﬁcation. We follow a mixed methods approach involving participants who are gamiﬁcation experts, employees and managers. Our ﬁndings show that, for gamiﬁcation, there is a ﬁne line between being a positive tool to motivate employees and being a source of tension and pressure which could then affect the social and mental well-being within the workplace. This paper will evaluate that dual effect and clarify that ﬁne line.",
+      "bookTitle": "The Practice of Enterprise Modeling",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "197",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Berlin, Heidelberg",
+      "publisher": "Springer Berlin Heidelberg",
+      "date": "2014",
+      "pages": "235-245",
+      "language": "en",
+      "ISBN": "978-3-662-45500-5 978-3-662-45501-2",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/978-3-662-45501-2_17",
+      "accessDate": "2021-12-12T11:55:04Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Series Title: Lecture Notes in Business Information Processing\nDOI: 10.1007/978-3-662-45501-2_17\nCitation Key: shahriCodeEthicsGamification2014",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T11:55:04Z",
+      "dateModified": "2021-12-12T12:03:26Z"
+    }
+  },
+  {
+    "key": "W7MGEVVN",
+    "version": 311,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W7MGEVVN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W7MGEVVN",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/9KM3ZXTT",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 115678
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kim",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "W7MGEVVN",
+      "version": 311,
+      "itemType": "journalArticle",
+      "title": "Gamification Ethics: Exploitation and Manipulation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Tae Wan",
+          "lastName": "Kim"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "5",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: kimGamificationEthicsExploitation",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T11:54:49Z",
+      "dateModified": "2021-12-12T12:03:26Z"
+    }
+  },
+  {
+    "key": "KGQYKK3D",
+    "version": 311,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KGQYKK3D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KGQYKK3D",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/VUGPJEUG",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 743259
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lin et al.",
+      "parsedDate": "2017-11-02",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KGQYKK3D",
+      "version": 311,
+      "itemType": "journalArticle",
+      "title": "Nudge: Concept, Effectiveness, and Ethics",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yiling",
+          "lastName": "Lin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Magda",
+          "lastName": "Osman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "Ashcroft"
+        }
+      ],
+      "abstractNote": "Nudges are psychologically informed tools designed to promote behavioral change in order to improve health and well-being. In this review, we focus on three areas of concern: theory, evidence base, ethics. We begin by discussing the problems arising from the theoretical framework that nudges are based on and propose an alternative framework that helps to classify nudges into two types (Type 1 and Type 2). We then evaluate the evidence for nudges in the health domain, drawing attention to critical empirical issues (internal and external reliability) that explain the limited evidence base for their effectiveness. The review ends with an examination of the implications of the theoretical and empirical issues we discussed with respect to current debates regarding the ethics of nudge.",
+      "publicationTitle": "Basic and Applied Social Psychology",
+      "volume": "39",
+      "issue": "6",
+      "pages": "293-306",
+      "date": "2017-11-02",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Basic and Applied Social Psychology",
+      "language": "en",
+      "DOI": "10.1080/01973533.2017.1356304",
+      "ISSN": "0197-3533, 1532-4834",
+      "shortTitle": "Nudge",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/01973533.2017.1356304",
+      "accessDate": "2021-12-12T12:03:21Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: linNudgeConceptEffectiveness2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:03:21Z",
+      "dateModified": "2021-12-12T12:03:26Z"
+    }
+  },
+  {
+    "key": "FN2W9EBJ",
+    "version": 311,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FN2W9EBJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FN2W9EBJ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XJ72C95H",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 191302
+      }
+    },
+    "meta": {
+      "creatorSummary": "Teichman and Zamir",
+      "parsedDate": "2019-12-31",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "FN2W9EBJ",
+      "version": 311,
+      "itemType": "journalArticle",
+      "title": "Nudge Goes International",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Doron",
+          "lastName": "Teichman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eyal",
+          "lastName": "Zamir"
+        }
+      ],
+      "abstractNote": "This article introduces the concept of nudge – low-cost behaviourally informed modes of regulation that influence people’s decisions without limiting their choice set – into the behavioural analysis of international law. It sketches out the pathways through which nudges might influence the behaviour of countries, and highlights the normative implications associated with utilizing these regulatory tools in the international arena. That done, the article presents numerous case studies that demonstrate how nudges such as defaults, goals and rankings are integrated into the international legal terrain.",
+      "publicationTitle": "European Journal of International Law",
+      "volume": "30",
+      "issue": "4",
+      "pages": "1263-1279",
+      "date": "2019-12-31",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1093/ejil/chaa007",
+      "ISSN": "0938-5428, 1464-3596",
+      "shortTitle": "",
+      "url": "https://academic.oup.com/ejil/article/30/4/1263/5822837",
+      "accessDate": "2021-12-12T12:01:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: teichmanNudgeGoesInternational2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:01:31Z",
+      "dateModified": "2021-12-12T12:03:26Z"
+    }
+  },
+  {
+    "key": "VUGPJEUG",
+    "version": 312,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VUGPJEUG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VUGPJEUG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KGQYKK3D",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/VUGPJEUG/file/view",
+        "title": "Lin et al. - 2017 - Nudge Concept, Effectiveness, and Ethics.pdf",
+        "length": 743259
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VUGPJEUG",
+      "version": 312,
+      "parentItem": "KGQYKK3D",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lin et al. - 2017 - Nudge Concept, Effectiveness, and Ethics.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lin et al. - 2017 - Nudge Concept, Effectiveness, and Ethics.pdf",
+      "md5": "3a1ff96966cb8e9ffb21a689639b3257",
+      "mtime": 1639310601000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:03:18Z",
+      "dateModified": "2021-12-12T12:03:21Z"
+    }
+  },
+  {
+    "key": "XJ72C95H",
+    "version": 309,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XJ72C95H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XJ72C95H",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/FN2W9EBJ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/XJ72C95H/file/view",
+        "title": "Teichman and Zamir - 2019 - Nudge Goes International.pdf",
+        "length": 191302
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "XJ72C95H",
+      "version": 309,
+      "parentItem": "FN2W9EBJ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Teichman and Zamir - 2019 - Nudge Goes International.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Teichman and Zamir - 2019 - Nudge Goes International.pdf",
+      "md5": "bb83c7081b30a3b2d37ecc0195a2d371",
+      "mtime": 1639310491000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T12:01:28Z",
+      "dateModified": "2021-12-12T12:01:31Z"
+    }
+  },
+  {
+    "key": "BUVAPEH4",
+    "version": 306,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BUVAPEH4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BUVAPEH4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/7TUJA3GF",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BUVAPEH4/file/view",
+        "title": "Shahri et al. - 2014 - Towards a Code of Ethics for Gamification at Enter.pdf",
+        "length": 170506
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BUVAPEH4",
+      "version": 306,
+      "parentItem": "7TUJA3GF",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Shahri et al. - 2014 - Towards a Code of Ethics for Gamification at Enter.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Shahri et al. - 2014 - Towards a Code of Ethics for Gamification at Enter.pdf",
+      "md5": "756acda761f08a267391763f5c3fce74",
+      "mtime": 1639310105000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T11:55:02Z",
+      "dateModified": "2021-12-12T11:55:05Z"
+    }
+  },
+  {
+    "key": "9KM3ZXTT",
+    "version": 305,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9KM3ZXTT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9KM3ZXTT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/W7MGEVVN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9KM3ZXTT/file/view",
+        "title": "Kim - Gamification Ethics Exploitation and Manipulation.pdf",
+        "length": 115678
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9KM3ZXTT",
+      "version": 305,
+      "parentItem": "W7MGEVVN",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kim - Gamification Ethics Exploitation and Manipulation.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kim - Gamification Ethics Exploitation and Manipulation.pdf",
+      "md5": "71d3cb1015358819546a75b0cc004185",
+      "mtime": 1639310089000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-12T11:54:47Z",
+      "dateModified": "2021-12-12T11:54:49Z"
+    }
+  },
+  {
+    "key": "9CNFNJ4R",
+    "version": 302,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9CNFNJ4R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9CNFNJ4R",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Eyal",
+      "parsedDate": "2014",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9CNFNJ4R",
+      "version": 302,
+      "itemType": "book",
+      "title": "Hooked: How to build habit-forming products",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Nir",
+          "lastName": "Eyal"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "Penguin",
+      "date": "2014",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: eyal2014hooked",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-12T11:53:48Z",
+      "dateModified": "2021-12-12T11:53:48Z"
+    }
+  },
+  {
     "key": "LSJWYIDS",
     "version": 298,
     "library": {
@@ -322,7 +991,7 @@
         "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 1427136
+        "attachmentSize": 1443614
       }
     },
     "meta": {
@@ -385,7 +1054,7 @@
   },
   {
     "key": "XUGFX4KN",
-    "version": 286,
+    "version": 314,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -414,7 +1083,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN/file/view",
         "title": "Cash et al. - 2017 - Behavioural design A process for integrating beha.pdf",
-        "length": 1427136
+        "length": 1443614
       }
     },
     "meta": {
@@ -422,7 +1091,7 @@
     },
     "data": {
       "key": "XUGFX4KN",
-      "version": 286,
+      "version": 314,
       "parentItem": "TKZCRZCZ",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -433,8 +1102,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Cash et al. - 2017 - Behavioural design A process for integrating beha.pdf",
-      "md5": "f33baab0857ecebcf566d88330b978b4",
-      "mtime": 1639304192000,
+      "md5": "cfad48d856b74c7b5b566adefe629a7d",
+      "mtime": 1639304307000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-12T10:16:29Z",
