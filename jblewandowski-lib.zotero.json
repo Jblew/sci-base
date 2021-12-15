@@ -1,5 +1,204 @@
 [
   {
+    "key": "ML7VMX26",
+    "version": 356,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ML7VMX26",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ML7VMX26",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/S9KBPHT3",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ML7VMX26/file/view",
+        "title": "Foldit Contenders Group et al. - 2011 - Crystal structure of a monomeric retroviral protea.pdf",
+        "length": 995340
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "ML7VMX26",
+      "version": 356,
+      "parentItem": "S9KBPHT3",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Foldit Contenders Group et al. - 2011 - Crystal structure of a monomeric retroviral protea.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Foldit Contenders Group et al. - 2011 - Crystal structure of a monomeric retroviral protea.pdf",
+      "md5": "1c977ccf63b2921f3fe526b42f6dc2e1",
+      "mtime": 1639601410000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T20:50:06Z",
+      "dateModified": "2021-12-15T20:50:10Z"
+    }
+  },
+  {
+    "key": "S9KBPHT3",
+    "version": 355,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/S9KBPHT3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/S9KBPHT3",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ML7VMX26",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 995340
+      }
+    },
+    "meta": {
+      "creatorSummary": "Foldit Contenders Group et al.",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "S9KBPHT3",
+      "version": 355,
+      "itemType": "journalArticle",
+      "title": "Crystal structure of a monomeric retroviral protease solved by protein folding game players",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Foldit Contenders Group"
+        },
+        {
+          "creatorType": "author",
+          "name": "Foldit Void Crushers Group"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Firas",
+          "lastName": "Khatib"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank",
+          "lastName": "DiMaio"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Seth",
+          "lastName": "Cooper"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maciej",
+          "lastName": "Kazmierczyk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Miroslaw",
+          "lastName": "Gilski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Szymon",
+          "lastName": "Krzywda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Helena",
+          "lastName": "Zabranska"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iva",
+          "lastName": "Pichova"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Thompson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zoran",
+          "lastName": "Popović"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mariusz",
+          "lastName": "Jaskolski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Baker"
+        }
+      ],
+      "abstractNote": "Following the failure of a wide range of attempts to solve the crystal structure of M-PMV retroviral protease by molecular replacement, we challenged players of the protein folding game Foldit to produce accurate models of the protein. Remarkably, Foldit players were able to generate models of sufficient quality for successful molecular replacement and subsequent structure determination. The refined structure provides new insights for the design of antiretroviral drugs.",
+      "publicationTitle": "Nature Structural & Molecular Biology",
+      "volume": "18",
+      "issue": "10",
+      "pages": "1175-1177",
+      "date": "10/2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Nat Struct Mol Biol",
+      "language": "en",
+      "DOI": "10.1038/nsmb.2119",
+      "ISSN": "1545-9993, 1545-9985",
+      "shortTitle": "",
+      "url": "http://www.nature.com/articles/nsmb.2119",
+      "accessDate": "2021-12-15T20:50:10Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T20:50:10Z",
+      "dateModified": "2021-12-15T20:50:10Z"
+    }
+  },
+  {
     "key": "YDZA3ZIZ",
     "version": 353,
     "library": {
