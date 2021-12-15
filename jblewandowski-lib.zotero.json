@@ -1,7 +1,74 @@
 [
   {
+    "key": "7GVYKULE",
+    "version": 344,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7GVYKULE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7GVYKULE",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chang",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "7GVYKULE",
+      "version": 344,
+      "itemType": "report",
+      "title": "54 Gamification Statistics You Must Know: 2020/2021 Market Share Analysis & Data",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jenny",
+          "lastName": "Chang"
+        }
+      ],
+      "abstractNote": "",
+      "reportNumber": "",
+      "reportType": "",
+      "seriesTitle": "",
+      "place": "",
+      "institution": "",
+      "date": "",
+      "pages": "",
+      "language": "",
+      "shortTitle": "",
+      "url": "https://financesonline.com/gamification-statistics/",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T13:41:46Z",
+      "dateModified": "2021-12-15T13:42:24Z"
+    }
+  },
+  {
     "key": "B5MN9C35",
-    "version": 341,
+    "version": 342,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -29,7 +96,7 @@
     },
     "data": {
       "key": "B5MN9C35",
-      "version": 341,
+      "version": 342,
       "itemType": "report",
       "title": "Gamification Market by Component (Solution and Services), Deployment (Cloud and On-premises), Organization Size (SMEs and Large Enterprises), Application, End-User (Enterprise-Driven and Consumer-Driven), Vertical, and Region - Global Forecast to 2025",
       "creators": [],
@@ -44,20 +111,20 @@
       "language": "",
       "shortTitle": "",
       "url": "https://www.marketsandmarkets.com/Market-Reports/gamification-market-991.html",
-      "accessDate": "",
+      "accessDate": "2021-12-15",
       "archive": "",
       "archiveLocation": "",
       "libraryCatalog": "",
       "callNumber": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: GamificationMarketComponent2020",
       "tags": [],
       "collections": [
         "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-12-15T13:31:42Z",
-      "dateModified": "2021-12-15T13:36:05Z"
+      "dateModified": "2021-12-15T13:37:04Z"
     }
   },
   {
