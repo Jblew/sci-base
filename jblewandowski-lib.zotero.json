@@ -1,5 +1,66 @@
 [
   {
+    "key": "B5MN9C35",
+    "version": 341,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B5MN9C35",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B5MN9C35",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "parsedDate": "2020-03",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "B5MN9C35",
+      "version": 341,
+      "itemType": "report",
+      "title": "Gamification Market by Component (Solution and Services), Deployment (Cloud and On-premises), Organization Size (SMEs and Large Enterprises), Application, End-User (Enterprise-Driven and Consumer-Driven), Vertical, and Region - Global Forecast to 2025",
+      "creators": [],
+      "abstractNote": "",
+      "reportNumber": "TC 1445",
+      "reportType": "",
+      "seriesTitle": "",
+      "place": "",
+      "institution": "MarketsandMarkets™ Research Private Ltd.",
+      "date": "2020/03",
+      "pages": "",
+      "language": "",
+      "shortTitle": "",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/gamification-market-991.html",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T13:31:42Z",
+      "dateModified": "2021-12-15T13:36:05Z"
+    }
+  },
+  {
     "key": "APMHABQA",
     "version": 335,
     "library": {
