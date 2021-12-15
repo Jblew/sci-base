@@ -1,5 +1,121 @@
 [
   {
+    "key": "APMHABQA",
+    "version": 335,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/APMHABQA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/APMHABQA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/LS2IJHPT",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/APMHABQA/file/view",
+        "title": "Beerda - 2021 - Octalysis the Gamification Framework backed by Sc.pdf",
+        "length": 4037315
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "APMHABQA",
+      "version": 335,
+      "parentItem": "LS2IJHPT",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Beerda - 2021 - Octalysis the Gamification Framework backed by Sc.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Beerda - 2021 - Octalysis the Gamification Framework backed by Sc.pdf",
+      "md5": "dd82cd828b7025a123620df9e15808ab",
+      "mtime": 1639572751000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T12:52:31Z",
+      "dateModified": "2021-12-15T12:52:31Z"
+    }
+  },
+  {
+    "key": "9QUFPFMQ",
+    "version": 332,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9QUFPFMQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9QUFPFMQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5KXHQQ4R",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9QUFPFMQ/file/view",
+        "title": "Unknown - Case Studies — The Octalysis Group.pdf",
+        "length": 3843400
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9QUFPFMQ",
+      "version": 332,
+      "parentItem": "5KXHQQ4R",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Unknown - Case Studies — The Octalysis Group.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Unknown - Case Studies — The Octalysis Group.pdf",
+      "md5": "98b12e9766218f5de131003f1fe99d2f",
+      "mtime": 1639572720000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T12:52:00Z",
+      "dateModified": "2021-12-15T12:52:00Z"
+    }
+  },
+  {
     "key": "MQ78XM77",
     "version": 325,
     "library": {
@@ -4480,11 +4596,17 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/5KXHQQ4R",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/9QUFPFMQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3843400
       }
     },
     "meta": {
       "creatorSummary": "Unknown",
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "5KXHQQ4R",
@@ -4539,12 +4661,18 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/LS2IJHPT",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/APMHABQA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 4037315
       }
     },
     "meta": {
       "creatorSummary": "Beerda",
       "parsedDate": "2021-09-13",
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "LS2IJHPT",
