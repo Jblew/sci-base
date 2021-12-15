@@ -1,5 +1,654 @@
 [
   {
+    "key": "7QJF9XEM",
+    "version": 367,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7QJF9XEM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7QJF9XEM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/TGHHVVRB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1314877
+      }
+    },
+    "meta": {
+      "creatorSummary": "Putz et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "7QJF9XEM",
+      "version": 367,
+      "itemType": "journalArticle",
+      "title": "Can gamification help to improve education? Findings from a longitudinal study",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lisa-Maria",
+          "lastName": "Putz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florian",
+          "lastName": "Hofbauer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Horst",
+          "lastName": "Treiblmaier"
+        }
+      ],
+      "abstractNote": "A goal of any educational measure is to improve students’ capability to retain teaching content. In this paper, we investigate the potential of gamification to foster knowledge retention using an action research approach. We present the results from a longitudinal study including 617 secondary and tertiary education students conducted over a period of two years. Various workshop designs that incorporated numerous gamification elements were compared with non-gamified workshop designs, tested and refined over time. The improved workshop designs led to increased levels of knowledge retention that exceeded the benchmark values from educational literature. We found that gamification exerts a positive impact on knowledge retention. We tested for the moderating effects of gender and age and found no effect of the former and inconsistent results for the latter. The steady increase in students’ learning performance resulting from constant refinement of the workshops demonstrates the usefulness of incorporating gamification principles into educational activities.",
+      "publicationTitle": "Computers in Human Behavior",
+      "volume": "110",
+      "issue": "",
+      "pages": "106392",
+      "date": "09/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Computers in Human Behavior",
+      "language": "en",
+      "DOI": "10.1016/j.chb.2020.106392",
+      "ISSN": "07475632",
+      "shortTitle": "Can gamification help to improve education?",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S074756322030145X",
+      "accessDate": "2021-12-15T21:25:52Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: putzCanGamificationHelp2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:25:52Z",
+      "dateModified": "2021-12-15T21:26:05Z"
+    }
+  },
+  {
+    "key": "S8522PNW",
+    "version": 367,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/S8522PNW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/S8522PNW",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/W2MA39NA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 613659
+      }
+    },
+    "meta": {
+      "creatorSummary": "Majuri et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "S8522PNW",
+      "version": 367,
+      "itemType": "journalArticle",
+      "title": "Gamification of education and learning: A review of empirical literature",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jenni",
+          "lastName": "Majuri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jonna",
+          "lastName": "Koivisto"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juho",
+          "lastName": "Hamari"
+        }
+      ],
+      "abstractNote": "Gamification has become one of the most notable technological developments for human engagement. Therefore, it is not surprising that gamification has especially been addressed and implemented in the realm of education where supporting and retaining engagement is a constant challenge. However, while the volume of research on the topic has increased, synthesizing the consequent knowledge has remained modest and narrow. Therefore, in this literature review we catalogue 128 empirical research papers in the field of gamification of education and learning. The results indicate that gamification in education and learning most commonly utilizes affordances signaling achievement and progression, while social and immersion-oriented affordances are much less common; the outcomes examined in the studies are mainly focused on quantifiable performance metrics; and the results reported in the reviewed studies are strongly positively oriented. The findings imply that future research on gamification in education should increasingly put emphasis on varying the affordances in the implementations and the pursued goals of the gamification solutions. We encourage also increased attention on contextual factors of the solutions as well as on study designs in future research endeavors.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "9",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: majuriGamificationEducationLearning2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:25:54Z",
+      "dateModified": "2021-12-15T21:26:05Z"
+    }
+  },
+  {
+    "key": "W2MA39NA",
+    "version": 369,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W2MA39NA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W2MA39NA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/S8522PNW",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/W2MA39NA/file/view",
+        "title": "Majuri et al. - 2018 - Gamification of education and learning A review o.pdf",
+        "length": 613659
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "W2MA39NA",
+      "version": 369,
+      "parentItem": "S8522PNW",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Majuri et al. - 2018 - Gamification of education and learning A review o.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Majuri et al. - 2018 - Gamification of education and learning A review o.pdf",
+      "md5": "768c5330ae11484fd0783899b1740fa2",
+      "mtime": 1639603555000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:25:53Z",
+      "dateModified": "2021-12-15T21:25:55Z"
+    }
+  },
+  {
+    "key": "TGHHVVRB",
+    "version": 368,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TGHHVVRB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TGHHVVRB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/7QJF9XEM",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/TGHHVVRB/file/view",
+        "title": "Putz et al. - 2020 - Can gamification help to improve education Findin.pdf",
+        "length": 1314877
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "TGHHVVRB",
+      "version": 368,
+      "parentItem": "7QJF9XEM",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Putz et al. - 2020 - Can gamification help to improve education Findin.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Putz et al. - 2020 - Can gamification help to improve education Findin.pdf",
+      "md5": "1275229d204fc62a9ef2db3dfe7b57ca",
+      "mtime": 1639603552000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:25:48Z",
+      "dateModified": "2021-12-15T21:25:52Z"
+    }
+  },
+  {
+    "key": "2T8GDRSK",
+    "version": 364,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2T8GDRSK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2T8GDRSK",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/4E5FM2WQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 299320
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kim et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "2T8GDRSK",
+      "version": 364,
+      "itemType": "bookSection",
+      "title": "What is Gamification in Learning and Education?",
+      "creators": [
+        {
+          "creatorType": "bookAuthor",
+          "firstName": "Sangkyun",
+          "lastName": "Kim"
+        },
+        {
+          "creatorType": "bookAuthor",
+          "firstName": "Kibong",
+          "lastName": "Song"
+        },
+        {
+          "creatorType": "bookAuthor",
+          "firstName": "Barbara",
+          "lastName": "Lockee"
+        },
+        {
+          "creatorType": "bookAuthor",
+          "firstName": "John",
+          "lastName": "Burton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sangkyun",
+          "lastName": "Kim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kibong",
+          "lastName": "Song"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barbara",
+          "lastName": "Lockee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Burton"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "Gamification in Learning and Education",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2018",
+      "pages": "25-38",
+      "language": "en",
+      "ISBN": "978-3-319-47282-9 978-3-319-47283-6",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/978-3-319-47283-6_4",
+      "accessDate": "2021-12-15T21:25:01Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-319-47283-6_4\nCitation Key: kimWhatGamificationLearning2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:25:01Z",
+      "dateModified": "2021-12-15T21:25:05Z"
+    }
+  },
+  {
+    "key": "4E5FM2WQ",
+    "version": 365,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4E5FM2WQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4E5FM2WQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2T8GDRSK",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4E5FM2WQ/file/view",
+        "title": "Kim et al. - 2018 - What is Gamification in Learning and Education.pdf",
+        "length": 299320
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4E5FM2WQ",
+      "version": 365,
+      "parentItem": "2T8GDRSK",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kim et al. - 2018 - What is Gamification in Learning and Education.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kim et al. - 2018 - What is Gamification in Learning and Education.pdf",
+      "md5": "afe52278657effe2dddea217748337e2",
+      "mtime": 1639603502000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:24:59Z",
+      "dateModified": "2021-12-15T21:25:02Z"
+    }
+  },
+  {
+    "key": "IX8TM38Z",
+    "version": 361,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IX8TM38Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IX8TM38Z",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/M8PPCGQI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 521594
+      }
+    },
+    "meta": {
+      "creatorSummary": "Gentry et al.",
+      "parsedDate": "2019-03-28",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "IX8TM38Z",
+      "version": 361,
+      "itemType": "journalArticle",
+      "title": "Serious Gaming and Gamification Education in Health Professions: Systematic Review",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sarah Victoria",
+          "lastName": "Gentry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrea",
+          "lastName": "Gauthier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Beatrice",
+          "lastName": "L’Estrade Ehrstrom"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Wortley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anneliese",
+          "lastName": "Lilienthal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lorainne",
+          "lastName": "Tudor Car"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shoko",
+          "lastName": "Dauwels-Okutsu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charoula K",
+          "lastName": "Nikolaou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nabil",
+          "lastName": "Zary"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Josip",
+          "lastName": "Car"
+        }
+      ],
+      "abstractNote": "Background: There is a worldwide shortage of health workers, and this issue requires innovative education solutions. Serious gaming and gamification education have the potential to provide a quality, cost-effective, novel approach that is flexible, portable, and enjoyable and allow interaction with tutors and peers.",
+      "publicationTitle": "Journal of Medical Internet Research",
+      "volume": "21",
+      "issue": "3",
+      "pages": "e12994",
+      "date": "2019-03-28",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "J Med Internet Res",
+      "language": "en",
+      "DOI": "10.2196/12994",
+      "ISSN": "1438-8871",
+      "shortTitle": "Serious Gaming and Gamification Education in Health Professions",
+      "url": "http://www.jmir.org/2019/3/e12994/",
+      "accessDate": "2021-12-15T21:23:45Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: gentrySeriousGamingGamification2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:23:45Z",
+      "dateModified": "2021-12-15T21:23:50Z"
+    }
+  },
+  {
+    "key": "M8PPCGQI",
+    "version": 362,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M8PPCGQI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M8PPCGQI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/IX8TM38Z",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/M8PPCGQI/file/view",
+        "title": "Gentry et al. - 2019 - Serious Gaming and Gamification Education in Healt.pdf",
+        "length": 521594
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "M8PPCGQI",
+      "version": 362,
+      "parentItem": "IX8TM38Z",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Gentry et al. - 2019 - Serious Gaming and Gamification Education in Healt.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Gentry et al. - 2019 - Serious Gaming and Gamification Education in Healt.pdf",
+      "md5": "b34456be15fbfb61e4d1fc94963d5db2",
+      "mtime": 1639603425000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T21:23:42Z",
+      "dateModified": "2021-12-15T21:23:45Z"
+    }
+  },
+  {
     "key": "S9KBPHT3",
     "version": 358,
     "library": {
@@ -2530,6 +3179,84 @@
     }
   },
   {
+    "key": "WQ86QHFJ",
+    "version": 359,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WQ86QHFJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WQ86QHFJ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2WGSJGBS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 523369
+      }
+    },
+    "meta": {
+      "creatorSummary": "Miller",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WQ86QHFJ",
+      "version": 359,
+      "itemType": "journalArticle",
+      "title": "The Gamification Of Education",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Craig",
+          "lastName": "Miller"
+        }
+      ],
+      "abstractNote": "The concept of gamification was first introduced in the literature in 2008 has increasingly been a topic for published books, blogs, and numerous articles in journals and other media outlets. Drawing on the author’s personal experience and published research this paper is intended to establish a definition of gamification that can be generally accepted, explain the popularity of the concept in terms of those elements that support effective learning, and make a case that those of us that have been involved with simulation are long time gamifiers.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "5",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: millerGamificationEducation",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M",
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-28T19:57:16Z",
+      "dateModified": "2021-12-11T18:39:36Z"
+    }
+  },
+  {
     "key": "7ZYQBK23",
     "version": 328,
     "library": {
@@ -2602,83 +3329,6 @@
       "collections": [],
       "relations": {},
       "dateAdded": "2021-11-28T19:57:07Z",
-      "dateModified": "2021-12-11T18:39:36Z"
-    }
-  },
-  {
-    "key": "WQ86QHFJ",
-    "version": 284,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/WQ86QHFJ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/WQ86QHFJ",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/2WGSJGBS",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 523369
-      }
-    },
-    "meta": {
-      "creatorSummary": "Miller",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "WQ86QHFJ",
-      "version": 284,
-      "itemType": "journalArticle",
-      "title": "The Gamification Of Education",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Craig",
-          "lastName": "Miller"
-        }
-      ],
-      "abstractNote": "The concept of gamification was first introduced in the literature in 2008 has increasingly been a topic for published books, blogs, and numerous articles in journals and other media outlets. Drawing on the author’s personal experience and published research this paper is intended to establish a definition of gamification that can be generally accepted, explain the popularity of the concept in terms of those elements that support effective learning, and make a case that those of us that have been involved with simulation are long time gamifiers.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "5",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: millerGamificationEducation",
-      "tags": [],
-      "collections": [
-        "PT5M2NF4"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-28T19:57:16Z",
       "dateModified": "2021-12-11T18:39:36Z"
     }
   },
@@ -5626,6 +6276,85 @@
     }
   },
   {
+    "key": "D75P6VCW",
+    "version": 360,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/D75P6VCW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/D75P6VCW",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/4MKC3V9C",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 758382
+      }
+    },
+    "meta": {
+      "creatorSummary": "Landers",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "D75P6VCW",
+      "version": 360,
+      "itemType": "journalArticle",
+      "title": "Developing a Theory of Gamified Learning",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Richard N.",
+          "lastName": "Landers"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Simulation &amp; Gaming",
+      "volume": "45",
+      "issue": "6",
+      "pages": "752-768",
+      "date": "2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1177/1046878114563660",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: landersDevelopingTheoryGamified2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M",
+        "PT5M2NF4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-19T14:13:21Z",
+      "dateModified": "2021-11-19T20:08:55Z"
+    }
+  },
+  {
     "key": "8RWJVNPA",
     "version": 173,
     "library": {
@@ -5813,84 +6542,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-19T14:07:47Z",
-      "dateModified": "2021-11-19T20:08:55Z"
-    }
-  },
-  {
-    "key": "D75P6VCW",
-    "version": 173,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/D75P6VCW",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/D75P6VCW",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/4MKC3V9C",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 758382
-      }
-    },
-    "meta": {
-      "creatorSummary": "Landers",
-      "parsedDate": "2015",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "D75P6VCW",
-      "version": 173,
-      "itemType": "journalArticle",
-      "title": "Developing a Theory of Gamified Learning",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Richard N.",
-          "lastName": "Landers"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "Simulation &amp; Gaming",
-      "volume": "45",
-      "issue": "6",
-      "pages": "752-768",
-      "date": "2015",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "10.1177/1046878114563660",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: landersDevelopingTheoryGamified2015",
-      "tags": [],
-      "collections": [
-        "PT5M2NF4"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-19T14:13:21Z",
       "dateModified": "2021-11-19T20:08:55Z"
     }
   },
