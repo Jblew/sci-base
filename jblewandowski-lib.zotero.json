@@ -1,7 +1,123 @@
 [
   {
+    "key": "4TRQ672X",
+    "version": 350,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4TRQ672X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4TRQ672X",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/7GVYKULE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4TRQ672X/file/view",
+        "title": "Chang - 2021 - 54 Gamification Statistics You Must Know 2020202.pdf",
+        "length": 1221215
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4TRQ672X",
+      "version": 350,
+      "parentItem": "7GVYKULE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Chang - 2021 - 54 Gamification Statistics You Must Know 2020202.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Chang - 2021 - 54 Gamification Statistics You Must Know 2020202.pdf",
+      "md5": "fc6f1cb506071ef16696cffc2af09a0c",
+      "mtime": 1639576100000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T13:48:20Z",
+      "dateModified": "2021-12-15T13:48:20Z"
+    }
+  },
+  {
+    "key": "QI2S8P7E",
+    "version": 349,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QI2S8P7E",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QI2S8P7E",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/B5MN9C35",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/QI2S8P7E/file/view",
+        "title": "2020 - Gamification Market by Component (Solution and Ser.pdf",
+        "length": 603008
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "QI2S8P7E",
+      "version": 349,
+      "parentItem": "B5MN9C35",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "2020 - Gamification Market by Component (Solution and Ser.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2020 - Gamification Market by Component (Solution and Ser.pdf",
+      "md5": "4658e734df4b1e76e5ae0869e77ba20f",
+      "mtime": 1639576087000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-15T13:48:07Z",
+      "dateModified": "2021-12-15T13:48:07Z"
+    }
+  },
+  {
     "key": "7GVYKULE",
-    "version": 344,
+    "version": 347,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,15 +137,22 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/7GVYKULE",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/4TRQ672X",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1221215
       }
     },
     "meta": {
       "creatorSummary": "Chang",
-      "numChildren": 0
+      "parsedDate": "2021",
+      "numChildren": 1
     },
     "data": {
       "key": "7GVYKULE",
-      "version": 344,
+      "version": 347,
       "itemType": "report",
       "title": "54 Gamification Statistics You Must Know: 2020/2021 Market Share Analysis & Data",
       "creators": [
@@ -39,31 +162,31 @@
           "lastName": "Chang"
         }
       ],
-      "abstractNote": "",
+      "abstractNote": "Points, badges, levels, and rewards—these are some of the components of gamification widely used nowadays by organizations. Integrating game mechanics into business processes, marketing campaigns, websites, applications, online communities, or school classes and college courses have proven to be an effective and fun way of encouraging the participation of target audiences. How successful are they? This collection of gamification statistics will help us determine the answer.",
       "reportNumber": "",
       "reportType": "",
       "seriesTitle": "",
       "place": "",
-      "institution": "",
-      "date": "",
+      "institution": "FinancesOnline",
+      "date": "2021",
       "pages": "",
       "language": "",
       "shortTitle": "",
       "url": "https://financesonline.com/gamification-statistics/",
-      "accessDate": "",
+      "accessDate": "2021-12-15",
       "archive": "",
       "archiveLocation": "",
       "libraryCatalog": "",
       "callNumber": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: chang54GamificationStatistics2021",
       "tags": [],
       "collections": [
         "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-12-15T13:41:46Z",
-      "dateModified": "2021-12-15T13:42:24Z"
+      "dateModified": "2021-12-15T13:47:28Z"
     }
   },
   {
@@ -88,11 +211,17 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/B5MN9C35",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/QI2S8P7E",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 603008
       }
     },
     "meta": {
       "parsedDate": "2020-03",
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "B5MN9C35",
