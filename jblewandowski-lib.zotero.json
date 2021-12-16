@@ -1,5 +1,161 @@
 [
   {
+    "key": "5NURU3EK",
+    "version": 385,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5NURU3EK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5NURU3EK",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/K35F4LWW",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3110454
+      }
+    },
+    "meta": {
+      "creatorSummary": "Shortt et al.",
+      "parsedDate": "2021-07-05",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5NURU3EK",
+      "version": 385,
+      "itemType": "journalArticle",
+      "title": "Gamification in mobile-assisted language learning: a systematic review of Duolingo literature from public release of 2012 to early 2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mitchell",
+          "lastName": "Shortt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shantanu",
+          "lastName": "Tilak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Irina",
+          "lastName": "Kuznetcova"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bethany",
+          "lastName": "Martens"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Babatunde",
+          "lastName": "Akinkuolie"
+        }
+      ],
+      "abstractNote": "More than 300 million people use the gamified mobile-assisted language learning (MALL) application (app) Duolingo. The challenging tasks, reward incentives, systematic levels, and the ranking of users according to their achievements are just some of the elements that demonstrate strong gamification elements within this popular language learning application. This application’s pervasive reach, flexible functionality, and freemium business model has brought significant attention to gamification in MALL. The present systematic review aims to summarize different methods, frameworks, settings, and research samples used to assess Duolingo’s design and impact on various learning outcomes. We carried out a complete database search for articles focused on the issues of design, application, and pedagogies in the use of Duolingo. Three hundred and sixty-seven records were initially found, and 35 of those were selected for final inclusion based on language choice, theoretical frameworks, design, sampling, data collection, and analyses (see Appendix 1 for full list). The results indicated that the majority of research from 2012-2020 was design-focused, quantitative in nature, and used non-probability sampling methods. The focus on app design marks an emphasis on the creation of tools rather than the process and outcomes of language learning from using these tools. Additional results revealed preferences for performance-based research questions, for English as language of choice in research, and for the USA as the most prominent context for Duolingo research studies. Furthermore, our review highlights research gaps specific to Duolingo, yet generalizable to other MALL applications. The results are useful to researchers seeking to assess, evaluate, and understand MALL, gamification, and Duolingo as well as to practitioners interested in utilizing MALL in formal and informal learning environments.",
+      "publicationTitle": "Computer Assisted Language Learning",
+      "volume": "",
+      "issue": "",
+      "pages": "1-38",
+      "date": "2021-07-05",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Computer Assisted Language Learning",
+      "language": "en",
+      "DOI": "10.1080/09588221.2021.1933540",
+      "ISSN": "0958-8221, 1744-3210",
+      "shortTitle": "Gamification in mobile-assisted language learning",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/09588221.2021.1933540",
+      "accessDate": "2021-12-16T17:53:20Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: shorttGamificationMobileassistedLanguage2021",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:53:20Z",
+      "dateModified": "2021-12-16T17:53:23Z"
+    }
+  },
+  {
+    "key": "K35F4LWW",
+    "version": 388,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K35F4LWW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K35F4LWW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5NURU3EK",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/K35F4LWW/file/view",
+        "title": "Shortt et al. - 2021 - Gamification in mobile-assisted language learning.pdf",
+        "length": 3110454
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "K35F4LWW",
+      "version": 388,
+      "parentItem": "5NURU3EK",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Shortt et al. - 2021 - Gamification in mobile-assisted language learning.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Shortt et al. - 2021 - Gamification in mobile-assisted language learning.pdf",
+      "md5": "11cabbc8385671c5e666da9dd81eaffa",
+      "mtime": 1639677200000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:53:17Z",
+      "dateModified": "2021-12-16T17:53:20Z"
+    }
+  },
+  {
     "key": "6647VZVQ",
     "version": 381,
     "library": {
@@ -109,7 +265,7 @@
         "href": "https://api.zotero.org/users/8674355/items/GDL635WW",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 1427501
+        "attachmentSize": 1452623
       }
     },
     "meta": {
@@ -182,7 +338,7 @@
   },
   {
     "key": "GDL635WW",
-    "version": 383,
+    "version": 386,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -211,7 +367,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/GDL635WW/file/view",
         "title": "Legaki et al. - 2020 - The effect of challenge-based gamification on lear.pdf",
-        "length": 1427501
+        "length": 1452623
       }
     },
     "meta": {
@@ -219,7 +375,7 @@
     },
     "data": {
       "key": "GDL635WW",
-      "version": 383,
+      "version": 386,
       "parentItem": "THA7P4B2",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -230,8 +386,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Legaki et al. - 2020 - The effect of challenge-based gamification on lear.pdf",
-      "md5": "d78be6b6d3c164c9d25881b24bc86613",
-      "mtime": 1639676312000,
+      "md5": "8025f0710d5b59850c861ce214a71166",
+      "mtime": 1639676795000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-16T17:38:30Z",
