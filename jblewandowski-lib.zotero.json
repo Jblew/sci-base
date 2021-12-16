@@ -1,5 +1,410 @@
 [
   {
+    "key": "6647VZVQ",
+    "version": 381,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6647VZVQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6647VZVQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/R3JR99PP",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 868523
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chapman and Rich",
+      "parsedDate": "2018-10-03",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6647VZVQ",
+      "version": 381,
+      "itemType": "journalArticle",
+      "title": "Does educational gamification improve students’ motivation? If so, which game elements work best?",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jared R.",
+          "lastName": "Chapman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter J.",
+          "lastName": "Rich"
+        }
+      ],
+      "abstractNote": "Educational gamification is a growing field. The authors answer the following important questions: (a) To what degree does educational gamification, in general, increase students' perceived motivation in learning? (b) To what degree do specific game elements impact perceived motivation in learning? and (c) Are the benefits of gamification limited to or enhanced in participants with specific demographic characteristics? A survey of organizational behavior students' perceptions (n ¼ 124) investigated how participating in a gamified course motivated students overall and examined the individual effect of specific game elements. Of the participants, 67.7% reported that the gamified course was more or much more motivating than a traditional course. Correlational data indicated that being a member of any measured demographic (e.g., gender, age, student status) was not a barrier to finding gamification motivating.",
+      "publicationTitle": "Journal of Education for Business",
+      "volume": "93",
+      "issue": "7",
+      "pages": "315-322",
+      "date": "2018-10-03",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Education for Business",
+      "language": "en",
+      "DOI": "10.1080/08832323.2018.1490687",
+      "ISSN": "0883-2323, 1940-3356",
+      "shortTitle": "Does educational gamification improve students’ motivation?",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/08832323.2018.1490687",
+      "accessDate": "2021-12-16T17:38:28Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: chapmanDoesEducationalGamification2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:38:28Z",
+      "dateModified": "2021-12-16T17:38:39Z"
+    }
+  },
+  {
+    "key": "THA7P4B2",
+    "version": 381,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/THA7P4B2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/THA7P4B2",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/GDL635WW",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1427501
+      }
+    },
+    "meta": {
+      "creatorSummary": "Legaki et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "THA7P4B2",
+      "version": 381,
+      "itemType": "journalArticle",
+      "title": "The effect of challenge-based gamification on learning: An experiment in the context of statistics education",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Nikoletta-Zampeta",
+          "lastName": "Legaki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nannan",
+          "lastName": "Xi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juho",
+          "lastName": "Hamari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kostas",
+          "lastName": "Karpouzis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vassilios",
+          "lastName": "Assimakopoulos"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "International Journal of Human-Computer Studies",
+      "volume": "144",
+      "issue": "",
+      "pages": "102496",
+      "date": "12/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "International Journal of Human-Computer Studies",
+      "language": "en",
+      "DOI": "10.1016/j.ijhcs.2020.102496",
+      "ISSN": "10715819",
+      "shortTitle": "The effect of challenge-based gamification on learning",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1071581920300987",
+      "accessDate": "2021-12-16T17:38:32Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: legakiEffectChallengebasedGamification2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:38:32Z",
+      "dateModified": "2021-12-16T17:38:39Z"
+    }
+  },
+  {
+    "key": "GDL635WW",
+    "version": 383,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GDL635WW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GDL635WW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/THA7P4B2",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GDL635WW/file/view",
+        "title": "Legaki et al. - 2020 - The effect of challenge-based gamification on lear.pdf",
+        "length": 1427501
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "GDL635WW",
+      "version": 383,
+      "parentItem": "THA7P4B2",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Legaki et al. - 2020 - The effect of challenge-based gamification on lear.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Legaki et al. - 2020 - The effect of challenge-based gamification on lear.pdf",
+      "md5": "d78be6b6d3c164c9d25881b24bc86613",
+      "mtime": 1639676312000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:38:30Z",
+      "dateModified": "2021-12-16T17:38:32Z"
+    }
+  },
+  {
+    "key": "R3JR99PP",
+    "version": 382,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/R3JR99PP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/R3JR99PP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6647VZVQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/R3JR99PP/file/view",
+        "title": "Chapman and Rich - 2018 - Does educational gamification improve students’ mo.pdf",
+        "length": 868523
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "R3JR99PP",
+      "version": 382,
+      "parentItem": "6647VZVQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Chapman and Rich - 2018 - Does educational gamification improve students’ mo.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Chapman and Rich - 2018 - Does educational gamification improve students’ mo.pdf",
+      "md5": "3873bcede749e437135e3b1ee5060415",
+      "mtime": 1639676308000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:38:25Z",
+      "dateModified": "2021-12-16T17:38:28Z"
+    }
+  },
+  {
+    "key": "L7JEZM2T",
+    "version": 380,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L7JEZM2T",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L7JEZM2T",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YM8BQWTN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 805375
+      }
+    },
+    "meta": {
+      "creatorSummary": "Loewen et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "L7JEZM2T",
+      "version": 380,
+      "itemType": "journalArticle",
+      "title": "Mobile-assisted language learning: A Duolingo case study",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shawn",
+          "lastName": "Loewen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dustin",
+          "lastName": "Crowther"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel R.",
+          "lastName": "Isbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathy Minhye",
+          "lastName": "Kim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeffrey",
+          "lastName": "Maloney"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zachary F.",
+          "lastName": "Miller"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hima",
+          "lastName": "Rawal"
+        }
+      ],
+      "abstractNote": "The growing availability of mobile technologies has contributed to an increase in mobile-assisted language learning in which learners can autonomously study a second language (L2) anytime or anywhere (e.g. Kukulska-Hulme, Lee & Norris, 2017; Reinders & Benson, 2017). Research investigating the effectiveness of such study for L2 learning, however, has been limited, especially regarding large-scale commercial L2 learning apps, such as Duolingo. Although one commissioned research study found favorable language learning outcomes (Vesselinov & Grego, 2012), limited independent research has reported issues related to learner persistence, motivation, and program efficacy (Lord, 2015; Nielson, 2011). The current study investigates the semester-long learning experiences and results of nine participants learning Turkish on Duolingo. The participants showed improvement on L2 measures at the end of the study, and results indicate a positive, moderate correlation between the amount of time spent on Duolingo and learning gains. In terms of perceptions of their experiences, the participants generally viewed Duolingo’s flexibility and gamification aspects positively; however, variability in motivation to study and frustration with instructional materials were also expressed.",
+      "publicationTitle": "ReCALL",
+      "volume": "31",
+      "issue": "3",
+      "pages": "293-311",
+      "date": "09/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "ReCALL",
+      "language": "en",
+      "DOI": "10.1017/S0958344019000065",
+      "ISSN": "0958-3440, 1474-0109",
+      "shortTitle": "Mobile-assisted language learning",
+      "url": "https://www.cambridge.org/core/product/identifier/S0958344019000065/type/journal_article",
+      "accessDate": "2021-12-16T17:24:38Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: loewenMobileassistedLanguageLearning2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:24:38Z",
+      "dateModified": "2021-12-16T17:32:53Z"
+    }
+  },
+  {
     "key": "85PYHWWM",
     "version": 378,
     "library": {
@@ -195,114 +600,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-16T17:24:36Z",
-      "dateModified": "2021-12-16T17:24:39Z"
-    }
-  },
-  {
-    "key": "L7JEZM2T",
-    "version": 371,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/L7JEZM2T",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/L7JEZM2T",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/YM8BQWTN",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 805375
-      }
-    },
-    "meta": {
-      "creatorSummary": "Loewen et al.",
-      "parsedDate": "2019",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "L7JEZM2T",
-      "version": 371,
-      "itemType": "journalArticle",
-      "title": "Mobile-assisted language learning: A Duolingo case study",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Shawn",
-          "lastName": "Loewen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Dustin",
-          "lastName": "Crowther"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel R.",
-          "lastName": "Isbell"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Kathy Minhye",
-          "lastName": "Kim"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jeffrey",
-          "lastName": "Maloney"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Zachary F.",
-          "lastName": "Miller"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Hima",
-          "lastName": "Rawal"
-        }
-      ],
-      "abstractNote": "The growing availability of mobile technologies has contributed to an increase in mobile-assisted language learning in which learners can autonomously study a second language (L2) anytime or anywhere (e.g. Kukulska-Hulme, Lee & Norris, 2017; Reinders & Benson, 2017). Research investigating the effectiveness of such study for L2 learning, however, has been limited, especially regarding large-scale commercial L2 learning apps, such as Duolingo. Although one commissioned research study found favorable language learning outcomes (Vesselinov & Grego, 2012), limited independent research has reported issues related to learner persistence, motivation, and program efficacy (Lord, 2015; Nielson, 2011). The current study investigates the semester-long learning experiences and results of nine participants learning Turkish on Duolingo. The participants showed improvement on L2 measures at the end of the study, and results indicate a positive, moderate correlation between the amount of time spent on Duolingo and learning gains. In terms of perceptions of their experiences, the participants generally viewed Duolingo’s flexibility and gamification aspects positively; however, variability in motivation to study and frustration with instructional materials were also expressed.",
-      "publicationTitle": "ReCALL",
-      "volume": "31",
-      "issue": "3",
-      "pages": "293-311",
-      "date": "09/2019",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "ReCALL",
-      "language": "en",
-      "DOI": "10.1017/S0958344019000065",
-      "ISSN": "0958-3440, 1474-0109",
-      "shortTitle": "Mobile-assisted language learning",
-      "url": "https://www.cambridge.org/core/product/identifier/S0958344019000065/type/journal_article",
-      "accessDate": "2021-12-16T17:24:38Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-16T17:24:38Z",
       "dateModified": "2021-12-16T17:24:39Z"
     }
   },
