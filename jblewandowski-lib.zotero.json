@@ -1,5 +1,312 @@
 [
   {
+    "key": "85PYHWWM",
+    "version": 378,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/85PYHWWM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/85PYHWWM",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/V5QP24L5",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/85PYHWWM/file/view",
+        "title": "Vesselinov and Grego - 2012 - Duolingo Effectiveness Study.pdf",
+        "length": 359940
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "85PYHWWM",
+      "version": 378,
+      "parentItem": "V5QP24L5",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Vesselinov and Grego - 2012 - Duolingo effectiveness study.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Vesselinov and Grego - 2012 - Duolingo effectiveness study.pdf",
+      "md5": "0cb4f206139781b3b9a3bc916bd02c11",
+      "mtime": 1639675550000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:25:50Z",
+      "dateModified": "2021-12-16T17:25:50Z"
+    }
+  },
+  {
+    "key": "V5QP24L5",
+    "version": 376,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V5QP24L5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V5QP24L5",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/85PYHWWM",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 359940
+      }
+    },
+    "meta": {
+      "creatorSummary": "Vesselinov and Grego",
+      "parsedDate": "2012",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "V5QP24L5",
+      "version": 376,
+      "itemType": "journalArticle",
+      "title": "Duolingo effectiveness study",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roumen",
+          "lastName": "Vesselinov"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Grego"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "City University of New York, USA",
+      "volume": "28",
+      "issue": "1-25",
+      "pages": "",
+      "date": "2012",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: vesselinov2012duolingo",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:25:22Z",
+      "dateModified": "2021-12-16T17:25:22Z"
+    }
+  },
+  {
+    "key": "YM8BQWTN",
+    "version": 373,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YM8BQWTN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YM8BQWTN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/L7JEZM2T",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YM8BQWTN/file/view",
+        "title": "Loewen et al. - 2019 - Mobile-assisted language learning A Duolingo case.pdf",
+        "length": 805375
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YM8BQWTN",
+      "version": 373,
+      "parentItem": "L7JEZM2T",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Loewen et al. - 2019 - Mobile-assisted language learning A Duolingo case.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Loewen et al. - 2019 - Mobile-assisted language learning A Duolingo case.pdf",
+      "md5": "086cd3e2e8a25a0bed6a2732e43c0acd",
+      "mtime": 1639675479000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:24:36Z",
+      "dateModified": "2021-12-16T17:24:39Z"
+    }
+  },
+  {
+    "key": "L7JEZM2T",
+    "version": 371,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L7JEZM2T",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L7JEZM2T",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YM8BQWTN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 805375
+      }
+    },
+    "meta": {
+      "creatorSummary": "Loewen et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "L7JEZM2T",
+      "version": 371,
+      "itemType": "journalArticle",
+      "title": "Mobile-assisted language learning: A Duolingo case study",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shawn",
+          "lastName": "Loewen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dustin",
+          "lastName": "Crowther"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel R.",
+          "lastName": "Isbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathy Minhye",
+          "lastName": "Kim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeffrey",
+          "lastName": "Maloney"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zachary F.",
+          "lastName": "Miller"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hima",
+          "lastName": "Rawal"
+        }
+      ],
+      "abstractNote": "The growing availability of mobile technologies has contributed to an increase in mobile-assisted language learning in which learners can autonomously study a second language (L2) anytime or anywhere (e.g. Kukulska-Hulme, Lee & Norris, 2017; Reinders & Benson, 2017). Research investigating the effectiveness of such study for L2 learning, however, has been limited, especially regarding large-scale commercial L2 learning apps, such as Duolingo. Although one commissioned research study found favorable language learning outcomes (Vesselinov & Grego, 2012), limited independent research has reported issues related to learner persistence, motivation, and program efficacy (Lord, 2015; Nielson, 2011). The current study investigates the semester-long learning experiences and results of nine participants learning Turkish on Duolingo. The participants showed improvement on L2 measures at the end of the study, and results indicate a positive, moderate correlation between the amount of time spent on Duolingo and learning gains. In terms of perceptions of their experiences, the participants generally viewed Duolingo’s flexibility and gamification aspects positively; however, variability in motivation to study and frustration with instructional materials were also expressed.",
+      "publicationTitle": "ReCALL",
+      "volume": "31",
+      "issue": "3",
+      "pages": "293-311",
+      "date": "09/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "ReCALL",
+      "language": "en",
+      "DOI": "10.1017/S0958344019000065",
+      "ISSN": "0958-3440, 1474-0109",
+      "shortTitle": "Mobile-assisted language learning",
+      "url": "https://www.cambridge.org/core/product/identifier/S0958344019000065/type/journal_article",
+      "accessDate": "2021-12-16T17:24:38Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-16T17:24:38Z",
+      "dateModified": "2021-12-16T17:24:39Z"
+    }
+  },
+  {
     "key": "7QJF9XEM",
     "version": 367,
     "library": {
@@ -675,7 +982,7 @@
         "href": "https://api.zotero.org/users/8674355/items/ML7VMX26",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 995340
+        "attachmentSize": 1029818
       }
     },
     "meta": {
@@ -791,7 +1098,7 @@
   },
   {
     "key": "ML7VMX26",
-    "version": 356,
+    "version": 374,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -820,7 +1127,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/ML7VMX26/file/view",
         "title": "Foldit Contenders Group et al. - 2011 - Crystal structure of a monomeric retroviral protea.pdf",
-        "length": 995340
+        "length": 1029818
       }
     },
     "meta": {
@@ -828,7 +1135,7 @@
     },
     "data": {
       "key": "ML7VMX26",
-      "version": 356,
+      "version": 374,
       "parentItem": "S9KBPHT3",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -839,8 +1146,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Foldit Contenders Group et al. - 2011 - Crystal structure of a monomeric retroviral protea.pdf",
-      "md5": "1c977ccf63b2921f3fe526b42f6dc2e1",
-      "mtime": 1639601410000,
+      "md5": "b771ad9639fd8eb0dee703268af89524",
+      "mtime": 1639602157000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-15T20:50:06Z",
