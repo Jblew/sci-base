@@ -1,5 +1,1737 @@
 [
   {
+    "key": "KGHIUGTC",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KGHIUGTC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KGHIUGTC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5MQWD342",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2352004
+      }
+    },
+    "meta": {
+      "creatorSummary": "Khadilkar and Cash",
+      "parsedDate": "2020-10-02",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KGHIUGTC",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "Understanding behavioural design: barriers and enablers",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Pramod Ratnakar",
+          "lastName": "Khadilkar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip",
+          "lastName": "Cash"
+        }
+      ],
+      "abstractNote": "Behavioural design has emerged as an important domain of design research and practice. However, there is a need to better distinguish behavioural design and subsequently map its unique features and challenges. In answer to this need, this work examines the evolving role of behaviour in design and contrasts this with eleven in-depth behavioural design cases. This has resulted in our identification of behavioural design as a new paradigm of design, with a number of unique characteristics. Based on this, we propose a model of behavioural design. Furthermore, we identify three critical barriers to behavioural design in practice, and suggest ten mitigating enablers. Together these findings provide implications for further development of theory, practice, and education in behavioural design.",
+      "publicationTitle": "Journal of Engineering Design",
+      "volume": "31",
+      "issue": "10",
+      "pages": "508-529",
+      "date": "2020-10-02",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Engineering Design",
+      "language": "en",
+      "DOI": "10.1080/09544828.2020.1836611",
+      "ISSN": "0954-4828, 1466-1837",
+      "shortTitle": "Understanding behavioural design",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/09544828.2020.1836611",
+      "accessDate": "2021-12-17T16:56:28Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: khadilkarUnderstandingBehaviouralDesign2020a",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:28Z",
+      "dateModified": "2021-12-17T16:56:48Z"
+    }
+  },
+  {
+    "key": "LQ7PS5ET",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LQ7PS5ET",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LQ7PS5ET",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/WTJLLBY6",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2352004
+      }
+    },
+    "meta": {
+      "creatorSummary": "Khadilkar and Cash",
+      "parsedDate": "2020-10-02",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "LQ7PS5ET",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "Understanding behavioural design: barriers and enablers",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Pramod Ratnakar",
+          "lastName": "Khadilkar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip",
+          "lastName": "Cash"
+        }
+      ],
+      "abstractNote": "Behavioural design has emerged as an important domain of design research and practice. However, there is a need to better distinguish behavioural design and subsequently map its unique features and challenges. In answer to this need, this work examines the evolving role of behaviour in design and contrasts this with eleven in-depth behavioural design cases. This has resulted in our identification of behavioural design as a new paradigm of design, with a number of unique characteristics. Based on this, we propose a model of behavioural design. Furthermore, we identify three critical barriers to behavioural design in practice, and suggest ten mitigating enablers. Together these findings provide implications for further development of theory, practice, and education in behavioural design.",
+      "publicationTitle": "Journal of Engineering Design",
+      "volume": "31",
+      "issue": "10",
+      "pages": "508-529",
+      "date": "2020-10-02",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Engineering Design",
+      "language": "en",
+      "DOI": "10.1080/09544828.2020.1836611",
+      "ISSN": "0954-4828, 1466-1837",
+      "shortTitle": "Understanding behavioural design",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/09544828.2020.1836611",
+      "accessDate": "2021-12-17T16:56:26Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: khadilkarUnderstandingBehaviouralDesign2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:26Z",
+      "dateModified": "2021-12-17T16:56:48Z"
+    }
+  },
+  {
+    "key": "CFHSI2DP",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CFHSI2DP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CFHSI2DP",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/K4TFITDQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 880488
+      }
+    },
+    "meta": {
+      "creatorSummary": "Cash et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CFHSI2DP",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "Designing Behaviour Change:",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Philip",
+          "lastName": "Cash"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pramod",
+          "lastName": "Khadilkar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joanna",
+          "lastName": "Jensen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Camilla",
+          "lastName": "Dusterdich"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ruth",
+          "lastName": "Mugge"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "14",
+      "issue": "2",
+      "pages": "20",
+      "date": "2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: cashDesigningBehaviourChange2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:22Z",
+      "dateModified": "2021-12-17T16:56:48Z"
+    }
+  },
+  {
+    "key": "CHB99634",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CHB99634",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CHB99634",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/GW62SNUM",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5727961
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mejía",
+      "parsedDate": "2021-07-04",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CHB99634",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "Theory-Driven or Theory-Informed? A Review of Behavioural Economics in Design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "G. Mauricio",
+          "lastName": "Mejía"
+        }
+      ],
+      "abstractNote": "The design community has an increasing interest in behavior change and applying it intentionally in the design processes. At the same time, practitioners from diverse fields such as health and policy have embraced behavioral economics theory to inform behavior change interventions. The success of behavioral economics – or nudge – theory can be explained by its visible results with small investments; however, its application is limited to discrete problems and long-term effects are unclear. Designers look for possibilities and desirable futures rather than discrete interventions based on science. This article is a critical review of behavioral economics theory and its limited application in designing products and systems that are expected to change human behaviors or lifestyles. A behavioral economics-driven design process only works for situations that are narrow and specific. In the majority of design projects, behavioral economics concepts are a reference that informs designers and some design activities like ideation.",
+      "publicationTitle": "The Design Journal",
+      "volume": "24",
+      "issue": "4",
+      "pages": "567-587",
+      "date": "2021-07-04",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "The Design Journal",
+      "language": "en",
+      "DOI": "10.1080/14606925.2021.1935089",
+      "ISSN": "1460-6925, 1756-3062",
+      "shortTitle": "Theory-Driven or Theory-Informed?",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/14606925.2021.1935089",
+      "accessDate": "2021-12-17T16:56:21Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mejiaTheoryDrivenTheoryInformedReview2021",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:21Z",
+      "dateModified": "2021-12-17T16:56:48Z"
+    }
+  },
+  {
+    "key": "6U95B4ZS",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6U95B4ZS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6U95B4ZS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BE5MJW9R",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 724884
+      }
+    },
+    "meta": {
+      "creatorSummary": "Khadilkar and Cash",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6U95B4ZS",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "DISCERNING BEHAVIOURAL DESIGN: A CONCEPTUAL MODEL",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "P. R.",
+          "lastName": "Khadilkar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P.",
+          "lastName": "Cash"
+        }
+      ],
+      "abstractNote": "Abstract\n            Behavioural design has emerged as an important domain of design practice and research due to its ability to deliver the desired outcomes beyond technical designs. Research on behavioural design is not successful in discerning it from other design domains, which is important for theory building. This paper discerns the unique characters of behavioural design by tracing the emergence of behaviour in design. Twelve interviews from six behaviour design cases belonging to four firms has been used to further discern the unique characteristics resulting into the conceptual model of behavioural design",
+      "publicationTitle": "Proceedings of the Design Society: DESIGN Conference",
+      "volume": "1",
+      "issue": "",
+      "pages": "1455-1464",
+      "date": "05/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Proc. Des. Soc.: Des. Conf.",
+      "language": "en",
+      "DOI": "10.1017/dsd.2020.167",
+      "ISSN": "2633-7762",
+      "shortTitle": "DISCERNING BEHAVIOURAL DESIGN",
+      "url": "https://www.cambridge.org/core/product/identifier/S2633776220001673/type/journal_article",
+      "accessDate": "2021-12-17T16:56:19Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: khadilkarDISCERNINGBEHAVIOURALDESIGN2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:19Z",
+      "dateModified": "2021-12-17T16:56:48Z"
+    }
+  },
+  {
+    "key": "HLJCEWWK",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HLJCEWWK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HLJCEWWK",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/UJLPFCKH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 275495
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marache-Francisco and Brangier",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HLJCEWWK",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "From The Consideration of Gamification To Its Practical Implementation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Cathie",
+          "lastName": "Marache-Francisco"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eric",
+          "lastName": "Brangier"
+        }
+      ],
+      "abstractNote": "The trend toward software gamification is increasingly important. But, it often implies the modification of a few simplistic surface elements (colorful aesthetic, personalization, points, badges and leaderboards, etc.) without actually integrating gamification into the overall design. Gamification is often downgraded to interface look and feel and point systems without questioning design practices. This article proposes a design approach focused on gamification. This user-centered approach aims to identify the factors to be taken into account in gamification design (intention, situation, task, users). The authors introduce a design guide consisting of a design process and a toolbox. It aims at facilitating effective gamification design by providing the means to overcome the difficulties encountered with interaction design process.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "6",
+      "date": "2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: marache-franciscoConsiderationGamificationIts2013",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:45:56Z",
+      "dateModified": "2021-12-17T16:56:48Z"
+    }
+  },
+  {
+    "key": "VSLSBSJY",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VSLSBSJY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VSLSBSJY",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YDZA3ZIZ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1764396
+      }
+    },
+    "meta": {
+      "creatorSummary": "Cooper et al.",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "VSLSBSJY",
+      "version": 398,
+      "itemType": "conferencePaper",
+      "title": "Analysis of social gameplay macros in the Foldit cookbook",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Seth",
+          "lastName": "Cooper"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Firas",
+          "lastName": "Khatib"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ilya",
+          "lastName": "Makedon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hao",
+          "lastName": "Lu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Janos",
+          "lastName": "Barbero"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Baker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James",
+          "lastName": "Fogarty"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zoran",
+          "lastName": "Popović"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Foldit",
+          "lastName": "players"
+        }
+      ],
+      "abstractNote": "As games grow in complexity, gameplay needs to provide players with powerful means of managing this complexity. One approach is to give automation tools to players. In this paper, we analyze an in-game automation tool, the Foldit cookbook, for the scientiﬁc discovery game Foldit. The cookbook allows players to write recipes that can automate their strategies. Through analysis of cookbook usage, we observe that players take advantage of social mechanisms in the game to share, run, and modify recipes. Further, players take advantage of both a simpliﬁed visual programming interface and a text-based scripting interface for creating recipes. This indicates that there is potential for using automation tools to disseminate expert knowledge, and that it is useful to provide support for multiple authoring styles, especially for games where the ﬁnal game goal is unbounded or hard to attain.",
+      "date": "2011",
+      "proceedingsTitle": "Proceedings of the 6th International Conference on Foundations of Digital Games - FDG '11",
+      "conferenceName": "the 6th International Conference",
+      "place": "Bordeaux, France",
+      "publisher": "ACM Press",
+      "volume": "",
+      "pages": "9-14",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/2159365.2159367",
+      "ISBN": "978-1-4503-0804-5",
+      "shortTitle": "",
+      "url": "http://dl.acm.org/citation.cfm?doid=2159365.2159367",
+      "accessDate": "2021-12-15T18:02:45Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: cooperAnalysisSocialGameplay2011",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-15T18:02:45Z",
+      "dateModified": "2021-12-17T16:56:48Z"
+    }
+  },
+  {
+    "key": "F3BK8P45",
+    "version": 399,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F3BK8P45",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F3BK8P45",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/DDMU2T9A",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 275495
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marache-Francisco and Brangier",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "F3BK8P45",
+      "version": 399,
+      "itemType": "journalArticle",
+      "title": "From The Consideration of Gamification To Its Practical Implementation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Cathie",
+          "lastName": "Marache-Francisco"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eric",
+          "lastName": "Brangier"
+        }
+      ],
+      "abstractNote": "The trend toward software gamification is increasingly important. But, it often implies the modification of a few simplistic surface elements (colorful aesthetic, personalization, points, badges and leaderboards, etc.) without actually integrating gamification into the overall design. Gamification is often downgraded to interface look and feel and point systems without questioning design practices. This article proposes a design approach focused on gamification. This user-centered approach aims to identify the factors to be taken into account in gamification design (intention, situation, task, users). The authors introduce a design guide consisting of a design process and a toolbox. It aims at facilitating effective gamification design by providing the means to overcome the difficulties encountered with interaction design process.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "6",
+      "date": "2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: marache-franciscoConsiderationGamificationIts2013a",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:39Z",
+      "dateModified": "2021-12-17T16:56:47Z"
+    }
+  },
+  {
+    "key": "ZR7AP3X5",
+    "version": 399,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZR7AP3X5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZR7AP3X5",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/RWUIA8HG",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 721186
+      }
+    },
+    "meta": {
+      "creatorSummary": "Trinidad et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "ZR7AP3X5",
+      "version": 399,
+      "itemType": "bookSection",
+      "title": "A Systematic Literature Review on the Gamification Monitoring Phase: How SPI Standards Can Contribute to Gamification Maturity",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Ioannis",
+          "lastName": "Stamelos"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Rory V.",
+          "lastName": "O'Connor"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Terry",
+          "lastName": "Rout"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Alec",
+          "lastName": "Dorling"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manuel",
+          "lastName": "Trinidad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alejandro",
+          "lastName": "Calderón"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mercedes",
+          "lastName": "Ruiz"
+        }
+      ],
+      "abstractNote": "Gamiﬁcation is a novel concept that has attracted the attention of many research ﬁelds, including software engineering, software process improvement or software process standards education as an approach to increase productivity, engagement, and motivation of participants involved in a system, site or business. However, gamiﬁcation is a relative new concept that needs to deal with many problems in order to consolidate and mature its understanding and process. The main goal of this study is to explore the gamiﬁcation scope with the goal to identify its problems and needs, focusing on the monitoring process of gamiﬁcation strategies. A systematic literature review was performed following a predeﬁned procedure that involves automatically searching in scientiﬁc digital databases. 383 papers were found by the automatic searches in the digital databases and only 2 papers were selected as primary studies. Outcomes show that there is a clear scope of research on the road to provide tools for monitoring high-scalable gamiﬁed systems that support gamiﬁcation experts on gamiﬁcation analytics and end-users on getting real-time feedback, as well as, a need to mature the gamiﬁcation process that can be supported by taking advantages from other disciplines, especially from the scope of process capability and maturity.",
+      "bookTitle": "Software Process Improvement and Capability Determination",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "918",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2018",
+      "pages": "31-44",
+      "language": "en",
+      "ISBN": "978-3-030-00622-8 978-3-030-00623-5",
+      "shortTitle": "A Systematic Literature Review on the Gamification Monitoring Phase",
+      "url": "http://link.springer.com/10.1007/978-3-030-00623-5_3",
+      "accessDate": "2021-12-17T16:56:37Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Series Title: Communications in Computer and Information Science\nDOI: 10.1007/978-3-030-00623-5_3\nCitation Key: trinidadSystematicLiteratureReview2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:37Z",
+      "dateModified": "2021-12-17T16:56:47Z"
+    }
+  },
+  {
+    "key": "H7K2747C",
+    "version": 399,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H7K2747C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H7K2747C",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/IDHHHFXL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 418950
+      }
+    },
+    "meta": {
+      "creatorSummary": "Morschheuser et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "H7K2747C",
+      "version": 399,
+      "itemType": "conferencePaper",
+      "title": "How to Gamify? A Method For Designing Gamification",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benedikt",
+          "lastName": "Morschheuser"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juho",
+          "lastName": "Hamari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karl",
+          "lastName": "Werder"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julian",
+          "lastName": "Abe"
+        }
+      ],
+      "abstractNote": "During recent years, gamification has become a popular method of enriching information technologies. Several business analysts have made promising predictions about penetration of gamification, however, it has also been estimated that most gamification efforts will fail due to poor understanding of how gamification should be designed and implemented. Therefore, in this paper we seek to advance the understanding of best practices related to the gamification design process. We approach this research problem via a design science research approach; firstly, by synthesizing the current body of literature on gamification design methods and interviewing 25 gamification experts. Secondly, we develop a method for gamification design, based on the gathered knowledge. Finally, we conduct an evaluation of the method via interviews of 10 gamification experts. The results indicate that the developed method is comprehensive, complete and provides practical utility. We deliver a comprehensive overview of gamification guidelines and shed novel insights into the overall nature of the gamification development and design discourse.",
+      "date": "2017",
+      "proceedingsTitle": "",
+      "conferenceName": "Hawaii International Conference on System Sciences",
+      "place": "",
+      "publisher": "",
+      "volume": "",
+      "pages": "",
+      "series": "",
+      "language": "en",
+      "DOI": "10.24251/HICSS.2017.155",
+      "ISBN": "",
+      "shortTitle": "How to Gamify?",
+      "url": "http://hdl.handle.net/10125/41308",
+      "accessDate": "2021-12-17T16:56:35Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: morschheuserHowGamifyMethod2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:35Z",
+      "dateModified": "2021-12-17T16:56:47Z"
+    }
+  },
+  {
+    "key": "AE7XWM6F",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AE7XWM6F",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AE7XWM6F",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/QV2T3X9W",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 328288
+      }
+    },
+    "meta": {
+      "creatorSummary": "Urh et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AE7XWM6F",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "The Model for Introduction of Gamification into E-learning in Higher Education",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Marko",
+          "lastName": "Urh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Goran",
+          "lastName": "Vukovic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eva",
+          "lastName": "Jereb"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rok",
+          "lastName": "Pintar"
+        }
+      ],
+      "abstractNote": "The following paper presents the model for introduction of gamification into the field of e-learning in higher education. Concepts and differences between techniques and methods of game-mechanics and game dynamics are explained. With proper integration of gamification in the field of e-learning into higher education, a positive impact on the learning process can be achieved, such as higher satisfaction, motivation and greater engagement of students. The importance of clearly defined objectives, rules, techniques and mechanisms of gamification that affect the dynamics of the students is shown. The paper presents a comprehensive view of the gamification concept in higher education. The advantages and disadvantages of introducing gamification in e-learning are described. The paper combines the characteristics of gamification with e-learning and shows the possibilities of use in practical.",
+      "publicationTitle": "Procedia - Social and Behavioral Sciences",
+      "volume": "197",
+      "issue": "",
+      "pages": "388-397",
+      "date": "07/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Procedia - Social and Behavioral Sciences",
+      "language": "en",
+      "DOI": "10.1016/j.sbspro.2015.07.154",
+      "ISSN": "18770428",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1877042815041555",
+      "accessDate": "2021-12-17T16:56:32Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: urhModelIntroductionGamification2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:32Z",
+      "dateModified": "2021-12-17T16:56:47Z"
+    }
+  },
+  {
+    "key": "KGUMHZ2R",
+    "version": 398,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KGUMHZ2R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KGUMHZ2R",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1221853
+      }
+    },
+    "meta": {
+      "creatorSummary": "Morschheuser et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KGUMHZ2R",
+      "version": 398,
+      "itemType": "journalArticle",
+      "title": "How to design gamification? A method for engineering gamified software",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benedikt",
+          "lastName": "Morschheuser"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lobna",
+          "lastName": "Hassan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karl",
+          "lastName": "Werder"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juho",
+          "lastName": "Hamari"
+        }
+      ],
+      "abstractNote": "Objective This paper seeks to advance the understanding of designing gamification and to provide a comprehensive method for developing gamified software.\nMethod We approach the research problem via a design science research approach; firstly, by synthesizing the current body of literature on gamification design methods and by interviewing 25 gamification experts, producing a comprehensive list of design principles for developing gamified software. Secondly, and more importantly, we develop a detailed method for engineering of gamified software based on the gathered knowledge and design principles. Finally, we conduct an evaluation of the artifacts via interviews of ten gamification experts and implementation of the engineering method in a gamification project.\nResults As results of the study, we present the method and key design principles for engineering gamified software. Based on the empirical and expert evaluation, the developed method was deemed as comprehensive, implementable, complete, and useful. We deliver a comprehensive overview of gamification guidelines and shed novel insights into the nature of gamification development and design discourse.\nConclusion This paper takes first steps towards a comprehensive method for gamified software engineering.",
+      "publicationTitle": "Information and Software Technology",
+      "volume": "95",
+      "issue": "",
+      "pages": "219-237",
+      "date": "03/2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Information and Software Technology",
+      "language": "en",
+      "DOI": "10.1016/j.infsof.2017.10.015",
+      "ISSN": "09505849",
+      "shortTitle": "How to design gamification?",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S095058491730349X",
+      "accessDate": "2021-12-17T16:56:30Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: morschheuserHowDesignGamification2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:30Z",
+      "dateModified": "2021-12-17T16:56:47Z"
+    }
+  },
+  {
+    "key": "DDMU2T9A",
+    "version": 403,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DDMU2T9A",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DDMU2T9A",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/F3BK8P45",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/DDMU2T9A/file/view",
+        "title": "Marache-Francisco and Brangier - 2013 - From The Consideration of Gamification To Its Prac.pdf",
+        "length": 275495
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "DDMU2T9A",
+      "version": 403,
+      "parentItem": "F3BK8P45",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Marache-Francisco and Brangier - 2013 - From The Consideration of Gamification To Its Prac.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Marache-Francisco and Brangier - 2013 - From The Consideration of Gamification To Its Prac.pdf",
+      "md5": "ebe8300a61e9bb21a78fe0ead5be5a80",
+      "mtime": 1639760199000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:17Z",
+      "dateModified": "2021-12-17T16:56:39Z"
+    }
+  },
+  {
+    "key": "RWUIA8HG",
+    "version": 410,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RWUIA8HG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RWUIA8HG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZR7AP3X5",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/RWUIA8HG/file/view",
+        "title": "Trinidad et al. - 2018 - A Systematic Literature Review on the Gamification.pdf",
+        "length": 721186
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "RWUIA8HG",
+      "version": 410,
+      "parentItem": "ZR7AP3X5",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Trinidad et al. - 2018 - A Systematic Literature Review on the Gamification.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Trinidad et al. - 2018 - A Systematic Literature Review on the Gamification.pdf",
+      "md5": "45cb3f0d74300651f24bc05094a45e8d",
+      "mtime": 1639760197000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:17Z",
+      "dateModified": "2021-12-17T16:56:37Z"
+    }
+  },
+  {
+    "key": "IDHHHFXL",
+    "version": 405,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IDHHHFXL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IDHHHFXL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/H7K2747C",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/IDHHHFXL/file/view",
+        "title": "Morschheuser et al. - 2017 - How to Gamify A Method For Designing Gamification.pdf",
+        "length": 418950
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "IDHHHFXL",
+      "version": 405,
+      "parentItem": "H7K2747C",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Morschheuser et al. - 2017 - How to Gamify A Method For Designing Gamification.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Morschheuser et al. - 2017 - How to Gamify A Method For Designing Gamification.pdf",
+      "md5": "78a64a3c36b1326a19a5abec40b676f5",
+      "mtime": 1639760195000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:16Z",
+      "dateModified": "2021-12-17T16:56:35Z"
+    }
+  },
+  {
+    "key": "QV2T3X9W",
+    "version": 409,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QV2T3X9W",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QV2T3X9W",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/AE7XWM6F",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/QV2T3X9W/file/view",
+        "title": "Urh et al. - 2015 - The Model for Introduction of Gamification into E-.pdf",
+        "length": 328288
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "QV2T3X9W",
+      "version": 409,
+      "parentItem": "AE7XWM6F",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Urh et al. - 2015 - The Model for Introduction of Gamification into E-.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Urh et al. - 2015 - The Model for Introduction of Gamification into E-.pdf",
+      "md5": "3a247e5629eb69919d39abc7ddb5f46e",
+      "mtime": 1639760192000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:16Z",
+      "dateModified": "2021-12-17T16:56:32Z"
+    }
+  },
+  {
+    "key": "KUIASEL5",
+    "version": 408,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KUIASEL5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KGUMHZ2R",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5/file/view",
+        "title": "Morschheuser et al. - 2018 - How to design gamification A method for engineeri.pdf",
+        "length": 1221853
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KUIASEL5",
+      "version": 408,
+      "parentItem": "KGUMHZ2R",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Morschheuser et al. - 2018 - How to design gamification A method for engineeri.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Morschheuser et al. - 2018 - How to design gamification A method for engineeri.pdf",
+      "md5": "c7f2cb59a04c5f5453d38ae24384e102",
+      "mtime": 1639760190000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:16Z",
+      "dateModified": "2021-12-17T16:56:30Z"
+    }
+  },
+  {
+    "key": "5MQWD342",
+    "version": 401,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5MQWD342",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5MQWD342",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KGHIUGTC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5MQWD342/file/view",
+        "title": "Khadilkar and Cash - 2020 - Understanding behavioural design barriers and ena.pdf",
+        "length": 2352004
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5MQWD342",
+      "version": 401,
+      "parentItem": "KGHIUGTC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Khadilkar and Cash - 2020 - Understanding behavioural design barriers and ena.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Khadilkar and Cash - 2020 - Understanding behavioural design barriers and ena.pdf",
+      "md5": "17d86e5727cea1de569920db49e6b6d7",
+      "mtime": 1639760188000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:15Z",
+      "dateModified": "2021-12-17T16:56:28Z"
+    }
+  },
+  {
+    "key": "WTJLLBY6",
+    "version": 411,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WTJLLBY6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WTJLLBY6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/LQ7PS5ET",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/WTJLLBY6/file/view",
+        "title": "Khadilkar and Cash - 2020 - Understanding behavioural design barriers and ena.pdf",
+        "length": 2352004
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WTJLLBY6",
+      "version": 411,
+      "parentItem": "LQ7PS5ET",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Khadilkar and Cash - 2020 - Understanding behavioural design barriers and ena.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Khadilkar and Cash - 2020 - Understanding behavioural design barriers and ena.pdf",
+      "md5": "17d86e5727cea1de569920db49e6b6d7",
+      "mtime": 1639760186000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:15Z",
+      "dateModified": "2021-12-17T16:56:26Z"
+    }
+  },
+  {
+    "key": "K4TFITDQ",
+    "version": 406,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K4TFITDQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K4TFITDQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CFHSI2DP",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/K4TFITDQ/file/view",
+        "title": "Cash et al. - 2020 - Designing Behaviour Change.pdf",
+        "length": 880488
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "K4TFITDQ",
+      "version": 406,
+      "parentItem": "CFHSI2DP",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Cash et al. - 2020 - Designing Behaviour Change.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Cash et al. - 2020 - Designing Behaviour Change.pdf",
+      "md5": "52b0b2824597ede6b8f67989fd4ac537",
+      "mtime": 1639760183000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:15Z",
+      "dateModified": "2021-12-17T16:56:23Z"
+    }
+  },
+  {
+    "key": "GW62SNUM",
+    "version": 407,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GW62SNUM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GW62SNUM",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CHB99634",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GW62SNUM/file/view",
+        "title": "Mejía - 2021 - Theory-Driven or Theory-Informed A Review of Beha.pdf",
+        "length": 5727961
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "GW62SNUM",
+      "version": 407,
+      "parentItem": "CHB99634",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mejía - 2021 - Theory-Driven or Theory-Informed A Review of Beha.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mejía - 2021 - Theory-Driven or Theory-Informed A Review of Beha.pdf",
+      "md5": "ec52a3f8a67b910b676ce3030136a751",
+      "mtime": 1639760181000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:14Z",
+      "dateModified": "2021-12-17T16:56:21Z"
+    }
+  },
+  {
+    "key": "BE5MJW9R",
+    "version": 404,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BE5MJW9R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BE5MJW9R",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6U95B4ZS",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BE5MJW9R/file/view",
+        "title": "Khadilkar and Cash - 2020 - DISCERNING BEHAVIOURAL DESIGN A CONCEPTUAL MODEL.pdf",
+        "length": 724884
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BE5MJW9R",
+      "version": 404,
+      "parentItem": "6U95B4ZS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Khadilkar and Cash - 2020 - DISCERNING BEHAVIOURAL DESIGN A CONCEPTUAL MODEL.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Khadilkar and Cash - 2020 - DISCERNING BEHAVIOURAL DESIGN A CONCEPTUAL MODEL.pdf",
+      "md5": "850cca9f75ec3d532cab073961d27217",
+      "mtime": 1639760179000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:56:14Z",
+      "dateModified": "2021-12-17T16:56:19Z"
+    }
+  },
+  {
+    "key": "UJLPFCKH",
+    "version": 396,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UJLPFCKH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UJLPFCKH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HLJCEWWK",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/UJLPFCKH/file/view",
+        "title": "Marache-Francisco and Brangier - 2013 - From The Consideration of Gamification To Its Prac.pdf",
+        "length": 275495
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "UJLPFCKH",
+      "version": 396,
+      "parentItem": "HLJCEWWK",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Marache-Francisco and Brangier - 2013 - From The Consideration of Gamification To Its Prac.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Marache-Francisco and Brangier - 2013 - From The Consideration of Gamification To Its Prac.pdf",
+      "md5": "ebe8300a61e9bb21a78fe0ead5be5a80",
+      "mtime": 1639759556000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T16:45:54Z",
+      "dateModified": "2021-12-17T16:45:56Z"
+    }
+  },
+  {
     "key": "W6JY6VRN",
     "version": 393,
     "library": {
@@ -1894,123 +3626,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-15T18:02:42Z",
-      "dateModified": "2021-12-15T18:02:46Z"
-    }
-  },
-  {
-    "key": "VSLSBSJY",
-    "version": 352,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/VSLSBSJY",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/VSLSBSJY",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/YDZA3ZIZ",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1764396
-      }
-    },
-    "meta": {
-      "creatorSummary": "Cooper et al.",
-      "parsedDate": "2011",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "VSLSBSJY",
-      "version": 352,
-      "itemType": "conferencePaper",
-      "title": "Analysis of social gameplay macros in the Foldit cookbook",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Seth",
-          "lastName": "Cooper"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Firas",
-          "lastName": "Khatib"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ilya",
-          "lastName": "Makedon"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Hao",
-          "lastName": "Lu"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Janos",
-          "lastName": "Barbero"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "David",
-          "lastName": "Baker"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "James",
-          "lastName": "Fogarty"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Zoran",
-          "lastName": "Popović"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Foldit",
-          "lastName": "players"
-        }
-      ],
-      "abstractNote": "As games grow in complexity, gameplay needs to provide players with powerful means of managing this complexity. One approach is to give automation tools to players. In this paper, we analyze an in-game automation tool, the Foldit cookbook, for the scientiﬁc discovery game Foldit. The cookbook allows players to write recipes that can automate their strategies. Through analysis of cookbook usage, we observe that players take advantage of social mechanisms in the game to share, run, and modify recipes. Further, players take advantage of both a simpliﬁed visual programming interface and a text-based scripting interface for creating recipes. This indicates that there is potential for using automation tools to disseminate expert knowledge, and that it is useful to provide support for multiple authoring styles, especially for games where the ﬁnal game goal is unbounded or hard to attain.",
-      "date": "2011",
-      "proceedingsTitle": "Proceedings of the 6th International Conference on Foundations of Digital Games - FDG '11",
-      "conferenceName": "the 6th International Conference",
-      "place": "Bordeaux, France",
-      "publisher": "ACM Press",
-      "volume": "",
-      "pages": "9-14",
-      "series": "",
-      "language": "en",
-      "DOI": "10.1145/2159365.2159367",
-      "ISBN": "978-1-4503-0804-5",
-      "shortTitle": "",
-      "url": "http://dl.acm.org/citation.cfm?doid=2159365.2159367",
-      "accessDate": "2021-12-15T18:02:45Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-15T18:02:45Z",
       "dateModified": "2021-12-15T18:02:46Z"
     }
   },
