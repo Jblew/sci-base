@@ -1,5 +1,237 @@
 [
   {
+    "key": "W6JY6VRN",
+    "version": 393,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W6JY6VRN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W6JY6VRN",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/PKKIBBKJ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 692096
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mendonça de Sá Araújo et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "W6JY6VRN",
+      "version": 393,
+      "itemType": "bookSection",
+      "title": "Design Thinking Versus Design Sprint: A Comparative Study",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Aaron",
+          "lastName": "Marcus"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Wentao",
+          "lastName": "Wang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carlos Magno",
+          "lastName": "Mendonça de Sá Araújo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ivon",
+          "lastName": "Miranda Santos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Edna",
+          "lastName": "Dias Canedo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aleteia Patricia",
+          "lastName": "Favacho de Araújo"
+        }
+      ],
+      "abstractNote": "Design Thinking methodology is being increasingly used by the software industry in an attempt to reduce the problems with requirements elicitation. In the literature it is possible to ﬁnd several papers addressing the use of this methodology in the analysis and speciﬁcation of software requirements. In order to help reduce existing problems that have not yet been fully resolved through the use of Design Thinking, Google has launched Design Sprint with the goal of eliciting requirements quickly and eﬃciently. There are very few academic papers reporting on the use of this technique and what its advantages and disadvantages are. This paper describes a comparative study of the two methodologies used to minimize the problems faced by companies in eliciting the requirements of their software, presenting their phases and how they can be used.",
+      "bookTitle": "Design, User Experience, and Usability. Design Philosophy and Theory",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "11583",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2019",
+      "pages": "291-306",
+      "language": "en",
+      "ISBN": "978-3-030-23569-7 978-3-030-23570-3",
+      "shortTitle": "Design Thinking Versus Design Sprint",
+      "url": "http://link.springer.com/10.1007/978-3-030-23570-3_22",
+      "accessDate": "2021-12-17T13:46:28Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Series Title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-030-23570-3_22\nCitation Key: mendoncadesaaraujoDesignThinkingDesign2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T13:46:28Z",
+      "dateModified": "2021-12-17T13:46:50Z"
+    }
+  },
+  {
+    "key": "NFDB9BUZ",
+    "version": 390,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NFDB9BUZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NFDB9BUZ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Rowe",
+      "parsedDate": "1991",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "NFDB9BUZ",
+      "version": 390,
+      "itemType": "book",
+      "title": "Design thinking",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Peter G",
+          "lastName": "Rowe"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "MIT press",
+      "date": "1991",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: rowe1991design",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T13:46:44Z",
+      "dateModified": "2021-12-17T13:46:44Z"
+    }
+  },
+  {
+    "key": "PKKIBBKJ",
+    "version": 391,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PKKIBBKJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PKKIBBKJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/W6JY6VRN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/PKKIBBKJ/file/view",
+        "title": "Mendonça de Sá Araújo et al. - 2019 - Design Thinking Versus Design Sprint A Comparativ.pdf",
+        "length": 692096
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PKKIBBKJ",
+      "version": 391,
+      "parentItem": "W6JY6VRN",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mendonça de Sá Araújo et al. - 2019 - Design Thinking Versus Design Sprint A Comparativ.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mendonça de Sá Araújo et al. - 2019 - Design Thinking Versus Design Sprint A Comparativ.pdf",
+      "md5": "c1389db23e9b0b95d1abd5221627930a",
+      "mtime": 1639748788000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-17T13:46:25Z",
+      "dateModified": "2021-12-17T13:46:28Z"
+    }
+  },
+  {
     "key": "5NURU3EK",
     "version": 385,
     "library": {
@@ -3819,7 +4051,7 @@
         "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 1443614
+        "attachmentSize": 1507679
       }
     },
     "meta": {
@@ -3882,7 +4114,7 @@
   },
   {
     "key": "XUGFX4KN",
-    "version": 314,
+    "version": 394,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -3911,7 +4143,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN/file/view",
         "title": "Cash et al. - 2017 - Behavioural design A process for integrating beha.pdf",
-        "length": 1443614
+        "length": 1507679
       }
     },
     "meta": {
@@ -3919,7 +4151,7 @@
     },
     "data": {
       "key": "XUGFX4KN",
-      "version": 314,
+      "version": 394,
       "parentItem": "TKZCRZCZ",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -3930,8 +4162,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Cash et al. - 2017 - Behavioural design A process for integrating beha.pdf",
-      "md5": "cfad48d856b74c7b5b566adefe629a7d",
-      "mtime": 1639304307000,
+      "md5": "52d3e65a77ddb2d09ecc8a5775142791",
+      "mtime": 1639748518000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-12T10:16:29Z",
