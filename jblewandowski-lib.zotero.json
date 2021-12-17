@@ -1,5 +1,81 @@
 [
   {
+    "key": "JQ7ZV6I5",
+    "version": 417,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JQ7ZV6I5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JQ7ZV6I5",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Zichermann and Cunningham",
+      "parsedDate": "2011",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JQ7ZV6I5",
+      "version": 417,
+      "itemType": "book",
+      "title": "Gamification by design: implementing game mechanics in web and mobile apps",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gabe",
+          "lastName": "Zichermann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher",
+          "lastName": "Cunningham"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "First edition",
+      "place": "Beijing Cambridge Farnham Köln Sebastopol Tokyo",
+      "publisher": "O'Reilly",
+      "date": "2011",
+      "numPages": "182",
+      "language": "eng",
+      "ISBN": "978-93-5023-454-9 978-1-4493-1539-9 978-1-4493-9767-8",
+      "shortTitle": "Gamification by design",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T17:53:25Z",
+      "dateModified": "2021-12-17T17:53:25Z"
+    }
+  },
+  {
     "key": "A6C8KXYQ",
     "version": 416,
     "library": {
@@ -7575,64 +7651,6 @@
       "relations": {},
       "dateAdded": "2021-12-10T14:53:57Z",
       "dateModified": "2021-12-10T14:54:34Z"
-    }
-  },
-  {
-    "key": "8ZS35S9W",
-    "version": 251,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/8ZS35S9W",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/MLNAVPPP",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W/file/view",
-        "title": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
-        "length": 472829
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "8ZS35S9W",
-      "version": 251,
-      "parentItem": "MLNAVPPP",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
-      "md5": "5f18f4c7729af1a472a8cb0fe1ed9395",
-      "mtime": 1639148211000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-12-10T14:53:55Z",
-      "dateModified": "2021-12-10T14:53:58Z"
     }
   },
   {
