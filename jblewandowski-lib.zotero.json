@@ -1,5 +1,76 @@
 [
   {
+    "key": "A6C8KXYQ",
+    "version": 416,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/A6C8KXYQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/A6C8KXYQ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Schell",
+      "parsedDate": "2019-07-31",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "A6C8KXYQ",
+      "version": 416,
+      "itemType": "book",
+      "title": "Tenth Anniversary: The Art of Game Design: A Book of Lenses",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jesse",
+          "lastName": "Schell"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "3",
+      "place": "Third edition. | Boca Raton : Taylor & Francis, a CRC title, part of the Taylor & Francis imprint, a member of the Taylor & Francis Group, the academic division of T&F Informa, plc, 2019.",
+      "publisher": "A K Peters/CRC Press",
+      "date": "2019-7-31",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-1-315-20843-5",
+      "shortTitle": "Tenth Anniversary",
+      "url": "https://www.taylorfrancis.com/books/9781351803649",
+      "accessDate": "2021-12-17T17:39:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1201/b22101\nCitation Key: schellTenthAnniversaryArt2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T17:39:14Z",
+      "dateModified": "2021-12-17T17:40:47Z"
+    }
+  },
+  {
     "key": "KGHIUGTC",
     "version": 398,
     "library": {
