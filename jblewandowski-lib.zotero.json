@@ -7636,6 +7636,64 @@
     }
   },
   {
+    "key": "8ZS35S9W",
+    "version": 251,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8ZS35S9W",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/MLNAVPPP",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/8ZS35S9W/file/view",
+        "title": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
+        "length": 472829
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "8ZS35S9W",
+      "version": 251,
+      "parentItem": "MLNAVPPP",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hansen - 2016 - The Definition of Nudge and Libertarian Paternalis.pdf",
+      "md5": "5f18f4c7729af1a472a8cb0fe1ed9395",
+      "mtime": 1639148211000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-10T14:53:55Z",
+      "dateModified": "2021-12-10T14:53:58Z"
+    }
+  },
+  {
     "key": "HKHMTAH2",
     "version": 246,
     "library": {
