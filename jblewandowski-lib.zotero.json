@@ -1,5 +1,863 @@
 [
   {
+    "key": "9DHE6GVE",
+    "version": 429,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9DHE6GVE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9DHE6GVE",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/TWC2G4IF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 302225
+      }
+    },
+    "meta": {
+      "creatorSummary": "Alinier",
+      "parsedDate": "2007",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9DHE6GVE",
+      "version": 429,
+      "itemType": "journalArticle",
+      "title": "A typology of educationally focused medical simulation tools",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Guillaume",
+          "lastName": "Alinier"
+        }
+      ],
+      "abstractNote": "Background: The concept of simulation as an educational tool in healthcare is not a new idea but its use has really blossomed over the last few years. This enthusiasm is partly driven by an attempt to increase patient safety and also because the technology is becoming more affordable and advanced. Aims: Simulation is becoming more commonly used for initial training purposes as well as for continuing professional development, but people often have very different perceptions of the definition of the term simulation, especially in an educational context. This highlights the need for a clear classification of the technology available but also about the method and teaching approach employed. The aims of this paper are to discuss the current range of simulation approaches and propose a clear typology of simulation teaching aids.\nMethod: Commonly used simulation techniques have been identified and discussed in order to create a classification that reports simulation techniques, their usual mode of delivery, the skills they can address, the facilities required, their typical use, and their pros and cons.\nResults: This paper presents a clear classification scheme of educational simulation tools and techniques with six different technological levels. They are respectively: written simulations, three-dimensional models, screen-based simulators, standardized patients, intermediate fidelity patient simulators, and interactive patient simulators. This typology allows the accurate description of the simulation technology and the teaching methods applied. Thus valid comparison of educational tools can be made as to their potential effectiveness and verisimilitude at different training stages.\nConclusions: The proposed typology of simulation methodologies available for educational purposes provides a helpful guide for educators and participants which should help them to realise the potential learning outcomes at different technological simulation levels in relation to the training approach employed. It should also be a useful resource for simulation users who are trying to improve their educational practice.",
+      "publicationTitle": "Medical Teacher",
+      "volume": "29",
+      "issue": "8",
+      "pages": "e243-e250",
+      "date": "01/2007",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Medical Teacher",
+      "language": "en",
+      "DOI": "10.1080/01421590701551185",
+      "ISSN": "0142-159X, 1466-187X",
+      "shortTitle": "",
+      "url": "http://www.tandfonline.com/doi/full/10.1080/01421590701551185",
+      "accessDate": "2021-12-19T21:03:17Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: alinierTypologyEducationallyFocused2007",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:03:17Z",
+      "dateModified": "2021-12-19T21:03:25Z"
+    }
+  },
+  {
+    "key": "TWC2G4IF",
+    "version": 430,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TWC2G4IF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TWC2G4IF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9DHE6GVE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/TWC2G4IF/file/view",
+        "title": "Alinier - 2007 - A typology of educationally focused medical simula.pdf",
+        "length": 302225
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "TWC2G4IF",
+      "version": 430,
+      "parentItem": "9DHE6GVE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Alinier - 2007 - A typology of educationally focused medical simula.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Alinier - 2007 - A typology of educationally focused medical simula.pdf",
+      "md5": "0c974abcb5cf494eca55cc291ce19d8e",
+      "mtime": 1639947798000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:03:15Z",
+      "dateModified": "2021-12-19T21:03:18Z"
+    }
+  },
+  {
+    "key": "R552CJBN",
+    "version": 426,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/R552CJBN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/R552CJBN",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BRDRPM4Q",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 147805
+      }
+    },
+    "meta": {
+      "creatorSummary": "Patterson et al.",
+      "parsedDate": "2008",
+      "numChildren": 3
+    },
+    "data": {
+      "key": "R552CJBN",
+      "version": 426,
+      "itemType": "bookSection",
+      "title": "In Situ Simulation: Challenges and Results",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mary D.",
+          "lastName": "Patterson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George T.",
+          "lastName": "Blike"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vinay M.",
+          "lastName": "Nadkarni"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Kerm",
+          "lastName": "Henriksen"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "James B.",
+          "lastName": "Battles"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Margaret A.",
+          "lastName": "Keyes"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Mary L.",
+          "lastName": "Grady"
+        }
+      ],
+      "abstractNote": "In situ simulation, simulation that is physically integrated into the clinical environment, provides a method to improve reliability and safety in high-risk areas. Deliberate practice and integration of teamwork skills in the time-pressured clinical environment provides great realism and is a rich resource to identify latent threats and system issues that can compromise patient safety. However, powerful cultural and logistic challenges impede implementation of this practice. Issues related to culture, performance anxiety, time pressures, and patient perceptions that can interfere with successful implementation of in situ simulation are explored. The experiences and lessons learned during implementation of three pilot in situ programs are reviewed. Qualitative data, including feedback from health care providers and patients on the value and concerns related to this practice, are presented. Lessons learned provide guidance that is intended to increase the future success and implementation of in situ simulation.",
+      "bookTitle": "Advances in Patient Safety: New Directions and Alternative Approaches (Vol. 3: Performance and Tools)",
+      "series": "Advances in Patient Safety",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Rockville (MD)",
+      "publisher": "Agency for Healthcare Research and Quality (US)",
+      "date": "2008",
+      "pages": "",
+      "language": "eng",
+      "ISBN": "",
+      "shortTitle": "In Situ Simulation",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK43682/",
+      "accessDate": "2021-12-19T20:58:59Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "PubMed",
+      "callNumber": "NBK43682",
+      "rights": "",
+      "extra": "PMID: 21249938\nCitation Key: pattersonSituSimulationChallenges2008",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:58:59Z",
+      "dateModified": "2021-12-19T20:59:30Z"
+    }
+  },
+  {
+    "key": "BRDRPM4Q",
+    "version": 426,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BRDRPM4Q",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BRDRPM4Q",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/R552CJBN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BRDRPM4Q/file/view",
+        "title": "Patterson et al. - In Situ Simulation Challenges and Results.pdf",
+        "length": 147805
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BRDRPM4Q",
+      "version": 426,
+      "parentItem": "R552CJBN",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Patterson et al. - In Situ Simulation Challenges and Results.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Patterson et al. - In Situ Simulation Challenges and Results.pdf",
+      "md5": "472ed977a9677af487b7beb5a69d243c",
+      "mtime": 1639947441000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:57:19Z",
+      "dateModified": "2021-12-19T20:59:17Z"
+    }
+  },
+  {
+    "key": "NY277RYT",
+    "version": 427,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NY277RYT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NY277RYT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/R552CJBN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "text/html",
+        "href": "https://api.zotero.org/users/8674355/items/NY277RYT/file/view"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "NY277RYT",
+      "version": 427,
+      "parentItem": "R552CJBN",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Printable HTML",
+      "accessDate": "2021-12-19T20:59:06Z",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK43682/?report=printable",
+      "note": "",
+      "contentType": "text/html",
+      "charset": "utf-8",
+      "filename": "NBK43682.html",
+      "md5": "90b7db3e6a20844609d24b9b74cdbb30",
+      "mtime": 1639947546000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:59:06Z",
+      "dateModified": "2021-12-19T20:59:06Z"
+    }
+  },
+  {
+    "key": "5WVW5ZLU",
+    "version": 426,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5WVW5ZLU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5WVW5ZLU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/R552CJBN",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "5WVW5ZLU",
+      "version": 426,
+      "parentItem": "R552CJBN",
+      "itemType": "attachment",
+      "linkMode": "linked_url",
+      "title": "PubMed entry",
+      "accessDate": "2021-12-19T20:58:59Z",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/21249938",
+      "note": "",
+      "contentType": "text/html",
+      "charset": "",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:58:59Z",
+      "dateModified": "2021-12-19T20:58:59Z"
+    }
+  },
+  {
+    "key": "VRI3SJV8",
+    "version": 418,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VRI3SJV8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VRI3SJV8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/SMDMNLBB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 89442
+      }
+    },
+    "meta": {
+      "creatorSummary": "Schuwirth and van der Vleuten",
+      "parsedDate": "2006-09-09",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "VRI3SJV8",
+      "version": 418,
+      "itemType": "journalArticle",
+      "title": "Challenges for educationalists",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lambert W T",
+          "lastName": "Schuwirth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cees P M",
+          "lastName": "van der Vleuten"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "BMJ",
+      "volume": "333",
+      "issue": "7567",
+      "pages": "544-546",
+      "date": "2006-09-09",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "BMJ",
+      "language": "en",
+      "DOI": "10.1136/bmj.38952.701875.94",
+      "ISSN": "0959-8138, 1468-5833",
+      "shortTitle": "",
+      "url": "https://www.bmj.com/lookup/doi/10.1136/bmj.38952.701875.94",
+      "accessDate": "2021-12-19T20:57:41Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: schuwirthChallengesEducationalists2006",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:57:41Z",
+      "dateModified": "2021-12-19T20:57:50Z"
+    }
+  },
+  {
+    "key": "TKVAPGQZ",
+    "version": 418,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TKVAPGQZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TKVAPGQZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/26RH7XJU",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 100190
+      }
+    },
+    "meta": {
+      "creatorSummary": "Cheng et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TKVAPGQZ",
+      "version": 418,
+      "itemType": "journalArticle",
+      "title": "Faculty Development for Simulation Programs: Five Issues for the Future of Debriefing Training",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Cheng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vincent",
+          "lastName": "Grant"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Dieckmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sonal",
+          "lastName": "Arora"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Traci",
+          "lastName": "Robinson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Walter",
+          "lastName": "Eppich"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Simulation in Healthcare: The Journal of the Society for Simulation in Healthcare",
+      "volume": "10",
+      "issue": "4",
+      "pages": "217-222",
+      "date": "08/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1097/SIH.0000000000000090",
+      "ISSN": "1559-2332",
+      "shortTitle": "Faculty Development for Simulation Programs",
+      "url": "https://journals.lww.com/01266021-201508000-00004",
+      "accessDate": "2021-12-19T20:57:36Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: chengFacultyDevelopmentSimulation2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:57:36Z",
+      "dateModified": "2021-12-19T20:57:50Z"
+    }
+  },
+  {
+    "key": "PD53EBHP",
+    "version": 418,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PD53EBHP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PD53EBHP",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/V7JWJ9PQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 62486
+      }
+    },
+    "meta": {
+      "creatorSummary": "Henriksen et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "PD53EBHP",
+      "version": 418,
+      "itemType": "journalArticle",
+      "title": "Challenges in Health Care Simulation: Are We Learning Anything New?",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kerm",
+          "lastName": "Henriksen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Rodrick"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Erin N.",
+          "lastName": "Grace"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P. Jeffrey",
+          "lastName": "Brady"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Academic Medicine",
+      "volume": "93",
+      "issue": "5",
+      "pages": "705-708",
+      "date": "05/2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Academic Medicine",
+      "language": "en",
+      "DOI": "10.1097/ACM.0000000000001891",
+      "ISSN": "1040-2446",
+      "shortTitle": "Challenges in Health Care Simulation",
+      "url": "http://journals.lww.com/00001888-201805000-00028",
+      "accessDate": "2021-12-19T20:57:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: henriksenChallengesHealthCare2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:57:31Z",
+      "dateModified": "2021-12-19T20:57:50Z"
+    }
+  },
+  {
+    "key": "SMDMNLBB",
+    "version": 422,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SMDMNLBB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SMDMNLBB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/VRI3SJV8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/SMDMNLBB/file/view",
+        "title": "Schuwirth and van der Vleuten - 2006 - Challenges for educationalists.pdf",
+        "length": 89442
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SMDMNLBB",
+      "version": 422,
+      "parentItem": "VRI3SJV8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Schuwirth and van der Vleuten - 2006 - Challenges for educationalists.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Schuwirth and van der Vleuten - 2006 - Challenges for educationalists.pdf",
+      "md5": "de338be70b2eb5fec4894b6293e8ab6b",
+      "mtime": 1639947462000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:57:39Z",
+      "dateModified": "2021-12-19T20:57:42Z"
+    }
+  },
+  {
+    "key": "26RH7XJU",
+    "version": 419,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/26RH7XJU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/26RH7XJU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/TKVAPGQZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/26RH7XJU/file/view",
+        "title": "Cheng et al. - 2015 - Faculty development for simulation programs Five .pdf",
+        "length": 100190
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "26RH7XJU",
+      "version": 419,
+      "parentItem": "TKVAPGQZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Cheng et al. - 2015 - Faculty Development for Simulation Programs Five .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Cheng et al. - 2015 - Faculty Development for Simulation Programs Five .pdf",
+      "md5": "20bfb4820947ae7f1f596c681945eeaa",
+      "mtime": 1639947457000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:57:34Z",
+      "dateModified": "2021-12-19T20:57:37Z"
+    }
+  },
+  {
+    "key": "V7JWJ9PQ",
+    "version": 423,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V7JWJ9PQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V7JWJ9PQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/PD53EBHP",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/V7JWJ9PQ/file/view",
+        "title": "Henriksen et al. - 2018 - Challenges in Health Care Simulation Are We Learn.pdf",
+        "length": 62486
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "V7JWJ9PQ",
+      "version": 423,
+      "parentItem": "PD53EBHP",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Henriksen et al. - 2018 - Challenges in Health Care Simulation Are We Learn.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Henriksen et al. - 2018 - Challenges in Health Care Simulation Are We Learn.pdf",
+      "md5": "6916b5a0c586a390ab6dd5f93595459e",
+      "mtime": 1639947451000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T20:57:29Z",
+      "dateModified": "2021-12-19T20:57:31Z"
+    }
+  },
+  {
     "key": "JQ7ZV6I5",
     "version": 417,
     "library": {
@@ -437,7 +1295,7 @@
         "href": "https://api.zotero.org/users/8674355/items/GW62SNUM",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 5727961
+        "attachmentSize": 5741174
       }
     },
     "meta": {
@@ -1706,7 +2564,7 @@
   },
   {
     "key": "GW62SNUM",
-    "version": 407,
+    "version": 424,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1735,7 +2593,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/GW62SNUM/file/view",
         "title": "Mejía - 2021 - Theory-Driven or Theory-Informed A Review of Beha.pdf",
-        "length": 5727961
+        "length": 5741174
       }
     },
     "meta": {
@@ -1743,7 +2601,7 @@
     },
     "data": {
       "key": "GW62SNUM",
-      "version": 407,
+      "version": 424,
       "parentItem": "CHB99634",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -1754,8 +2612,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Mejía - 2021 - Theory-Driven or Theory-Informed A Review of Beha.pdf",
-      "md5": "ec52a3f8a67b910b676ce3030136a751",
-      "mtime": 1639760181000,
+      "md5": "4c46c6c1ea1c72953061754f55d078a4",
+      "mtime": 1639765131000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-17T16:56:14Z",
@@ -3540,7 +4398,7 @@
     "meta": {
       "creatorSummary": "Foldit Contenders Group et al.",
       "parsedDate": "2011",
-      "numChildren": 1
+      "numChildren": 2
     },
     "data": {
       "key": "S9KBPHT3",
