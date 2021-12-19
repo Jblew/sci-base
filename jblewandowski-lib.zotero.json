@@ -21,6 +21,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/7FDT7LS5",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/6XKVSZ9X",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 12045889
       }
     },
     "meta": {
@@ -102,6 +108,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/HLUZLMVS",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/H5HTZWKI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3064441
       }
     },
     "meta": {
@@ -183,6 +195,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/JBUTUKES",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5YA88VIK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 10209333
       }
     },
     "meta": {
@@ -244,7 +262,7 @@
   },
   {
     "key": "6XKVSZ9X",
-    "version": 443,
+    "version": 445,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -268,6 +286,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/7FDT7LS5",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6XKVSZ9X/file/view",
+        "title": "Crawford et al. - 2019 - Comprehensive Healthcare Simulation Operations, T.pdf",
+        "length": 12045889
       }
     },
     "meta": {
@@ -275,7 +299,7 @@
     },
     "data": {
       "key": "6XKVSZ9X",
-      "version": 443,
+      "version": 445,
       "parentItem": "7FDT7LS5",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -286,8 +310,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Crawford et al. - 2019 - Comprehensive Healthcare Simulation Operations, T.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "0111fb4f686b6ef4577bc9a72be28f25",
+      "mtime": 1639948572000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-19T21:16:04Z",
@@ -296,7 +320,7 @@
   },
   {
     "key": "H5HTZWKI",
-    "version": 443,
+    "version": 446,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -320,6 +344,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/HLUZLMVS",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/H5HTZWKI/file/view",
+        "title": "Seropian et al. - 2020 - Comprehensive Healthcare Simulation Program & Cen.pdf",
+        "length": 3064441
       }
     },
     "meta": {
@@ -327,7 +357,7 @@
     },
     "data": {
       "key": "H5HTZWKI",
-      "version": 443,
+      "version": 446,
       "parentItem": "HLUZLMVS",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -338,8 +368,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Seropian et al. - 2020 - Comprehensive Healthcare Simulation Program & Cen.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "ac5aa8214597e502ce2897cbaeb8ef93",
+      "mtime": 1639948570000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-19T21:16:03Z",
@@ -348,7 +378,7 @@
   },
   {
     "key": "5YA88VIK",
-    "version": 443,
+    "version": 444,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -372,6 +402,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/JBUTUKES",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5YA88VIK/file/view",
+        "title": "Gliva-McConvey et al. - 2020 - Comprehensive Healthcare Simulation Implementing .pdf",
+        "length": 10209333
       }
     },
     "meta": {
@@ -379,7 +415,7 @@
     },
     "data": {
       "key": "5YA88VIK",
-      "version": 443,
+      "version": 444,
       "parentItem": "JBUTUKES",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -390,8 +426,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Gliva-McConvey et al. - 2020 - Comprehensive Healthcare Simulation Implementing .pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "1264f09381c6c1c92ea9aa9e39427101",
+      "mtime": 1639948568000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-19T21:16:02Z",
