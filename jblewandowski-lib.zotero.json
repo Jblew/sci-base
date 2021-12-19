@@ -1,5 +1,948 @@
 [
   {
+    "key": "7FDT7LS5",
+    "version": 443,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7FDT7LS5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7FDT7LS5",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Crawford et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "7FDT7LS5",
+      "version": 443,
+      "itemType": "book",
+      "title": "Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Scott B.",
+          "lastName": "Crawford"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Lance W.",
+          "lastName": "Baily"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Stormy M.",
+          "lastName": "Monks"
+        }
+      ],
+      "abstractNote": "",
+      "series": "Comprehensive Healthcare Simulation",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2019",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-030-15377-9 978-3-030-15378-6",
+      "shortTitle": "Comprehensive Healthcare Simulation",
+      "url": "http://link.springer.com/10.1007/978-3-030-15378-6",
+      "accessDate": "2021-12-19T21:16:12Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-030-15378-6\nCitation Key: crawfordComprehensiveHealthcareSimulation2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:16:12Z",
+      "dateModified": "2021-12-19T21:16:21Z"
+    }
+  },
+  {
+    "key": "HLUZLMVS",
+    "version": 443,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HLUZLMVS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HLUZLMVS",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Seropian et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HLUZLMVS",
+      "version": 443,
+      "itemType": "book",
+      "title": "Comprehensive Healthcare Simulation: Program & Center Development",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Michael A.",
+          "lastName": "Seropian"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "George R.",
+          "lastName": "Keeler"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Viren N.",
+          "lastName": "Naik"
+        }
+      ],
+      "abstractNote": "",
+      "series": "Comprehensive Healthcare Simulation",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2020",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-030-46810-1 978-3-030-46812-5",
+      "shortTitle": "Comprehensive Healthcare Simulation",
+      "url": "http://link.springer.com/10.1007/978-3-030-46812-5",
+      "accessDate": "2021-12-19T21:16:10Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-030-46812-5\nCitation Key: seropianComprehensiveHealthcareSimulation2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:16:10Z",
+      "dateModified": "2021-12-19T21:16:21Z"
+    }
+  },
+  {
+    "key": "JBUTUKES",
+    "version": 443,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JBUTUKES",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JBUTUKES",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Gliva-McConvey et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JBUTUKES",
+      "version": 443,
+      "itemType": "book",
+      "title": "Comprehensive Healthcare Simulation: Implementing Best Practices in Standardized Patient Methodology",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Gayle",
+          "lastName": "Gliva-McConvey"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Catherine F.",
+          "lastName": "Nicholas"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Lou",
+          "lastName": "Clark"
+        }
+      ],
+      "abstractNote": "",
+      "series": "Comprehensive Healthcare Simulation",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2020",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-030-43825-8 978-3-030-43826-5",
+      "shortTitle": "Comprehensive Healthcare Simulation",
+      "url": "https://link.springer.com/10.1007/978-3-030-43826-5",
+      "accessDate": "2021-12-19T21:16:08Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-030-43826-5\nCitation Key: gliva-mcconveyComprehensiveHealthcareSimulation2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:16:08Z",
+      "dateModified": "2021-12-19T21:16:21Z"
+    }
+  },
+  {
+    "key": "6XKVSZ9X",
+    "version": 443,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6XKVSZ9X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6XKVSZ9X",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/7FDT7LS5",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6XKVSZ9X",
+      "version": 443,
+      "parentItem": "7FDT7LS5",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Crawford et al. - 2019 - Comprehensive Healthcare Simulation Operations, T.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Crawford et al. - 2019 - Comprehensive Healthcare Simulation Operations, T.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:16:04Z",
+      "dateModified": "2021-12-19T21:16:12Z"
+    }
+  },
+  {
+    "key": "H5HTZWKI",
+    "version": 443,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H5HTZWKI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H5HTZWKI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HLUZLMVS",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "H5HTZWKI",
+      "version": 443,
+      "parentItem": "HLUZLMVS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Seropian et al. - 2020 - Comprehensive Healthcare Simulation Program & Cen.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Seropian et al. - 2020 - Comprehensive Healthcare Simulation Program & Cen.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:16:03Z",
+      "dateModified": "2021-12-19T21:16:10Z"
+    }
+  },
+  {
+    "key": "5YA88VIK",
+    "version": 443,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5YA88VIK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5YA88VIK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JBUTUKES",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5YA88VIK",
+      "version": 443,
+      "parentItem": "JBUTUKES",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Gliva-McConvey et al. - 2020 - Comprehensive Healthcare Simulation Implementing .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Gliva-McConvey et al. - 2020 - Comprehensive Healthcare Simulation Implementing .pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:16:02Z",
+      "dateModified": "2021-12-19T21:16:08Z"
+    }
+  },
+  {
+    "key": "EMZMSICS",
+    "version": 442,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EMZMSICS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EMZMSICS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/UQ79JFLS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 9816223
+      }
+    },
+    "meta": {
+      "creatorSummary": "Nestel et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EMZMSICS",
+      "version": 442,
+      "itemType": "book",
+      "title": "Healthcare Simulation Research: A Practical Guide",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Debra",
+          "lastName": "Nestel"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Joshua",
+          "lastName": "Hui"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Kevin",
+          "lastName": "Kunkler"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Mark W.",
+          "lastName": "Scerbo"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Aaron W.",
+          "lastName": "Calhoun"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2019",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-030-26836-7 978-3-030-26837-4",
+      "shortTitle": "Healthcare Simulation Research",
+      "url": "http://link.springer.com/10.1007/978-3-030-26837-4",
+      "accessDate": "2021-12-19T21:11:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-030-26837-4\nCitation Key: nestelHealthcareSimulationResearch2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:11:55Z",
+      "dateModified": "2021-12-19T21:12:13Z"
+    }
+  },
+  {
+    "key": "UQ79JFLS",
+    "version": 442,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UQ79JFLS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UQ79JFLS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EMZMSICS",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/UQ79JFLS/file/view",
+        "title": "Debra Nestel, Joshua Hui, Kevin Kunkler, Mark W. Scerbo, Aaron W. Calhoun - Healthcare Simulation Research_ A Practical Guide-Springer International Publishing (2019).pdf",
+        "length": 9816223
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "UQ79JFLS",
+      "version": 442,
+      "parentItem": "EMZMSICS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Nestel et al. - 2019 - Healthcare Simulation Research A Practical Guide.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Nestel et al. - 2019 - Healthcare Simulation Research A Practical Guide.pdf",
+      "md5": "b587735000556c43f44fd38d7749fbb5",
+      "mtime": 1639948276000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:11:15Z",
+      "dateModified": "2021-12-19T21:11:56Z"
+    }
+  },
+  {
+    "key": "H7PRFPWA",
+    "version": 439,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H7PRFPWA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H7PRFPWA",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/U8IQE844",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5976742
+      }
+    },
+    "meta": {
+      "creatorSummary": "Nestel et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "H7PRFPWA",
+      "version": 439,
+      "itemType": "book",
+      "title": "Healthcare simulation education: evidence, theory & practice",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Debra",
+          "lastName": "Nestel"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Brian",
+          "lastName": "Jolly"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Marcus",
+          "lastName": "Watson"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Michelle",
+          "lastName": "Kelly"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Chichester, West Sussex, UK ; Hoboken, NJ",
+      "publisher": "John Wiley & Sons Inc",
+      "date": "2017",
+      "numPages": "",
+      "language": "",
+      "ISBN": "978-1-119-06159-5",
+      "shortTitle": "Healthcare simulation education",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "R859.7.C65",
+      "rights": "",
+      "extra": "Citation Key: nestelHealthcareSimulationEducation2017",
+      "tags": [
+        {
+          "tag": "Education, Medical",
+          "type": 1
+        },
+        {
+          "tag": "Simulation Training",
+          "type": 1
+        },
+        {
+          "tag": "methods",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:11:01Z",
+      "dateModified": "2021-12-19T21:11:07Z"
+    }
+  },
+  {
+    "key": "U8IQE844",
+    "version": 439,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U8IQE844",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U8IQE844",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/H7PRFPWA",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/U8IQE844/file/view",
+        "title": "Jolly, Brian_ Kelly, Michelle_ Nestel, Debra_ Watson, Marcus - Healthcare simulation education _ evidence, theory & practice-Wiley Blackwell (2017).pdf",
+        "length": 5976742
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "U8IQE844",
+      "version": 439,
+      "parentItem": "H7PRFPWA",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Jolly, Brian_ Kelly, Michelle_ Nestel, Debra_ Watson, Marcus - Healthcare simulation education _ evidence, theory & practice-Wiley Blackwell (2017).pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Jolly, Brian_ Kelly, Michelle_ Nestel, Debra_ Watson, Marcus - Healthcare simulation education _ evidence, theory & practice-Wiley Blackwell (2017).pdf",
+      "md5": "0cb4c2239d157aa0fabf54b6e3885730",
+      "mtime": 1639948226000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:10:26Z",
+      "dateModified": "2021-12-19T21:11:04Z"
+    }
+  },
+  {
+    "key": "3UWW8NF4",
+    "version": 435,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3UWW8NF4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3UWW8NF4",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/57BD8G9K",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 12045889
+      }
+    },
+    "meta": {
+      "creatorSummary": "Crawford et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "3UWW8NF4",
+      "version": 435,
+      "itemType": "book",
+      "title": "Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Scott B.",
+          "lastName": "Crawford"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Lance W.",
+          "lastName": "Baily"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Stormy M.",
+          "lastName": "Monks"
+        }
+      ],
+      "abstractNote": "",
+      "series": "Comprehensive Healthcare Simulation",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2019",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-030-15377-9 978-3-030-15378-6",
+      "shortTitle": "Comprehensive Healthcare Simulation",
+      "url": "http://link.springer.com/10.1007/978-3-030-15378-6",
+      "accessDate": "2021-12-19T21:07:05Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-030-15378-6\nCitation Key: crawfordComprehensiveHealthcareSimulation2019a",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:07:05Z",
+      "dateModified": "2021-12-19T21:07:33Z"
+    }
+  },
+  {
+    "key": "57BD8G9K",
+    "version": 433,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/57BD8G9K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/57BD8G9K",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/3UWW8NF4",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/57BD8G9K/file/view",
+        "title": "Crawford et al. - 2019 - Comprehensive Healthcare Simulation Operations, T.pdf",
+        "length": 12045889
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "57BD8G9K",
+      "version": 433,
+      "parentItem": "3UWW8NF4",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Crawford et al. - 2019 - Comprehensive Healthcare Simulation Operations, T.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Crawford et al. - 2019 - Comprehensive Healthcare Simulation Operations, T.pdf",
+      "md5": "0111fb4f686b6ef4577bc9a72be28f25",
+      "mtime": 1639948025000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:07:02Z",
+      "dateModified": "2021-12-19T21:07:05Z"
+    }
+  },
+  {
+    "key": "GTYLHCBV",
+    "version": 432,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GTYLHCBV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GTYLHCBV",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Crawford et al.",
+      "parsedDate": "2019",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "GTYLHCBV",
+      "version": 432,
+      "itemType": "book",
+      "title": "Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Scott B.",
+          "lastName": "Crawford"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Lance W.",
+          "lastName": "Baily"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Stormy M.",
+          "lastName": "Monks"
+        }
+      ],
+      "abstractNote": "",
+      "series": "Comprehensive Healthcare Simulation",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2019",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-030-15377-9 978-3-030-15378-6",
+      "shortTitle": "Comprehensive Healthcare Simulation",
+      "url": "http://link.springer.com/10.1007/978-3-030-15378-6",
+      "accessDate": "2021-12-19T21:06:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-030-15378-6",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-19T21:06:49Z",
+      "dateModified": "2021-12-19T21:06:49Z"
+    }
+  },
+  {
     "key": "9DHE6GVE",
     "version": 429,
     "library": {
