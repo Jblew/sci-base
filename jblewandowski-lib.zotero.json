@@ -8087,7 +8087,7 @@
         "href": "https://api.zotero.org/users/8674355/items/IIHB7X62",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 164285
+        "attachmentSize": 176993
       }
     },
     "meta": {
@@ -10009,7 +10009,7 @@
   },
   {
     "key": "IIHB7X62",
-    "version": 224,
+    "version": 449,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -10037,8 +10037,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/IIHB7X62/file/view",
-        "title": "lin2017.pdf",
-        "length": 164285
+        "title": "IIHB7X62.pdf",
+        "length": 176993
       }
     },
     "meta": {
@@ -10046,7 +10046,7 @@
     },
     "data": {
       "key": "IIHB7X62",
-      "version": 224,
+      "version": 449,
       "parentItem": "BSDJHTI3",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -10056,9 +10056,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "lin2017.pdf",
-      "md5": "6a59e39ba5e079674fba6d214f39cbb8",
-      "mtime": 1638779401986,
+      "filename": "IIHB7X62.pdf",
+      "md5": "f7caac953ca29f7bf3631d975c3f52d3",
+      "mtime": 1639952354714,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-06T08:30:01Z",
