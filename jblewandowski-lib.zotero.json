@@ -1900,12 +1900,6 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/W6JY6VRN",
         "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/PKKIBBKJ",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 692096
       }
     },
     "meta": {
@@ -2078,12 +2072,6 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/W6JY6VRN",
         "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/PKKIBBKJ/file/view",
-        "title": "Mendonça de Sá Araújo et al. - 2019 - Design Thinking Versus Design Sprint A Comparativ.pdf",
-        "length": 692096
       }
     },
     "meta": {
