@@ -1,5 +1,181 @@
 [
   {
+    "key": "2QPUQSV9",
+    "version": 453,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2QPUQSV9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2QPUQSV9",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/I8V2FPKQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2QPUQSV9/file/view",
+        "title": "Distributed_simulation_-_Accessible_imme20160905-28327-1gkmfix-with-cover-page-v2.pdf",
+        "length": 768999
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2QPUQSV9",
+      "version": 453,
+      "parentItem": "I8V2FPKQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Distributed_simulation_-_Accessible_imme20160905-28327-1gkmfix-with-cover-page-v2.pdf",
+      "md5": "54e73135d2c98a9d617b678eeba0f2a8",
+      "mtime": 1639996721421,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-20T10:38:41Z",
+      "dateModified": "2021-12-20T10:38:41Z"
+    }
+  },
+  {
+    "key": "I8V2FPKQ",
+    "version": 455,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/I8V2FPKQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/I8V2FPKQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2QPUQSV9",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 768999
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kneebone et al.",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "I8V2FPKQ",
+      "version": 455,
+      "itemType": "journalArticle",
+      "title": "Distributed simulation – Accessible immersive training",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roger",
+          "lastName": "Kneebone"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sonal",
+          "lastName": "Arora"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dominic",
+          "lastName": "King"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fernando",
+          "lastName": "Bello"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nick",
+          "lastName": "Sevdalis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eva",
+          "lastName": "Kassab"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raj",
+          "lastName": "Aggarwal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ara",
+          "lastName": "Darzi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Debra",
+          "lastName": "Nestel"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Teacher",
+      "volume": "32",
+      "issue": "1",
+      "pages": "65-70",
+      "date": "2010",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.3109/01421590903419749",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-20T10:38:40Z",
+      "dateModified": "2021-12-20T10:38:40Z"
+    }
+  },
+  {
     "key": "7FDT7LS5",
     "version": 443,
     "library": {
@@ -616,7 +792,7 @@
         "href": "https://api.zotero.org/users/8674355/items/U8IQE844",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 5976742
+        "attachmentSize": 6010017
       }
     },
     "meta": {
@@ -696,7 +872,7 @@
   },
   {
     "key": "U8IQE844",
-    "version": 439,
+    "version": 454,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -724,8 +900,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/U8IQE844/file/view",
-        "title": "Jolly, Brian_ Kelly, Michelle_ Nestel, Debra_ Watson, Marcus - Healthcare simulation education _ evidence, theory & practice-Wiley Blackwell (2017).pdf",
-        "length": 5976742
+        "title": "U8IQE844.pdf",
+        "length": 6010017
       }
     },
     "meta": {
@@ -733,7 +909,7 @@
     },
     "data": {
       "key": "U8IQE844",
-      "version": 439,
+      "version": 454,
       "parentItem": "H7PRFPWA",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -743,9 +919,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "Jolly, Brian_ Kelly, Michelle_ Nestel, Debra_ Watson, Marcus - Healthcare simulation education _ evidence, theory & practice-Wiley Blackwell (2017).pdf",
-      "md5": "0cb4c2239d157aa0fabf54b6e3885730",
-      "mtime": 1639948226000,
+      "filename": "U8IQE844.pdf",
+      "md5": "b25a276ea2d403c21ed6903c4243b534",
+      "mtime": 1639996723818,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-19T21:10:26Z",
