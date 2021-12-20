@@ -1,65 +1,7 @@
 [
   {
-    "key": "2QPUQSV9",
-    "version": 453,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/2QPUQSV9",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/2QPUQSV9",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/I8V2FPKQ",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/2QPUQSV9/file/view",
-        "title": "Distributed_simulation_-_Accessible_imme20160905-28327-1gkmfix-with-cover-page-v2.pdf",
-        "length": 768999
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "2QPUQSV9",
-      "version": 453,
-      "parentItem": "I8V2FPKQ",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Full Text PDF",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Distributed_simulation_-_Accessible_imme20160905-28327-1gkmfix-with-cover-page-v2.pdf",
-      "md5": "54e73135d2c98a9d617b678eeba0f2a8",
-      "mtime": 1639996721421,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-12-20T10:38:41Z",
-      "dateModified": "2021-12-20T10:38:41Z"
-    }
-  },
-  {
     "key": "I8V2FPKQ",
-    "version": 455,
+    "version": 457,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -94,7 +36,7 @@
     },
     "data": {
       "key": "I8V2FPKQ",
-      "version": 455,
+      "version": 457,
       "itemType": "journalArticle",
       "title": "Distributed simulation – Accessible immersive training",
       "creators": [
@@ -165,14 +107,72 @@
       "libraryCatalog": "",
       "callNumber": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: kneeboneDistributedSimulationAccessible2010",
       "tags": [],
       "collections": [
         "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-12-20T10:38:40Z",
-      "dateModified": "2021-12-20T10:38:40Z"
+      "dateModified": "2021-12-20T18:58:07Z"
+    }
+  },
+  {
+    "key": "2QPUQSV9",
+    "version": 453,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2QPUQSV9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2QPUQSV9",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/I8V2FPKQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2QPUQSV9/file/view",
+        "title": "Distributed_simulation_-_Accessible_imme20160905-28327-1gkmfix-with-cover-page-v2.pdf",
+        "length": 768999
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2QPUQSV9",
+      "version": 453,
+      "parentItem": "I8V2FPKQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Distributed_simulation_-_Accessible_imme20160905-28327-1gkmfix-with-cover-page-v2.pdf",
+      "md5": "54e73135d2c98a9d617b678eeba0f2a8",
+      "mtime": 1639996721421,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-20T10:38:41Z",
+      "dateModified": "2021-12-20T10:38:41Z"
     }
   },
   {
