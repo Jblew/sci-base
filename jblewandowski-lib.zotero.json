@@ -1,5 +1,296 @@
 [
   {
+    "key": "6LBUM5AF",
+    "version": 461,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6LBUM5AF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6LBUM5AF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/9LPVU26U",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 30045292
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lockton et al.",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6LBUM5AF",
+      "version": 461,
+      "itemType": "book",
+      "title": "Design with Intent: 101 patterns for influencing behaviour through design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dan",
+          "lastName": "Lockton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Harrison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Neville A",
+          "lastName": "Stanton"
+        }
+      ],
+      "abstractNote": "All design influences our behaviour, but as designers we don't always consciously consider the power this gives us to help people, (and, sometimes, to manipulate them). There's a huge opportunity for design for behaviour change to address social and environmental issues where people's behaviour is important, but as yet little in the way of a guide for designers and other stakeholders, bringing together knowledge and examples from different disciplines, and drawing parallels which can allow concepts to be usefully transposed. The Design with Intent toolkit (the cards and wiki) aims to make a start, however small, on this task.",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Berkshire, UK",
+      "publisher": "Equifine",
+      "date": "2010",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-0-9565421-0-6",
+      "shortTitle": "Design with Intent",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Open WorldCat",
+      "callNumber": "",
+      "rights": "",
+      "extra": "OCLC: 840865360\nCitation Key: locktonDesignIntent1012010",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:18:18Z",
+      "dateModified": "2021-12-20T19:18:27Z"
+    }
+  },
+  {
+    "key": "ICKW9C55",
+    "version": 461,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ICKW9C55",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ICKW9C55",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/V45Q3RVA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1694812
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lockton et al.",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "ICKW9C55",
+      "version": 461,
+      "itemType": "journalArticle",
+      "title": "The Design with Intent Method: A design tool for influencing user behaviour",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dan",
+          "lastName": "Lockton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Harrison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Neville A.",
+          "lastName": "Stanton"
+        }
+      ],
+      "abstractNote": "Using product and system design to inﬂuence user behaviour offers potential for improving performance and reducing user error, yet little guidance is available at the concept generation stage for design teams briefed with inﬂuencing user behaviour. This article presents the Design with Intent Method, an innovation tool for designers working in this area, illustrated via application to an everyday human–technology interaction problem: reducing the likelihood of a customer leaving his or her card in an automatic teller machine. The example application results in a range of feasible design concepts which are comparable to existing developments in ATM design, demonstrating that the method has potential for development and application as part of a user-centred design process.",
+      "publicationTitle": "Applied Ergonomics",
+      "volume": "41",
+      "issue": "3",
+      "pages": "382-392",
+      "date": "05/2010",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Applied Ergonomics",
+      "language": "en",
+      "DOI": "10.1016/j.apergo.2009.09.001",
+      "ISSN": "00036870",
+      "shortTitle": "The Design with Intent Method",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003687009001136",
+      "accessDate": "2021-12-20T19:16:15Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: locktonDesignIntentMethod2010",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:16:15Z",
+      "dateModified": "2021-12-20T19:18:27Z"
+    }
+  },
+  {
+    "key": "9LPVU26U",
+    "version": 462,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9LPVU26U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9LPVU26U",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6LBUM5AF",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9LPVU26U/file/view",
+        "title": "Lockton et al. - 2010 - Design with Intent 101 patterns for influencing b.pdf",
+        "length": 30045292
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9LPVU26U",
+      "version": 462,
+      "parentItem": "6LBUM5AF",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lockton et al. - 2010 - Design with Intent 101 patterns for influencing b.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lockton et al. - 2010 - Design with Intent 101 patterns for influencing b.pdf",
+      "md5": "10d2a8848f75fe977a0354ad2616e3b3",
+      "mtime": 1640027898000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:18:09Z",
+      "dateModified": "2021-12-20T19:18:18Z"
+    }
+  },
+  {
+    "key": "V45Q3RVA",
+    "version": 459,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V45Q3RVA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V45Q3RVA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ICKW9C55",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/V45Q3RVA/file/view",
+        "title": "Lockton et al. - 2010 - The Design with Intent Method A design tool for i.pdf",
+        "length": 1694812
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "V45Q3RVA",
+      "version": 459,
+      "parentItem": "ICKW9C55",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lockton et al. - 2010 - The Design with Intent Method A design tool for i.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lockton et al. - 2010 - The Design with Intent Method A design tool for i.pdf",
+      "md5": "eb93b43e069f860feeb36d4dee9123ab",
+      "mtime": 1640027776000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:16:12Z",
+      "dateModified": "2021-12-20T19:16:16Z"
+    }
+  },
+  {
     "key": "I8V2FPKQ",
     "version": 457,
     "library": {
@@ -14798,157 +15089,6 @@
       "relations": {},
       "dateAdded": "2021-11-12T09:28:47Z",
       "dateModified": "2021-11-12T09:28:47Z"
-    }
-  },
-  {
-    "key": "MR3NK64P",
-    "version": 97,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/MR3NK64P",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/DKGT7IHE",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/MR3NK64P/file/view",
-        "title": "MR3NK64P.pdf",
-        "length": 257010
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "MR3NK64P",
-      "version": 97,
-      "parentItem": "DKGT7IHE",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Bastos et al. - Pharmacological Properties, Research and Biotechno.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Bastos et al. - Pharmacological Properties, Research and Biotechno.pdf",
-      "md5": "cdf0559dc495e3cf5808f479df0ef9f2",
-      "mtime": 1636125124888,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-11-05T10:06:56Z",
-      "dateModified": "2021-11-07T12:06:03Z"
-    }
-  },
-  {
-    "key": "J9DIZZ4Y",
-    "version": 176,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/J9DIZZ4Y",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/J9DIZZ4Y",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/IU83SCRI",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 507057
-      }
-    },
-    "meta": {
-      "creatorSummary": "Kinsella et al.",
-      "parsedDate": "2019",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "J9DIZZ4Y",
-      "version": 176,
-      "itemType": "journalArticle",
-      "title": "Heroism and the Pursuit of a Meaningful Life",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Elaine L.",
-          "lastName": "Kinsella"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Eric R.",
-          "lastName": "Igou"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Timothy D.",
-          "lastName": "Ritchie"
-        }
-      ],
-      "abstractNote": "Individuals and groups of individuals are motivated to find meaning in their activities and in life, generally. That is, when events or affective states threaten or reduce a person’s sense of meaning, psychological processes are mobilized to serve the goals of meaning maintenance and meaning reestablishment, respectively. We examined two avenues for meaning maintenance: First, we considered psychological resources from the enhancing, moral modelling, and protecting functions of heroes, and second, we considered engagement in heroic behavior as a means to create meaning. We addressed contemporary heroes via conceptual and empirical literatures to discuss a variety of ways that heroes derive meaning from their own actions, and the extent to which others could glean personal meaning from a hero’s characteristics and actions. We present a meaning regulation framework that explains how heroes and heroic behavior each boost meaning and the meaning maintenance processes, such as heroism as a buffer against meaning threats. We synthesized relevant literatures on meaning and heroism, and offer a framework that illustrates heroic functions in the context of meaning in life: a central, superordinate psychological variable that is familiar to many individuals and groups. This framework offers many opportunities for future research and practical application of heroism.",
-      "publicationTitle": "Journal of Humanistic Psychology",
-      "volume": "59",
-      "issue": "4",
-      "pages": "474-498",
-      "date": "2019",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "Journal of Humanistic Psychology",
-      "language": "en",
-      "DOI": "10.1177/0022167817701002",
-      "ISSN": "0022-1678, 1552-650X",
-      "shortTitle": "",
-      "url": "http://journals.sagepub.com/doi/10.1177/0022167817701002",
-      "accessDate": "2021-11-04T19:09:16Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: kinsellaHeroismPursuitMeaningful2019",
-      "tags": [
-        {
-          "tag": "wip"
-        }
-      ],
-      "collections": [
-        "YRDSMPUP",
-        "DYCQA73Y"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:09:16Z",
-      "dateModified": "2021-11-07T06:49:10Z"
     }
   },
   {
