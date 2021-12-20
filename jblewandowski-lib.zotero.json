@@ -1,5 +1,294 @@
 [
   {
+    "key": "NYKYXISQ",
+    "version": 468,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NYKYXISQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NYKYXISQ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hermsen",
+      "parsedDate": "2016-07-05",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "NYKYXISQ",
+      "version": 468,
+      "itemType": "conferencePaper",
+      "title": "Using the Persuasive by Design-model to inform the design of complex behaviour change concepts: two case studies",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sander",
+          "lastName": "Hermsen"
+        }
+      ],
+      "abstractNote": "Recently, there has been an increase in interest for the integration of insights from the behavioural sciences into the design process. The Persuasive by Design model aims to provide an evidence-based framework by which designers gain access to relevant theoretical insights from the behavioural sciences. This paper examines the use of the model in two case studies that dealt with complex behavioural change situations. In both studies, the model proved to be a valuable aid in determining target behaviours and operationalizing intervention concepts, especially in the early stages of the design process. Some shortcomings of the model also transpired. The model was seen as too complex, and its psychological frame does not prevent designers to overlook possible systemic moderators of behaviour. Implications for further development of tools that give access to model insights are discussed.",
+      "date": "2016-7-5",
+      "proceedingsTitle": "11th EAD Conference Proceedings: The Value Of Design Research",
+      "conferenceName": "European Academy of Design Conference Proceedings 2015",
+      "place": "",
+      "publisher": "Sheffield Hallam University",
+      "volume": "",
+      "pages": "",
+      "series": "",
+      "language": "en",
+      "DOI": "10.7190/ead/2015/20",
+      "ISBN": "978-1-84387-393-8",
+      "shortTitle": "Using the Persuasive by Design-model to inform the design of complex behaviour change concepts",
+      "url": "http://ead.yasar.edu.tr/sites/default/files/CaseStudies%20PbD%20EAD%20Paris%20Final.pdf",
+      "accessDate": "2021-12-20T19:47:39Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:47:39Z",
+      "dateModified": "2021-12-20T19:47:40Z"
+    }
+  },
+  {
+    "key": "GKX6NB6G",
+    "version": 468,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GKX6NB6G",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GKX6NB6G",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/NYKYXISQ",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "GKX6NB6G",
+      "version": 468,
+      "parentItem": "NYKYXISQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hermsen - 2016 - Using the Persuasive by Design-model to inform the.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hermsen - 2016 - Using the Persuasive by Design-model to inform the.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:47:23Z",
+      "dateModified": "2021-12-20T19:47:40Z"
+    }
+  },
+  {
+    "key": "GNPHQE7E",
+    "version": 468,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GNPHQE7E",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GNPHQE7E",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2037916
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lambe et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "GNPHQE7E",
+      "version": 468,
+      "itemType": "journalArticle",
+      "title": "Embracing complexity: A transdisciplinary conceptual framework for understanding behavior change in the context of development-focused interventions",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Fiona",
+          "lastName": "Lambe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ylva",
+          "lastName": "Ran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie",
+          "lastName": "Jürisoo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan",
+          "lastName": "Holmlid"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cassilde",
+          "lastName": "Muhoza"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Oliver",
+          "lastName": "Johnson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Osborne"
+        }
+      ],
+      "abstractNote": "Many interventions that aim to improve the livelihoods of vulnerable people in low-income settings fail because the behavior of the people intended to beneﬁt is not well understood and /or not reﬂected in the design of interventions. Methods for understanding and situating human behavior in the context of development interventions tend to emphasize experimental approaches to objectively isolate key drivers of behavior. However, such methods often do not account for the importance of contextual factors and the wider system. In this paper we propose a conceptual framework to support intervention design that links behavioral insights with service design, a branch of the creative ﬁeld of design. To develop the framework, we use three case studies conducted in Kenya and Zambia focusing on the uptake of new technologies and services by individuals and households. We demonstrate how the framework can be useful for mapping individuals’ experiences of a new technology or service and, based on this, identify key parameters to support lasting behavior change. The framework reﬂects how behavior change takes place in the context of complex social-ecological systems – that change over time, and in which a diverse range of actors operate at different levels – with the aim of supporting the design and delivery of more robust development-oriented interventions.",
+      "publicationTitle": "World Development",
+      "volume": "126",
+      "issue": "",
+      "pages": "104703",
+      "date": "02/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "World Development",
+      "language": "en",
+      "DOI": "10.1016/j.worlddev.2019.104703",
+      "ISSN": "0305750X",
+      "shortTitle": "Embracing complexity",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0305750X19303511",
+      "accessDate": "2021-12-20T19:47:08Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: lambeEmbracingComplexityTransdisciplinary2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:47:08Z",
+      "dateModified": "2021-12-20T19:47:17Z"
+    }
+  },
+  {
+    "key": "SPKD3IWT",
+    "version": 467,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SPKD3IWT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GNPHQE7E",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT/file/view",
+        "title": "Lambe et al. - 2020 - Embracing complexity A transdisciplinary conceptu.pdf",
+        "length": 2037916
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SPKD3IWT",
+      "version": 467,
+      "parentItem": "GNPHQE7E",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lambe et al. - 2020 - Embracing complexity A transdisciplinary conceptu.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lambe et al. - 2020 - Embracing complexity A transdisciplinary conceptu.pdf",
+      "md5": "f0829ec506920c66338b5e1b653524ea",
+      "mtime": 1640029629000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-20T19:46:47Z",
+      "dateModified": "2021-12-20T19:47:09Z"
+    }
+  },
+  {
     "key": "6LBUM5AF",
     "version": 461,
     "library": {
