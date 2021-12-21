@@ -1,7 +1,7 @@
 [
   {
     "key": "GVWA8ZZU",
-    "version": 475,
+    "version": 479,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -36,7 +36,7 @@
     },
     "data": {
       "key": "GVWA8ZZU",
-      "version": 475,
+      "version": 479,
       "itemType": "journalArticle",
       "title": "The 100 Most Cited Articles on Healthcare Simulation",
       "creators": [
@@ -92,14 +92,14 @@
       "libraryCatalog": "",
       "callNumber": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: walsh100MostCited2018",
       "tags": [],
       "collections": [
         "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-12-21T10:03:51Z",
-      "dateModified": "2021-12-21T10:03:51Z"
+      "dateModified": "2021-12-21T22:00:33Z"
     }
   },
   {
@@ -162,7 +162,7 @@
   },
   {
     "key": "NYKYXISQ",
-    "version": 468,
+    "version": 476,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -182,6 +182,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/NYKYXISQ",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/GKX6NB6G",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1059732
       }
     },
     "meta": {
@@ -191,7 +197,7 @@
     },
     "data": {
       "key": "NYKYXISQ",
-      "version": 468,
+      "version": 476,
       "itemType": "conferencePaper",
       "title": "Using the Persuasive by Design-model to inform the design of complex behaviour change concepts: two case studies",
       "creators": [
@@ -221,19 +227,19 @@
       "libraryCatalog": "DOI.org (Crossref)",
       "callNumber": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: hermsenUsingPersuasiveDesignmodel2016",
       "tags": [],
       "collections": [
         "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-12-20T19:47:39Z",
-      "dateModified": "2021-12-20T19:47:40Z"
+      "dateModified": "2021-12-20T19:47:46Z"
     }
   },
   {
     "key": "GKX6NB6G",
-    "version": 468,
+    "version": 478,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -257,6 +263,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/NYKYXISQ",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GKX6NB6G/file/view",
+        "title": "Hermsen - 2016 - Using the Persuasive by Design-model to inform the.pdf",
+        "length": 1059732
       }
     },
     "meta": {
@@ -264,7 +276,7 @@
     },
     "data": {
       "key": "GKX6NB6G",
-      "version": 468,
+      "version": 478,
       "parentItem": "NYKYXISQ",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -275,8 +287,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Hermsen - 2016 - Using the Persuasive by Design-model to inform the.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "cdeae059f7e1633a5b33fcf35dc09360",
+      "mtime": 1640029660000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-20T19:47:23Z",
@@ -3191,7 +3203,7 @@
         "href": "https://api.zotero.org/users/8674355/items/GW62SNUM",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 5745416
+        "attachmentSize": 5791789
       }
     },
     "meta": {
@@ -4460,7 +4472,7 @@
   },
   {
     "key": "GW62SNUM",
-    "version": 464,
+    "version": 477,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -4489,7 +4501,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/GW62SNUM/file/view",
         "title": "Mejía - 2021 - Theory-Driven or Theory-Informed A Review of Beha.pdf",
-        "length": 5745416
+        "length": 5791789
       }
     },
     "meta": {
@@ -4497,7 +4509,7 @@
     },
     "data": {
       "key": "GW62SNUM",
-      "version": 464,
+      "version": 477,
       "parentItem": "CHB99634",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -4508,8 +4520,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Mejía - 2021 - Theory-Driven or Theory-Informed A Review of Beha.pdf",
-      "md5": "5d9a60cf520b6a1cc1bca7bd4e1e2010",
-      "mtime": 1640027427000,
+      "md5": "272b70e25bb691aaf006cc62c669a058",
+      "mtime": 1640029844000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-17T16:56:14Z",
