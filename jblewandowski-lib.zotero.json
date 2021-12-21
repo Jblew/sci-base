@@ -1,5 +1,164 @@
 [
   {
+    "key": "C9FZUVUB",
+    "version": 471,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/C9FZUVUB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/C9FZUVUB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GVWA8ZZU",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/C9FZUVUB/file/view",
+        "title": "walsh2018.pdf",
+        "length": 234132
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "C9FZUVUB",
+      "version": 471,
+      "parentItem": "GVWA8ZZU",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "walsh2018.pdf",
+      "md5": "e25466967eab894570759693bc9c612b",
+      "mtime": 1640081031903,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-21T10:03:51Z",
+      "dateModified": "2021-12-21T10:03:51Z"
+    }
+  },
+  {
+    "key": "GVWA8ZZU",
+    "version": 469,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GVWA8ZZU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GVWA8ZZU",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/C9FZUVUB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 234132
+      }
+    },
+    "meta": {
+      "creatorSummary": "Walsh et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "GVWA8ZZU",
+      "version": 469,
+      "itemType": "journalArticle",
+      "title": "The 100 Most Cited Articles on Healthcare Simulation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Chloe",
+          "lastName": "Walsh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sinéad",
+          "lastName": "Lydon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dara",
+          "lastName": "Byrne"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Caoimhe",
+          "lastName": "Madden"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susan",
+          "lastName": "Fox"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "O'Connor"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Simulation in Healthcare: The Journal of the Society for Simulation in Healthcare",
+      "volume": "13",
+      "issue": "3",
+      "pages": "211-220",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1097/SIH.0000000000000293",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-21T10:03:51Z",
+      "dateModified": "2021-12-21T10:03:51Z"
+    }
+  },
+  {
     "key": "NYKYXISQ",
     "version": 468,
     "library": {
@@ -1217,7 +1376,7 @@
         "href": "https://api.zotero.org/users/8674355/items/UQ79JFLS",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 9816223
+        "attachmentSize": 9838857
       }
     },
     "meta": {
@@ -1317,8 +1476,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/UQ79JFLS/file/view",
-        "title": "Debra Nestel, Joshua Hui, Kevin Kunkler, Mark W. Scerbo, Aaron W. Calhoun - Healthcare Simulation Research_ A Practical Guide-Springer International Publishing (2019).pdf",
-        "length": 9816223
+        "title": "UQ79JFLS.pdf",
+        "length": 9838857
       }
     },
     "meta": {
@@ -1336,9 +1495,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "Nestel et al. - 2019 - Healthcare Simulation Research A Practical Guide.pdf",
-      "md5": "b587735000556c43f44fd38d7749fbb5",
-      "mtime": 1639948276000,
+      "filename": "UQ79JFLS.pdf",
+      "md5": "3136b2093b0e068265054bd25d50a92a",
+      "mtime": 1640081034506,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-19T21:11:15Z",
