@@ -1,5 +1,204 @@
 [
   {
+    "key": "FV6TD85Q",
+    "version": 497,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FV6TD85Q",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FV6TD85Q",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZRUH3SS3",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/FV6TD85Q/file/view",
+        "title": "bmj.n2061.full.pdf",
+        "length": 345992
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "FV6TD85Q",
+      "version": 497,
+      "parentItem": "ZRUH3SS3",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "bmj.n2061.full.pdf",
+      "md5": "43a2b173046a4a23e49a5a5a9a8fd581",
+      "mtime": 1640165219149,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T09:26:58Z",
+      "dateModified": "2021-12-22T09:26:58Z"
+    }
+  },
+  {
+    "key": "ZRUH3SS3",
+    "version": 495,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZRUH3SS3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZRUH3SS3",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/FV6TD85Q",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 345992
+      }
+    },
+    "meta": {
+      "creatorSummary": "Skivington et al.",
+      "parsedDate": "2021",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "ZRUH3SS3",
+      "version": 495,
+      "itemType": "journalArticle",
+      "title": "A new framework for developing and evaluating complex interventions: update of Medical Research Council guidance",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kathryn",
+          "lastName": "Skivington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lynsay",
+          "lastName": "Matthews"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sharon Anne",
+          "lastName": "Simpson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Craig"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Janis",
+          "lastName": "Baird"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jane M",
+          "lastName": "Blazeby"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathleen Anne",
+          "lastName": "Boyd"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Neil",
+          "lastName": "Craig"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David P",
+          "lastName": "French"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emma",
+          "lastName": "McIntosh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Petticrew"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jo",
+          "lastName": "Rycroft-Malone"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Martin",
+          "lastName": "White"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laurence",
+          "lastName": "Moore"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "BMJ",
+      "volume": "",
+      "issue": "",
+      "pages": "n2061",
+      "date": "2021",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1136/bmj.n2061",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T09:26:58Z",
+      "dateModified": "2021-12-22T09:26:58Z"
+    }
+  },
+  {
     "key": "FNHI7RPQ",
     "version": 494,
     "library": {
@@ -707,7 +906,7 @@
         "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 2050248
+        "attachmentSize": 2054192
       }
     },
     "meta": {
@@ -790,7 +989,7 @@
   },
   {
     "key": "SPKD3IWT",
-    "version": 484,
+    "version": 498,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -819,7 +1018,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT/file/view",
         "title": "SPKD3IWT.pdf",
-        "length": 2050248
+        "length": 2054192
       }
     },
     "meta": {
@@ -827,7 +1026,7 @@
     },
     "data": {
       "key": "SPKD3IWT",
-      "version": 484,
+      "version": 498,
       "parentItem": "GNPHQE7E",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -838,8 +1037,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "SPKD3IWT.pdf",
-      "md5": "2c31e1362f4a281c9b4cd673c417afe0",
-      "mtime": 1640161971524,
+      "md5": "4fa13b52893db529d3600ebfc4d689c7",
+      "mtime": 1640165304228,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-20T19:46:47Z",
