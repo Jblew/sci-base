@@ -1,5 +1,259 @@
 [
   {
+    "key": "BT6V543D",
+    "version": 488,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BT6V543D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BT6V543D",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WW4B675U",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BT6V543D/file/view",
+        "title": "learning_credit_042413.pdf",
+        "length": 434180
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BT6V543D",
+      "version": 488,
+      "parentItem": "WW4B675U",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "learning_credit_042413.pdf",
+      "md5": "f43be8fe883e99d19dfcba92b87e3043",
+      "mtime": 1640163533979,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T08:58:53Z",
+      "dateModified": "2021-12-22T08:58:53Z"
+    }
+  },
+  {
+    "key": "WW4B675U",
+    "version": 486,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WW4B675U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WW4B675U",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BT6V543D",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 434180
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WW4B675U",
+      "version": 486,
+      "itemType": "journalArticle",
+      "title": "learning_credit_042413",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T08:58:53Z",
+      "dateModified": "2021-12-22T08:58:53Z"
+    }
+  },
+  {
+    "key": "F7JFWBEB",
+    "version": 489,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F7JFWBEB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/32GMZAZ2",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB/file/view",
+        "title": "F7JFWBEB.pdf",
+        "length": 1753831
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "F7JFWBEB",
+      "version": 489,
+      "parentItem": "32GMZAZ2",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "F7JFWBEB.pdf",
+      "md5": "47339a83932c2887f8e12b2dc214ccb4",
+      "mtime": 1640163536119,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T08:32:48Z",
+      "dateModified": "2021-12-22T08:32:48Z"
+    }
+  },
+  {
+    "key": "32GMZAZ2",
+    "version": 485,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/32GMZAZ2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/32GMZAZ2",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1753831
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "32GMZAZ2",
+      "version": 485,
+      "itemType": "journalArticle",
+      "title": "kjna27726enn_new",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "https://doi.org/10.2760/707591",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-22T08:32:48Z",
+      "dateModified": "2021-12-22T08:32:48Z"
+    }
+  },
+  {
     "key": "GVWA8ZZU",
     "version": 479,
     "library": {
@@ -322,7 +576,7 @@
         "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 2037916
+        "attachmentSize": 2050248
       }
     },
     "meta": {
@@ -405,7 +659,7 @@
   },
   {
     "key": "SPKD3IWT",
-    "version": 467,
+    "version": 484,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -433,8 +687,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT/file/view",
-        "title": "Lambe et al. - 2020 - Embracing complexity A transdisciplinary conceptu.pdf",
-        "length": 2037916
+        "title": "SPKD3IWT.pdf",
+        "length": 2050248
       }
     },
     "meta": {
@@ -442,7 +696,7 @@
     },
     "data": {
       "key": "SPKD3IWT",
-      "version": 467,
+      "version": 484,
       "parentItem": "GNPHQE7E",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -452,9 +706,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "Lambe et al. - 2020 - Embracing complexity A transdisciplinary conceptu.pdf",
-      "md5": "f0829ec506920c66338b5e1b653524ea",
-      "mtime": 1640029629000,
+      "filename": "SPKD3IWT.pdf",
+      "md5": "2c31e1362f4a281c9b4cd673c417afe0",
+      "mtime": 1640161971524,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-20T19:46:47Z",
