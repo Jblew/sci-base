@@ -1,5 +1,454 @@
 [
   {
+    "key": "NPJY9XWB",
+    "version": 502,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NPJY9XWB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NPJY9XWB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BT6V543D",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 434180
+      }
+    },
+    "meta": {
+      "creatorSummary": "Agarwal et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "NPJY9XWB",
+      "version": 502,
+      "itemType": "journalArticle",
+      "title": "Learning in the Credit Card Market",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sumit",
+          "lastName": "Agarwal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John C",
+          "lastName": "Driscoll"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xavier",
+          "lastName": "Gabaix"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Laibson"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "44",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: agarwalLearningCreditCard",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-23T11:25:49Z",
+      "dateModified": "2021-12-23T11:26:25Z"
+    }
+  },
+  {
+    "key": "4UZKQ38U",
+    "version": 502,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4UZKQ38U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4UZKQ38U",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1753831
+      }
+    },
+    "meta": {
+      "creatorSummary": "European Commission. Joint Research Centre.",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "4UZKQ38U",
+      "version": 502,
+      "itemType": "book",
+      "title": "Behavioural insights applied to policy :European report 2016.",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "European Commission. Joint Research Centre."
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "LU",
+      "publisher": "Publications Office",
+      "date": "2016",
+      "numPages": "",
+      "language": "eng",
+      "ISBN": "",
+      "shortTitle": "Behavioural insights applied to policy",
+      "url": "https://data.europa.eu/doi/10.2760/707591",
+      "accessDate": "2021-12-23T11:25:21Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (CSL JSON)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: europeancommission.jointresearchcentre.BehaviouralInsightsApplied2016",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-23T11:25:21Z",
+      "dateModified": "2021-12-23T11:26:25Z"
+    }
+  },
+  {
+    "key": "VPQFFGCE",
+    "version": 502,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VPQFFGCE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VPQFFGCE",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/QTMJG98A",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1323701
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hallsworth et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "VPQFFGCE",
+      "version": 502,
+      "itemType": "journalArticle",
+      "title": "SIMPLE WAYS TO IMPROVE HEALTH OUTCOMES",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Hallsworth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Veerle",
+          "lastName": "Snijders"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hannah",
+          "lastName": "Burd"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jessica",
+          "lastName": "Prestt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gaby",
+          "lastName": "Judah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Huf"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Halpern"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "48",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: hallsworthSIMPLEWAYSIMPROVE",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-23T11:26:02Z",
+      "dateModified": "2021-12-23T11:26:25Z"
+    }
+  },
+  {
+    "key": "QTMJG98A",
+    "version": 501,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QTMJG98A",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QTMJG98A",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/VPQFFGCE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/QTMJG98A/file/view",
+        "title": "WISH-2016_Behavioral_Insights_Report-1.pdf",
+        "length": 1323701
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "QTMJG98A",
+      "version": 501,
+      "parentItem": "VPQFFGCE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hallsworth et al. - SIMPLE WAYS TO IMPROVE HEALTH OUTCOMES.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hallsworth et al. - SIMPLE WAYS TO IMPROVE HEALTH OUTCOMES.pdf",
+      "md5": "55d4b27869ad2575f7d0e7c86fb8302f",
+      "mtime": 1640164235053,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T09:10:34Z",
+      "dateModified": "2021-12-23T11:26:02Z"
+    }
+  },
+  {
+    "key": "BT6V543D",
+    "version": 501,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BT6V543D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BT6V543D",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/NPJY9XWB",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BT6V543D/file/view",
+        "title": "learning_credit_042413.pdf",
+        "length": 434180
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BT6V543D",
+      "version": 501,
+      "parentItem": "NPJY9XWB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Agarwal et al. - Learning in the Credit Card Market.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Agarwal et al. - Learning in the Credit Card Market.pdf",
+      "md5": "f43be8fe883e99d19dfcba92b87e3043",
+      "mtime": 1640163533979,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T08:58:53Z",
+      "dateModified": "2021-12-23T11:25:49Z"
+    }
+  },
+  {
+    "key": "F7JFWBEB",
+    "version": 501,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F7JFWBEB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/4UZKQ38U",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB/file/view",
+        "title": "F7JFWBEB.pdf",
+        "length": 1753831
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "F7JFWBEB",
+      "version": 501,
+      "parentItem": "4UZKQ38U",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "F7JFWBEB.pdf",
+      "md5": "47339a83932c2887f8e12b2dc214ccb4",
+      "mtime": 1640163536119,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-22T08:32:48Z",
+      "dateModified": "2021-12-23T11:25:25Z"
+    }
+  },
+  {
     "key": "ZRUH3SS3",
     "version": 500,
     "library": {
@@ -198,391 +647,6 @@
       "relations": {},
       "dateAdded": "2021-12-22T09:26:58Z",
       "dateModified": "2021-12-22T09:26:58Z"
-    }
-  },
-  {
-    "key": "FNHI7RPQ",
-    "version": 494,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/FNHI7RPQ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/FNHI7RPQ",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/QTMJG98A",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1323701
-      }
-    },
-    "meta": {
-      "parsedDate": "2016",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "FNHI7RPQ",
-      "version": 494,
-      "itemType": "journalArticle",
-      "title": "Wish qatar forum",
-      "creators": [],
-      "abstractNote": "",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "date": "2016",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-22T09:10:34Z",
-      "dateModified": "2021-12-22T09:10:34Z"
-    }
-  },
-  {
-    "key": "QTMJG98A",
-    "version": 493,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/QTMJG98A",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/QTMJG98A",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/FNHI7RPQ",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/QTMJG98A/file/view",
-        "title": "WISH-2016_Behavioral_Insights_Report-1.pdf",
-        "length": 1323701
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "QTMJG98A",
-      "version": 493,
-      "parentItem": "FNHI7RPQ",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Full Text PDF",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "WISH-2016_Behavioral_Insights_Report-1.pdf",
-      "md5": "55d4b27869ad2575f7d0e7c86fb8302f",
-      "mtime": 1640164235053,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-12-22T09:10:34Z",
-      "dateModified": "2021-12-22T09:10:34Z"
-    }
-  },
-  {
-    "key": "WW4B675U",
-    "version": 490,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/WW4B675U",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/WW4B675U",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/BT6V543D",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 434180
-      }
-    },
-    "meta": {
-      "numChildren": 1
-    },
-    "data": {
-      "key": "WW4B675U",
-      "version": 490,
-      "itemType": "journalArticle",
-      "title": "learning_credit_042413",
-      "creators": [],
-      "abstractNote": "",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-22T08:58:53Z",
-      "dateModified": "2021-12-22T08:58:53Z"
-    }
-  },
-  {
-    "key": "BT6V543D",
-    "version": 488,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/BT6V543D",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/BT6V543D",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/WW4B675U",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/BT6V543D/file/view",
-        "title": "learning_credit_042413.pdf",
-        "length": 434180
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "BT6V543D",
-      "version": 488,
-      "parentItem": "WW4B675U",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Full Text PDF",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "learning_credit_042413.pdf",
-      "md5": "f43be8fe883e99d19dfcba92b87e3043",
-      "mtime": 1640163533979,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-12-22T08:58:53Z",
-      "dateModified": "2021-12-22T08:58:53Z"
-    }
-  },
-  {
-    "key": "F7JFWBEB",
-    "version": 489,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/F7JFWBEB",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/32GMZAZ2",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB/file/view",
-        "title": "F7JFWBEB.pdf",
-        "length": 1753831
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "F7JFWBEB",
-      "version": 489,
-      "parentItem": "32GMZAZ2",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Full Text PDF",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "F7JFWBEB.pdf",
-      "md5": "47339a83932c2887f8e12b2dc214ccb4",
-      "mtime": 1640163536119,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-12-22T08:32:48Z",
-      "dateModified": "2021-12-22T08:32:48Z"
-    }
-  },
-  {
-    "key": "32GMZAZ2",
-    "version": 485,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/32GMZAZ2",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/32GMZAZ2",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/F7JFWBEB",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1753831
-      }
-    },
-    "meta": {
-      "numChildren": 1
-    },
-    "data": {
-      "key": "32GMZAZ2",
-      "version": 485,
-      "itemType": "journalArticle",
-      "title": "kjna27726enn_new",
-      "creators": [],
-      "abstractNote": "",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "https://doi.org/10.2760/707591",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-22T08:32:48Z",
-      "dateModified": "2021-12-22T08:32:48Z"
     }
   },
   {
