@@ -1,5 +1,463 @@
 [
   {
+    "key": "WRHQS2JH",
+    "version": 506,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WRHQS2JH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WRHQS2JH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ECZ2JGZK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 628220
+      }
+    },
+    "meta": {
+      "creatorSummary": "McGaghie et al.",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WRHQS2JH",
+      "version": 506,
+      "itemType": "journalArticle",
+      "title": "Revisiting ‘A critical review of simulation-based medical education research: 2003-2009’",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William C",
+          "lastName": "McGaghie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S Barry",
+          "lastName": "Issenberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emil R",
+          "lastName": "Petrusa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ross J",
+          "lastName": "Scalese"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education",
+      "volume": "50",
+      "issue": "10",
+      "pages": "986-991",
+      "date": "10/2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Med Educ",
+      "language": "en",
+      "DOI": "10.1111/medu.12795",
+      "ISSN": "03080110",
+      "shortTitle": "Revisiting ‘A critical review of simulation-based medical education research",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/medu.12795",
+      "accessDate": "2021-12-23T14:09:10Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mcgaghieRevisitingCriticalReview2016",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-23T14:09:10Z",
+      "dateModified": "2021-12-23T14:09:22Z"
+    }
+  },
+  {
+    "key": "ZJEPH3DN",
+    "version": 506,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZJEPH3DN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZJEPH3DN",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/PJ4IBPMU",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 121315
+      }
+    },
+    "meta": {
+      "creatorSummary": "McGaghie et al.",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "ZJEPH3DN",
+      "version": 506,
+      "itemType": "journalArticle",
+      "title": "A critical review of simulation-based medical education research: 2003–2009: Simulation-based medical education research 2003–2009",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William C",
+          "lastName": "McGaghie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S Barry",
+          "lastName": "Issenberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emil R",
+          "lastName": "Petrusa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ross J",
+          "lastName": "Scalese"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education",
+      "volume": "44",
+      "issue": "1",
+      "pages": "50-63",
+      "date": "01/2010",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1111/j.1365-2923.2009.03547.x",
+      "ISSN": "03080110, 13652923",
+      "shortTitle": "A critical review of simulation-based medical education research",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2923.2009.03547.x",
+      "accessDate": "2021-12-23T14:08:44Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mcgaghieCriticalReviewSimulationbased2010",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-23T14:08:44Z",
+      "dateModified": "2021-12-23T14:09:22Z"
+    }
+  },
+  {
+    "key": "IJA7GZTZ",
+    "version": 506,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IJA7GZTZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IJA7GZTZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/J2XCK6V6",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 276669
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lin et al.",
+      "parsedDate": "2009",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "IJA7GZTZ",
+      "version": 506,
+      "itemType": "journalArticle",
+      "title": "Problem-Based Learning Curriculum in Medical Education at Kaohsiung Medical University",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Chih",
+          "lastName": "Lin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Sheng",
+          "lastName": "Huang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chung-Sheng",
+          "lastName": "Lai"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeng-Hsien",
+          "lastName": "Yen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wen-Chan",
+          "lastName": "Tsai"
+        }
+      ],
+      "abstractNote": "Problem-based learning (PBL) was first introduced to Kaohsiung Medical University in 1997 and was incorporated into the reform of the medical curriculum in 2005. An action committee was organized to manage PBL activities at Kaohsiung Medical University. A 2-year PBL curriculum with 14 blocks was delivered both in the School of Medicine and School of Post-Baccalaureate Medicine. Each block consists of lectures of basic and clinical science, clinical skills, and three PBL tutorials. Fifty-three well-edited PBL cases were created during the past 4 years. Some issues have arisen from the PBL curriculum including lack of tutors, low tutor numbers in tutorials, tutor training, and adequacy of assessment. Therefore, faculty development and a better system of evaluation and assessment are now our major tasks. We hope that our efforts to improve the PBL curriculum will provide students with a better education system.",
+      "publicationTitle": "The Kaohsiung Journal of Medical Sciences",
+      "volume": "25",
+      "issue": "5",
+      "pages": "264-270",
+      "date": "05/2009",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "The Kaohsiung Journal of Medical Sciences",
+      "language": "en",
+      "DOI": "10.1016/S1607-551X(09)70072-5",
+      "ISSN": "1607551X",
+      "shortTitle": "",
+      "url": "http://doi.wiley.com/10.1016/S1607-551X(09)70072-5",
+      "accessDate": "2021-12-23T14:08:52Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: linProblemBasedLearningCurriculum2009",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-23T14:08:52Z",
+      "dateModified": "2021-12-23T14:09:22Z"
+    }
+  },
+  {
+    "key": "ECZ2JGZK",
+    "version": 509,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ECZ2JGZK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ECZ2JGZK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WRHQS2JH",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ECZ2JGZK/file/view",
+        "title": "McGaghie et al. - 2016 - Revisiting ‘A critical review of simulation-based .pdf",
+        "length": 628220
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "ECZ2JGZK",
+      "version": 509,
+      "parentItem": "WRHQS2JH",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "McGaghie et al. - 2016 - Revisiting ‘A critical review of simulation-based .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "McGaghie et al. - 2016 - Revisiting ‘A critical review of simulation-based .pdf",
+      "md5": "25df33b8e8989f473d12a4c69eac4be4",
+      "mtime": 1640268550000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-23T14:09:07Z",
+      "dateModified": "2021-12-23T14:09:10Z"
+    }
+  },
+  {
+    "key": "J2XCK6V6",
+    "version": 507,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/J2XCK6V6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/J2XCK6V6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/IJA7GZTZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/J2XCK6V6/file/view",
+        "title": "Lin et al. - 2009 - Problem-Based Learning Curriculum in Medical Educa.pdf",
+        "length": 276669
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "J2XCK6V6",
+      "version": 507,
+      "parentItem": "IJA7GZTZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lin et al. - 2009 - Problem-Based Learning Curriculum in Medical Educa.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lin et al. - 2009 - Problem-Based Learning Curriculum in Medical Educa.pdf",
+      "md5": "d9b97349460fea08b57f0477c9b527ac",
+      "mtime": 1640268532000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-23T14:08:49Z",
+      "dateModified": "2021-12-23T14:08:52Z"
+    }
+  },
+  {
+    "key": "PJ4IBPMU",
+    "version": 508,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PJ4IBPMU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PJ4IBPMU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZJEPH3DN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/PJ4IBPMU/file/view",
+        "title": "McGaghie et al. - 2010 - A critical review of simulation-based medical educ.pdf",
+        "length": 121315
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PJ4IBPMU",
+      "version": 508,
+      "parentItem": "ZJEPH3DN",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "McGaghie et al. - 2010 - A critical review of simulation-based medical educ.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "McGaghie et al. - 2010 - A critical review of simulation-based medical educ.pdf",
+      "md5": "9e2cbbf8661f247bd17bfebc5fcf2951",
+      "mtime": 1640268524000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-23T14:08:35Z",
+      "dateModified": "2021-12-23T14:08:44Z"
+    }
+  },
+  {
     "key": "P3CIHXBK",
     "version": 505,
     "library": {
