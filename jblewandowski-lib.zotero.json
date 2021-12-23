@@ -1,5 +1,131 @@
 [
   {
+    "key": "EDD3QPPU",
+    "version": 513,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EDD3QPPU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EDD3QPPU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KM88K99W",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EDD3QPPU/file/view",
+        "title": "2000 Pratt The good, the bad, and the ambivalent Managin Identification among Amway Distributors.pdf",
+        "length": 5156428
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "EDD3QPPU",
+      "version": 513,
+      "parentItem": "KM88K99W",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2000 Pratt The good, the bad, and the ambivalent Managin Identification among Amway Distributors.pdf",
+      "md5": "8a9390c3255b1bf2dd5742a4e61aec8d",
+      "mtime": 1640284713771,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-23T18:38:33Z",
+      "dateModified": "2021-12-23T18:38:33Z"
+    }
+  },
+  {
+    "key": "KM88K99W",
+    "version": 511,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KM88K99W",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KM88K99W",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/EDD3QPPU",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5156428
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KM88K99W",
+      "version": 511,
+      "itemType": "journalArticle",
+      "title": "2000 Pratt The good, the bad, and the ambivalent Managin Identification among Amway Distributors",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-23T18:38:33Z",
+      "dateModified": "2021-12-23T18:38:33Z"
+    }
+  },
+  {
     "key": "WRHQS2JH",
     "version": 506,
     "library": {
