@@ -1,5 +1,131 @@
 [
   {
+    "key": "P3CIHXBK",
+    "version": 505,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P3CIHXBK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P3CIHXBK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/QTGV7E5I",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/P3CIHXBK/file/view",
+        "title": "3-6-15-916 2.pdf",
+        "length": 346957
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "P3CIHXBK",
+      "version": 505,
+      "parentItem": "QTGV7E5I",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "3-6-15-916 2.pdf",
+      "md5": "1eb34c2f3ed24dd8fbc3cd5c6440765e",
+      "mtime": 1640265905338,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-23T13:25:05Z",
+      "dateModified": "2021-12-23T13:25:05Z"
+    }
+  },
+  {
+    "key": "QTGV7E5I",
+    "version": 503,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QTGV7E5I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QTGV7E5I",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/P3CIHXBK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 346957
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "QTGV7E5I",
+      "version": 503,
+      "itemType": "journalArticle",
+      "title": "3-6-15-916 2",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-23T13:25:04Z",
+      "dateModified": "2021-12-23T13:25:04Z"
+    }
+  },
+  {
     "key": "NPJY9XWB",
     "version": 502,
     "library": {
