@@ -479,7 +479,7 @@
         "href": "https://api.zotero.org/users/8674355/items/ECZ2JGZK",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 628220
+        "attachmentSize": 634448
       }
     },
     "meta": {
@@ -572,7 +572,7 @@
         "href": "https://api.zotero.org/users/8674355/items/PJ4IBPMU",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 121315
+        "attachmentSize": 157133
       }
     },
     "meta": {
@@ -738,7 +738,7 @@
   },
   {
     "key": "ECZ2JGZK",
-    "version": 509,
+    "version": 524,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -767,7 +767,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/ECZ2JGZK/file/view",
         "title": "McGaghie et al. - 2016 - Revisiting ‘A critical review of simulation-based .pdf",
-        "length": 628220
+        "length": 634448
       }
     },
     "meta": {
@@ -775,7 +775,7 @@
     },
     "data": {
       "key": "ECZ2JGZK",
-      "version": 509,
+      "version": 524,
       "parentItem": "WRHQS2JH",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -786,8 +786,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "McGaghie et al. - 2016 - Revisiting ‘A critical review of simulation-based .pdf",
-      "md5": "25df33b8e8989f473d12a4c69eac4be4",
-      "mtime": 1640268550000,
+      "md5": "6094baf7e54b6257067cf1c1499f1f02",
+      "mtime": 1640620465000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-23T14:09:07Z",
@@ -854,7 +854,7 @@
   },
   {
     "key": "PJ4IBPMU",
-    "version": 508,
+    "version": 523,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -883,7 +883,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/PJ4IBPMU/file/view",
         "title": "McGaghie et al. - 2010 - A critical review of simulation-based medical educ.pdf",
-        "length": 121315
+        "length": 157133
       }
     },
     "meta": {
@@ -891,7 +891,7 @@
     },
     "data": {
       "key": "PJ4IBPMU",
-      "version": 508,
+      "version": 523,
       "parentItem": "ZJEPH3DN",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -902,8 +902,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "McGaghie et al. - 2010 - A critical review of simulation-based medical educ.pdf",
-      "md5": "9e2cbbf8661f247bd17bfebc5fcf2951",
-      "mtime": 1640268524000,
+      "md5": "eeb65456cd9df89d7c99ed050488761e",
+      "mtime": 1640620298000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-23T14:08:35Z",
