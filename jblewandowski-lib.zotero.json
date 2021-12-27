@@ -1,5 +1,184 @@
 [
   {
+    "key": "2Z48KYVU",
+    "version": 521,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2Z48KYVU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2Z48KYVU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5MF9S7ZQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2Z48KYVU/file/view",
+        "title": "Luo et al. - 2019 - Smartphone-Based Blood Pressure Measurement Using .pdf",
+        "length": 464874
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2Z48KYVU",
+      "version": 521,
+      "parentItem": "5MF9S7ZQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Luo et al. - 2019 - Smartphone-Based Blood Pressure Measurement Using .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Luo et al. - 2019 - Smartphone-Based Blood Pressure Measurement Using .pdf",
+      "md5": "34f20316293297a43e0bfbbcd1691f42",
+      "mtime": 1640618510000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-27T15:21:46Z",
+      "dateModified": "2021-12-27T15:21:50Z"
+    }
+  },
+  {
+    "key": "5MF9S7ZQ",
+    "version": 520,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5MF9S7ZQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5MF9S7ZQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2Z48KYVU",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 464874
+      }
+    },
+    "meta": {
+      "creatorSummary": "Luo et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5MF9S7ZQ",
+      "version": 520,
+      "itemType": "journalArticle",
+      "title": "Smartphone-Based Blood Pressure Measurement Using Transdermal Optical Imaging Technology",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Hong",
+          "lastName": "Luo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Deye",
+          "lastName": "Yang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew",
+          "lastName": "Barszczyk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Naresh",
+          "lastName": "Vempala"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jing",
+          "lastName": "Wei"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Si Jia",
+          "lastName": "Wu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul Pu",
+          "lastName": "Zheng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Genyue",
+          "lastName": "Fu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kang",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zhong-Ping",
+          "lastName": "Feng"
+        }
+      ],
+      "abstractNote": "BACKGROUND: Cuff-based blood pressure measurement lacks comfort and convenience. Here, we examined whether blood pressure can be determined in a contactless manner using a novel smartphone-based technology called transdermal optical imaging. This technology processes imperceptible facial blood flow changes from videos captured with a smartphone camera and uses advanced machine learning to determine blood pressure from the captured signal.\nMETHODS: We enrolled 1328 normotensive adults in our study. We used an advanced machine learning algorithm to create computational models that predict reference systolic, diastolic, and pulse pressure from facial blood flow data. We used 70% of our data set to train these models and 15% of our data set to test them. The remaining 15% of the sample was used to validate model performance.\nRESULTS: We found that our models predicted blood pressure with a measurement bias±SD of 0.39±7.30 mm Hg for systolic pressure, −0.20±6.00 mm Hg for diastolic pressure, and 0.52±6.42 mm Hg for pulse pressure, respectively.\nCONCLUSIONS: Our results in normotensive adults fall within 5±8 mm Hg of reference measurements. Future work will determine whether these models meet the clinically accepted accuracy threshold of 5±8 mm Hg when tested on a full range of blood pressures according to international accuracy standards.",
+      "publicationTitle": "Circulation: Cardiovascular Imaging",
+      "volume": "12",
+      "issue": "8",
+      "pages": "",
+      "date": "08/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Circ: Cardiovascular Imaging",
+      "language": "en",
+      "DOI": "10.1161/CIRCIMAGING.119.008857",
+      "ISSN": "1941-9651, 1942-0080",
+      "shortTitle": "",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.008857",
+      "accessDate": "2021-12-27T15:21:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-27T15:21:49Z",
+      "dateModified": "2021-12-27T15:21:50Z"
+    }
+  },
+  {
     "key": "7HYLC5L6",
     "version": 519,
     "library": {
