@@ -1,7 +1,7 @@
 [
   {
     "key": "7HYLC5L6",
-    "version": 517,
+    "version": 519,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -30,7 +30,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/7HYLC5L6/file/view",
         "title": "Kardas et al. - 2013 - Determinants of patient adherence a review of sys.pdf",
-        "length": 2107281
+        "length": 2250593
       }
     },
     "meta": {
@@ -38,7 +38,7 @@
     },
     "data": {
       "key": "7HYLC5L6",
-      "version": 517,
+      "version": 519,
       "parentItem": "DYTZBU8B",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -49,8 +49,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Kardas et al. - 2013 - Determinants of patient adherence a review of sys.pdf",
-      "md5": "9e9cc3f733220996f98974f89b281f23",
-      "mtime": 1640612619000,
+      "md5": "9a8a1636da4d321912e0bd8e4c454dca",
+      "mtime": 1640613499000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-27T13:43:35Z",
@@ -84,7 +84,7 @@
         "href": "https://api.zotero.org/users/8674355/items/7HYLC5L6",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 2107281
+        "attachmentSize": 2250593
       }
     },
     "meta": {
