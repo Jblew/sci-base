@@ -1,5 +1,153 @@
 [
   {
+    "key": "7HYLC5L6",
+    "version": 517,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7HYLC5L6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7HYLC5L6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DYTZBU8B",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/7HYLC5L6/file/view",
+        "title": "Kardas et al. - 2013 - Determinants of patient adherence a review of sys.pdf",
+        "length": 2107281
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "7HYLC5L6",
+      "version": 517,
+      "parentItem": "DYTZBU8B",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kardas et al. - 2013 - Determinants of patient adherence a review of sys.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kardas et al. - 2013 - Determinants of patient adherence a review of sys.pdf",
+      "md5": "9e9cc3f733220996f98974f89b281f23",
+      "mtime": 1640612619000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-27T13:43:35Z",
+      "dateModified": "2021-12-27T13:43:39Z"
+    }
+  },
+  {
+    "key": "DYTZBU8B",
+    "version": 515,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DYTZBU8B",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DYTZBU8B",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/7HYLC5L6",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2107281
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kardas et al.",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "DYTZBU8B",
+      "version": 515,
+      "itemType": "journalArticle",
+      "title": "Determinants of patient adherence: a review of systematic reviews",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Przemyslaw",
+          "lastName": "Kardas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pawel",
+          "lastName": "Lewek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michal",
+          "lastName": "Matyjaszczyk"
+        }
+      ],
+      "abstractNote": "Purpose: A number of potential determinants of medication non-adherence have been described so far. However, the heterogenic quality of existing publications poses the need for the use of a rigorous methodology in building a list of such determinants. The purpose of this study was a systematic review of current research on determinants of patient adherence on the basis of a recently agreed European consensus taxonomy and terminology.\nMethods: MEDLINE, EMBASE, CINAHL, Cochrane Library, IPA, and PsycINFO were systematically searched for systematic reviews published between 2000/01/01 and 2009/12/31 that provided determinants on non-adherence to medication. The searches were limited to reviews having adherence to medication prescribed by health professionals for outpatient as a major topic.\nResults: Fifty-one reviews were included in this review, covering 19 different disease categories. In these reviews, exclusively assessing non-adherence to chronic therapies, 771 individual factor items were identiﬁed, of which most were determinants of implementation, and only 47—determinants of persistence with medication. Factors with an unambiguous effect on adherence were further grouped into 8 clusters of socio-economic-related factors, 6 of healthcare team- and system-related factors, 6 of condition-related factors, 6 of therapy-related factors, and 14 of patient-related factors. The lack of standardized deﬁnitions and use of poor measurement methods resulted in many inconsistencies.\nConclusions: This study provides clear evidence that medication non-adherence is affected by multiple determinants. Therefore, the prediction of non-adherence of individual patients is difﬁcult, and suitable measurement and multifaceted interventions may be the most effective answer toward unsatisfactory adherence. The limited number of publications assessing determinants of persistence with medication, and lack of those providing determinants of adherence to short-term treatment identify areas for future research.",
+      "publicationTitle": "Frontiers in Pharmacology",
+      "volume": "4",
+      "issue": "",
+      "pages": "",
+      "date": "2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Front. Pharmacol.",
+      "language": "en",
+      "DOI": "10.3389/fphar.2013.00091",
+      "ISSN": "1663-9812",
+      "shortTitle": "Determinants of patient adherence",
+      "url": "http://journal.frontiersin.org/article/10.3389/fphar.2013.00091/abstract",
+      "accessDate": "2021-12-27T13:43:39Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M",
+        "ML3Z8VS3",
+        "99WJCRUH"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-27T13:43:39Z",
+      "dateModified": "2021-12-27T13:43:39Z"
+    }
+  },
+  {
     "key": "EDD3QPPU",
     "version": 513,
     "library": {
