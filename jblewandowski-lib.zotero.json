@@ -1,5 +1,245 @@
 [
   {
+    "key": "CVB67JUD",
+    "version": 535,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CVB67JUD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CVB67JUD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9TXUZ8NZ",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "CVB67JUD",
+      "version": 535,
+      "parentItem": "9TXUZ8NZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "",
+      "charset": "",
+      "filename": "",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T13:01:45Z",
+      "dateModified": "2021-12-28T13:01:45Z"
+    }
+  },
+  {
+    "key": "9TXUZ8NZ",
+    "version": 534,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9TXUZ8NZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9TXUZ8NZ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9TXUZ8NZ",
+      "version": 534,
+      "itemType": "journalArticle",
+      "title": "2016-12-15_KOL-Investor-breakfast",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T13:01:44Z",
+      "dateModified": "2021-12-28T13:01:44Z"
+    }
+  },
+  {
+    "key": "5BKK2UGR",
+    "version": 533,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5BKK2UGR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5BKK2UGR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EM9XFCD7",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5BKK2UGR/file/view",
+        "title": "bpo.0b013e3182093f9f.pdf",
+        "length": 155773
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5BKK2UGR",
+      "version": 533,
+      "parentItem": "EM9XFCD7",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "bpo.0b013e3182093f9f.pdf",
+      "md5": "f925256c5c2ffbb0e9b4feb83d2a803d",
+      "mtime": 1640696218046,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T12:56:57Z",
+      "dateModified": "2021-12-28T12:56:57Z"
+    }
+  },
+  {
+    "key": "EM9XFCD7",
+    "version": 531,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EM9XFCD7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EM9XFCD7",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5BKK2UGR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 155773
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EM9XFCD7",
+      "version": 531,
+      "itemType": "journalArticle",
+      "title": "bpo.0b013e3182093f9f",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T12:56:57Z",
+      "dateModified": "2021-12-28T12:56:57Z"
+    }
+  },
+  {
     "key": "REWTH28T",
     "version": 530,
     "library": {
