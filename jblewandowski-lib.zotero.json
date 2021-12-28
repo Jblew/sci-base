@@ -1,5 +1,423 @@
 [
   {
+    "key": "REWTH28T",
+    "version": 530,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/REWTH28T",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/REWTH28T",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WBKEAA5C",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/REWTH28T/file/view",
+        "title": "612e12a6cb361467182324b519470a51c839.pdf",
+        "length": 559187
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "REWTH28T",
+      "version": 530,
+      "parentItem": "WBKEAA5C",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "612e12a6cb361467182324b519470a51c839.pdf",
+      "md5": "d951a82e2882298372b31397c26ecc88",
+      "mtime": 1640695799999,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T12:49:59Z",
+      "dateModified": "2021-12-28T12:49:59Z"
+    }
+  },
+  {
+    "key": "WBKEAA5C",
+    "version": 528,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WBKEAA5C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WBKEAA5C",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/REWTH28T",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 559187
+      }
+    },
+    "meta": {
+      "creatorSummary": "Doany et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WBKEAA5C",
+      "version": 528,
+      "itemType": "journalArticle",
+      "title": "Health-Related Quality of Life in Early-Onset Scoliosis Patients Treated Surgically",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael E.",
+          "lastName": "Doany"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Z. Deniz",
+          "lastName": "Olgun"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gizem Irem",
+          "lastName": "Kinikli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Senol",
+          "lastName": "Bekmez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aykut",
+          "lastName": "Kocyigit"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gokhan",
+          "lastName": "Demirkiran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A. Ergun",
+          "lastName": "Karaagaoglu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Muharrem",
+          "lastName": "Yazici"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Spine",
+      "volume": "43",
+      "issue": "2",
+      "pages": "148-153",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1097/BRS.0000000000002274",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T12:49:59Z",
+      "dateModified": "2021-12-28T12:49:59Z"
+    }
+  },
+  {
+    "key": "38XUF9W4",
+    "version": 527,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/38XUF9W4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/38XUF9W4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/P59BSFMF",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/38XUF9W4/file/view",
+        "title": "Increasing_Cost_Efficiency_in_Adult_Spinal.4.pdf",
+        "length": 610347
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "38XUF9W4",
+      "version": 527,
+      "parentItem": "P59BSFMF",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Increasing_Cost_Efficiency_in_Adult_Spinal.4.pdf",
+      "md5": "68a38f0dc6fa69a2fb73918355f20a64",
+      "mtime": 1640695598007,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T12:46:37Z",
+      "dateModified": "2021-12-28T12:46:37Z"
+    }
+  },
+  {
+    "key": "P59BSFMF",
+    "version": 525,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P59BSFMF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P59BSFMF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/38XUF9W4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 610347
+      }
+    },
+    "meta": {
+      "creatorSummary": "Passias et al.",
+      "parsedDate": "2022",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "P59BSFMF",
+      "version": 525,
+      "itemType": "journalArticle",
+      "title": "Increasing Cost Efficiency in Adult Spinal Deformity Surgery",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Peter G.",
+          "lastName": "Passias"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Avery E.",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cole",
+          "lastName": "Bortz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Haddy",
+          "lastName": "Alas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katherine",
+          "lastName": "Pierce"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Waleed",
+          "lastName": "Ahmad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sara",
+          "lastName": "Naessig"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Renaud",
+          "lastName": "Lafage"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Virginie",
+          "lastName": "Lafage"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hamid",
+          "lastName": "Hassanzadeh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lawal A.",
+          "lastName": "Labaran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher",
+          "lastName": "Ames"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Douglas C.",
+          "lastName": "Burton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeffrey",
+          "lastName": "Gum"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert",
+          "lastName": "Hart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "Hostin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Khaled M.",
+          "lastName": "Kebaish"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brian J.",
+          "lastName": "Neuman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shay",
+          "lastName": "Bess"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Breton",
+          "lastName": "Line"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher",
+          "lastName": "Shaffrey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Justin",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank",
+          "lastName": "Schwab"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eric",
+          "lastName": "Klineberg"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Spine",
+      "volume": "47",
+      "issue": "1",
+      "pages": "21-26",
+      "date": "2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1097/BRS.0000000000004201",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2021-12-28T12:46:37Z",
+      "dateModified": "2021-12-28T12:46:37Z"
+    }
+  },
+  {
     "key": "2Z48KYVU",
     "version": 521,
     "library": {
