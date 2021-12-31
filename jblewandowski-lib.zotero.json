@@ -1,5 +1,322 @@
 [
   {
+    "key": "NC74SXXU",
+    "version": 542,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NC74SXXU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NC74SXXU",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5FLUQ2VV",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 148644
+      }
+    },
+    "meta": {
+      "creatorSummary": "Siassakos et al.",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "NC74SXXU",
+      "version": 542,
+      "itemType": "journalArticle",
+      "title": "What makes maternity teams effective and safe? Lessons from a series of research on teamwork, leadership and team training",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dimitrios",
+          "lastName": "Siassakos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert",
+          "lastName": "Fox"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katherine",
+          "lastName": "Bristowe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jo",
+          "lastName": "Angouri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Helen",
+          "lastName": "Hambly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lauren",
+          "lastName": "Robson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Timothy J.",
+          "lastName": "Draycott"
+        }
+      ],
+      "abstractNote": "We describe lessons for safety from a synthesis of seven studies of teamwork, leadership and team training across a healthcare region. Two studies identiﬁed successes and challenges in a unit with embedded team training: a staff survey demonstrated a positive culture but a perceived need for greater senior presence; training improved actual emergency care, but wide variation in team performance remained. Analysis of multicenter simulation records showed that variation in patient safety and team efﬁciency correlated with their teamwork but not individual knowledge, skills or attitudes. Safe teams tended to declare the emergency earlier, hand over in a more structured way, and use closedloop communication. Focused and directed communication was also associated with better patient-actor perception of care. Focus groups corroborated these ﬁndings, proposed that the capability and experience of the leader is more important than seniority, and identiﬁed teamwork and leadership issues that require further research.",
+      "publicationTitle": "Acta Obstetricia et Gynecologica Scandinavica",
+      "volume": "92",
+      "issue": "11",
+      "pages": "1239-1243",
+      "date": "11/2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Acta Obstet Gynecol Scand",
+      "language": "en",
+      "DOI": "10.1111/aogs.12248",
+      "ISSN": "00016349",
+      "shortTitle": "What makes maternity teams effective and safe?",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/aogs.12248",
+      "accessDate": "2021-12-31T10:36:23Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: siassakosWhatMakesMaternity2013",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-31T10:36:23Z",
+      "dateModified": "2021-12-31T10:36:27Z"
+    }
+  },
+  {
+    "key": "5FLUQ2VV",
+    "version": 543,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5FLUQ2VV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5FLUQ2VV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/NC74SXXU",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5FLUQ2VV/file/view",
+        "title": "Siassakos et al. - 2013 - What makes maternity teams effective and safe Les.pdf",
+        "length": 148644
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5FLUQ2VV",
+      "version": 543,
+      "parentItem": "NC74SXXU",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Siassakos et al. - 2013 - What makes maternity teams effective and safe Les.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Siassakos et al. - 2013 - What makes maternity teams effective and safe Les.pdf",
+      "md5": "52869fdb7acc1a05e622d50867ba3868",
+      "mtime": 1640946983000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-31T10:36:20Z",
+      "dateModified": "2021-12-31T10:36:23Z"
+    }
+  },
+  {
+    "key": "WQETMVJ7",
+    "version": 537,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WQETMVJ7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WQETMVJ7",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/AYB72GJA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 70223
+      }
+    },
+    "meta": {
+      "creatorSummary": "Salas et al.",
+      "parsedDate": "2008",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WQETMVJ7",
+      "version": 537,
+      "itemType": "journalArticle",
+      "title": "Does Team Training Work? Principles for Health Care",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eduardo",
+          "lastName": "Salas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Deborah",
+          "lastName": "DiazGranados"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sallie J.",
+          "lastName": "Weaver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heidi",
+          "lastName": "King"
+        }
+      ],
+      "abstractNote": "Teamwork is integral to a working environment conducive to patient safety and care. Team training is one methodology designed to equip team members with the competencies necessary for optimizing teamwork. There is evidence of team training’s effectiveness in highly complex and dynamic work environments, such as aviation and health care. However, most quantitative evaluations of training do not offer any insight into the actual reasons why, how, and when team training is effective. To address this gap in understanding, and to provide guidance for members of the health care community interested in implementing team training programs, this article presents both quantitative results and a speciﬁc qualitative review and content analysis of team training implemented in health care. Based on this review, we offer eight evidence-based principles for effective planning, implementation, and evaluation of team training programs speciﬁc to health care.",
+      "publicationTitle": "Academic Emergency Medicine",
+      "volume": "15",
+      "issue": "11",
+      "pages": "1002-1009",
+      "date": "11/2008",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1111/j.1553-2712.2008.00254.x",
+      "ISSN": "10696563, 15532712",
+      "shortTitle": "Does Team Training Work?",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1553-2712.2008.00254.x",
+      "accessDate": "2021-12-31T10:32:24Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: salasDoesTeamTraining2008",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-31T10:32:24Z",
+      "dateModified": "2021-12-31T10:32:28Z"
+    }
+  },
+  {
+    "key": "AYB72GJA",
+    "version": 538,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AYB72GJA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AYB72GJA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WQETMVJ7",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/AYB72GJA/file/view",
+        "title": "Salas et al. - 2008 - Does Team Training Work Principles for Health Car.pdf",
+        "length": 70223
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "AYB72GJA",
+      "version": 538,
+      "parentItem": "WQETMVJ7",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Salas et al. - 2008 - Does Team Training Work Principles for Health Car.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Salas et al. - 2008 - Does Team Training Work Principles for Health Car.pdf",
+      "md5": "09b906da2fd2a0fff02488d21b1866ae",
+      "mtime": 1640946744000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-12-31T10:32:20Z",
+      "dateModified": "2021-12-31T10:32:24Z"
+    }
+  },
+  {
     "key": "CVB67JUD",
     "version": 535,
     "library": {
@@ -1137,7 +1454,7 @@
         "href": "https://api.zotero.org/users/8674355/items/ECZ2JGZK",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 634448
+        "attachmentSize": 693820
       }
     },
     "meta": {
@@ -1230,7 +1547,7 @@
         "href": "https://api.zotero.org/users/8674355/items/PJ4IBPMU",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 157133
+        "attachmentSize": 176464
       }
     },
     "meta": {
@@ -1396,7 +1713,7 @@
   },
   {
     "key": "ECZ2JGZK",
-    "version": 524,
+    "version": 544,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1425,7 +1742,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/ECZ2JGZK/file/view",
         "title": "McGaghie et al. - 2016 - Revisiting ‘A critical review of simulation-based .pdf",
-        "length": 634448
+        "length": 693820
       }
     },
     "meta": {
@@ -1433,7 +1750,7 @@
     },
     "data": {
       "key": "ECZ2JGZK",
-      "version": 524,
+      "version": 544,
       "parentItem": "WRHQS2JH",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -1444,8 +1761,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "McGaghie et al. - 2016 - Revisiting ‘A critical review of simulation-based .pdf",
-      "md5": "6094baf7e54b6257067cf1c1499f1f02",
-      "mtime": 1640620465000,
+      "md5": "e79409d05fd39df3de7bfbf1b5a50293",
+      "mtime": 1640946962000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-23T14:09:07Z",
@@ -1512,7 +1829,7 @@
   },
   {
     "key": "PJ4IBPMU",
-    "version": 523,
+    "version": 539,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1541,7 +1858,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/PJ4IBPMU/file/view",
         "title": "McGaghie et al. - 2010 - A critical review of simulation-based medical educ.pdf",
-        "length": 157133
+        "length": 176464
       }
     },
     "meta": {
@@ -1549,7 +1866,7 @@
     },
     "data": {
       "key": "PJ4IBPMU",
-      "version": 523,
+      "version": 539,
       "parentItem": "ZJEPH3DN",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -1560,8 +1877,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "McGaghie et al. - 2010 - A critical review of simulation-based medical educ.pdf",
-      "md5": "eeb65456cd9df89d7c99ed050488761e",
-      "mtime": 1640620298000,
+      "md5": "da2610a21c0fc458188a209db547c02d",
+      "mtime": 1640946484000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-23T14:08:35Z",
