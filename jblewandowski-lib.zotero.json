@@ -1,5 +1,131 @@
 [
   {
+    "key": "29PH9RFA",
+    "version": 548,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/29PH9RFA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/29PH9RFA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/34TJHBIJ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/29PH9RFA/file/view",
+        "title": "Marsjanski_kalendarz_liturgiczny.pdf",
+        "length": 113595
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "29PH9RFA",
+      "version": 548,
+      "parentItem": "34TJHBIJ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Full Text PDF",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Marsjanski_kalendarz_liturgiczny.pdf",
+      "md5": "75038d371987e8f86c660e81c6a2f135",
+      "mtime": 1641726432881,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-09T11:07:12Z",
+      "dateModified": "2022-01-09T11:07:12Z"
+    }
+  },
+  {
+    "key": "34TJHBIJ",
+    "version": 546,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/34TJHBIJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/34TJHBIJ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/29PH9RFA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 113595
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "34TJHBIJ",
+      "version": 546,
+      "itemType": "journalArticle",
+      "title": "Marsjanski_kalendarz_liturgiczny",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-01-09T11:07:12Z",
+      "dateModified": "2022-01-09T11:07:12Z"
+    }
+  },
+  {
     "key": "NC74SXXU",
     "version": 542,
     "library": {
