@@ -26,7 +26,7 @@
         "href": "https://api.zotero.org/users/8674355/items/3PJ9I7QA",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 666429
+        "attachmentSize": 687455
       }
     },
     "meta": {
@@ -773,7 +773,7 @@
   },
   {
     "key": "3PJ9I7QA",
-    "version": 553,
+    "version": 563,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -801,8 +801,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/3PJ9I7QA/file/view",
-        "title": "Bezanson et al. - 2018 - Julia Dynamism and Performance Reconciled by Desi.pdf",
-        "length": 666429
+        "title": "Bezanson et al. - 2018 - Julia dynamism and performance reconciled by desi.pdf",
+        "length": 687455
       }
     },
     "meta": {
@@ -810,7 +810,7 @@
     },
     "data": {
       "key": "3PJ9I7QA",
-      "version": 553,
+      "version": 563,
       "parentItem": "UG9XAQ7V",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -821,8 +821,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Bezanson et al. - 2018 - Julia dynamism and performance reconciled by desi.pdf",
-      "md5": "567c6c3f517475389885a07f905333ed",
-      "mtime": 1642506409000,
+      "md5": "cbfdb2cc9d6f89a1c3acdf16e9cf6a05",
+      "mtime": 1642506805000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-01-18T11:46:36Z",
