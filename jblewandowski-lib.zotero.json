@@ -1,5 +1,1067 @@
 [
   {
+    "key": "UG9XAQ7V",
+    "version": 560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UG9XAQ7V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UG9XAQ7V",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3PJ9I7QA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 666429
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bezanson et al.",
+      "parsedDate": "2018-10-24",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UG9XAQ7V",
+      "version": 560,
+      "itemType": "journalArticle",
+      "title": "Julia: dynamism and performance reconciled by design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jeff",
+          "lastName": "Bezanson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jiahao",
+          "lastName": "Chen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Chung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan",
+          "lastName": "Karpinski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Viral B.",
+          "lastName": "Shah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jan",
+          "lastName": "Vitek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lionel",
+          "lastName": "Zoubritzky"
+        }
+      ],
+      "abstractNote": "Julia is a programming language for the scientific community that combines features of productivity languages, such as Python or MATLAB, with characteristics of performance-oriented languages, such as C++ or Fortran. Julia's productivity features include: dynamic typing, automatic memory management, rich type annotations, and multiple dispatch. At the same time, Julia allows programmers to control memory layout and leverages a specializing just-in-time compiler to eliminate much of the overhead of those features. This paper details the design choices made by the creators of Julia and reflects on the implications of those choices for performance and usability.",
+      "publicationTitle": "Proceedings of the ACM on Programming Languages",
+      "volume": "2",
+      "issue": "OOPSLA",
+      "pages": "1-23",
+      "date": "2018-10-24",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Proc. ACM Program. Lang.",
+      "language": "en",
+      "DOI": "10.1145/3276490",
+      "ISSN": "2475-1421",
+      "shortTitle": "Julia",
+      "url": "https://dl.acm.org/doi/10.1145/3276490",
+      "accessDate": "2022-01-18T11:46:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: bezansonJuliaDynamismPerformance2018",
+      "tags": [],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:49Z",
+      "dateModified": "2022-01-18T11:47:19Z"
+    }
+  },
+  {
+    "key": "S2U45P9C",
+    "version": 560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/S2U45P9C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/S2U45P9C",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/CXNUQD7P",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 281952
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lubin and Dunning",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "S2U45P9C",
+      "version": 560,
+      "itemType": "journalArticle",
+      "title": "Computing in Operations Research Using Julia",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Miles",
+          "lastName": "Lubin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "Dunning"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "INFORMS Journal on Computing",
+      "volume": "27",
+      "issue": "2",
+      "pages": "238-248",
+      "date": "04/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "INFORMS Journal on Computing",
+      "language": "en",
+      "DOI": "10.1287/ijoc.2014.0623",
+      "ISSN": "1091-9856, 1526-5528",
+      "shortTitle": "",
+      "url": "http://pubsonline.informs.org/doi/10.1287/ijoc.2014.0623",
+      "accessDate": "2022-01-18T11:46:43Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: lubinComputingOperationsResearch2015",
+      "tags": [],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:43Z",
+      "dateModified": "2022-01-18T11:47:19Z"
+    }
+  },
+  {
+    "key": "RF9QT6DQ",
+    "version": 560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RF9QT6DQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RF9QT6DQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/Q3855SNG",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 7823671
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bezanson et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RF9QT6DQ",
+      "version": 560,
+      "itemType": "journalArticle",
+      "title": "Julia: A Fresh Approach to Numerical Computing",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jeff",
+          "lastName": "Bezanson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "Edelman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan",
+          "lastName": "Karpinski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Viral B.",
+          "lastName": "Shah"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "SIAM Review",
+      "volume": "59",
+      "issue": "1",
+      "pages": "65-98",
+      "date": "01/2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "SIAM Rev.",
+      "language": "en",
+      "DOI": "10.1137/141000671",
+      "ISSN": "0036-1445, 1095-7200",
+      "shortTitle": "Julia",
+      "url": "https://epubs.siam.org/doi/10.1137/141000671",
+      "accessDate": "2022-01-18T11:46:41Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: bezansonJuliaFreshApproach2017",
+      "tags": [],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:41Z",
+      "dateModified": "2022-01-18T11:47:19Z"
+    }
+  },
+  {
+    "key": "6UVHPVDB",
+    "version": 560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6UVHPVDB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6UVHPVDB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/UTQJRHGH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1115889
+      }
+    },
+    "meta": {
+      "creatorSummary": "Krämer et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6UVHPVDB",
+      "version": 560,
+      "itemType": "journalArticle",
+      "title": "QuantumOptics.jl: A Julia framework for simulating open quantum systems",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sebastian",
+          "lastName": "Krämer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Plankensteiner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laurin",
+          "lastName": "Ostermann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Helmut",
+          "lastName": "Ritsch"
+        }
+      ],
+      "abstractNote": "We present an open source computational framework geared towards the eﬃcient numerical investigation of open quantum systems written in the Julia programming language. Built exclusively in Julia and based on standard quantum optics notation, the toolbox oﬀers speed comparable to low-level statically typed languages, without compromising on the accessibility and code readability found in dynamic languages. After introducing the framework, we highlight its features and showcase implementations of generic quantum models. Finally, we compare its usability and performance to two well-established and widely used numerical quantum libraries.",
+      "publicationTitle": "Computer Physics Communications",
+      "volume": "227",
+      "issue": "",
+      "pages": "109-116",
+      "date": "06/2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Computer Physics Communications",
+      "language": "en",
+      "DOI": "10.1016/j.cpc.2018.02.004",
+      "ISSN": "00104655",
+      "shortTitle": "QuantumOptics.jl",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0010465518300328",
+      "accessDate": "2022-01-18T11:46:39Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: kramerQuantumOpticsJlJulia2018",
+      "tags": [],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:39Z",
+      "dateModified": "2022-01-18T11:47:19Z"
+    }
+  },
+  {
+    "key": "TRHXLL3X",
+    "version": 560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TRHXLL3X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TRHXLL3X",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2GLB9ETS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 6119454
+      }
+    },
+    "meta": {
+      "creatorSummary": "McNicholas and Tait",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TRHXLL3X",
+      "version": 560,
+      "itemType": "book",
+      "title": "Data science with Julia",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Paul D.",
+          "lastName": "McNicholas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter A.",
+          "lastName": "Tait"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Boca Raton",
+      "publisher": "CRC Press, Taylor & Francis Group",
+      "date": "2019",
+      "numPages": "220",
+      "language": "en",
+      "ISBN": "978-1-138-49998-0",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "QA76.73.J85 M37 2019",
+      "rights": "",
+      "extra": "Citation Key: mcnicholasDataScienceJulia2019",
+      "tags": [
+        {
+          "tag": "Data structures (Computer science)",
+          "type": 1
+        },
+        {
+          "tag": "Julia (Computer program language)",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:47:03Z",
+      "dateModified": "2022-01-18T11:47:19Z"
+    }
+  },
+  {
+    "key": "9VRUWPRA",
+    "version": 560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9VRUWPRA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9VRUWPRA",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ZYBI66ST",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 26035735
+      }
+    },
+    "meta": {
+      "creatorSummary": "Nazarathy and Klok",
+      "parsedDate": "2021",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9VRUWPRA",
+      "version": 560,
+      "itemType": "book",
+      "title": "Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yoni",
+          "lastName": "Nazarathy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hayden",
+          "lastName": "Klok"
+        }
+      ],
+      "abstractNote": "",
+      "series": "Springer Series in the Data Sciences",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2021",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-030-70900-6 978-3-030-70901-3",
+      "shortTitle": "Statistics with Julia",
+      "url": "https://link.springer.com/10.1007/978-3-030-70901-3",
+      "accessDate": "2022-01-18T11:47:01Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-030-70901-3\nCitation Key: nazarathyStatisticsJuliaFundamentals2021",
+      "tags": [],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:47:01Z",
+      "dateModified": "2022-01-18T11:47:19Z"
+    }
+  },
+  {
+    "key": "IVMYZHPN",
+    "version": 560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IVMYZHPN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IVMYZHPN",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/AVBQXBRB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 436689
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bezanson et al.",
+      "parsedDate": "2012-09-23",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "IVMYZHPN",
+      "version": 560,
+      "itemType": "journalArticle",
+      "title": "Julia: A Fast Dynamic Language for Technical Computing",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jeff",
+          "lastName": "Bezanson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan",
+          "lastName": "Karpinski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Viral B.",
+          "lastName": "Shah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alan",
+          "lastName": "Edelman"
+        }
+      ],
+      "abstractNote": "Dynamic languages have become popular for scientiﬁc computing. They are generally considered highly productive, but lacking in performance. This paper presents Julia, a new dynamic language for technical computing, designed for performance from the beginning by adapting and extending modern programming language techniques. A design based on generic functions and a rich type system simultaneously enables an expressive programming model and successful type inference, leading to good performance for a wide range of programs. This makes it possible for much of Julia’s library to be written in Julia itself, while also incorporating best-of-breed C and Fortran libraries.",
+      "publicationTitle": "arXiv:1209.5145 [cs]",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "2012-09-23",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "Julia",
+      "url": "http://arxiv.org/abs/1209.5145",
+      "accessDate": "2022-01-18T11:46:47Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "arXiv: 1209.5145\nCitation Key: bezansonJuliaFastDynamic2012",
+      "tags": [
+        {
+          "tag": "Computer Science - Computational Engineering, Finance, and Science",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Programming Languages",
+          "type": 1
+        },
+        {
+          "tag": "D.3.2",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:47Z",
+      "dateModified": "2022-01-18T11:47:19Z"
+    }
+  },
+  {
+    "key": "2GLB9ETS",
+    "version": 554,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2GLB9ETS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2GLB9ETS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/TRHXLL3X",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2GLB9ETS/file/view",
+        "title": "McNicholas and Tait - 2019 - Data science with Julia.pdf",
+        "length": 6119454
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2GLB9ETS",
+      "version": 554,
+      "parentItem": "TRHXLL3X",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "McNicholas and Tait - 2019 - Data science with Julia.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "McNicholas and Tait - 2019 - Data science with Julia.pdf",
+      "md5": "fbcab8bd1938be57487bfd267c6383bb",
+      "mtime": 1642506423000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:58Z",
+      "dateModified": "2022-01-18T11:47:03Z"
+    }
+  },
+  {
+    "key": "ZYBI66ST",
+    "version": 558,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZYBI66ST",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZYBI66ST",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9VRUWPRA",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ZYBI66ST/file/view",
+        "title": "Nazarathy and Klok - 2021 - Statistics with Julia Fundamentals for Data Scien.pdf",
+        "length": 26035735
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "ZYBI66ST",
+      "version": 558,
+      "parentItem": "9VRUWPRA",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Nazarathy and Klok - 2021 - Statistics with Julia Fundamentals for Data Scien.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Nazarathy and Klok - 2021 - Statistics with Julia Fundamentals for Data Scien.pdf",
+      "md5": "7fa6a3926808c7fa3019edb3e09900c3",
+      "mtime": 1642506421000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:57Z",
+      "dateModified": "2022-01-18T11:47:02Z"
+    }
+  },
+  {
+    "key": "3PJ9I7QA",
+    "version": 553,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3PJ9I7QA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3PJ9I7QA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/UG9XAQ7V",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3PJ9I7QA/file/view",
+        "title": "Bezanson et al. - 2018 - Julia Dynamism and Performance Reconciled by Desi.pdf",
+        "length": 666429
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3PJ9I7QA",
+      "version": 553,
+      "parentItem": "UG9XAQ7V",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Bezanson et al. - 2018 - Julia dynamism and performance reconciled by desi.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Bezanson et al. - 2018 - Julia dynamism and performance reconciled by desi.pdf",
+      "md5": "567c6c3f517475389885a07f905333ed",
+      "mtime": 1642506409000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:36Z",
+      "dateModified": "2022-01-18T11:46:49Z"
+    }
+  },
+  {
+    "key": "AVBQXBRB",
+    "version": 555,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AVBQXBRB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AVBQXBRB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/IVMYZHPN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/AVBQXBRB/file/view",
+        "title": "Bezanson et al. - 2012 - Julia A Fast Dynamic Language for Technical Compu.pdf",
+        "length": 436689
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "AVBQXBRB",
+      "version": 555,
+      "parentItem": "IVMYZHPN",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Bezanson et al. - 2012 - Julia A Fast Dynamic Language for Technical Compu.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Bezanson et al. - 2012 - Julia A Fast Dynamic Language for Technical Compu.pdf",
+      "md5": "d40948f048ee65fd31572e4dcfbe3799",
+      "mtime": 1642506407000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:35Z",
+      "dateModified": "2022-01-18T11:46:47Z"
+    }
+  },
+  {
+    "key": "CXNUQD7P",
+    "version": 559,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CXNUQD7P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CXNUQD7P",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/S2U45P9C",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/CXNUQD7P/file/view",
+        "title": "Lubin and Dunning - 2015 - Computing in Operations Research Using Julia.pdf",
+        "length": 281952
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "CXNUQD7P",
+      "version": 559,
+      "parentItem": "S2U45P9C",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lubin and Dunning - 2015 - Computing in Operations Research Using Julia.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lubin and Dunning - 2015 - Computing in Operations Research Using Julia.pdf",
+      "md5": "2f86366432c17770836658fcfd2c2246",
+      "mtime": 1642506404000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:35Z",
+      "dateModified": "2022-01-18T11:46:44Z"
+    }
+  },
+  {
+    "key": "Q3855SNG",
+    "version": 556,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Q3855SNG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Q3855SNG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RF9QT6DQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/Q3855SNG/file/view",
+        "title": "Bezanson et al. - 2017 - Julia A Fresh Approach to Numerical Computing.pdf",
+        "length": 7823671
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Q3855SNG",
+      "version": 556,
+      "parentItem": "RF9QT6DQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Bezanson et al. - 2017 - Julia A Fresh Approach to Numerical Computing.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Bezanson et al. - 2017 - Julia A Fresh Approach to Numerical Computing.pdf",
+      "md5": "94c44a39a39702da9c53d7f7de8cca7f",
+      "mtime": 1642506401000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:35Z",
+      "dateModified": "2022-01-18T11:46:41Z"
+    }
+  },
+  {
+    "key": "UTQJRHGH",
+    "version": 557,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UTQJRHGH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UTQJRHGH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6UVHPVDB",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/UTQJRHGH/file/view",
+        "title": "Krämer et al. - 2018 - QuantumOptics.jl A Julia framework for simulating.pdf",
+        "length": 1115889
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "UTQJRHGH",
+      "version": 557,
+      "parentItem": "6UVHPVDB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Krämer et al. - 2018 - QuantumOptics.jl A Julia framework for simulating.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Krämer et al. - 2018 - QuantumOptics.jl A Julia framework for simulating.pdf",
+      "md5": "3c4f8238b6e6eb1f914bdaa646794f00",
+      "mtime": 1642506399000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-18T11:46:34Z",
+      "dateModified": "2022-01-18T11:46:39Z"
+    }
+  },
+  {
     "key": "29PH9RFA",
     "version": 548,
     "library": {
