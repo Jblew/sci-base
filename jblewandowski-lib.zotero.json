@@ -1,5 +1,140 @@
 [
   {
+    "key": "J5V4BM4X",
+    "version": 567,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/J5V4BM4X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/J5V4BM4X",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/H7MTTBA3",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/J5V4BM4X/file/view",
+        "title": "McElreath - 2020 - Statistical rethinking a Bayesian course with exa.pdf",
+        "length": 24793331
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "J5V4BM4X",
+      "version": 567,
+      "parentItem": "H7MTTBA3",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "McElreath - 2020 - Statistical rethinking a Bayesian course with exa.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "McElreath - 2020 - Statistical rethinking a Bayesian course with exa.pdf",
+      "md5": "80a98ccab9cbb4f987382646f96f3921",
+      "mtime": 1642621141000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-19T19:38:57Z",
+      "dateModified": "2022-01-19T19:39:01Z"
+    }
+  },
+  {
+    "key": "H7MTTBA3",
+    "version": 565,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H7MTTBA3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H7MTTBA3",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/J5V4BM4X",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 24793331
+      }
+    },
+    "meta": {
+      "creatorSummary": "McElreath",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "H7MTTBA3",
+      "version": 565,
+      "itemType": "book",
+      "title": "Statistical rethinking: a Bayesian course with examples in R and Stan",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "McElreath"
+        }
+      ],
+      "abstractNote": "\"Statistical Rethinking: A Bayesian Course with Examples in R and Stan, Second Edition builds knowledge/confidence in statistical modeling. Pushes readers to perform step-by-step calculations (usually automated.) Unique, computational approach ensures readers understand details to make reasonable choices and interpretations in their modeling work\"--",
+      "series": "CRC texts in statistical science",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "2",
+      "place": "Boca Raton",
+      "publisher": "Taylor and Francis, CRC Press",
+      "date": "2020",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-0-367-13991-9",
+      "shortTitle": "Statistical rethinking",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-19T19:39:01Z",
+      "dateModified": "2022-01-19T19:39:01Z"
+    }
+  },
+  {
     "key": "UG9XAQ7V",
     "version": 560,
     "library": {
@@ -5677,87 +5812,6 @@
     }
   },
   {
-    "key": "GTYLHCBV",
-    "version": 432,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/GTYLHCBV",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/GTYLHCBV",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Crawford et al.",
-      "parsedDate": "2019",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "GTYLHCBV",
-      "version": 432,
-      "itemType": "book",
-      "title": "Comprehensive Healthcare Simulation: Operations, Technology, and Innovative Practice",
-      "creators": [
-        {
-          "creatorType": "editor",
-          "firstName": "Scott B.",
-          "lastName": "Crawford"
-        },
-        {
-          "creatorType": "editor",
-          "firstName": "Lance W.",
-          "lastName": "Baily"
-        },
-        {
-          "creatorType": "editor",
-          "firstName": "Stormy M.",
-          "lastName": "Monks"
-        }
-      ],
-      "abstractNote": "",
-      "series": "Comprehensive Healthcare Simulation",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "Cham",
-      "publisher": "Springer International Publishing",
-      "date": "2019",
-      "numPages": "",
-      "language": "en",
-      "ISBN": "978-3-030-15377-9 978-3-030-15378-6",
-      "shortTitle": "Comprehensive Healthcare Simulation",
-      "url": "http://link.springer.com/10.1007/978-3-030-15378-6",
-      "accessDate": "2021-12-19T21:06:49Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "DOI: 10.1007/978-3-030-15378-6",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-19T21:06:49Z",
-      "dateModified": "2021-12-19T21:06:49Z"
-    }
-  },
-  {
     "key": "9DHE6GVE",
     "version": 429,
     "library": {
@@ -10156,7 +10210,7 @@
     "meta": {
       "creatorSummary": "Foldit Contenders Group et al.",
       "parsedDate": "2011",
-      "numChildren": 2
+      "numChildren": 1
     },
     "data": {
       "key": "S9KBPHT3",
