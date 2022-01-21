@@ -1,5 +1,196 @@
 [
   {
+    "key": "5G5FLFQD",
+    "version": 574,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5G5FLFQD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5G5FLFQD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/YXD2C2XQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5G5FLFQD/file/view",
+        "title": "Salomon et al. - 2015 - Disability weights for the Global Burden of Diseas.pdf",
+        "length": 298853
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5G5FLFQD",
+      "version": 574,
+      "parentItem": "YXD2C2XQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Salomon et al. - 2015 - Disability weights for the Global Burden of Diseas.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Salomon et al. - 2015 - Disability weights for the Global Burden of Diseas.pdf",
+      "md5": "43ba66c95cfd38001054377afeeeb8a5",
+      "mtime": 1642777532000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-21T15:05:28Z",
+      "dateModified": "2022-01-21T15:05:32Z"
+    }
+  },
+  {
+    "key": "YXD2C2XQ",
+    "version": 573,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YXD2C2XQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YXD2C2XQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5G5FLFQD",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 298853
+      }
+    },
+    "meta": {
+      "creatorSummary": "Salomon et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "YXD2C2XQ",
+      "version": 573,
+      "itemType": "journalArticle",
+      "title": "Disability weights for the Global Burden of Disease 2013 study",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Joshua A",
+          "lastName": "Salomon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juanita A",
+          "lastName": "Haagsma"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adrian",
+          "lastName": "Davis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charline Maertens",
+          "lastName": "de Noordhout"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Suzanne",
+          "lastName": "Polinder"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arie H",
+          "lastName": "Havelaar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alessandro",
+          "lastName": "Cassini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brecht",
+          "lastName": "Devleesschauwer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mirjam",
+          "lastName": "Kretzschmar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Niko",
+          "lastName": "Speybroeck"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher J L",
+          "lastName": "Murray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Theo",
+          "lastName": "Vos"
+        }
+      ],
+      "abstractNote": "Background The Global Burden of Disease (GBD) study assesses health losses from diseases, injuries, and risk factors using disability-adjusted life-years, which need a set of disability weights to quantify health levels associated with nonfatal outcomes. The objective of this study was to estimate disability weights for the GBD 2013 study.",
+      "publicationTitle": "The Lancet Global Health",
+      "volume": "3",
+      "issue": "11",
+      "pages": "e712-e723",
+      "date": "11/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "The Lancet Global Health",
+      "language": "en",
+      "DOI": "10.1016/S2214-109X(15)00069-8",
+      "ISSN": "2214109X",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2214109X15000698",
+      "accessDate": "2022-01-21T15:05:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-21T15:05:31Z",
+      "dateModified": "2022-01-21T15:05:31Z"
+    }
+  },
+  {
     "key": "BMPILIFA",
     "version": 571,
     "library": {
