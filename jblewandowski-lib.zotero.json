@@ -1,5 +1,62 @@
 [
   {
+    "key": "BMPILIFA",
+    "version": 571,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BMPILIFA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BMPILIFA",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BMPILIFA/file/view",
+        "title": "ghe2019_daly-methods.pdf",
+        "length": 1964311
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BMPILIFA",
+      "version": 571,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "ghe2019_daly-methods.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "ghe2019_daly-methods.pdf",
+      "md5": "fa6b419db080dfd742e343bc31593a98",
+      "mtime": 1642776473000,
+      "tags": [],
+      "collections": [
+        "N52LNBGM",
+        "SA4662F3"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-21T14:47:53Z",
+      "dateModified": "2022-01-21T14:47:53Z"
+    }
+  },
+  {
     "key": "J5V4BM4X",
     "version": 567,
     "library": {
