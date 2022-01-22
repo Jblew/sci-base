@@ -192,7 +192,7 @@
   },
   {
     "key": "BMPILIFA",
-    "version": 571,
+    "version": 576,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -217,7 +217,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/BMPILIFA/file/view",
         "title": "ghe2019_daly-methods.pdf",
-        "length": 1964311
+        "length": 2007099
       }
     },
     "meta": {
@@ -225,7 +225,7 @@
     },
     "data": {
       "key": "BMPILIFA",
-      "version": 571,
+      "version": 576,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "ghe2019_daly-methods.pdf",
@@ -235,8 +235,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "ghe2019_daly-methods.pdf",
-      "md5": "fa6b419db080dfd742e343bc31593a98",
-      "mtime": 1642776473000,
+      "md5": "73857d58c137a898dd0c5e48009a8524",
+      "mtime": 1642776743000,
       "tags": [],
       "collections": [
         "N52LNBGM",
