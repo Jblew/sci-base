@@ -1,5 +1,305 @@
 [
   {
+    "key": "P8ITK2VC",
+    "version": 591,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P8ITK2VC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P8ITK2VC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/9V55WKSL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 6290460
+      }
+    },
+    "meta": {
+      "creatorSummary": "Orji et al.",
+      "parsedDate": "2017-05-02",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "P8ITK2VC",
+      "version": 591,
+      "itemType": "conferencePaper",
+      "title": "Towards Personality-driven Persuasive Health Games and Gamified Systems",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rita",
+          "lastName": "Orji"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lennart E.",
+          "lastName": "Nacke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chrysanne",
+          "lastName": "Di Marco"
+        }
+      ],
+      "abstractNote": "Persuasive games and gamified systems are effective tools for motivating behavior change using various persuasive strategies. Research has shown that tailoring these systems can increase their efficacy. However, there is little knowledge on how game-based persuasive systems can be tailored to individuals of various personality traits. To advance research in this area, we conducted a large-scale study of 660 participants to investigate how different personalities respond to various persuasive strategies that are used in persuasive health games and gamified systems. Our results reveal that people’s personality traits play a significant role in the perceived persuasiveness of different strategies. Conscientious people tend to be motivated by goal setting, simulation, self-monitoring and feedback; people who are more open to experience are more likely to be demotivated by rewards, competition, comparison, and cooperation. We contribute to the CHI community by offering design guidelines for tailoring persuasive games and gamified designs to a particular group of personalities.",
+      "date": "2017-05-02",
+      "proceedingsTitle": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+      "conferenceName": "CHI '17: CHI Conference on Human Factors in Computing Systems",
+      "place": "Denver Colorado USA",
+      "publisher": "ACM",
+      "volume": "",
+      "pages": "1015-1027",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/3025453.3025577",
+      "ISBN": "978-1-4503-4655-9",
+      "shortTitle": "",
+      "url": "https://dl.acm.org/doi/10.1145/3025453.3025577",
+      "accessDate": "2022-01-29T15:01:48Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: orjiPersonalitydrivenPersuasiveHealth2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T15:01:48Z",
+      "dateModified": "2022-01-29T15:01:54Z"
+    }
+  },
+  {
+    "key": "9V55WKSL",
+    "version": 592,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9V55WKSL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9V55WKSL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/P8ITK2VC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9V55WKSL/file/view",
+        "title": "Orji et al. - 2017 - Towards Personality-driven Persuasive Health Games.pdf",
+        "length": 6290460
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9V55WKSL",
+      "version": 592,
+      "parentItem": "P8ITK2VC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Orji et al. - 2017 - Towards Personality-driven Persuasive Health Games.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Orji et al. - 2017 - Towards Personality-driven Persuasive Health Games.pdf",
+      "md5": "2d7e3593a157f6a349145dcb3371d084",
+      "mtime": 1643468508000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T15:01:45Z",
+      "dateModified": "2022-01-29T15:01:48Z"
+    }
+  },
+  {
+    "key": "XP2QYGTS",
+    "version": 588,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XP2QYGTS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XP2QYGTS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5VLIRZ6Z",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 559507
+      }
+    },
+    "meta": {
+      "creatorSummary": "Rodrigues et al.",
+      "parsedDate": "2020-10-21",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XP2QYGTS",
+      "version": 588,
+      "itemType": "conferencePaper",
+      "title": "Personalized gamification: A literature review of outcomes, experiments, and approaches",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Luiz",
+          "lastName": "Rodrigues"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Armando M.",
+          "lastName": "Toda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paula T.",
+          "lastName": "Palomino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wilk",
+          "lastName": "Oliveira"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Seiji",
+          "lastName": "Isotani"
+        }
+      ],
+      "abstractNote": "Personalized gamification has gained substantial interest due to the expectation that it can improve gamification’s success. Considering some secondary studies on this topic, they lack to present the characteristics of empirical studies and some aspects on how personalization approaches were designed. In this paper, we present a literature review based on previous research to address these gaps. Based on our analysis, our results provide: insights on how experiments to compare personalized gamification and non-personalized gamification are designed and evaluated; evidence on the effectiveness of personalized gamification found in primary studies; and an overview of how personalization approaches were designed. Our analysis converged in possible guidelines and a research agenda revealing five main needs: i) empirical studies comparing one size fits all and personalized gamification; ii) qualitative user studies; iii) personalization approaches that consider contextual characteristics as well as iv) rely on a broader, unambiguous set of game elements; and v) a benchmark of established resources to increase research reproducibility.",
+      "date": "2020-10-21",
+      "proceedingsTitle": "Eighth International Conference on Technological Ecosystems for Enhancing Multiculturality",
+      "conferenceName": "TEEM'20: Eighth International Conference on Technological Ecosystems for Enhancing Multiculturality",
+      "place": "Salamanca Spain",
+      "publisher": "ACM",
+      "volume": "",
+      "pages": "699-706",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/3434780.3436665",
+      "ISBN": "978-1-4503-8850-4",
+      "shortTitle": "Personalized gamification",
+      "url": "https://dl.acm.org/doi/10.1145/3434780.3436665",
+      "accessDate": "2022-01-29T14:53:57Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: rodriguesPersonalizedGamificationLiterature2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T14:53:57Z",
+      "dateModified": "2022-01-29T14:54:06Z"
+    }
+  },
+  {
+    "key": "5VLIRZ6Z",
+    "version": 589,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5VLIRZ6Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5VLIRZ6Z",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XP2QYGTS",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5VLIRZ6Z/file/view",
+        "title": "Rodrigues et al. - 2020 - Personalized gamification A literature review of .pdf",
+        "length": 559507
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5VLIRZ6Z",
+      "version": 589,
+      "parentItem": "XP2QYGTS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Rodrigues et al. - 2020 - Personalized gamification A literature review of .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Rodrigues et al. - 2020 - Personalized gamification A literature review of .pdf",
+      "md5": "8e4a48109cc0009096bf5935206c8781",
+      "mtime": 1643468038000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T14:53:54Z",
+      "dateModified": "2022-01-29T14:53:58Z"
+    }
+  },
+  {
     "key": "EVYXCKPJ",
     "version": 585,
     "library": {
@@ -128,7 +428,7 @@
         "href": "https://api.zotero.org/users/8674355/items/5Q83NM68",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 1190696
+        "attachmentSize": 1207256
       }
     },
     "meta": {
@@ -448,7 +748,7 @@
   },
   {
     "key": "5Q83NM68",
-    "version": 580,
+    "version": 594,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -477,7 +777,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/5Q83NM68/file/view",
         "title": "Tondello et al. - 2019 - Empirical validation of the Gamification User Type.pdf",
-        "length": 1190696
+        "length": 1207256
       }
     },
     "meta": {
@@ -485,7 +785,7 @@
     },
     "data": {
       "key": "5Q83NM68",
-      "version": 580,
+      "version": 594,
       "parentItem": "MMBVCU49",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -496,8 +796,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Tondello et al. - 2019 - Empirical validation of the Gamification User Type.pdf",
-      "md5": "fddadaee6f240d54dd6251f3e02fa880",
-      "mtime": 1643467470000,
+      "md5": "8fabc2521a535c7a6526e8e9a09db0e7",
+      "mtime": 1643468451000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-01-29T14:44:25Z",
