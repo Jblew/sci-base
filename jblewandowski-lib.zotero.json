@@ -1,5 +1,81 @@
 [
   {
+    "key": "BF36IMFW",
+    "version": 617,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BF36IMFW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BF36IMFW",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Csikszentmihalyi and Csikzentmihaly",
+      "parsedDate": "1990",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BF36IMFW",
+      "version": 617,
+      "itemType": "book",
+      "title": "Flow: The psychology of optimal experience",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mihaly",
+          "lastName": "Csikszentmihalyi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mihaly",
+          "lastName": "Csikzentmihaly"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "1990",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "Harper & Row New York",
+      "date": "1990",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: csikszentmihalyi1990flow",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:35:52Z",
+      "dateModified": "2022-01-29T19:35:52Z"
+    }
+  },
+  {
     "key": "57ZV8PR2",
     "version": 616,
     "library": {
