@@ -1,5 +1,443 @@
 [
   {
+    "key": "KBH6ZIXK",
+    "version": 625,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KBH6ZIXK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KBH6ZIXK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/AAX5KY8B",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KBH6ZIXK/file/view",
+        "title": "Maran and Glavin - 2003 - Low- to high-fidelity simulation - a continuum of .pdf",
+        "length": 76498
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KBH6ZIXK",
+      "version": 625,
+      "parentItem": "AAX5KY8B",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Maran and Glavin - 2003 - Low- to high-fidelity simulation - a continuum of .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Maran and Glavin - 2003 - Low- to high-fidelity simulation - a continuum of .pdf",
+      "md5": "7926310d84c5b56ef8e863637438e6d5",
+      "mtime": 1643486057000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:54:15Z",
+      "dateModified": "2022-01-29T19:54:17Z"
+    }
+  },
+  {
+    "key": "AAX5KY8B",
+    "version": 624,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AAX5KY8B",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AAX5KY8B",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KBH6ZIXK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 76498
+      }
+    },
+    "meta": {
+      "creatorSummary": "Maran and Glavin",
+      "parsedDate": "2003",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AAX5KY8B",
+      "version": 624,
+      "itemType": "journalArticle",
+      "title": "Low- to high-fidelity simulation - a continuum of medical education?: Low- to high-fidelity simulation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "N J",
+          "lastName": "Maran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R J",
+          "lastName": "Glavin"
+        }
+      ],
+      "abstractNote": "Context Changes in medical training and culture have reduced the acceptability of the traditional apprenticeship style training in medicine and inﬂuenced the growth of clinical skills training. Simulation is an educational technique that allows interactive, and at times immersive, activity by recreating all or part of a clinical experience without exposing patients to the associated risks. The number and range of commercially available technologies used in simulation for education of health care professionals is growing exponentially. These range from simple part-task training models to highly sophisticated computer driven models. Aim This paper will review the range of currently available simulators and the educational processes that underpin simulation training. The use of different levels of simulation in a continuum of training will be discussed. Although simulation is relatively new to medicine, simulators have been used extensively for training and assessment in many other domains, most notably the aviation industry. Some parallels and differences will be highlighted.",
+      "publicationTitle": "Medical Education",
+      "volume": "37",
+      "issue": "",
+      "pages": "22-28",
+      "date": "11/2003",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1046/j.1365-2923.37.s1.9.x",
+      "ISSN": "03080110",
+      "shortTitle": "Low- to high-fidelity simulation - a continuum of medical education?",
+      "url": "http://doi.wiley.com/10.1046/j.1365-2923.37.s1.9.x",
+      "accessDate": "2022-01-29T19:54:17Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:54:17Z",
+      "dateModified": "2022-01-29T19:54:17Z"
+    }
+  },
+  {
+    "key": "L6DJQIKF",
+    "version": 621,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L6DJQIKF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L6DJQIKF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/V8J2SBNG",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 4493411
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kulik et al.",
+      "parsedDate": "1990",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "L6DJQIKF",
+      "version": 621,
+      "itemType": "journalArticle",
+      "title": "Effectiveness of Mastery Learning Programs: A Meta-Analysis",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Chen-Lin C.",
+          "lastName": "Kulik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James A.",
+          "lastName": "Kulik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert L.",
+          "lastName": "Bangert-Drowns"
+        }
+      ],
+      "abstractNote": "A meta-analysis of findings from 108 controlled evaluations showed that mastery learning programs have positive effects on the examination performance of students in colleges, high schools, and the upper grades in elementary schools. The effects appear to be stronger on the weaker students in a class, and they also vary as a function of mastery procedures used, experimental designs of studies, and course content. Mastery programs have positive effects on student attitudes toward course content and instruction but may increase student time on instructional tasks. In addition, self-paced mastery programs often reduce the completion rates in college classes.",
+      "publicationTitle": "Review of Educational Research",
+      "volume": "60",
+      "issue": "2",
+      "pages": "265-299",
+      "date": "06/1990",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Review of Educational Research",
+      "language": "en",
+      "DOI": "10.3102/00346543060002265",
+      "ISSN": "0034-6543, 1935-1046",
+      "shortTitle": "Effectiveness of Mastery Learning Programs",
+      "url": "http://journals.sagepub.com/doi/10.3102/00346543060002265",
+      "accessDate": "2022-01-29T19:51:33Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: kulikEffectivenessMasteryLearning1990",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:51:33Z",
+      "dateModified": "2022-01-29T19:51:36Z"
+    }
+  },
+  {
+    "key": "V8J2SBNG",
+    "version": 622,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V8J2SBNG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V8J2SBNG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/L6DJQIKF",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/V8J2SBNG/file/view",
+        "title": "Kulik et al. - 1990 - Effectiveness of Mastery Learning Programs A Meta.pdf",
+        "length": 4493411
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "V8J2SBNG",
+      "version": 622,
+      "parentItem": "L6DJQIKF",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kulik et al. - 1990 - Effectiveness of Mastery Learning Programs A Meta.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kulik et al. - 1990 - Effectiveness of Mastery Learning Programs A Meta.pdf",
+      "md5": "d7b3ee4c6ad8fbf24f36123cb568ecb0",
+      "mtime": 1643485894000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:51:31Z",
+      "dateModified": "2022-01-29T19:51:34Z"
+    }
+  },
+  {
+    "key": "XCFXTTD7",
+    "version": 618,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XCFXTTD7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XCFXTTD7",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/58XETEWB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 128263
+      }
+    },
+    "meta": {
+      "creatorSummary": "McGaghie et al.",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XCFXTTD7",
+      "version": 618,
+      "itemType": "journalArticle",
+      "title": "A critical review of simulation-based mastery learning with translational outcomes",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William C",
+          "lastName": "McGaghie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Saul B",
+          "lastName": "Issenberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeffrey H",
+          "lastName": "Barsuk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diane B",
+          "lastName": "Wayne"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education",
+      "volume": "48",
+      "issue": "4",
+      "pages": "375-385",
+      "date": "04/2014",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Med Educ",
+      "language": "en",
+      "DOI": "10.1111/medu.12391",
+      "ISSN": "03080110",
+      "shortTitle": "",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/medu.12391",
+      "accessDate": "2022-01-29T19:50:23Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mcgaghieCriticalReviewSimulationbased2014",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:50:23Z",
+      "dateModified": "2022-01-29T19:50:27Z"
+    }
+  },
+  {
+    "key": "58XETEWB",
+    "version": 619,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/58XETEWB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/58XETEWB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XCFXTTD7",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/58XETEWB/file/view",
+        "title": "McGaghie et al. - 2014 - A critical review of simulation-based mastery lear.pdf",
+        "length": 128263
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "58XETEWB",
+      "version": 619,
+      "parentItem": "XCFXTTD7",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "McGaghie et al. - 2014 - A critical review of simulation-based mastery lear.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "McGaghie et al. - 2014 - A critical review of simulation-based mastery lear.pdf",
+      "md5": "77ad60ad99c32f76327bf59e538dc1b6",
+      "mtime": 1643485823000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:50:19Z",
+      "dateModified": "2022-01-29T19:50:23Z"
+    }
+  },
+  {
     "key": "BF36IMFW",
     "version": 617,
     "library": {
