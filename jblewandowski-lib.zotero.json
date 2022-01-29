@@ -1,5 +1,472 @@
 [
   {
+    "key": "ICETRGPE",
+    "version": 607,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ICETRGPE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ICETRGPE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/8Z7L3WVH",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ICETRGPE/file/view",
+        "title": "Bartle - 2009 - Understanding the Limits of Theory.pdf",
+        "length": 154455
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "ICETRGPE",
+      "version": 607,
+      "parentItem": "8Z7L3WVH",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Bartle - 2009 - Understanding the Limits of Theory.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Bartle - 2009 - Understanding the Limits of Theory.pdf",
+      "md5": "dc61add37cf69448559e8eae270ec239",
+      "mtime": 1643477332000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:28:52Z",
+      "dateModified": "2022-01-29T17:28:52Z"
+    }
+  },
+  {
+    "key": "8Z7L3WVH",
+    "version": 605,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8Z7L3WVH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8Z7L3WVH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ICETRGPE",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 154455
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bartle",
+      "parsedDate": "2009",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "8Z7L3WVH",
+      "version": 605,
+      "itemType": "bookSection",
+      "title": "Understanding the Limits of Theory",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Chris Mark",
+          "lastName": "Bateman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard A.",
+          "lastName": "Bartle"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "Beyond game design: nine steps towards creating better videogames",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Boston, MA",
+      "publisher": "Charles River Media/Cengage Technology",
+      "date": "2009",
+      "pages": "",
+      "language": "",
+      "ISBN": "978-1-58450-671-3",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "GV1469.3 .B49 2009",
+      "rights": "",
+      "extra": "OCLC: ocn320289390",
+      "tags": [
+        {
+          "tag": "Design",
+          "type": 1
+        },
+        {
+          "tag": "Psychological aspects",
+          "type": 1
+        },
+        {
+          "tag": "Video games",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:27:18Z",
+      "dateModified": "2022-01-29T17:28:32Z"
+    }
+  },
+  {
+    "key": "W8RZCE9Q",
+    "version": 604,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W8RZCE9Q",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W8RZCE9Q",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "W8RZCE9Q",
+      "version": 604,
+      "itemType": "bookSection",
+      "title": "",
+      "creators": [],
+      "abstractNote": "",
+      "bookTitle": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "",
+      "pages": "",
+      "language": "",
+      "ISBN": "978-1-58450-671-3",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:26:34Z",
+      "dateModified": "2022-01-29T17:27:06Z"
+    }
+  },
+  {
+    "key": "F4DN2XKS",
+    "version": 603,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F4DN2XKS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F4DN2XKS",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "F4DN2XKS",
+      "version": 603,
+      "itemType": "book",
+      "title": "",
+      "creators": [],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:26:07Z",
+      "dateModified": "2022-01-29T17:26:07Z"
+    }
+  },
+  {
+    "key": "KIQXSXCX",
+    "version": 602,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KIQXSXCX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KIQXSXCX",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KIQXSXCX",
+      "version": 602,
+      "itemType": "hearing",
+      "title": "",
+      "creators": [],
+      "abstractNote": "",
+      "committee": "",
+      "place": "",
+      "publisher": "",
+      "numberOfVolumes": "",
+      "documentNumber": "",
+      "pages": "",
+      "legislativeBody": "",
+      "session": "",
+      "history": "",
+      "date": "",
+      "language": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:25:27Z",
+      "dateModified": "2022-01-29T17:25:27Z"
+    }
+  },
+  {
+    "key": "3RN9NHHK",
+    "version": 603,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3RN9NHHK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3RN9NHHK",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XFQSN5VY",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 154455
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bartle",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "3RN9NHHK",
+      "version": 603,
+      "itemType": "journalArticle",
+      "title": "Understanding the limits of theory",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "Bartle"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "16",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:24:15Z",
+      "dateModified": "2022-01-29T17:24:56Z"
+    }
+  },
+  {
+    "key": "XFQSN5VY",
+    "version": 599,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XFQSN5VY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XFQSN5VY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/3RN9NHHK",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/XFQSN5VY/file/view",
+        "title": "BeyondGameDesign09.pdf",
+        "length": 154455
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "XFQSN5VY",
+      "version": 599,
+      "parentItem": "3RN9NHHK",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "BeyondGameDesign09.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "BeyondGameDesign09.pdf",
+      "md5": "dc61add37cf69448559e8eae270ec239",
+      "mtime": 1643477056000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:24:14Z",
+      "dateModified": "2022-01-29T17:24:16Z"
+    }
+  },
+  {
     "key": "Q9G2F7SL",
     "version": 595,
     "library": {
