@@ -1,7 +1,142 @@
 [
   {
+    "key": "CH9X8AUN",
+    "version": 611,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CH9X8AUN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CH9X8AUN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/AL3G6MYS",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/CH9X8AUN/file/view",
+        "title": "Marczewski - Even Ninja Monkeys Like to Play Unicorn Edition.pdf",
+        "length": 635474
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "CH9X8AUN",
+      "version": 611,
+      "parentItem": "AL3G6MYS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Marczewski - Even Ninja Monkeys Like to Play Unicorn Edition.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Marczewski - Even Ninja Monkeys Like to Play Unicorn Edition.pdf",
+      "md5": "bd7b8a6df5a88bb2ccc1563f7cafeb9c",
+      "mtime": 1643478236000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:43:55Z",
+      "dateModified": "2022-01-29T17:43:56Z"
+    }
+  },
+  {
+    "key": "AL3G6MYS",
+    "version": 610,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AL3G6MYS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AL3G6MYS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/CH9X8AUN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 635474
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marczewski",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AL3G6MYS",
+      "version": 610,
+      "itemType": "journalArticle",
+      "title": "Even Ninja Monkeys Like to Play: Unicorn Edition",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Andrzej",
+          "lastName": "Marczewski"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "28",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:43:55Z",
+      "dateModified": "2022-01-29T17:43:55Z"
+    }
+  },
+  {
     "key": "ICETRGPE",
-    "version": 607,
+    "version": 609,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -30,7 +165,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/ICETRGPE/file/view",
         "title": "Bartle - 2009 - Understanding the Limits of Theory.pdf",
-        "length": 154455
+        "length": 178454
       }
     },
     "meta": {
@@ -38,7 +173,7 @@
     },
     "data": {
       "key": "ICETRGPE",
-      "version": 607,
+      "version": 609,
       "parentItem": "8Z7L3WVH",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -49,8 +184,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Bartle - 2009 - Understanding the Limits of Theory.pdf",
-      "md5": "dc61add37cf69448559e8eae270ec239",
-      "mtime": 1643477332000,
+      "md5": "e417cb6be0ecc175060695372d5a69de",
+      "mtime": 1643477946000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-01-29T17:28:52Z",
@@ -84,7 +219,7 @@
         "href": "https://api.zotero.org/users/8674355/items/ICETRGPE",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 154455
+        "attachmentSize": 178454
       }
     },
     "meta": {
