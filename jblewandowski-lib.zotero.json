@@ -1,5 +1,250 @@
 [
   {
+    "key": "AL3G6MYS",
+    "version": 613,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AL3G6MYS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AL3G6MYS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/CH9X8AUN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 635474
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marczewski",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AL3G6MYS",
+      "version": 613,
+      "itemType": "journalArticle",
+      "title": "Even Ninja Monkeys Like to Play: Unicorn Edition",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Andrzej",
+          "lastName": "Marczewski"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "28",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: marczewskiEvenNinjaMonkeys",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:43:55Z",
+      "dateModified": "2022-01-29T17:46:17Z"
+    }
+  },
+  {
+    "key": "8Z7L3WVH",
+    "version": 613,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8Z7L3WVH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8Z7L3WVH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ICETRGPE",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 178454
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bartle",
+      "parsedDate": "2009",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "8Z7L3WVH",
+      "version": 613,
+      "itemType": "bookSection",
+      "title": "Understanding the Limits of Theory",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Chris Mark",
+          "lastName": "Bateman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard A.",
+          "lastName": "Bartle"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "Beyond game design: nine steps towards creating better videogames",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Boston, MA",
+      "publisher": "Charles River Media/Cengage Technology",
+      "date": "2009",
+      "pages": "",
+      "language": "",
+      "ISBN": "978-1-58450-671-3",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "GV1469.3 .B49 2009",
+      "rights": "",
+      "extra": "OCLC: ocn320289390\nCitation Key: bartleUnderstandingLimitsTheory2009",
+      "tags": [
+        {
+          "tag": "Design",
+          "type": 1
+        },
+        {
+          "tag": "Psychological aspects",
+          "type": 1
+        },
+        {
+          "tag": "Video games",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:27:18Z",
+      "dateModified": "2022-01-29T17:46:17Z"
+    }
+  },
+  {
+    "key": "9AJT7Z8Q",
+    "version": 613,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9AJT7Z8Q",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9AJT7Z8Q",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marczewski",
+      "parsedDate": "2015",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9AJT7Z8Q",
+      "version": 613,
+      "itemType": "journalArticle",
+      "title": "User types",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Andrzej",
+          "lastName": "Marczewski"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Even Ninja Monkeys Like to Play: Gamification, Game Thinking and Motivational Design",
+      "volume": "1",
+      "issue": "",
+      "pages": "65–80",
+      "date": "2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: marczewski2015user\nPublisher: CreateSpace Independent Publishing",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T17:46:06Z",
+      "dateModified": "2022-01-29T17:46:06Z"
+    }
+  },
+  {
     "key": "CH9X8AUN",
     "version": 611,
     "library": {
@@ -58,83 +303,6 @@
     }
   },
   {
-    "key": "AL3G6MYS",
-    "version": 610,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/AL3G6MYS",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/AL3G6MYS",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/CH9X8AUN",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 635474
-      }
-    },
-    "meta": {
-      "creatorSummary": "Marczewski",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "AL3G6MYS",
-      "version": 610,
-      "itemType": "journalArticle",
-      "title": "Even Ninja Monkeys Like to Play: Unicorn Edition",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Andrzej",
-          "lastName": "Marczewski"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "28",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2022-01-29T17:43:55Z",
-      "dateModified": "2022-01-29T17:43:55Z"
-    }
-  },
-  {
     "key": "ICETRGPE",
     "version": 609,
     "library": {
@@ -190,102 +358,6 @@
       "relations": {},
       "dateAdded": "2022-01-29T17:28:52Z",
       "dateModified": "2022-01-29T17:28:52Z"
-    }
-  },
-  {
-    "key": "8Z7L3WVH",
-    "version": 605,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/8Z7L3WVH",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/8Z7L3WVH",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/ICETRGPE",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 178454
-      }
-    },
-    "meta": {
-      "creatorSummary": "Bartle",
-      "parsedDate": "2009",
-      "numChildren": 2
-    },
-    "data": {
-      "key": "8Z7L3WVH",
-      "version": 605,
-      "itemType": "bookSection",
-      "title": "Understanding the Limits of Theory",
-      "creators": [
-        {
-          "creatorType": "editor",
-          "firstName": "Chris Mark",
-          "lastName": "Bateman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Richard A.",
-          "lastName": "Bartle"
-        }
-      ],
-      "abstractNote": "",
-      "bookTitle": "Beyond game design: nine steps towards creating better videogames",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "Boston, MA",
-      "publisher": "Charles River Media/Cengage Technology",
-      "date": "2009",
-      "pages": "",
-      "language": "",
-      "ISBN": "978-1-58450-671-3",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Library of Congress ISBN",
-      "callNumber": "GV1469.3 .B49 2009",
-      "rights": "",
-      "extra": "OCLC: ocn320289390",
-      "tags": [
-        {
-          "tag": "Design",
-          "type": 1
-        },
-        {
-          "tag": "Psychological aspects",
-          "type": 1
-        },
-        {
-          "tag": "Video games",
-          "type": 1
-        }
-      ],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2022-01-29T17:27:18Z",
-      "dateModified": "2022-01-29T17:28:32Z"
     }
   },
   {
@@ -1165,7 +1237,7 @@
         "href": "https://api.zotero.org/users/8674355/items/5Q83NM68",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 1207256
+        "attachmentSize": 1211205
       }
     },
     "meta": {
@@ -1485,7 +1557,7 @@
   },
   {
     "key": "5Q83NM68",
-    "version": 594,
+    "version": 614,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1514,7 +1586,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/5Q83NM68/file/view",
         "title": "Tondello et al. - 2019 - Empirical validation of the Gamification User Type.pdf",
-        "length": 1207256
+        "length": 1211205
       }
     },
     "meta": {
@@ -1522,7 +1594,7 @@
     },
     "data": {
       "key": "5Q83NM68",
-      "version": 594,
+      "version": 614,
       "parentItem": "MMBVCU49",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -1533,8 +1605,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Tondello et al. - 2019 - Empirical validation of the Gamification User Type.pdf",
-      "md5": "8fabc2521a535c7a6526e8e9a09db0e7",
-      "mtime": 1643468451000,
+      "md5": "e1e864b8a70093d0ff51b8400d9c2646",
+      "mtime": 1643478168000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-01-29T14:44:25Z",
