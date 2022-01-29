@@ -1,5 +1,741 @@
 [
   {
+    "key": "39UI5PR2",
+    "version": 637,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/39UI5PR2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/39UI5PR2",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/WPAM9IAP",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 528362
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hektner",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "39UI5PR2",
+      "version": 637,
+      "itemType": "journalArticle",
+      "title": "A Longitudinal Exploration of Flow and",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Joel M",
+          "lastName": "Hektner"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "28",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: hektnerLongitudinalExplorationFlow",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T20:03:55Z",
+      "dateModified": "2022-01-29T20:04:03Z"
+    }
+  },
+  {
+    "key": "WPAM9IAP",
+    "version": 638,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WPAM9IAP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WPAM9IAP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/39UI5PR2",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/WPAM9IAP/file/view",
+        "title": "Hektner - A Longitudinal Exploration of Flow and.pdf",
+        "length": 528362
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WPAM9IAP",
+      "version": 638,
+      "parentItem": "39UI5PR2",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hektner - A Longitudinal Exploration of Flow and.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hektner - A Longitudinal Exploration of Flow and.pdf",
+      "md5": "cf13bdfa9dd628ad1c683aa6a3fc90c5",
+      "mtime": 1643486635000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T20:03:54Z",
+      "dateModified": "2022-01-29T20:03:55Z"
+    }
+  },
+  {
+    "key": "FQTL9MHC",
+    "version": 634,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FQTL9MHC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FQTL9MHC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/VYWDL8EH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 124631
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hammoud et al.",
+      "parsedDate": "2008",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "FQTL9MHC",
+      "version": 634,
+      "itemType": "journalArticle",
+      "title": "To the point: medical education review of the role of simulators in surgical training",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Maya M.",
+          "lastName": "Hammoud"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Francis S.",
+          "lastName": "Nuthalapaty"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alice R.",
+          "lastName": "Goepfert"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Petra M.",
+          "lastName": "Casey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sandra",
+          "lastName": "Emmons"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eve L.",
+          "lastName": "Espey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph M.",
+          "lastName": "Kaczmarczyk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nadine T.",
+          "lastName": "Katz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James J.",
+          "lastName": "Neutens"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Edward G.",
+          "lastName": "Peskin"
+        }
+      ],
+      "abstractNote": "Simulation-based training (SBT) is becoming widely used in medical education to help residents and medical students develop good technical skills before they practice on real patients. SBT seems ideal because it provides a nonthreatening controlled environment for practice with immediate feedback and can include objective performance assessment. However, various forms of SBT and assessment often are being used with limited evidence-based data to support their validity and reliability. In addition, although SBT with high-tech simulators is more sophisticated and attractive, this is not necessarily superior to SBT with low-tech (and lower cost) simulators. Therefore, understanding the types of surgical simulators and appropriate applications can help to ensure that this teaching and assessment modality is applied most effectively. This article summarizes the key concepts that are needed to use surgical simulators effectively for teaching and assessment.",
+      "publicationTitle": "American Journal of Obstetrics and Gynecology",
+      "volume": "199",
+      "issue": "4",
+      "pages": "338-343",
+      "date": "10/2008",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "American Journal of Obstetrics and Gynecology",
+      "language": "en",
+      "DOI": "10.1016/j.ajog.2008.05.002",
+      "ISSN": "00029378",
+      "shortTitle": "To the point",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0002937808005255",
+      "accessDate": "2022-01-29T19:58:23Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: hammoudPointMedicalEducation2008",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:58:23Z",
+      "dateModified": "2022-01-29T19:58:26Z"
+    }
+  },
+  {
+    "key": "VYWDL8EH",
+    "version": 635,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VYWDL8EH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VYWDL8EH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/FQTL9MHC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/VYWDL8EH/file/view",
+        "title": "Hammoud et al. - 2008 - To the point medical education review of the role.pdf",
+        "length": 124631
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VYWDL8EH",
+      "version": 635,
+      "parentItem": "FQTL9MHC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hammoud et al. - 2008 - To the point medical education review of the role.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hammoud et al. - 2008 - To the point medical education review of the role.pdf",
+      "md5": "09c454ecf543148e0448b312f69a01a5",
+      "mtime": 1643486304000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:58:21Z",
+      "dateModified": "2022-01-29T19:58:24Z"
+    }
+  },
+  {
+    "key": "AAX5KY8B",
+    "version": 633,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AAX5KY8B",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AAX5KY8B",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KBH6ZIXK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 76498
+      }
+    },
+    "meta": {
+      "creatorSummary": "Maran and Glavin",
+      "parsedDate": "2003",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AAX5KY8B",
+      "version": 633,
+      "itemType": "journalArticle",
+      "title": "Low- to high-fidelity simulation - a continuum of medical education?: Low- to high-fidelity simulation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "N J",
+          "lastName": "Maran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R J",
+          "lastName": "Glavin"
+        }
+      ],
+      "abstractNote": "Context Changes in medical training and culture have reduced the acceptability of the traditional apprenticeship style training in medicine and inﬂuenced the growth of clinical skills training. Simulation is an educational technique that allows interactive, and at times immersive, activity by recreating all or part of a clinical experience without exposing patients to the associated risks. The number and range of commercially available technologies used in simulation for education of health care professionals is growing exponentially. These range from simple part-task training models to highly sophisticated computer driven models. Aim This paper will review the range of currently available simulators and the educational processes that underpin simulation training. The use of different levels of simulation in a continuum of training will be discussed. Although simulation is relatively new to medicine, simulators have been used extensively for training and assessment in many other domains, most notably the aviation industry. Some parallels and differences will be highlighted.",
+      "publicationTitle": "Medical Education",
+      "volume": "37",
+      "issue": "",
+      "pages": "22-28",
+      "date": "11/2003",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1046/j.1365-2923.37.s1.9.x",
+      "ISSN": "03080110",
+      "shortTitle": "Low- to high-fidelity simulation - a continuum of medical education?",
+      "url": "http://doi.wiley.com/10.1046/j.1365-2923.37.s1.9.x",
+      "accessDate": "2022-01-29T19:54:17Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: maranLowHighfidelitySimulation2003",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:54:17Z",
+      "dateModified": "2022-01-29T19:57:18Z"
+    }
+  },
+  {
+    "key": "7ISWIS7G",
+    "version": 633,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7ISWIS7G",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7ISWIS7G",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/TGKC7LZX",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 571473
+      }
+    },
+    "meta": {
+      "creatorSummary": "Tobase et al.",
+      "parsedDate": "2017-10-30",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "7ISWIS7G",
+      "version": 633,
+      "itemType": "journalArticle",
+      "title": "Basic life support: evaluation of learning using simulation and immediate feedback devices",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lucia",
+          "lastName": "Tobase"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heloisa Helena Ciqueto",
+          "lastName": "Peres"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Edenir Aparecida Sartorelli",
+          "lastName": "Tomazini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simone Valentim",
+          "lastName": "Teodoro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Meire Bruna",
+          "lastName": "Ramos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thatiane Facholi",
+          "lastName": "Polastri"
+        }
+      ],
+      "abstractNote": "ABSTRACT Objective: to evaluate students’ learning in an online course on basic life support with immediate feedback devices, during a simulation of care during cardiorespiratory arrest. Method: a quasi-experimental study, using a before-and-after design. An online course on basic life support was developed and administered to participants, as an educational intervention. Theoretical learning was evaluated by means of a pre- and post-test and, to verify the practice, simulation with immediate feedback devices was used. Results: there were 62 participants, 87% female, 90% in the first and second year of college, with a mean age of 21.47 (standard deviation 2.39). With a 95% confidence level, the mean scores in the pre-test were 6.4 (standard deviation 1.61), and 9.3 in the post-test (standard deviation 0.82, p <0.001); in practice, 9.1 (standard deviation 0.95) with performance equivalent to basic cardiopulmonary resuscitation, according to the feedback device; 43.7 (standard deviation 26.86) mean duration of the compression cycle by second of 20.5 (standard deviation 9.47); number of compressions 167.2 (standard deviation 57.06); depth of compressions of 48.1 millimeter (standard deviation 10.49); volume of ventilation 742.7 (standard deviation 301.12); flow fraction percentage of 40.3 (standard deviation 10.03). Conclusion: the online course contributed to learning of basic life support. In view of the need for technological innovations in teaching and systematization of cardiopulmonary resuscitation, simulation and feedback devices are resources that favor learning and performance awareness in performing the maneuvers.\n          , \n            RESUMO Objetivo: avaliar o aprendizado de estudantes no curso online sobre suporte básico de vida com dispositivos de retroalimentação imediata, em simulação de atendimento em parada cardiorrespiratória. Método: pesquisa quase-experimental, do tipo antes-depois. Foi desenvolvido curso online sobre suporte básico e aplicado aos participantes, como intervenção educacional. O aprendizado teórico foi avaliado por meio de pré e pós-teste e, para verificar a prática, utilizou-se simulação com dispositivos de retroalimentação imediata. Resultados: 62 concluintes, sendo 87% mulheres, 90% do primeiro e segundo ano de faculdade, idade média de 21,47 (desvio-padrão 2,39). Com índice de confiabilidade de 95%, a média das notas no pré-teste foi 6,4 (desvio-padrão 1,61) e, no pós-teste, 9,3 (desvio-padrão 0,82), p<0,001; na prática, 9,1 (desvio-padrão 0,95) e, de acordo com o dispositivo de feedback com desempenho equivalente à reanimação cardiopulmonar básica, 43,7 (desvio-padrão 26,86), médias de duração do ciclo de compressões por segundo de 20,5 (desvio-padrão 9,47), número de compressões de 167,2 (desvio-padrão 57,06), profundidade de compressões por milímetro de 48,1 (desvio-padrão 10,49), volume de ventilação de 742,7 (desvio-padrão 301,12), percentual de fração de fluxo de 40,3 (desvio-padrão 10,03). Conclusão: com o curso online houve contribuição para o aprendizado do suporte básico de vida. Em face da necessidade de inovações tecnológicas no ensino e na sistematização da reanimação cardiopulmonar, simulação e dispositivos de retroalimentação são recursos que favorecem o aprendizado e a consciência da performance na realização das manobras.\n          , \n            RESUMEN Objetivo: evaluar el aprendizaje de estudiantes en curso online sobre soporte vital básico de vida con dispositivos de retroalimentación inmediata, en simulación de asistencia en paro cardiorrespiratorio. Método: investigación casi-experimental, del tipo antes-después. Se desarrolló un curso online sobre soporte básico y aplicado a los participantes, como intervención educacional. El aprendizaje teórico fue evaluado por medio de pre y pos-test y, para verificar la práctica, se utilizó una simulación con dispositivos de retroalimentación inmediata. Resultados: 62 graduados, el 87% mujeres, el 90% del primero y segundo año de facultad, edad media de 21.47 (desviación estándar 2.39). Con índice de confiabilidad del 95%, la media de las notas en pre-test fue de 6.4 (desviación estándar1.61) y, en pos-test, 9.3 (desviación estándar 0.82), p<0.001; en la práctica, 9.1 (desviación estándar 0.95) y, de acuerdo con el dispositivo de retroalimentación con desempeño equivalente a la reanimación cardiopulmonar básica, 43.7 (desviación estándar 26.86), medias de duración del ciclo de compresiones por segundo de 20.5 (desviación estándar 9.47), número de compresiones de 1672 (desviación estándar 57.06), profundidad de compresiones por milímetro de 48.1 (desviación estándar 10.49), volumen de ventilación de 742.7 (desviación estándar 301.12), porcentual de fracción de flujo de 40.3 (desviación estándar 10.03). Conclusión: con el curso online hubo contribución al aprendizaje del soporte vital básico. En vista de la necesidad de innovaciones tecnológicas en la enseñanza y en la sistematización de la reanimación cardiopulmonar, simulación y dispositivos de retroalimentación son recursos que favorecen el aprendizaje y la consciencia del desempeño en la realización de las maniobras.",
+      "publicationTitle": "Revista Latino-Americana de Enfermagem",
+      "volume": "25",
+      "issue": "0",
+      "pages": "",
+      "date": "2017-10-30",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Rev. Latino-Am. Enfermagem",
+      "language": "en",
+      "DOI": "10.1590/1518-8345.1957.2942",
+      "ISSN": "0104-1169",
+      "shortTitle": "Basic life support",
+      "url": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-11692017000100388&lng=en&tlng=en",
+      "accessDate": "2022-01-29T19:56:43Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: tobaseBasicLifeSupport2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:56:43Z",
+      "dateModified": "2022-01-29T19:57:18Z"
+    }
+  },
+  {
+    "key": "N554KL6V",
+    "version": 633,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N554KL6V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N554KL6V",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KS6QKJX7",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 711893
+      }
+    },
+    "meta": {
+      "creatorSummary": "Gregg et al.",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "N554KL6V",
+      "version": 633,
+      "itemType": "journalArticle",
+      "title": "Teaching leadership in trauma resuscitation: Immediate feedback from a real-time, competency-based evaluation tool shows long-term improvement in resident performance",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shea C.",
+          "lastName": "Gregg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daithi S.",
+          "lastName": "Heffernan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael D.",
+          "lastName": "Connolly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew H.",
+          "lastName": "Stephen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephanie N.",
+          "lastName": "Leuckel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David T.",
+          "lastName": "Harrington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jason T.",
+          "lastName": "Machan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charles A.",
+          "lastName": "Adams"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "William G.",
+          "lastName": "Cioffi"
+        }
+      ],
+      "abstractNote": "BACKGROUND: Limited data exist on how to develop resident leadership and communication skills during actual trauma resuscitations.\nMETHODS: An evaluation tool was developed to grade senior resident performance as the team leader during full-trauma-team activations. Thirty actions that demonstrated the Accreditation Council for Graduate Medical Education core competencies were graded on a Likert scale of 1 (poor) to 5 (exceptional). These actions were grouped by their respective core competencies on 5 Â 7-inch index cards. In Phase 1, baseline performance scores were obtained. In Phase 2, trauma-focused communication in-services were conducted early in the academic year, and immediate, personalized feedback sessions were performed after resuscitations based on the evaluation tool. In Phase 3, residents received only evaluation-based feedback following resuscitations.\nRESULTS: In Phase 1 (October 2009 to April 2010), 27 evaluations were performed on 10 residents. In Phase 2 (April 2010 to October 2010), 28 evaluations were performed on nine residents. In Phase 3 (October 2010 to January 2012), 44 evaluations were performed on 13 residents. Total scores improved significantly between Phases 1 and 2 (p = 0.003) and remained elevated throughout Phase 3. When analyzing performance by competency, significant improvement between Phases 1 and 2 (p < 0.05) was seen in all competencies (patient care, knowledge, system-based practice, practice-based learning) with the exception of “communication and professionalism” (p = 0.56). Statistically similar scores were observed between Phases 2 and 3 in all competencies with the exception of “medical knowledge,” which showed ongoing significant improvement (p = 0.003).\nCONCLUSIONS:",
+      "publicationTitle": "Journal of Trauma and Acute Care Surgery",
+      "volume": "81",
+      "issue": "4",
+      "pages": "729-734",
+      "date": "10/2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1097/TA.0000000000001186",
+      "ISSN": "2163-0755",
+      "shortTitle": "Teaching leadership in trauma resuscitation",
+      "url": "https://journals.lww.com/01586154-201610000-00015",
+      "accessDate": "2022-01-29T19:55:29Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: greggTeachingLeadershipTrauma2016",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:55:29Z",
+      "dateModified": "2022-01-29T19:57:18Z"
+    }
+  },
+  {
+    "key": "TGKC7LZX",
+    "version": 631,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TGKC7LZX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TGKC7LZX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/7ISWIS7G",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/TGKC7LZX/file/view",
+        "title": "Tobase et al. - 2017 - Basic life support evaluation of learning using s.pdf",
+        "length": 571473
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "TGKC7LZX",
+      "version": 631,
+      "parentItem": "7ISWIS7G",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Tobase et al. - 2017 - Basic life support evaluation of learning using s.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Tobase et al. - 2017 - Basic life support evaluation of learning using s.pdf",
+      "md5": "e961214be9e89bb00b09d8c3cd01ca00",
+      "mtime": 1643486203000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:56:40Z",
+      "dateModified": "2022-01-29T19:56:43Z"
+    }
+  },
+  {
+    "key": "KS6QKJX7",
+    "version": 628,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KS6QKJX7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KS6QKJX7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/N554KL6V",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KS6QKJX7/file/view",
+        "title": "Gregg et al. - 2016 - Teaching leadership in trauma resuscitation Immed.pdf",
+        "length": 711893
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KS6QKJX7",
+      "version": 628,
+      "parentItem": "N554KL6V",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Gregg et al. - 2016 - Teaching leadership in trauma resuscitation Immed.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Gregg et al. - 2016 - Teaching leadership in trauma resuscitation Immed.pdf",
+      "md5": "8e3dc8d9a72041db8bd2828b062b43b1",
+      "mtime": 1643486130000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:55:27Z",
+      "dateModified": "2022-01-29T19:55:30Z"
+    }
+  },
+  {
     "key": "KBH6ZIXK",
     "version": 625,
     "library": {
@@ -54,89 +790,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2022-01-29T19:54:15Z",
-      "dateModified": "2022-01-29T19:54:17Z"
-    }
-  },
-  {
-    "key": "AAX5KY8B",
-    "version": 624,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/AAX5KY8B",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/AAX5KY8B",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/KBH6ZIXK",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 76498
-      }
-    },
-    "meta": {
-      "creatorSummary": "Maran and Glavin",
-      "parsedDate": "2003",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "AAX5KY8B",
-      "version": 624,
-      "itemType": "journalArticle",
-      "title": "Low- to high-fidelity simulation - a continuum of medical education?: Low- to high-fidelity simulation",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "N J",
-          "lastName": "Maran"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "R J",
-          "lastName": "Glavin"
-        }
-      ],
-      "abstractNote": "Context Changes in medical training and culture have reduced the acceptability of the traditional apprenticeship style training in medicine and inﬂuenced the growth of clinical skills training. Simulation is an educational technique that allows interactive, and at times immersive, activity by recreating all or part of a clinical experience without exposing patients to the associated risks. The number and range of commercially available technologies used in simulation for education of health care professionals is growing exponentially. These range from simple part-task training models to highly sophisticated computer driven models. Aim This paper will review the range of currently available simulators and the educational processes that underpin simulation training. The use of different levels of simulation in a continuum of training will be discussed. Although simulation is relatively new to medicine, simulators have been used extensively for training and assessment in many other domains, most notably the aviation industry. Some parallels and differences will be highlighted.",
-      "publicationTitle": "Medical Education",
-      "volume": "37",
-      "issue": "",
-      "pages": "22-28",
-      "date": "11/2003",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "10.1046/j.1365-2923.37.s1.9.x",
-      "ISSN": "03080110",
-      "shortTitle": "Low- to high-fidelity simulation - a continuum of medical education?",
-      "url": "http://doi.wiley.com/10.1046/j.1365-2923.37.s1.9.x",
-      "accessDate": "2022-01-29T19:54:17Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2022-01-29T19:54:17Z",
       "dateModified": "2022-01-29T19:54:17Z"
     }
   },
