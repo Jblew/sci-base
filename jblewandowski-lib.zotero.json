@@ -1,5 +1,87 @@
 [
   {
+    "key": "57ZV8PR2",
+    "version": 616,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/57ZV8PR2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/57ZV8PR2",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Csikszentmihalyi",
+      "parsedDate": "1978",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "57ZV8PR2",
+      "version": 616,
+      "itemType": "bookSection",
+      "title": "Attention and the Holistic Approach to Behavior",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Kenneth S.",
+          "lastName": "Pope"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Jerome L.",
+          "lastName": "Singer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mihaly",
+          "lastName": "Csikszentmihalyi"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "The Stream of Consciousness",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Boston, MA",
+      "publisher": "Springer US",
+      "date": "1978",
+      "pages": "335-358",
+      "language": "en",
+      "ISBN": "978-1-4684-2468-3 978-1-4684-2466-9",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/978-1-4684-2466-9_13",
+      "accessDate": "2022-01-29T19:31:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-1-4684-2466-9_13\nCitation Key: csikszentmihalyiAttentionHolisticApproach1978",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-01-29T19:31:55Z",
+      "dateModified": "2022-01-29T19:33:53Z"
+    }
+  },
+  {
     "key": "AL3G6MYS",
     "version": 613,
     "library": {
