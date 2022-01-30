@@ -26,7 +26,7 @@
         "href": "https://api.zotero.org/users/8674355/items/WPAM9IAP",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 528362
+        "attachmentSize": 543583
       }
     },
     "meta": {
@@ -79,7 +79,7 @@
   },
   {
     "key": "WPAM9IAP",
-    "version": 638,
+    "version": 641,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -108,7 +108,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/WPAM9IAP/file/view",
         "title": "Hektner - A Longitudinal Exploration of Flow and.pdf",
-        "length": 528362
+        "length": 543583
       }
     },
     "meta": {
@@ -116,7 +116,7 @@
     },
     "data": {
       "key": "WPAM9IAP",
-      "version": 638,
+      "version": 641,
       "parentItem": "39UI5PR2",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -127,8 +127,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Hektner - A Longitudinal Exploration of Flow and.pdf",
-      "md5": "cf13bdfa9dd628ad1c683aa6a3fc90c5",
-      "mtime": 1643486635000,
+      "md5": "6e04cde7b19537c210d576f8a8d4d6a3",
+      "mtime": 1643486865000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-01-29T20:03:54Z",
