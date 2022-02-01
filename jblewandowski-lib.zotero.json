@@ -1,5 +1,505 @@
 [
   {
+    "key": "5HHDRMNX",
+    "version": 644,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5HHDRMNX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5HHDRMNX",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/6IBT6FZN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 764804
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fogg",
+      "parsedDate": "2009",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5HHDRMNX",
+      "version": 644,
+      "itemType": "conferencePaper",
+      "title": "A behavior model for persuasive design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bj",
+          "lastName": "Fogg"
+        }
+      ],
+      "abstractNote": "This paper presents a new model for understanding human behavior. In this model (FBM), behavior is a product of three factors: motivation, ability, and triggers, each of which has subcomponents. The FBM asserts that for a person to perform a target behavior, he or she must (1) be sufficiently motivated, (2) have the ability to perform the behavior, and (3) be triggered to perform the behavior. These three factors must occur at the same moment, else the behavior will not happen. The FBM is useful in analysis and design of persuasive technologies. The FBM also helps teams work together efficiently because this model gives people a shared way of thinking about behavior change.",
+      "date": "2009",
+      "proceedingsTitle": "Proceedings of the 4th International Conference on Persuasive Technology - Persuasive '09",
+      "conferenceName": "the 4th International Conference",
+      "place": "Claremont, California",
+      "publisher": "ACM Press",
+      "volume": "",
+      "pages": "1",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/1541948.1541999",
+      "ISBN": "978-1-60558-376-1",
+      "shortTitle": "",
+      "url": "http://portal.acm.org/citation.cfm?doid=1541948.1541999",
+      "accessDate": "2022-02-01T15:18:15Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: foggBehaviorModelPersuasive2009a",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:18:15Z",
+      "dateModified": "2022-02-01T15:18:23Z"
+    }
+  },
+  {
+    "key": "86KF9F6R",
+    "version": 644,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/86KF9F6R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/86KF9F6R",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/US7N6N3S",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 764804
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fogg",
+      "parsedDate": "2009",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "86KF9F6R",
+      "version": 644,
+      "itemType": "conferencePaper",
+      "title": "A behavior model for persuasive design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bj",
+          "lastName": "Fogg"
+        }
+      ],
+      "abstractNote": "This paper presents a new model for understanding human behavior. In this model (FBM), behavior is a product of three factors: motivation, ability, and triggers, each of which has subcomponents. The FBM asserts that for a person to perform a target behavior, he or she must (1) be sufficiently motivated, (2) have the ability to perform the behavior, and (3) be triggered to perform the behavior. These three factors must occur at the same moment, else the behavior will not happen. The FBM is useful in analysis and design of persuasive technologies. The FBM also helps teams work together efficiently because this model gives people a shared way of thinking about behavior change.",
+      "date": "2009",
+      "proceedingsTitle": "Proceedings of the 4th International Conference on Persuasive Technology - Persuasive '09",
+      "conferenceName": "the 4th International Conference",
+      "place": "Claremont, California",
+      "publisher": "ACM Press",
+      "volume": "",
+      "pages": "1",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/1541948.1541999",
+      "ISBN": "978-1-60558-376-1",
+      "shortTitle": "",
+      "url": "http://portal.acm.org/citation.cfm?doid=1541948.1541999",
+      "accessDate": "2022-02-01T15:18:11Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: foggBehaviorModelPersuasive2009",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:18:11Z",
+      "dateModified": "2022-02-01T15:18:23Z"
+    }
+  },
+  {
+    "key": "RAEYDIXT",
+    "version": 644,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RAEYDIXT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RAEYDIXT",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/LG7QSFK3",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 139864
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fogg et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RAEYDIXT",
+      "version": 644,
+      "itemType": "journalArticle",
+      "title": "How Do Users Evaluate the Credibility of Web Sites? A Study with Over 2,500 Participants",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "B J",
+          "lastName": "Fogg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cathy",
+          "lastName": "Soohoo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David R",
+          "lastName": "Danielson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leslie",
+          "lastName": "Marable"
+        }
+      ],
+      "abstractNote": "In this study 2,684 people evaluated the credibility of two live Web sites on a similar topic (such as health sites). We gathered the comments people wrote about each siteís credibility and analyzed the comments to find out what features of a Web site get noticed when people evaluate credibility. We found that the ìdesign lookî of the site was mentioned most frequently, being present in 46.1% of the comments. Next most common were comments about information structure and information focus. In this paper we share sample participant comments in the top 18 areas that people noticed when evaluating Web site credibility. We discuss reasons for the prominence of design look, point out how future studies can build on what we have learned in this new line of research, and outline six design implications for human-computer interaction professionals.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "15",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: foggHowUsersEvaluate",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:18:13Z",
+      "dateModified": "2022-02-01T15:18:23Z"
+    }
+  },
+  {
+    "key": "7R6QMPNT",
+    "version": 644,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7R6QMPNT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7R6QMPNT",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fogg",
+      "parsedDate": "2019",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "7R6QMPNT",
+      "version": 644,
+      "itemType": "book",
+      "title": "Tiny habits: the small changes that change everything",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "B. J.",
+          "lastName": "Fogg"
+        }
+      ],
+      "abstractNote": "\"The world's leading expert on habit formation shows how you can have a happier, healthier life: by starting small\"--",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Boston",
+      "publisher": "Houghton Mifflin Harcourt",
+      "date": "2019",
+      "numPages": "",
+      "language": "",
+      "ISBN": "978-0-358-00332-8",
+      "shortTitle": "Tiny habits",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "BF335 .F56 2019",
+      "rights": "",
+      "extra": "Citation Key: foggTinyHabitsSmall2019",
+      "tags": [
+        {
+          "tag": "Change (Psychology)",
+          "type": 1
+        },
+        {
+          "tag": "Habit",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:17:46Z",
+      "dateModified": "2022-02-01T15:18:23Z"
+    }
+  },
+  {
+    "key": "6IBT6FZN",
+    "version": 646,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6IBT6FZN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6IBT6FZN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5HHDRMNX",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6IBT6FZN/file/view",
+        "title": "Fogg - 2009 - A behavior model for persuasive design.pdf",
+        "length": 764804
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6IBT6FZN",
+      "version": 646,
+      "parentItem": "5HHDRMNX",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Fogg - 2009 - A behavior model for persuasive design.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Fogg - 2009 - A behavior model for persuasive design.pdf",
+      "md5": "64049c4b784a6ee8d694cc8ed932b271",
+      "mtime": 1643728695000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:18:08Z",
+      "dateModified": "2022-02-01T15:18:15Z"
+    }
+  },
+  {
+    "key": "LG7QSFK3",
+    "version": 645,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LG7QSFK3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LG7QSFK3",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RAEYDIXT",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/LG7QSFK3/file/view",
+        "title": "Fogg et al. - How Do Users Evaluate the Credibility of Web Sites.pdf",
+        "length": 139864
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "LG7QSFK3",
+      "version": 645,
+      "parentItem": "RAEYDIXT",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Fogg et al. - How Do Users Evaluate the Credibility of Web Sites.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Fogg et al. - How Do Users Evaluate the Credibility of Web Sites.pdf",
+      "md5": "8161fbe4ece66ad593e5baee4bba6009",
+      "mtime": 1643728693000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:18:08Z",
+      "dateModified": "2022-02-01T15:18:13Z"
+    }
+  },
+  {
+    "key": "US7N6N3S",
+    "version": 647,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/US7N6N3S",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/US7N6N3S",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/86KF9F6R",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/US7N6N3S/file/view",
+        "title": "Fogg - 2009 - A behavior model for persuasive design.pdf",
+        "length": 764804
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "US7N6N3S",
+      "version": 647,
+      "parentItem": "86KF9F6R",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Fogg - 2009 - A behavior model for persuasive design.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Fogg - 2009 - A behavior model for persuasive design.pdf",
+      "md5": "64049c4b784a6ee8d694cc8ed932b271",
+      "mtime": 1643728691000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:18:07Z",
+      "dateModified": "2022-02-01T15:18:11Z"
+    }
+  },
+  {
     "key": "39UI5PR2",
     "version": 640,
     "library": {
@@ -7730,7 +8230,7 @@
         "href": "https://api.zotero.org/users/8674355/items/V45Q3RVA",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 1694812
+        "attachmentSize": 1714551
       }
     },
     "meta": {
@@ -7851,7 +8351,7 @@
   },
   {
     "key": "V45Q3RVA",
-    "version": 459,
+    "version": 643,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -7880,7 +8380,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/V45Q3RVA/file/view",
         "title": "Lockton et al. - 2010 - The Design with Intent Method A design tool for i.pdf",
-        "length": 1694812
+        "length": 1714551
       }
     },
     "meta": {
@@ -7888,7 +8388,7 @@
     },
     "data": {
       "key": "V45Q3RVA",
-      "version": 459,
+      "version": 643,
       "parentItem": "ICKW9C55",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -7899,8 +8399,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Lockton et al. - 2010 - The Design with Intent Method A design tool for i.pdf",
-      "md5": "eb93b43e069f860feeb36d4dee9123ab",
-      "mtime": 1640027776000,
+      "md5": "ae5307795ff89e08139f42768807153e",
+      "mtime": 1643727463000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-12-20T19:16:12Z",
