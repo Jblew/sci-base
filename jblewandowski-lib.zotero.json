@@ -1,5 +1,98 @@
 [
   {
+    "key": "RAEYDIXT",
+    "version": 649,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RAEYDIXT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RAEYDIXT",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/LG7QSFK3",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 139864
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fogg et al.",
+      "parsedDate": "2003",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RAEYDIXT",
+      "version": 649,
+      "itemType": "journalArticle",
+      "title": "How Do Users Evaluate the Credibility of Web Sites? A Study with Over 2,500 Participants",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "B J",
+          "lastName": "Fogg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cathy",
+          "lastName": "Soohoo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David R",
+          "lastName": "Danielson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leslie",
+          "lastName": "Marable"
+        }
+      ],
+      "abstractNote": "In this study 2,684 people evaluated the credibility of two live Web sites on a similar topic (such as health sites). We gathered the comments people wrote about each siteís credibility and analyzed the comments to find out what features of a Web site get noticed when people evaluate credibility. We found that the ìdesign lookî of the site was mentioned most frequently, being present in 46.1% of the comments. Next most common were comments about information structure and information focus. In this paper we share sample participant comments in the top 18 areas that people noticed when evaluating Web site credibility. We discuss reasons for the prominence of design look, point out how future studies can build on what we have learned in this new line of research, and outline six design implications for human-computer interaction professionals.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "15",
+      "date": "2003",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: foggHowUsersEvaluate2003",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-01T15:18:13Z",
+      "dateModified": "2022-02-01T15:26:14Z"
+    }
+  },
+  {
     "key": "5HHDRMNX",
     "version": 644,
     "library": {
@@ -150,98 +243,6 @@
       ],
       "relations": {},
       "dateAdded": "2022-02-01T15:18:11Z",
-      "dateModified": "2022-02-01T15:18:23Z"
-    }
-  },
-  {
-    "key": "RAEYDIXT",
-    "version": 644,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/RAEYDIXT",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/RAEYDIXT",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/LG7QSFK3",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 139864
-      }
-    },
-    "meta": {
-      "creatorSummary": "Fogg et al.",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "RAEYDIXT",
-      "version": 644,
-      "itemType": "journalArticle",
-      "title": "How Do Users Evaluate the Credibility of Web Sites? A Study with Over 2,500 Participants",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "B J",
-          "lastName": "Fogg"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Cathy",
-          "lastName": "Soohoo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "David R",
-          "lastName": "Danielson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Leslie",
-          "lastName": "Marable"
-        }
-      ],
-      "abstractNote": "In this study 2,684 people evaluated the credibility of two live Web sites on a similar topic (such as health sites). We gathered the comments people wrote about each siteís credibility and analyzed the comments to find out what features of a Web site get noticed when people evaluate credibility. We found that the ìdesign lookî of the site was mentioned most frequently, being present in 46.1% of the comments. Next most common were comments about information structure and information focus. In this paper we share sample participant comments in the top 18 areas that people noticed when evaluating Web site credibility. We discuss reasons for the prominence of design look, point out how future studies can build on what we have learned in this new line of research, and outline six design implications for human-computer interaction professionals.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "15",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: foggHowUsersEvaluate",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2022-02-01T15:18:13Z",
       "dateModified": "2022-02-01T15:18:23Z"
     }
   },
