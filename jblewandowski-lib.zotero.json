@@ -26,7 +26,7 @@
         "href": "https://api.zotero.org/users/8674355/items/LG7QSFK3",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 139864
+        "attachmentSize": 151194
       }
     },
     "meta": {
@@ -114,12 +114,6 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/5HHDRMNX",
         "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/6IBT6FZN",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 764804
       }
     },
     "meta": {
@@ -196,7 +190,7 @@
         "href": "https://api.zotero.org/users/8674355/items/US7N6N3S",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 764804
+        "attachmentSize": 771299
       }
     },
     "meta": {
@@ -352,12 +346,6 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/5HHDRMNX",
         "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/6IBT6FZN/file/view",
-        "title": "Fogg - 2009 - A behavior model for persuasive design.pdf",
-        "length": 764804
       }
     },
     "meta": {
@@ -386,7 +374,7 @@
   },
   {
     "key": "LG7QSFK3",
-    "version": 645,
+    "version": 650,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -415,7 +403,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/LG7QSFK3/file/view",
         "title": "Fogg et al. - How Do Users Evaluate the Credibility of Web Sites.pdf",
-        "length": 139864
+        "length": 151194
       }
     },
     "meta": {
@@ -423,7 +411,7 @@
     },
     "data": {
       "key": "LG7QSFK3",
-      "version": 645,
+      "version": 650,
       "parentItem": "RAEYDIXT",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -434,8 +422,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Fogg et al. - How Do Users Evaluate the Credibility of Web Sites.pdf",
-      "md5": "8161fbe4ece66ad593e5baee4bba6009",
-      "mtime": 1643728693000,
+      "md5": "6ea5b08033f45dfdd4f0af625c7ba6a7",
+      "mtime": 1643728836000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-02-01T15:18:08Z",
@@ -444,7 +432,7 @@
   },
   {
     "key": "US7N6N3S",
-    "version": 647,
+    "version": 651,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -473,7 +461,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/US7N6N3S/file/view",
         "title": "Fogg - 2009 - A behavior model for persuasive design.pdf",
-        "length": 764804
+        "length": 771299
       }
     },
     "meta": {
@@ -481,7 +469,7 @@
     },
     "data": {
       "key": "US7N6N3S",
-      "version": 647,
+      "version": 651,
       "parentItem": "86KF9F6R",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -492,8 +480,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Fogg - 2009 - A behavior model for persuasive design.pdf",
-      "md5": "64049c4b784a6ee8d694cc8ed932b271",
-      "mtime": 1643728691000,
+      "md5": "1453cfaacd6839c876070f17ed5b56b2",
+      "mtime": 1643729431000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-02-01T15:18:07Z",
