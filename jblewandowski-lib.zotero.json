@@ -1,5 +1,226 @@
 [
   {
+    "key": "442UBPSH",
+    "version": 661,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/442UBPSH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/442UBPSH",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "HARTMAN PERI et al.",
+      "parsedDate": "1999-09-28",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "442UBPSH",
+      "version": 661,
+      "itemType": "patent",
+      "title": "Method and system for placing a purchase order via a communications network",
+      "creators": [
+        {
+          "creatorType": "inventor",
+          "name": "HARTMAN PERI"
+        },
+        {
+          "creatorType": "inventor",
+          "name": "BEZOS JEFFREY P"
+        },
+        {
+          "creatorType": "inventor",
+          "name": "KAPHAN SHEL"
+        },
+        {
+          "creatorType": "inventor",
+          "name": "SPIEGEL JOEL"
+        }
+      ],
+      "abstractNote": "The present invention relates to a computer method and system for placing an order and, more particularly, to a method and system for ordering items over the Internet.",
+      "place": "",
+      "country": "United States",
+      "assignee": "",
+      "issuingAuthority": "AMAZON COM INC",
+      "patentNumber": "US5960411A",
+      "filingDate": "1997-09-12",
+      "pages": "",
+      "applicationNumber": "",
+      "priorityNumbers": "",
+      "issueDate": "1999-09-28",
+      "references": "",
+      "legalStatus": "",
+      "language": "",
+      "shortTitle": "",
+      "url": "https://worldwide.espacenet.com/patent/search/family/025457073/publication/US5960411A?q=pn%3DUS5960411",
+      "accessDate": "2021-02-05",
+      "rights": "",
+      "extra": "Citation Key: hartmanperiMethodSystemPlacing1999",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-05T14:00:20Z",
+      "dateModified": "2022-02-05T14:03:33Z"
+    }
+  },
+  {
+    "key": "UPI3LDVB",
+    "version": 656,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UPI3LDVB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UPI3LDVB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/U688FZ27",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 88484
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mellahi and Johnson",
+      "parsedDate": "2000-09-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UPI3LDVB",
+      "version": 656,
+      "itemType": "journalArticle",
+      "title": "Does it pay to be a first mover in e.commerce? The case of Amazon.com",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kamel",
+          "lastName": "Mellahi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Johnson"
+        }
+      ],
+      "abstractNote": "Using Amazon.com as a case study, the present research explores first mover (dis)advantages in e.commerce. It examines whether or not Amzon.com has sustained early mover advantages. What are these advantages? And how has Amazon.com reacted to late movers? Evidence generated from the case study suggests that the maintainability of first mover advantages in e.commerce depends on three main factors: continuous innovation, speed of implementation and patenting.",
+      "publicationTitle": "Management Decision",
+      "volume": "38",
+      "issue": "7",
+      "pages": "445-452",
+      "date": "2000-09-01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1108/00251740010373458",
+      "ISSN": "0025-1747",
+      "shortTitle": "Does it pay to be a first mover in e.commerce?",
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/00251740010373458/full/html",
+      "accessDate": "2022-02-05T13:54:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mellahiDoesItPay2000",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-05T13:54:31Z",
+      "dateModified": "2022-02-05T13:55:17Z"
+    }
+  },
+  {
+    "key": "U688FZ27",
+    "version": 653,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U688FZ27",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U688FZ27",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/UPI3LDVB",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/U688FZ27/file/view",
+        "title": "Mellahi and Johnson - 2000 - Does it pay to be a first mover in e.commerce The.pdf",
+        "length": 88484
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "U688FZ27",
+      "version": 653,
+      "parentItem": "UPI3LDVB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mellahi and Johnson - 2000 - Does it pay to be a first mover in e.commerce The.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mellahi and Johnson - 2000 - Does it pay to be a first mover in e.commerce The.pdf",
+      "md5": "65bc9c09984158e83f453cf961aded09",
+      "mtime": 1644069271000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-05T13:54:28Z",
+      "dateModified": "2022-02-05T13:54:31Z"
+    }
+  },
+  {
     "key": "RAEYDIXT",
     "version": 649,
     "library": {
@@ -190,7 +411,7 @@
         "href": "https://api.zotero.org/users/8674355/items/US7N6N3S",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 771299
+        "attachmentSize": 787740
       }
     },
     "meta": {
@@ -432,7 +653,7 @@
   },
   {
     "key": "US7N6N3S",
-    "version": 651,
+    "version": 654,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -461,7 +682,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/US7N6N3S/file/view",
         "title": "Fogg - 2009 - A behavior model for persuasive design.pdf",
-        "length": 771299
+        "length": 787740
       }
     },
     "meta": {
@@ -469,7 +690,7 @@
     },
     "data": {
       "key": "US7N6N3S",
-      "version": 651,
+      "version": 654,
       "parentItem": "86KF9F6R",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -480,8 +701,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Fogg - 2009 - A behavior model for persuasive design.pdf",
-      "md5": "1453cfaacd6839c876070f17ed5b56b2",
-      "mtime": 1643729431000,
+      "md5": "ebe25d299214264d5ec0213fdc92845b",
+      "mtime": 1644067320000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-02-01T15:18:07Z",
