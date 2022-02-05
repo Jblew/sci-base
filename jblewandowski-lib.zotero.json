@@ -1,5 +1,210 @@
 [
   {
+    "key": "SLLXFVCW",
+    "version": 666,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SLLXFVCW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SLLXFVCW",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Deci and Ryan",
+      "parsedDate": "1985",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "SLLXFVCW",
+      "version": 666,
+      "itemType": "book",
+      "title": "Intrinsic motivation and self-determination in human behavior",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Edward L.",
+          "lastName": "Deci"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard M.",
+          "lastName": "Ryan"
+        }
+      ],
+      "abstractNote": "",
+      "series": "Perspectives in social psychology",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "[5]th print",
+      "place": "New York",
+      "publisher": "Plenum Press",
+      "date": "1985",
+      "numPages": "371",
+      "language": "eng",
+      "ISBN": "978-0-306-42022-1",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: deciIntrinsicMotivationSelfdetermination1985",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-05T17:06:20Z",
+      "dateModified": "2022-02-05T17:07:54Z"
+    }
+  },
+  {
+    "key": "BI4KGDVI",
+    "version": 665,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BI4KGDVI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BI4KGDVI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/SLLXFVCW",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BI4KGDVI",
+      "version": 665,
+      "parentItem": "SLLXFVCW",
+      "itemType": "note",
+      "note": "<p>Literaturverz. S. 335 - 358</p>",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-05T17:06:20Z",
+      "dateModified": "2022-02-05T17:06:51Z"
+    }
+  },
+  {
+    "key": "24H8YM57",
+    "version": 662,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/24H8YM57",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/24H8YM57",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/7IL3VXKI",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "24H8YM57",
+      "version": 662,
+      "parentItem": "7IL3VXKI",
+      "itemType": "note",
+      "note": "\"Softcover reprint of the hardcover 1st edition 1985\". - Includes bibliographical references (pages 335-358) and indexes",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-05T17:05:18Z",
+      "dateModified": "2022-02-05T17:05:18Z"
+    }
+  },
+  {
+    "key": "4S7FQYAF",
+    "version": 662,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4S7FQYAF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4S7FQYAF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/PWQ8XEEC",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4S7FQYAF",
+      "version": 662,
+      "parentItem": "PWQ8XEEC",
+      "itemType": "note",
+      "note": "Literaturverz. S. 335 - 358",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-05T17:05:04Z",
+      "dateModified": "2022-02-05T17:05:04Z"
+    }
+  },
+  {
     "key": "442UBPSH",
     "version": 661,
     "library": {
