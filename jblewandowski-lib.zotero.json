@@ -1,7 +1,7 @@
 [
   {
-    "key": "BSDQYU5C",
-    "version": 691,
+    "key": "4YSBKY99",
+    "version": 696,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -15,51 +15,321 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/BSDQYU5C",
+        "href": "https://api.zotero.org/users/8674355/items/4YSBKY99",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/BSDQYU5C",
+        "href": "https://www.zotero.org/jblewandowski/items/4YSBKY99",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Buley",
+      "parsedDate": "2013",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "4YSBKY99",
+      "version": 696,
+      "itemType": "book",
+      "title": "The user experience team of one: a research and design survival guide",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Leah",
+          "lastName": "Buley"
+        }
+      ],
+      "abstractNote": "\"The User Experience Team of One prescribes approaches that have big impact and take less time and fewer resources than the standard lineup of UX deliverables. Whether you want to cross over into user experience or you're a seasoned practitioner trying to drag your organization forward, this book gives you tools and insight for doing more with less.\"--Back cover",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Brooklyn, New York",
+      "publisher": "Rosenfeld Media",
+      "date": "2013",
+      "numPages": "246",
+      "language": "",
+      "ISBN": "978-1-933820-18-7",
+      "shortTitle": "The user experience team of one",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "QA76.9.U83 B86 2013",
+      "rights": "",
+      "extra": "OCLC: ocn858456676\nCitation Key: buleyUserExperienceTeam2013",
+      "tags": [
+        {
+          "tag": "Customer services",
+          "type": 1
+        },
+        {
+          "tag": "Design",
+          "type": 1
+        },
+        {
+          "tag": "Human-computer interaction",
+          "type": 1
+        },
+        {
+          "tag": "User interfaces (Computer systems)",
+          "type": 1
+        },
+        {
+          "tag": "User-centered system design",
+          "type": 1
+        },
+        {
+          "tag": "Web sites",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:00:44Z",
+      "dateModified": "2022-02-09T20:00:47Z"
+    }
+  },
+  {
+    "key": "3T48923L",
+    "version": 696,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3T48923L",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3T48923L",
         "type": "text/html"
       },
       "up": {
-        "href": "https://api.zotero.org/users/8674355/items/9QSMKCCG",
+        "href": "https://api.zotero.org/users/8674355/items/4YSBKY99",
         "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/BSDQYU5C/file/view",
-        "title": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
-        "length": 652837
       }
     },
     "meta": {
       "numChildren": 0
     },
     "data": {
-      "key": "BSDQYU5C",
-      "version": 691,
-      "parentItem": "9QSMKCCG",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
-      "md5": "ea340e2e82d3f8ef4b6b0609db3b7dfb",
-      "mtime": 1644436383000,
+      "key": "3T48923L",
+      "version": 696,
+      "parentItem": "4YSBKY99",
+      "itemType": "note",
+      "note": "Includes index",
       "tags": [],
       "relations": {},
-      "dateAdded": "2022-02-09T19:53:00Z",
-      "dateModified": "2022-02-09T19:53:03Z"
+      "dateAdded": "2022-02-09T20:00:44Z",
+      "dateModified": "2022-02-09T20:00:44Z"
+    }
+  },
+  {
+    "key": "SY9FIF9H",
+    "version": 696,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SY9FIF9H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SY9FIF9H",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/4YSBKY99",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SY9FIF9H",
+      "version": 696,
+      "parentItem": "4YSBKY99",
+      "itemType": "note",
+      "note": "Part I: Philosophy. UX 101 -- Getting started -- Building support for your work -- Growing yourself and your career -- Part II: Practice. Planning and discovery methods -- Research methods -- Design methods -- Testing and validation methods -- Evangelism methods -- What's next",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:00:44Z",
+      "dateModified": "2022-02-09T20:00:44Z"
+    }
+  },
+  {
+    "key": "BIPJ4WXF",
+    "version": 695,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BIPJ4WXF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BIPJ4WXF",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hall",
+      "parsedDate": "2019",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BIPJ4WXF",
+      "version": 695,
+      "itemType": "book",
+      "title": "Just Enough Research",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Erika",
+          "lastName": "Hall"
+        }
+      ],
+      "abstractNote": "",
+      "series": "A book apart",
+      "seriesNumber": "No 9",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "First edition published 2013",
+      "place": "New York",
+      "publisher": "A Book Apart",
+      "date": "2019",
+      "numPages": "185",
+      "language": "eng",
+      "ISBN": "978-1-937557-88-1",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: hallJustEnoughResearch2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:59:18Z",
+      "dateModified": "2022-02-09T19:59:22Z"
+    }
+  },
+  {
+    "key": "E66TMLXW",
+    "version": 694,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/E66TMLXW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/E66TMLXW",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Badura and Grupa Wydawnicza Helion",
+      "parsedDate": "2019",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "E66TMLXW",
+      "version": 694,
+      "itemType": "book",
+      "title": "UXUI: design zoptymalizowany : nie tylko dla designerów : manual book",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Chris",
+          "lastName": "Badura"
+        },
+        {
+          "creatorType": "author",
+          "name": "Grupa Wydawnicza Helion"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Gliwice",
+      "publisher": "Helion",
+      "date": "2019",
+      "numPages": "",
+      "language": "Polish",
+      "ISBN": "978-83-283-5174-5",
+      "shortTitle": "UXUI",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Open WorldCat",
+      "callNumber": "",
+      "rights": "",
+      "extra": "OCLC: 1126630860\nCitation Key: baduraUXUIDesignZoptymalizowany2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:57:26Z",
+      "dateModified": "2022-02-09T19:57:46Z"
     }
   },
   {
     "key": "9QSMKCCG",
-    "version": 690,
+    "version": 693,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -94,7 +364,7 @@
     },
     "data": {
       "key": "9QSMKCCG",
-      "version": 690,
+      "version": 693,
       "itemType": "conferencePaper",
       "title": "User experience evaluation methods: current state and development needs",
       "creators": [
@@ -149,13 +419,148 @@
       "libraryCatalog": "DOI.org (Crossref)",
       "callNumber": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: vermeerenUserExperienceEvaluation2010",
       "tags": [],
       "collections": [
         "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2022-02-09T19:53:03Z",
+      "dateModified": "2022-02-09T19:53:29Z"
+    }
+  },
+  {
+    "key": "EGZFL3IX",
+    "version": 693,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EGZFL3IX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EGZFL3IX",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/JR3LCXPB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 266318
+      }
+    },
+    "meta": {
+      "creatorSummary": "Rohrer",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EGZFL3IX",
+      "version": 693,
+      "itemType": "journalArticle",
+      "title": "When to Use Which User-Experience Research Methods",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Christian",
+          "lastName": "Rohrer"
+        }
+      ],
+      "abstractNote": "Modern day UX research methods answer a wide range of questions. To know when to use which method, each of 20 methods is mapped across 3 dimensions and over time within a typical product-development process.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "7",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: rohrerWhenUseWhich",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:49:31Z",
+      "dateModified": "2022-02-09T19:53:29Z"
+    }
+  },
+  {
+    "key": "BSDQYU5C",
+    "version": 691,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BSDQYU5C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BSDQYU5C",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9QSMKCCG",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BSDQYU5C/file/view",
+        "title": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
+        "length": 652837
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BSDQYU5C",
+      "version": 691,
+      "parentItem": "9QSMKCCG",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
+      "md5": "ea340e2e82d3f8ef4b6b0609db3b7dfb",
+      "mtime": 1644436383000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:53:00Z",
       "dateModified": "2022-02-09T19:53:03Z"
     }
   },
@@ -372,83 +777,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2022-02-09T19:49:30Z",
-      "dateModified": "2022-02-09T19:49:31Z"
-    }
-  },
-  {
-    "key": "EGZFL3IX",
-    "version": 687,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/EGZFL3IX",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/EGZFL3IX",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/JR3LCXPB",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 266318
-      }
-    },
-    "meta": {
-      "creatorSummary": "Rohrer",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "EGZFL3IX",
-      "version": 687,
-      "itemType": "journalArticle",
-      "title": "When to Use Which User-Experience Research Methods",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Christian",
-          "lastName": "Rohrer"
-        }
-      ],
-      "abstractNote": "Modern day UX research methods answer a wide range of questions. To know when to use which method, each of 20 methods is mapped across 3 dimensions and over time within a typical product-development process.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "7",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2022-02-09T19:49:31Z",
       "dateModified": "2022-02-09T19:49:31Z"
     }
   },
