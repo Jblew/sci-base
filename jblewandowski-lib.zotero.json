@@ -1,5 +1,300 @@
 [
   {
+    "key": "NM2YUEDZ",
+    "version": 671,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NM2YUEDZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NM2YUEDZ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CJVDT9BZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/NM2YUEDZ/file/view",
+        "title": "Van Lange et al. - 2012 - Handbook of Theories of Social Psychology Volume .pdf",
+        "length": 5387095
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "NM2YUEDZ",
+      "version": 671,
+      "parentItem": "CJVDT9BZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Van Lange et al. - 2012 - Handbook of Theories of Social Psychology Volume .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Van Lange et al. - 2012 - Handbook of Theories of Social Psychology Volume .pdf",
+      "md5": "b5cff90613ef1149f0a6585484545306",
+      "mtime": 1644408113000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:01:49Z",
+      "dateModified": "2022-02-09T12:01:53Z"
+    }
+  },
+  {
+    "key": "CJVDT9BZ",
+    "version": 670,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CJVDT9BZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CJVDT9BZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/NM2YUEDZ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5387095
+      }
+    },
+    "meta": {
+      "creatorSummary": "Van Lange et al.",
+      "parsedDate": "2012",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CJVDT9BZ",
+      "version": 670,
+      "itemType": "book",
+      "title": "Handbook of Theories of Social Psychology: Volume 1",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Van Lange"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arie",
+          "lastName": "Kruglanski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "E.",
+          "lastName": "Higgins"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "1 Oliver's Yard,  55 City Road,  London    EC1Y 1SP  United Kingdom",
+      "publisher": "SAGE Publications Ltd",
+      "date": "2012",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-0-85702-960-7 978-1-4462-4921-5",
+      "shortTitle": "Handbook of Theories of Social Psychology",
+      "url": "http://sk.sagepub.com/reference/hdbk_socialpsychtheories1",
+      "accessDate": "2022-02-09T12:01:52Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.4135/9781446249215",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:01:52Z",
+      "dateModified": "2022-02-09T12:01:52Z"
+    }
+  },
+  {
+    "key": "QF8QCMM5",
+    "version": 668,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QF8QCMM5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QF8QCMM5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RICAZ34J",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/QF8QCMM5/file/view",
+        "title": "Lange et al. - 2012 - Handbook of theories of social psychology.pdf",
+        "length": 4555221
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "QF8QCMM5",
+      "version": 668,
+      "parentItem": "RICAZ34J",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lange et al. - 2012 - Handbook of theories of social psychology.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lange et al. - 2012 - Handbook of theories of social psychology.pdf",
+      "md5": "7b6a7643b2fd8ee334fc8c3302059597",
+      "mtime": 1644408024000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:00:19Z",
+      "dateModified": "2022-02-09T12:00:24Z"
+    }
+  },
+  {
+    "key": "RICAZ34J",
+    "version": 667,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RICAZ34J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RICAZ34J",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/QF8QCMM5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 4555221
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lange et al.",
+      "parsedDate": "2012",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RICAZ34J",
+      "version": 667,
+      "itemType": "book",
+      "title": "Handbook of theories of social psychology",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Paul A. M. Van",
+          "lastName": "Lange"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Arie W.",
+          "lastName": "Kruglanski"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "E. Tory",
+          "lastName": "Higgins"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Los Angeles",
+      "publisher": "SAGE",
+      "date": "2012",
+      "numPages": "2",
+      "language": "en",
+      "ISBN": "978-0-85702-960-7 978-0-85702-961-4 978-1-84787-514-3",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "HM1011 .H39 2012",
+      "rights": "",
+      "extra": "OCLC: ocn751825380",
+      "tags": [
+        {
+          "tag": "Social psychology",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:00:23Z",
+      "dateModified": "2022-02-09T12:00:24Z"
+    }
+  },
+  {
     "key": "SLLXFVCW",
     "version": 666,
     "library": {
