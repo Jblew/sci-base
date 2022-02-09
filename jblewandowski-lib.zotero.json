@@ -1,5 +1,141 @@
 [
   {
+    "key": "65MN43KF",
+    "version": 719,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/65MN43KF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/65MN43KF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/4CK6GKBU",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5766341
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kelter",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "65MN43KF",
+      "version": 719,
+      "itemType": "journalArticle",
+      "title": "Analysis of Bayesian posterior significance and effect size indices for the two-sample t-test to support reproducible medical research",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Riko",
+          "lastName": "Kelter"
+        }
+      ],
+      "abstractNote": "Background: The replication crisis hit the medical sciences about a decade ago, but today still most of the flaws inherent in null hypothesis significance testing (NHST) have not been solved. While the drawbacks of p-values have been detailed in endless venues, for clinical research, only a few attractive alternatives have been proposed to replace p-values and NHST. Bayesian methods are one of them, and they are gaining increasing attention in medical research, as some of their advantages include the description of model parameters in terms of probability, as well as the incorporation of prior information in contrast to the frequentist framework. While Bayesian methods are not the only remedy to the situation, there is an increasing agreement that they are an essential way to avoid common misconceptions and false interpretation of study results. The requirements necessary for applying Bayesian statistics have transitioned from detailed programming knowledge into simple point-and-click programs like JASP. Still, the multitude of Bayesian significance and effect measures which contrast the gold standard of significance in medical research, the p-value, causes a lack of agreement on which measure to report.\nMethods: Therefore, in this paper, we conduct an extensive simulation study to compare common Bayesian significance and effect measures which can be obtained from a posterior distribution. In it, we analyse the behaviour of these measures for one of the most important statistical procedures in medical research and in particular clinical trials, the two-sample Student’s (and Welch’s) t-test.\nResults: The results show that some measures cannot state evidence for both the null and the alternative. While the different indices behave similarly regarding increasing sample size and noise, the prior modelling influences the obtained results and extreme priors allow for cherry-picking similar to p-hacking in the frequentist paradigm. The indices behave quite differently regarding their ability to control the type I error rates and regarding their ability to detect an existing effect.\nConclusion: Based on the results, two of the commonly used indices can be recommended for more widespread use in clinical and biomedical research, as they improve the type I error control compared to the classic two-sample t-test and enjoy multiple other desirable properties.",
+      "publicationTitle": "BMC Medical Research Methodology",
+      "volume": "20",
+      "issue": "1",
+      "pages": "88",
+      "date": "12/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "BMC Med Res Methodol",
+      "language": "en",
+      "DOI": "10.1186/s12874-020-00968-2",
+      "ISSN": "1471-2288",
+      "shortTitle": "",
+      "url": "https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-00968-2",
+      "accessDate": "2022-02-09T20:37:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: kelterAnalysisBayesianPosterior2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:37:55Z",
+      "dateModified": "2022-02-09T20:39:43Z"
+    }
+  },
+  {
+    "key": "4CK6GKBU",
+    "version": 717,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4CK6GKBU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4CK6GKBU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/65MN43KF",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4CK6GKBU/file/view",
+        "title": "Kelter - 2020 - Analysis of Bayesian posterior significance and ef.pdf",
+        "length": 5766341
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4CK6GKBU",
+      "version": 717,
+      "parentItem": "65MN43KF",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kelter - 2020 - Analysis of Bayesian posterior significance and ef.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kelter - 2020 - Analysis of Bayesian posterior significance and ef.pdf",
+      "md5": "546b172f0662d9565220d820160d6f8d",
+      "mtime": 1644439075000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:37:50Z",
+      "dateModified": "2022-02-09T20:37:55Z"
+    }
+  },
+  {
     "key": "7GLPHN8Z",
     "version": 715,
     "library": {
