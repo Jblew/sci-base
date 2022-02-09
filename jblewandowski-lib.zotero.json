@@ -1,5 +1,458 @@
 [
   {
+    "key": "BSDQYU5C",
+    "version": 691,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BSDQYU5C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BSDQYU5C",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9QSMKCCG",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BSDQYU5C/file/view",
+        "title": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
+        "length": 652837
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BSDQYU5C",
+      "version": 691,
+      "parentItem": "9QSMKCCG",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Vermeeren et al. - 2010 - User experience evaluation methods current state .pdf",
+      "md5": "ea340e2e82d3f8ef4b6b0609db3b7dfb",
+      "mtime": 1644436383000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:53:00Z",
+      "dateModified": "2022-02-09T19:53:03Z"
+    }
+  },
+  {
+    "key": "9QSMKCCG",
+    "version": 690,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9QSMKCCG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9QSMKCCG",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BSDQYU5C",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 652837
+      }
+    },
+    "meta": {
+      "creatorSummary": "Vermeeren et al.",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9QSMKCCG",
+      "version": 690,
+      "itemType": "conferencePaper",
+      "title": "User experience evaluation methods: current state and development needs",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Arnold P. O. S.",
+          "lastName": "Vermeeren"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Effie Lai-Chong",
+          "lastName": "Law"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Virpi",
+          "lastName": "Roto"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marianna",
+          "lastName": "Obrist"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jettie",
+          "lastName": "Hoonhout"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kaisa",
+          "lastName": "Väänänen-Vainio-Mattila"
+        }
+      ],
+      "abstractNote": "The recent shift of emphasis to user experience (UX) has rendered it a central focus of product design and evaluation. A multitude of methods for UX design and evaluation exist, but a clear overview of the current state of the available UX evaluation methods is missing. This is partly due to a lack of agreement on the essential characteristics of UX. In this paper, we present the results of our multi-year effort of collecting UX evaluation methods from academia and industry with different approaches such as literature review, workshops, Special Interest Groups sessions and an online survey. We have collected 96 methods and analyzed them, among other criteria, based on the product development phase and the studied period of experience. Our analysis reveals development needs for UX evaluation methods, such as early-stage methods, methods for social and collaborative UX evaluation, establishing practicability and scientific quality, and a deeper understanding of UX.",
+      "date": "2010",
+      "proceedingsTitle": "Proceedings of the 6th Nordic Conference on Human-Computer Interaction Extending Boundaries - NordiCHI '10",
+      "conferenceName": "the 6th Nordic Conference",
+      "place": "Reykjavik, Iceland",
+      "publisher": "ACM Press",
+      "volume": "",
+      "pages": "521",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/1868914.1868973",
+      "ISBN": "978-1-60558-934-3",
+      "shortTitle": "User experience evaluation methods",
+      "url": "http://portal.acm.org/citation.cfm?doid=1868914.1868973",
+      "accessDate": "2022-02-09T19:53:03Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:53:03Z",
+      "dateModified": "2022-02-09T19:53:03Z"
+    }
+  },
+  {
+    "key": "T4MXMALU",
+    "version": 690,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/T4MXMALU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/T4MXMALU",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Schwabbauer",
+      "parsedDate": "1975-12",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "T4MXMALU",
+      "version": 690,
+      "itemType": "journalArticle",
+      "title": "Use of the latent image technique to develop and evaluate problem-solving skills",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M. L.",
+          "lastName": "Schwabbauer"
+        }
+      ],
+      "abstractNote": "This project involved designing, developing and evaluating a simulation module, utilizing the latent image technique. The general topic chosen for this simulation was the laboratory characterization of anemias. Target learner populations included medical technology students, physician assistant students, and pathology residents. Members of all three groups participated in the evaluation of the module and responded to its use in varied settings.",
+      "publicationTitle": "The American Journal of Medical Technology",
+      "volume": "41",
+      "issue": "12",
+      "pages": "457-462",
+      "date": "1975-12",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Am J Med Technol",
+      "language": "eng",
+      "DOI": "",
+      "ISSN": "0002-9335",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "PubMed",
+      "callNumber": "",
+      "rights": "",
+      "extra": "PMID: 2010",
+      "tags": [
+        {
+          "tag": "Anemia",
+          "type": 1
+        },
+        {
+          "tag": "Hematuria",
+          "type": 1
+        },
+        {
+          "tag": "Humans",
+          "type": 1
+        },
+        {
+          "tag": "Iowa",
+          "type": 1
+        },
+        {
+          "tag": "Medical Laboratory Science",
+          "type": 1
+        },
+        {
+          "tag": "Models, Psychological",
+          "type": 1
+        },
+        {
+          "tag": "Physician Assistants",
+          "type": 1
+        },
+        {
+          "tag": "Problem Solving",
+          "type": 1
+        },
+        {
+          "tag": "Teaching",
+          "type": 1
+        },
+        {
+          "tag": "Teaching Materials",
+          "type": 1
+        }
+      ],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:52:38Z",
+      "dateModified": "2022-02-09T19:52:38Z"
+    }
+  },
+  {
+    "key": "EHFGMXFV",
+    "version": 690,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EHFGMXFV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EHFGMXFV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/T4MXMALU",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "EHFGMXFV",
+      "version": 690,
+      "parentItem": "T4MXMALU",
+      "itemType": "attachment",
+      "linkMode": "linked_url",
+      "title": "PubMed entry",
+      "accessDate": "2022-02-09T19:52:38Z",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/2010",
+      "note": "",
+      "contentType": "text/html",
+      "charset": "",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:52:38Z",
+      "dateModified": "2022-02-09T19:52:38Z"
+    }
+  },
+  {
+    "key": "JR3LCXPB",
+    "version": 688,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JR3LCXPB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JR3LCXPB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EGZFL3IX",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/JR3LCXPB/file/view",
+        "title": "Rohrer - When to Use Which User-Experience Research Methods.pdf",
+        "length": 266318
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JR3LCXPB",
+      "version": 688,
+      "parentItem": "EGZFL3IX",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Rohrer - When to Use Which User-Experience Research Methods.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Rohrer - When to Use Which User-Experience Research Methods.pdf",
+      "md5": "b8e2b66732fd93cb29290c976903cdc5",
+      "mtime": 1644436171000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:49:30Z",
+      "dateModified": "2022-02-09T19:49:31Z"
+    }
+  },
+  {
+    "key": "EGZFL3IX",
+    "version": 687,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EGZFL3IX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EGZFL3IX",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/JR3LCXPB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 266318
+      }
+    },
+    "meta": {
+      "creatorSummary": "Rohrer",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EGZFL3IX",
+      "version": 687,
+      "itemType": "journalArticle",
+      "title": "When to Use Which User-Experience Research Methods",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Christian",
+          "lastName": "Rohrer"
+        }
+      ],
+      "abstractNote": "Modern day UX research methods answer a wide range of questions. To know when to use which method, each of 20 methods is mapped across 3 dimensions and over time within a typical product-development process.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "7",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T19:49:31Z",
+      "dateModified": "2022-02-09T19:49:31Z"
+    }
+  },
+  {
     "key": "UL3HNXDD",
     "version": 686,
     "library": {
