@@ -1,5 +1,172 @@
 [
   {
+    "key": "693RNP4K",
+    "version": 675,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/693RNP4K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/693RNP4K",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Snyder and Lopez",
+      "parsedDate": "2021",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "693RNP4K",
+      "version": 675,
+      "itemType": "book",
+      "title": "The Oxford handbook of positive psychology 3rd edition",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "C. R.",
+          "lastName": "Snyder"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Shane J.",
+          "lastName": "Lopez"
+        }
+      ],
+      "abstractNote": "\"The Oxford Handbook of Positive Psychology is the seminal reference in the field of positive psychology, which continues to transcend the boundaries of academia to capture the imagination of the general public. Almost 20 years after the first publication of this groundbreaking reference, this new third edition showcases how positive psychology is thriving in diverse contexts and fields of psychology. Consisting of 68 chapters of the most current theory and research, this updated handbook provides an unparalleled cross-disciplinary look at positive psychology from diverse fields and all branches of psychology, including social, clinical, personality, counseling, health, school, and developmental psychology. Several new chapters are included which highlight the latest research on positive psychology and neuroscience, as well as growing areas for applications of positive psychology\"--",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "Third Edition",
+      "place": "New York",
+      "publisher": "Oxford University Press",
+      "date": "2021",
+      "numPages": "",
+      "language": "",
+      "ISBN": "978-0-19-939651-1",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "BF204.6 .O95 2020",
+      "rights": "",
+      "extra": "Citation Key: snyderOxfordHandbookPositive2021",
+      "tags": [
+        {
+          "tag": "Positive psychology",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:36:43Z",
+      "dateModified": "2022-02-09T12:37:47Z"
+    }
+  },
+  {
+    "key": "38XVEMQT",
+    "version": 674,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/38XVEMQT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/38XVEMQT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6TWKTVID",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "38XVEMQT",
+      "version": 674,
+      "parentItem": "6TWKTVID",
+      "itemType": "note",
+      "note": "Revised edition of Oxford handbook of positive psychology",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:37:19Z",
+      "dateModified": "2022-02-09T12:37:19Z"
+    }
+  },
+  {
+    "key": "4Q4WILCF",
+    "version": 673,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4Q4WILCF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4Q4WILCF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/693RNP4K",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4Q4WILCF",
+      "version": 673,
+      "parentItem": "693RNP4K",
+      "itemType": "note",
+      "note": "Revised edition of Oxford handbook of positive psychology",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:36:43Z",
+      "dateModified": "2022-02-09T12:36:43Z"
+    }
+  },
+  {
     "key": "NM2YUEDZ",
     "version": 671,
     "library": {
