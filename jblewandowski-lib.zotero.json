@@ -1,5 +1,146 @@
 [
   {
+    "key": "34XV6TW8",
+    "version": 677,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/34XV6TW8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/34XV6TW8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BYUC6CWF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 720313
+      }
+    },
+    "meta": {
+      "creatorSummary": "DeChurch and Mesmer-Magnus",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "34XV6TW8",
+      "version": 677,
+      "itemType": "journalArticle",
+      "title": "The cognitive underpinnings of effective teamwork: A meta-analysis.",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Leslie A.",
+          "lastName": "DeChurch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jessica R.",
+          "lastName": "Mesmer-Magnus"
+        }
+      ],
+      "abstractNote": "Major theories of team effectiveness position emergent collective cognitive processes as central drivers of team performance. We meta-analytically cumulated 231 correlations culled from 65 independent studies of team cognition and its relations to teamwork processes, motivational states, and performance outcomes. We examined both broad relationships among cognition, behavior, motivation, and performance, as well as 3 underpinnings of team cognition as potential moderators of these relationships. Findings reveal there is indeed a cognitive foundation to teamwork; team cognition has strong positive relationships to team behavioral process, motivational states, and team performance. Meta-analytic regressions further indicate that team cognition explains significant incremental variance in team performance after the effects of behavioral and motivational dynamics have been controlled. The nature of emergence, form of cognition, and content of cognition moderate relationships among cognition, process, and performance, as do task interdependence and team type. Taken together, these findings not only cumulate extant research on team cognition but also provide a new interpretation of the impact of underlying dimensions of cognition as a way to frame and extend future research.",
+      "publicationTitle": "Journal of Applied Psychology",
+      "volume": "95",
+      "issue": "1",
+      "pages": "32-53",
+      "date": "01/2010",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Applied Psychology",
+      "language": "en",
+      "DOI": "10.1037/a0017328",
+      "ISSN": "1939-1854, 0021-9010",
+      "shortTitle": "The cognitive underpinnings of effective teamwork",
+      "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/a0017328",
+      "accessDate": "2022-02-09T13:44:43Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: dechurchCognitiveUnderpinningsEffective2010",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T13:44:43Z",
+      "dateModified": "2022-02-09T13:44:47Z"
+    }
+  },
+  {
+    "key": "BYUC6CWF",
+    "version": 678,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BYUC6CWF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BYUC6CWF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/34XV6TW8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BYUC6CWF/file/view",
+        "title": "DeChurch and Mesmer-Magnus - 2010 - The cognitive underpinnings of effective teamwork.pdf",
+        "length": 720313
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BYUC6CWF",
+      "version": 678,
+      "parentItem": "34XV6TW8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "DeChurch and Mesmer-Magnus - 2010 - The cognitive underpinnings of effective teamwork.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "DeChurch and Mesmer-Magnus - 2010 - The cognitive underpinnings of effective teamwork.pdf",
+      "md5": "bf96400ce04157057b9e3bd3d076d37c",
+      "mtime": 1644414283000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T13:44:40Z",
+      "dateModified": "2022-02-09T13:44:43Z"
+    }
+  },
+  {
     "key": "RFMNIKII",
     "version": 676,
     "library": {
