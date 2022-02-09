@@ -1,5 +1,303 @@
 [
   {
+    "key": "7GLPHN8Z",
+    "version": 715,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7GLPHN8Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7GLPHN8Z",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Jaynes and Bretthorst",
+      "parsedDate": "2003",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "7GLPHN8Z",
+      "version": 715,
+      "itemType": "book",
+      "title": "Probability theory: the logic of science",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "E. T.",
+          "lastName": "Jaynes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "G. Larry",
+          "lastName": "Bretthorst"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cambridge, UK ; New York, NY",
+      "publisher": "Cambridge University Press",
+      "date": "2003",
+      "numPages": "727",
+      "language": "",
+      "ISBN": "978-0-521-59271-0",
+      "shortTitle": "Probability theory",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "QA273 .J36 2003",
+      "rights": "",
+      "extra": "Citation Key: jaynesProbabilityTheoryLogic2003",
+      "tags": [
+        {
+          "tag": "Probabilities",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:34:44Z",
+      "dateModified": "2022-02-09T20:34:46Z"
+    }
+  },
+  {
+    "key": "VTY859UQ",
+    "version": 714,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VTY859UQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VTY859UQ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fisher",
+      "parsedDate": "1925",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VTY859UQ",
+      "version": 714,
+      "itemType": "book",
+      "title": "Statistical methods for research workers",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ronald Aylmer",
+          "lastName": "Fisher"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "1925",
+      "numPages": "",
+      "language": "English",
+      "ISBN": "978-93-5128-658-5",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Open WorldCat",
+      "callNumber": "",
+      "rights": "",
+      "extra": "OCLC: 997445705\nCitation Key: fisherStatisticalMethodsResearch1925",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:33:41Z",
+      "dateModified": "2022-02-09T20:33:51Z"
+    }
+  },
+  {
+    "key": "KKL6HXM6",
+    "version": 711,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KKL6HXM6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KKL6HXM6",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YATXNDYH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1246169
+      }
+    },
+    "meta": {
+      "creatorSummary": "Pham et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KKL6HXM6",
+      "version": 711,
+      "itemType": "journalArticle",
+      "title": "A Comparison Study of Algorithms to Detect Drug–Adverse Event Associations: Frequentist, Bayesian, and Machine-Learning Approaches",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Minh",
+          "lastName": "Pham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Feng",
+          "lastName": "Cheng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kandethody",
+          "lastName": "Ramachandran"
+        }
+      ],
+      "abstractNote": "Introduction  It is important to monitor the safety profile of drugs, and mining for strong associations between drugs and adverse events is an effective and inexpensive method of post-marketing safety surveillance.\nObjective  The objective of our work was to compare the accuracy of both common and innovative methods of data mining for pharmacovigilance purposes.\nMethods  We used the reference standard provided by the Observational Medical Outcomes Partnership, which contains 398 drug–adverse event pairs (165 positive controls, 233 negative controls). Ten methods and algorithms were applied to the US FDA Adverse Event Reporting System data to investigate the 398 pairs. The ten methods include popular methods in the pharmacovigilance literature, newly developed pharmacovigilance methods as at 2018, and popular methods in the genome-wide association study literature. We compared their performance using the receiver operating characteristic (ROC) plot, area under the curve (AUC), and Youden’s index.\nResults  The Bayesian confidence propagation neural network had the highest AUC overall. Monte Carlo expectation maximization, a method developed in 2018, had the second highest AUC and the highest Youden’s index, and performed very well in terms of high specificity. The regression-adjusted gamma Poisson shrinkage model performed best under high-sensitivity requirements.\nConclusion  Our results will be useful to help choose a method for a given desired level of specificity. Methods popular in the genome-wide association study literature did not perform well because of the sparsity of data and will need modification before their properties can be used in the drug–adverse event association problem.",
+      "publicationTitle": "Drug Safety",
+      "volume": "42",
+      "issue": "6",
+      "pages": "743-750",
+      "date": "6/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Drug Saf",
+      "language": "en",
+      "DOI": "10.1007/s40264-018-00792-0",
+      "ISSN": "0114-5916, 1179-1942",
+      "shortTitle": "A Comparison Study of Algorithms to Detect Drug–Adverse Event Associations",
+      "url": "http://link.springer.com/10.1007/s40264-018-00792-0",
+      "accessDate": "2022-02-09T20:28:24Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: phamComparisonStudyAlgorithms2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:28:24Z",
+      "dateModified": "2022-02-09T20:28:34Z"
+    }
+  },
+  {
+    "key": "YATXNDYH",
+    "version": 712,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YATXNDYH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YATXNDYH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KKL6HXM6",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YATXNDYH/file/view",
+        "title": "Pham et al. - 2019 - A Comparison Study of Algorithms to Detect Drug–Ad.pdf",
+        "length": 1246169
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YATXNDYH",
+      "version": 712,
+      "parentItem": "KKL6HXM6",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Pham et al. - 2019 - A Comparison Study of Algorithms to Detect Drug–Ad.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Pham et al. - 2019 - A Comparison Study of Algorithms to Detect Drug–Ad.pdf",
+      "md5": "2691006169031b42cda5bf5a0783631d",
+      "mtime": 1644438505000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:28:22Z",
+      "dateModified": "2022-02-09T20:28:25Z"
+    }
+  },
+  {
     "key": "GZNJEV3H",
     "version": 709,
     "library": {
