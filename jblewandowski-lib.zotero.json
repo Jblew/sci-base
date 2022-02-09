@@ -1,5 +1,440 @@
 [
   {
+    "key": "UL3HNXDD",
+    "version": 686,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UL3HNXDD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UL3HNXDD",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marczewski",
+      "parsedDate": "2013",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "UL3HNXDD",
+      "version": 686,
+      "itemType": "book",
+      "title": "Gamification: a simple introduction",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Andrzej",
+          "lastName": "Marczewski"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "Andrzej Marczewski",
+      "date": "2013",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: marczewski2013gamification",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T14:05:26Z",
+      "dateModified": "2022-02-09T14:05:26Z"
+    }
+  },
+  {
+    "key": "V4N9D2YZ",
+    "version": 682,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V4N9D2YZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V4N9D2YZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KVZ7ZDNH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 242519
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mora et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "V4N9D2YZ",
+      "version": 682,
+      "itemType": "conferencePaper",
+      "title": "A Literature Review of Gamification Design Frameworks",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alberto",
+          "lastName": "Mora"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Riera"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carina",
+          "lastName": "Gonzalez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joan",
+          "lastName": "Arnedo-Moreno"
+        }
+      ],
+      "abstractNote": "This paper presents a review of the literature on gamiﬁcation design frameworks. Gamiﬁcation, understood as the use of game design elements in other contexts for the purpose of engagement, has become a hot topic in the recent years. However, there’s also a cautionary tale to be extracted from Gartner’s reports on the topic: many gamiﬁcation-based solutions fail because, mostly, they have been created on a whim, or mixing bits and pieces from game components, without a clear and formal design process. The application of a deﬁnite design framework aims to be a path to success. Therefore, before starting the gamiﬁcation of a process, it is very important to know which frameworks or methods exist and their main characteristics. The present review synthesizes the process of gamiﬁcation design for a successful engagement experience. This review categorizes existing approaches and provides an assessment of their main features, which may prove invaluable to developers of gamiﬁed solutions at different levels and scopes.",
+      "date": "9/2015",
+      "proceedingsTitle": "2015 7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games)",
+      "conferenceName": "2015 7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games)",
+      "place": "Skövde, Sweden",
+      "publisher": "IEEE",
+      "volume": "",
+      "pages": "1-8",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1109/VS-GAMES.2015.7295760",
+      "ISBN": "978-1-4799-8102-1",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/7295760/",
+      "accessDate": "2022-02-09T14:03:27Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: moraLiteratureReviewGamification2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T14:03:27Z",
+      "dateModified": "2022-02-09T14:03:30Z"
+    }
+  },
+  {
+    "key": "7IXDF25Z",
+    "version": 682,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7IXDF25Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7IXDF25Z",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/H3M7ZJ8U",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1178184
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mora et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "7IXDF25Z",
+      "version": 682,
+      "itemType": "journalArticle",
+      "title": "Gamification: a systematic review of design frameworks",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alberto",
+          "lastName": "Mora"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Riera"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carina",
+          "lastName": "González"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joan",
+          "lastName": "Arnedo-Moreno"
+        }
+      ],
+      "abstractNote": "Learner’s motivation difﬁculties are recognized as a problem in diverse educational scenarios, reaching up to university degrees. Among other techniques that are often applied by instructors to counteract this issue, those related to the use of gaming elements seem to very promising. In this context, considering the use of game-like properties in learning scenarios, known as gamiﬁcation, has received increasing interest by academia in recent years. However, its application in higher education can be challenging, due to some unwanted effects caused by the lack of proven design methodologies have been detected. Choosing the adequate formal process for gamiﬁcation design has become an important success requirement. This work presents a systematic review of the gamiﬁcation design frameworks discussed in the literature, providing a useful resource to educational practitioners as well as gamiﬁcation designers and researchers. A total of 2314 unique works are initially recorded, based on queries in databases, libraries, journals and search engines. After applying a systematic ﬁltering process, a deﬁnitive list of 40 works is more closely analysed. Next to review over relevant literature, an assessment of the main features found in the discussed approaches is given, while also categorizing them according to their main application ﬁeld and its suitability in higher educational environments.",
+      "publicationTitle": "Journal of Computing in Higher Education",
+      "volume": "29",
+      "issue": "3",
+      "pages": "516-548",
+      "date": "12/2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "J Comput High Educ",
+      "language": "en",
+      "DOI": "10.1007/s12528-017-9150-4",
+      "ISSN": "1042-1726, 1867-1233",
+      "shortTitle": "Gamification",
+      "url": "http://link.springer.com/10.1007/s12528-017-9150-4",
+      "accessDate": "2022-02-09T14:03:20Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: moraGamificationSystematicReview2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T14:03:20Z",
+      "dateModified": "2022-02-09T14:03:30Z"
+    }
+  },
+  {
+    "key": "KVZ7ZDNH",
+    "version": 684,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KVZ7ZDNH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KVZ7ZDNH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/V4N9D2YZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KVZ7ZDNH/file/view",
+        "title": "Mora et al. - 2015 - A Literature Review of Gamification Design Framewo.pdf",
+        "length": 242519
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KVZ7ZDNH",
+      "version": 684,
+      "parentItem": "V4N9D2YZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mora et al. - 2015 - A Literature Review of Gamification Design Framewo.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mora et al. - 2015 - A Literature Review of Gamification Design Framewo.pdf",
+      "md5": "90deed3d591719b1085e9026fa6e9b1c",
+      "mtime": 1644415407000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T14:03:25Z",
+      "dateModified": "2022-02-09T14:03:27Z"
+    }
+  },
+  {
+    "key": "H3M7ZJ8U",
+    "version": 683,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H3M7ZJ8U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H3M7ZJ8U",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/7IXDF25Z",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/H3M7ZJ8U/file/view",
+        "title": "Mora et al. - 2017 - Gamification a systematic review of design framew.pdf",
+        "length": 1178184
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "H3M7ZJ8U",
+      "version": 683,
+      "parentItem": "7IXDF25Z",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mora et al. - 2017 - Gamification a systematic review of design framew.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mora et al. - 2017 - Gamification a systematic review of design framew.pdf",
+      "md5": "f53fc1f7c99168d703e7995fe43e23d1",
+      "mtime": 1644415401000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T14:03:18Z",
+      "dateModified": "2022-02-09T14:03:21Z"
+    }
+  },
+  {
+    "key": "KSNUNZVK",
+    "version": 680,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KSNUNZVK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KSNUNZVK",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lazzaro",
+      "parsedDate": "2008",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KSNUNZVK",
+      "version": 680,
+      "itemType": "document",
+      "title": "The four fun keys. game usability: Advancing the player experience (K. Isbister and N. Schaffer, eds.)",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "N",
+          "lastName": "Lazzaro"
+        }
+      ],
+      "abstractNote": "",
+      "publisher": "Burlington: Elsevier",
+      "date": "2008",
+      "language": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: lazzaro2008four",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T14:00:51Z",
+      "dateModified": "2022-02-09T14:00:51Z"
+    }
+  },
+  {
     "key": "34XV6TW8",
     "version": 677,
     "library": {
@@ -26,7 +461,7 @@
         "href": "https://api.zotero.org/users/8674355/items/BYUC6CWF",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 720313
+        "attachmentSize": 733105
       }
     },
     "meta": {
@@ -84,7 +519,7 @@
   },
   {
     "key": "BYUC6CWF",
-    "version": 678,
+    "version": 681,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -113,7 +548,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/BYUC6CWF/file/view",
         "title": "DeChurch and Mesmer-Magnus - 2010 - The cognitive underpinnings of effective teamwork.pdf",
-        "length": 720313
+        "length": 733105
       }
     },
     "meta": {
@@ -121,7 +556,7 @@
     },
     "data": {
       "key": "BYUC6CWF",
-      "version": 678,
+      "version": 681,
       "parentItem": "34XV6TW8",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -132,8 +567,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "DeChurch and Mesmer-Magnus - 2010 - The cognitive underpinnings of effective teamwork.pdf",
-      "md5": "bf96400ce04157057b9e3bd3d076d37c",
-      "mtime": 1644414283000,
+      "md5": "32e94f2be6e209ebe63de552e181f8e0",
+      "mtime": 1644414362000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-02-09T13:44:40Z",
