@@ -1,5 +1,369 @@
 [
   {
+    "key": "GZNJEV3H",
+    "version": 709,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GZNJEV3H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GZNJEV3H",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XKIPA6TE",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 8647823
+      }
+    },
+    "meta": {
+      "creatorSummary": "Schulz et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "GZNJEV3H",
+      "version": 709,
+      "itemType": "book",
+      "title": "Becoming Citizens in a Changing World: IEA International Civic and Citizenship Education Study 2016 International Report",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Wolfram",
+          "lastName": "Schulz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Ainley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julian",
+          "lastName": "Fraillon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bruno",
+          "lastName": "Losito"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gabriella",
+          "lastName": "Agrusti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tim",
+          "lastName": "Friedman"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2018",
+      "numPages": "",
+      "language": "en",
+      "ISBN": "978-3-319-73962-5 978-3-319-73963-2",
+      "shortTitle": "Becoming Citizens in a Changing World",
+      "url": "http://link.springer.com/10.1007/978-3-319-73963-2",
+      "accessDate": "2022-02-09T20:25:40Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1007/978-3-319-73963-2\nCitation Key: schulzBecomingCitizensChanging2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:25:40Z",
+      "dateModified": "2022-02-09T20:25:57Z"
+    }
+  },
+  {
+    "key": "XKIPA6TE",
+    "version": 708,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XKIPA6TE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XKIPA6TE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GZNJEV3H",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/XKIPA6TE/file/view",
+        "title": "Schulz et al. - 2018 - Becoming Citizens in a Changing World IEA Interna.pdf",
+        "length": 8647823
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "XKIPA6TE",
+      "version": 708,
+      "parentItem": "GZNJEV3H",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Schulz et al. - 2018 - Becoming Citizens in a Changing World IEA Interna.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Schulz et al. - 2018 - Becoming Citizens in a Changing World IEA Interna.pdf",
+      "md5": "b3c17d558a5a79a15bbd6c1b5532b4df",
+      "mtime": 1644438340000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:25:37Z",
+      "dateModified": "2022-02-09T20:25:40Z"
+    }
+  },
+  {
+    "key": "TGP89B87",
+    "version": 706,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TGP89B87",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TGP89B87",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kelley and Littman",
+      "parsedDate": "2001",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TGP89B87",
+      "version": 706,
+      "itemType": "book",
+      "title": "The art of innovation: lessons in creativity from IDEO, America's leading design firm",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Tom",
+          "lastName": "Kelley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jonathan",
+          "lastName": "Littman"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "1st ed",
+      "place": "New York",
+      "publisher": "Currency/Doubleday",
+      "date": "2001",
+      "numPages": "307",
+      "language": "",
+      "ISBN": "978-0-385-49984-2",
+      "shortTitle": "The art of innovation",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "HD53 .K454 2001",
+      "rights": "",
+      "extra": "Citation Key: kelleyArtInnovationLessons2001",
+      "tags": [
+        {
+          "tag": "Case studies",
+          "type": 1
+        },
+        {
+          "tag": "Creative ability in business",
+          "type": 1
+        },
+        {
+          "tag": "Technological innovations",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:18:47Z",
+      "dateModified": "2022-02-09T20:18:50Z"
+    }
+  },
+  {
+    "key": "VLRH83NF",
+    "version": 706,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VLRH83NF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VLRH83NF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/TGP89B87",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VLRH83NF",
+      "version": 706,
+      "parentItem": "TGP89B87",
+      "itemType": "note",
+      "note": "Includes index",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:18:47Z",
+      "dateModified": "2022-02-09T20:18:47Z"
+    }
+  },
+  {
+    "key": "AATTDRD5",
+    "version": 705,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AATTDRD5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AATTDRD5",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Liedtka",
+      "parsedDate": "2018",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "AATTDRD5",
+      "version": 705,
+      "itemType": "journalArticle",
+      "title": "Why design thinking works",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jeanne",
+          "lastName": "Liedtka"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Harvard Business Review",
+      "volume": "96",
+      "issue": "5",
+      "pages": "72–79",
+      "date": "2018",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: liedtka2018design",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:17:36Z",
+      "dateModified": "2022-02-09T20:17:36Z"
+    }
+  },
+  {
     "key": "8JLUW98X",
     "version": 704,
     "library": {
