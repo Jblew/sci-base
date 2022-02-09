@@ -1,5 +1,629 @@
 [
   {
+    "key": "8JLUW98X",
+    "version": 704,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8JLUW98X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8JLUW98X",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Knapp et al.",
+      "parsedDate": "2016",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "8JLUW98X",
+      "version": 704,
+      "itemType": "book",
+      "title": "Sprint: how to solve big problems and test new ideas in just five days",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jake",
+          "lastName": "Knapp"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Zeratsky"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Braden",
+          "lastName": "Kowitz"
+        }
+      ],
+      "abstractNote": "From three design partners at Google Ventures, a unique five-day process--called the sprint--for solving tough problems using design, prototyping, and testing ideas with customers",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "First Simon & Schuster hardcover edition",
+      "place": "New York",
+      "publisher": "Simon & Schuster",
+      "date": "2016",
+      "numPages": "274",
+      "language": "",
+      "ISBN": "978-1-5011-2174-6",
+      "shortTitle": "Sprint",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "HD30.29 .K63 2016",
+      "rights": "",
+      "extra": "OCLC: ocn913304205\nCitation Key: knappSprintHowSolve2016",
+      "tags": [
+        {
+          "tag": "Creative ability in business",
+          "type": 1
+        },
+        {
+          "tag": "Management",
+          "type": 1
+        },
+        {
+          "tag": "Problem solving",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:14:49Z",
+      "dateModified": "2022-02-09T20:14:52Z"
+    }
+  },
+  {
+    "key": "8JSFQVZA",
+    "version": 704,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8JSFQVZA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8JSFQVZA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/8JLUW98X",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "8JSFQVZA",
+      "version": 704,
+      "parentItem": "8JLUW98X",
+      "itemType": "note",
+      "note": "Set the stage. Challenge ; Team ; Time and space -- Monday. Start at the end ; Map ; Ask the experts ; Target -- Tuesday. Remix and improve ; Sketch -- Wednesday. Decide ; Rumble ; Storyboard -- Thursday. Fake it ; Prototype -- Friday. Small data ; Interview ; Learn -- Liftoff -- Checklists",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:14:49Z",
+      "dateModified": "2022-02-09T20:14:49Z"
+    }
+  },
+  {
+    "key": "Y2E4XK48",
+    "version": 704,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y2E4XK48",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y2E4XK48",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/8JLUW98X",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Y2E4XK48",
+      "version": 704,
+      "parentItem": "8JLUW98X",
+      "itemType": "note",
+      "note": "Includes index",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:14:49Z",
+      "dateModified": "2022-02-09T20:14:49Z"
+    }
+  },
+  {
+    "key": "H7KB9ML8",
+    "version": 703,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H7KB9ML8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H7KB9ML8",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "King et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "H7KB9ML8",
+      "version": 703,
+      "itemType": "book",
+      "title": "Designing with data: improving the user experience with A/B testing",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rochelle",
+          "lastName": "King"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elizabeth F.",
+          "lastName": "Churchill"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Caitlin",
+          "lastName": "Tan"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "First edition",
+      "place": "Sebastopol, CA",
+      "publisher": "O'Reilly Media, Inc",
+      "date": "2017",
+      "numPages": "337",
+      "language": "",
+      "ISBN": "978-1-4493-3483-3",
+      "shortTitle": "Designing with data",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "QA76.9.H85 K56 2017",
+      "rights": "",
+      "extra": "OCLC: ocn985010697\nCitation Key: kingDesigningDataImproving2017",
+      "tags": [
+        {
+          "tag": "Information visualization",
+          "type": 1
+        },
+        {
+          "tag": "User-centered system design",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:10:24Z",
+      "dateModified": "2022-02-09T20:10:27Z"
+    }
+  },
+  {
+    "key": "W8XDZNHD",
+    "version": 703,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W8XDZNHD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W8XDZNHD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/H7KB9ML8",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "W8XDZNHD",
+      "version": 703,
+      "parentItem": "H7KB9ML8",
+      "itemType": "note",
+      "note": "Introducing a data mindset -- The ABCs of using data -- A framework for experimentation -- The definition phase (how to frame your experiments) -- The execution phase (how to put your experiments into action) -- The analysis phase (getting answers from your experiments) -- Creating the right environment for data-aware design -- Conclusion. Ethical considerations ; Last words",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:10:24Z",
+      "dateModified": "2022-02-09T20:10:24Z"
+    }
+  },
+  {
+    "key": "HAXIY9UH",
+    "version": 700,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HAXIY9UH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HAXIY9UH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/CFF8TTSW",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 815570
+      }
+    },
+    "meta": {
+      "creatorSummary": "Azevedo et al.",
+      "parsedDate": "2020-12-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HAXIY9UH",
+      "version": 700,
+      "itemType": "journalArticle",
+      "title": "A/B Testing with Fat Tails",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eduardo M.",
+          "lastName": "Azevedo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alex",
+          "lastName": "Deng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "José Luis",
+          "lastName": "Montiel Olea"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Justin",
+          "lastName": "Rao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "E. Glen",
+          "lastName": "Weyl"
+        }
+      ],
+      "abstractNote": "Large and statistically powerful A/B tests are increasingly popular to screen new business and policy ideas. We study how to use scarce experimental resources to screen multiple potential innovations by proposing a new framework for optimal experimentation, that we term the A/B testing problem. The main departure from the literature is that the model allows for fat tails. The key insight is that the optimal experimentation strategy depends on whether most gains accrue from typical innovations or from rare and unpredictable large successes that can be detected using tests with small samples. We show that, if the tails of the unobserved distribution of innovation quality are not too fat, the standard approach of using a few high-powered “big” experiments is optimal. However, when this distribution is very fat tailed, a “lean” experimentation strategy consisting of trying more ideas, each with possibly smaller sample sizes, is preferred. We measure the relevant tail parameter using experiments from Microsoft Bing’s EXP platform and ﬁnd extremely fat tails. Our theoretical results and empirical analysis suggest that even simple changes to business practices within Bing could increase innovation productivity.",
+      "publicationTitle": "Journal of Political Economy",
+      "volume": "128",
+      "issue": "12",
+      "pages": "4614-000",
+      "date": "2020-12-01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Political Economy",
+      "language": "en",
+      "DOI": "10.1086/710607",
+      "ISSN": "0022-3808, 1537-534X",
+      "shortTitle": "",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/710607",
+      "accessDate": "2022-02-09T20:08:59Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: azevedoTestingFatTails2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:08:59Z",
+      "dateModified": "2022-02-09T20:09:01Z"
+    }
+  },
+  {
+    "key": "CFF8TTSW",
+    "version": 701,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CFF8TTSW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CFF8TTSW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HAXIY9UH",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/CFF8TTSW/file/view",
+        "title": "Azevedo et al. - 2020 - AB Testing with Fat Tails.pdf",
+        "length": 815570
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "CFF8TTSW",
+      "version": 701,
+      "parentItem": "HAXIY9UH",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Azevedo et al. - 2020 - AB Testing with Fat Tails.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Azevedo et al. - 2020 - AB Testing with Fat Tails.pdf",
+      "md5": "2913c7197a4ddbc0d9531be029ba03d6",
+      "mtime": 1644437339000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:08:56Z",
+      "dateModified": "2022-02-09T20:08:59Z"
+    }
+  },
+  {
+    "key": "N3DC742R",
+    "version": 697,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N3DC742R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N3DC742R",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/PFXC2DQ5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1614150
+      }
+    },
+    "meta": {
+      "creatorSummary": "Gilotte et al.",
+      "parsedDate": "2018-02-02",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "N3DC742R",
+      "version": 697,
+      "itemType": "conferencePaper",
+      "title": "Offline A/B Testing for Recommender Systems",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alexandre",
+          "lastName": "Gilotte"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Clément",
+          "lastName": "Calauzènes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Nedelec"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandre",
+          "lastName": "Abraham"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Dollé"
+        }
+      ],
+      "abstractNote": "Online A/B testing evaluates the impact of a new technology by running it in a real production environment and testing its performance on a subset of the users of the platform. It is a well-known practice to run a preliminary offline evaluation on historical data to iterate faster on new ideas, and to detect poor policies in order to avoid losing money or breaking the system. For such offline evaluations, we are interested in methods that can compute offline an estimate of the potential uplift of performance generated by a new technology. Offline performance can be measured using estimators known as counterfactual or off-policy estimators. Traditional counterfactual estimators, such as capped importance sampling or normalised importance sampling, exhibit unsatisfying bias-variance compromises when experimenting on personalized product recommendation systems. To overcome this issue, we model the bias incurred by these estimators rather than bound it in the worst case, which leads us to propose a new counterfactual estimator. We provide a benchmark of the different estimators showing their correlation with business metrics observed by running online A/B tests on a large-scale commercial recommender system.",
+      "date": "2018-02-02",
+      "proceedingsTitle": "Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining",
+      "conferenceName": "WSDM 2018: The Eleventh ACM International Conference on Web Search and Data Mining",
+      "place": "Marina Del Rey CA USA",
+      "publisher": "ACM",
+      "volume": "",
+      "pages": "198-206",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/3159652.3159687",
+      "ISBN": "978-1-4503-5581-0",
+      "shortTitle": "",
+      "url": "https://dl.acm.org/doi/10.1145/3159652.3159687",
+      "accessDate": "2022-02-09T20:07:11Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: gilotteOfflineTestingRecommender2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:07:11Z",
+      "dateModified": "2022-02-09T20:07:14Z"
+    }
+  },
+  {
+    "key": "PFXC2DQ5",
+    "version": 698,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PFXC2DQ5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PFXC2DQ5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/N3DC742R",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/PFXC2DQ5/file/view",
+        "title": "Gilotte et al. - 2018 - Offline AB Testing for Recommender Systems.pdf",
+        "length": 1614150
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PFXC2DQ5",
+      "version": 698,
+      "parentItem": "N3DC742R",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Gilotte et al. - 2018 - Offline AB Testing for Recommender Systems.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Gilotte et al. - 2018 - Offline AB Testing for Recommender Systems.pdf",
+      "md5": "fda4e69bf8390ab9637f1ef1a95dc408",
+      "mtime": 1644437231000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:07:08Z",
+      "dateModified": "2022-02-09T20:07:11Z"
+    }
+  },
+  {
     "key": "4YSBKY99",
     "version": 696,
     "library": {
