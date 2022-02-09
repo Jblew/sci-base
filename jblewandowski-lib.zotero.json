@@ -1,5 +1,87 @@
 [
   {
+    "key": "RFMNIKII",
+    "version": 676,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RFMNIKII",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RFMNIKII",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Shogren et al.",
+      "parsedDate": "2017",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "RFMNIKII",
+      "version": 676,
+      "itemType": "bookSection",
+      "title": "Causal agency theory",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Karrie A",
+          "lastName": "Shogren"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael L",
+          "lastName": "Wehmeyer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susan B",
+          "lastName": "Palmer"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "Development of self-determination through the life-course",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "Springer",
+      "date": "2017",
+      "pages": "55–67",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: shogren2017causal",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T12:52:28Z",
+      "dateModified": "2022-02-09T12:52:28Z"
+    }
+  },
+  {
     "key": "693RNP4K",
     "version": 675,
     "library": {
