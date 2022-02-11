@@ -1,5 +1,150 @@
 [
   {
+    "key": "9JBM6U88",
+    "version": 726,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9JBM6U88",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9JBM6U88",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/92DKHDD3",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3107044
+      }
+    },
+    "meta": {
+      "creatorSummary": "Dihoff et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9JBM6U88",
+      "version": 726,
+      "itemType": "journalArticle",
+      "title": "PROVISION OF FEEDBACK DURING PREPARATION FOR ACADEMIC TESTING: LEARNING IS ENHANCED BV IMMEDIATE BUT NOT DELAVED FEEDBACK",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roberta E",
+          "lastName": "Dihoff"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Garv M",
+          "lastName": "Brosvic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael L",
+          "lastName": "Epstein"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "25",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: dihoffPROVISIONFEEDBACKPREPARATION",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T18:06:14Z",
+      "dateModified": "2022-02-11T18:06:18Z"
+    }
+  },
+  {
+    "key": "92DKHDD3",
+    "version": 727,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/92DKHDD3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/92DKHDD3",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9JBM6U88",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/92DKHDD3/file/view",
+        "title": "Dihoff et al. - PROVISION OF FEEDBACK DURING PREPARATION FOR ACADE.pdf",
+        "length": 3107044
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "92DKHDD3",
+      "version": 727,
+      "parentItem": "9JBM6U88",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Dihoff et al. - PROVISION OF FEEDBACK DURING PREPARATION FOR ACADE.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Dihoff et al. - PROVISION OF FEEDBACK DURING PREPARATION FOR ACADE.pdf",
+      "md5": "ce1c0bbb86c1437f92a216afc4e7a46a",
+      "mtime": 1644602774000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-11T18:06:12Z",
+      "dateModified": "2022-02-11T18:06:14Z"
+    }
+  },
+  {
     "key": "UEKPW6NZ",
     "version": 723,
     "library": {
