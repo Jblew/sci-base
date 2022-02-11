@@ -1,5 +1,354 @@
 [
   {
+    "key": "SEIZL6EL",
+    "version": 747,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SEIZL6EL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SEIZL6EL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/74T75BEJ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 965554
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hanus and Fox",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "SEIZL6EL",
+      "version": 747,
+      "itemType": "journalArticle",
+      "title": "Assessing the effects of gamification in the classroom: A longitudinal study on intrinsic motivation, social comparison, satisfaction, effort, and academic performance",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael D.",
+          "lastName": "Hanus"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jesse",
+          "lastName": "Fox"
+        }
+      ],
+      "abstractNote": "Gamiﬁcation, the application of game elements to non-game settings, continues to grow in popularity as a method to increase student engagement in the classroom. We tested students across two courses, measuring their motivation, social comparison, effort, satisfaction, learner empowerment, and academic performance at four points during a 16-week semester. One course received a gamiﬁed curriculum, featuring a leaderboard and badges, whereas the other course received the same curriculum without the gamiﬁed elements. Our results found that students in the gamiﬁed course showed less motivation, satisfaction, and empowerment over time than those in the non-gamiﬁed class. The effect of course type on students' ﬁnal exam scores was mediated by students' levels of intrinsic motivation, with students in the gamiﬁed course showing less motivation and lower ﬁnal exam scores than the non-gamiﬁed class. This suggests that some care should be taken when applying certain gamiﬁcation mechanics to educational settings.",
+      "publicationTitle": "Computers & Education",
+      "volume": "80",
+      "issue": "",
+      "pages": "152-161",
+      "date": "01/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Computers & Education",
+      "language": "en",
+      "DOI": "10.1016/j.compedu.2014.08.019",
+      "ISSN": "03601315",
+      "shortTitle": "Assessing the effects of gamification in the classroom",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0360131514002000",
+      "accessDate": "2022-02-11T20:14:22Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: hanusAssessingEffectsGamification2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T20:14:22Z",
+      "dateModified": "2022-02-11T20:14:27Z"
+    }
+  },
+  {
+    "key": "74T75BEJ",
+    "version": 745,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/74T75BEJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/74T75BEJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/SEIZL6EL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/74T75BEJ/file/view",
+        "title": "Hanus and Fox - 2015 - Assessing the effects of gamification in the class.pdf",
+        "length": 965554
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "74T75BEJ",
+      "version": 745,
+      "parentItem": "SEIZL6EL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Hanus and Fox - 2015 - Assessing the effects of gamification in the class.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Hanus and Fox - 2015 - Assessing the effects of gamification in the class.pdf",
+      "md5": "01e686feeb105c65f5be55d35deb65ad",
+      "mtime": 1644610462000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-11T20:14:19Z",
+      "dateModified": "2022-02-11T20:14:22Z"
+    }
+  },
+  {
+    "key": "YHJRRPYH",
+    "version": 743,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YHJRRPYH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YHJRRPYH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/7YNXYFDK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1295840
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mekler et al.",
+      "parsedDate": "2013-10-02",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "YHJRRPYH",
+      "version": 743,
+      "itemType": "conferencePaper",
+      "title": "Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Elisa D.",
+          "lastName": "Mekler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florian",
+          "lastName": "Brühlmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Klaus",
+          "lastName": "Opwis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandre N.",
+          "lastName": "Tuch"
+        }
+      ],
+      "abstractNote": "It is heavily debated within the gamiﬁcation community whether speciﬁc game elements may actually undermine users’ intrinsic motivation. This online experiment examined the effects of three commonly employed game design elements – points, leaderboard, levels – on users’ performance, intrinsic motivation, perceived autonomy and competence in an image annotation task. Implementation of these game elements signiﬁcantly increased performance, but did not affect perceived autonomy, competence or intrinsic motivation. Our ﬁndings suggest that points, levels and leaderboards by themselves neither make nor break users’ intrinsic motivation in non-game contexts. Instead, it is assumed that they act as progress indicators, guiding and enhancing user performance. While more research on the contextual factors that may potentially mediate the effects of game elements on intrinsic motivation is required, it seems that the implementation of points, levels, and leaderboards is a viable means to promote speciﬁc user behavior in non-game contexts.",
+      "date": "2013-10-02",
+      "proceedingsTitle": "Proceedings of the First International Conference on Gameful Design, Research, and Applications",
+      "conferenceName": "Gamification '13: Gameful Design, Research, and Applications",
+      "place": "Toronto Ontario Canada",
+      "publisher": "ACM",
+      "volume": "",
+      "pages": "66-73",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/2583008.2583017",
+      "ISBN": "978-1-4503-2815-9",
+      "shortTitle": "Do points, levels and leaderboards harm intrinsic motivation?",
+      "url": "https://dl.acm.org/doi/10.1145/2583008.2583017",
+      "accessDate": "2022-02-11T20:11:41Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: meklerPointsLevelsLeaderboards2013",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T20:11:41Z",
+      "dateModified": "2022-02-11T20:11:54Z"
+    }
+  },
+  {
+    "key": "7YNXYFDK",
+    "version": 739,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7YNXYFDK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7YNXYFDK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/YHJRRPYH",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/7YNXYFDK/file/view",
+        "title": "Mekler et al. - 2013 - Do Points, Levels and Leaderboards Harm Intrinsic .pdf",
+        "length": 1295840
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "7YNXYFDK",
+      "version": 739,
+      "parentItem": "YHJRRPYH",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mekler et al. - 2013 - Do points, levels and leaderboards harm intrinsic .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mekler et al. - 2013 - Do points, levels and leaderboards harm intrinsic .pdf",
+      "md5": "226217c7969c06668ec8cc9db4f03516",
+      "mtime": 1644610301000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-11T20:11:39Z",
+      "dateModified": "2022-02-11T20:11:41Z"
+    }
+  },
+  {
+    "key": "BDCN7EEZ",
+    "version": 736,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BDCN7EEZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BDCN7EEZ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou, Yu-kai",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BDCN7EEZ",
+      "version": 736,
+      "itemType": "blogPost",
+      "title": "The 8 Core Drives of Gamification (#8): Loss & Avoidance",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Chou, Yu-kai"
+        }
+      ],
+      "abstractNote": "",
+      "blogTitle": "",
+      "websiteType": "",
+      "date": "",
+      "url": "https://yukaichou.com/gamification-study/8-loss-and-avoidance/",
+      "accessDate": "2022-02-11",
+      "language": "",
+      "shortTitle": "",
+      "rights": "",
+      "extra": "Citation Key: chouyu-kaiCoreDrivesGamification",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T19:57:49Z",
+      "dateModified": "2022-02-11T19:58:56Z"
+    }
+  },
+  {
     "key": "7H4DQHPI",
     "version": 733,
     "library": {
@@ -24296,6 +24645,94 @@
     }
   },
   {
+    "key": "TIN4ZVRH",
+    "version": 737,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TIN4ZVRH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TIN4ZVRH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/K5538S8S",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 784292
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ribeiro et al.",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TIN4ZVRH",
+      "version": 737,
+      "itemType": "conferencePaper",
+      "title": "Gamification as a Learning Strategy in a Simulation of Dental Anesthesia",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Matheus A. O.",
+          "lastName": "Ribeiro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cleber G.",
+          "lastName": "Correa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fatima L. S.",
+          "lastName": "Nunes"
+        }
+      ],
+      "abstractNote": "Considering the high failure rate in the procedure of applying dental anesthesia, this paper presents the process of gamiﬁcation of a simulator of this procedure. The objective of this serious game is to promote a more attractive learning strategy that encourages and at the same time evaluates training, reducing risks to patients. For this, it was conducted a literature review about serious games applications related to health care. From these examples, the elements of games that could be added to the current context were highlighted. An analysis of the simulator, describing its most relevant points was performed. Results, as well as discussion of problems, solutions and testing showed that the gamiﬁcation process was successful and the game can be submitted to the experts evaluation.",
+      "date": "11/2017",
+      "proceedingsTitle": "2017 19th Symposium on Virtual and Augmented Reality (SVR)",
+      "conferenceName": "2017 19th Symposium on Virtual and Augmented Reality (SVR)",
+      "place": "Curitiba",
+      "publisher": "IEEE",
+      "volume": "",
+      "pages": "271-278",
+      "series": "",
+      "language": "pt",
+      "DOI": "10.1109/SVR.2017.42",
+      "ISBN": "978-1-5386-3588-9",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/8114448/",
+      "accessDate": "2021-11-18T14:44:19Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: ribeiroGamificationLearningStrategy2017",
+      "tags": [],
+      "collections": [
+        "PT5M2NF4",
+        "ML3Z8VS3"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-18T14:44:19Z",
+      "dateModified": "2021-11-19T20:08:42Z"
+    }
+  },
+  {
     "key": "FIRCPHDI",
     "version": 172,
     "library": {
@@ -24322,7 +24759,7 @@
         "href": "https://api.zotero.org/users/8674355/items/6LVWDE4T",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 4096547
+        "attachmentSize": 4134747
       }
     },
     "meta": {
@@ -24721,7 +25158,7 @@
         "href": "https://api.zotero.org/users/8674355/items/8JQENM8J",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 191034
+        "attachmentSize": 201004
       }
     },
     "meta": {
@@ -25336,93 +25773,6 @@
       ],
       "relations": {},
       "dateAdded": "2021-11-18T14:44:34Z",
-      "dateModified": "2021-11-19T20:08:42Z"
-    }
-  },
-  {
-    "key": "TIN4ZVRH",
-    "version": 170,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/TIN4ZVRH",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/TIN4ZVRH",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/K5538S8S",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 784292
-      }
-    },
-    "meta": {
-      "creatorSummary": "Ribeiro et al.",
-      "parsedDate": "2017",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "TIN4ZVRH",
-      "version": 170,
-      "itemType": "conferencePaper",
-      "title": "Gamification as a Learning Strategy in a Simulation of Dental Anesthesia",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Matheus A. O.",
-          "lastName": "Ribeiro"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Cleber G.",
-          "lastName": "Correa"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Fatima L. S.",
-          "lastName": "Nunes"
-        }
-      ],
-      "abstractNote": "Considering the high failure rate in the procedure of applying dental anesthesia, this paper presents the process of gamiﬁcation of a simulator of this procedure. The objective of this serious game is to promote a more attractive learning strategy that encourages and at the same time evaluates training, reducing risks to patients. For this, it was conducted a literature review about serious games applications related to health care. From these examples, the elements of games that could be added to the current context were highlighted. An analysis of the simulator, describing its most relevant points was performed. Results, as well as discussion of problems, solutions and testing showed that the gamiﬁcation process was successful and the game can be submitted to the experts evaluation.",
-      "date": "11/2017",
-      "proceedingsTitle": "2017 19th Symposium on Virtual and Augmented Reality (SVR)",
-      "conferenceName": "2017 19th Symposium on Virtual and Augmented Reality (SVR)",
-      "place": "Curitiba",
-      "publisher": "IEEE",
-      "volume": "",
-      "pages": "271-278",
-      "series": "",
-      "language": "pt",
-      "DOI": "10.1109/SVR.2017.42",
-      "ISBN": "978-1-5386-3588-9",
-      "shortTitle": "",
-      "url": "http://ieeexplore.ieee.org/document/8114448/",
-      "accessDate": "2021-11-18T14:44:19Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: ribeiroGamificationLearningStrategy2017",
-      "tags": [],
-      "collections": [
-        "PT5M2NF4"
-      ],
-      "relations": {},
-      "dateAdded": "2021-11-18T14:44:19Z",
       "dateModified": "2021-11-19T20:08:42Z"
     }
   },
@@ -26423,7 +26773,7 @@
   },
   {
     "key": "6LVWDE4T",
-    "version": 145,
+    "version": 741,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -26452,7 +26802,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/6LVWDE4T/file/view",
         "title": "Salerno et al. - 2018 - Challenging Hazards Amidst Observational Simulatio.pdf",
-        "length": 4096547
+        "length": 4134747
       }
     },
     "meta": {
@@ -26460,7 +26810,7 @@
     },
     "data": {
       "key": "6LVWDE4T",
-      "version": 145,
+      "version": 741,
       "parentItem": "FIRCPHDI",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -26471,8 +26821,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Salerno et al. - 2018 - Challenging Hazards Amidst Observational Simulatio.pdf",
-      "md5": "d8278d02b9b3b2c0a19bc21a295a6d4d",
-      "mtime": 1637247090000,
+      "md5": "0c52aa36cc91261f637f4debb9ec3526",
+      "mtime": 1644608622000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-18T14:43:52Z",
@@ -26887,7 +27237,7 @@
   },
   {
     "key": "8JQENM8J",
-    "version": 144,
+    "version": 740,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -26916,7 +27266,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/8JQENM8J/file/view",
         "title": "Kerfoot and Kissane - 2014 - The Use of Gamification to Boost Residents’ Engage.pdf",
-        "length": 191034
+        "length": 201004
       }
     },
     "meta": {
@@ -26924,7 +27274,7 @@
     },
     "data": {
       "key": "8JQENM8J",
-      "version": 144,
+      "version": 740,
       "parentItem": "HLN3LCKB",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -26935,8 +27285,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Kerfoot and Kissane - 2014 - The Use of Gamification to Boost Residents’ Engage.pdf",
-      "md5": "eb102f01d306b8a4524851955ebfa2cd",
-      "mtime": 1637247680000,
+      "md5": "bef18ff61406c33e0bf258da8d948f2b",
+      "mtime": 1644609684000,
       "tags": [],
       "relations": {},
       "dateAdded": "2021-11-18T14:44:51Z",
