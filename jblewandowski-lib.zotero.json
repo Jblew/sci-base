@@ -1,5 +1,77 @@
 [
   {
+    "key": "WPZM9LDR",
+    "version": 752,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WPZM9LDR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WPZM9LDR",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Tantia",
+      "parsedDate": "2017",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WPZM9LDR",
+      "version": 752,
+      "itemType": "journalArticle",
+      "title": "The new science of designing for humans",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Piyush",
+          "lastName": "Tantia"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Stanford Social Innovation Review",
+      "volume": "15",
+      "issue": "2",
+      "pages": "29–33",
+      "date": "2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: tantia2017new",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T20:59:18Z",
+      "dateModified": "2022-02-11T20:59:18Z"
+    }
+  },
+  {
     "key": "BX3YAIKI",
     "version": 748,
     "library": {
