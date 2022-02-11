@@ -1,5 +1,161 @@
 [
   {
+    "key": "BX3YAIKI",
+    "version": 748,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BX3YAIKI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BX3YAIKI",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3EW6NF4W",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 836026
+      }
+    },
+    "meta": {
+      "creatorSummary": "Okuda et al.",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "BX3YAIKI",
+      "version": 748,
+      "itemType": "journalArticle",
+      "title": "SimWars",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yasuharu",
+          "lastName": "Okuda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steven A.",
+          "lastName": "Godwin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lisa",
+          "lastName": "Jacobson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ernest",
+          "lastName": "Wang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Scott",
+          "lastName": "Weingart"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "The Journal of Emergency Medicine",
+      "volume": "47",
+      "issue": "5",
+      "pages": "586-593",
+      "date": "11/2014",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "The Journal of Emergency Medicine",
+      "language": "en",
+      "DOI": "10.1016/j.jemermed.2014.06.058",
+      "ISSN": "07364679",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0736467914007896",
+      "accessDate": "2022-02-11T20:17:15Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: okudaSimWars2014",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T20:17:15Z",
+      "dateModified": "2022-02-11T20:17:18Z"
+    }
+  },
+  {
+    "key": "3EW6NF4W",
+    "version": 751,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3EW6NF4W",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3EW6NF4W",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/BX3YAIKI",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3EW6NF4W/file/view",
+        "title": "Okuda et al. - 2014 - SimWars.pdf",
+        "length": 836026
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3EW6NF4W",
+      "version": 751,
+      "parentItem": "BX3YAIKI",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Okuda et al. - 2014 - SimWars.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Okuda et al. - 2014 - SimWars.pdf",
+      "md5": "d069e12e0ce111b30d7e3279545cc94c",
+      "mtime": 1644611252000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-11T20:17:13Z",
+      "dateModified": "2022-02-11T20:17:16Z"
+    }
+  },
+  {
     "key": "SEIZL6EL",
     "version": 747,
     "library": {
