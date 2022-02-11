@@ -1,5 +1,315 @@
 [
   {
+    "key": "UEKPW6NZ",
+    "version": 723,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UEKPW6NZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UEKPW6NZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/E28EITNS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 233760
+      }
+    },
+    "meta": {
+      "creatorSummary": "Law et al.",
+      "parsedDate": "2009-04-04",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UEKPW6NZ",
+      "version": 723,
+      "itemType": "conferencePaper",
+      "title": "Understanding, scoping and defining user experience: a survey approach",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Effie Lai-Chong",
+          "lastName": "Law"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Virpi",
+          "lastName": "Roto"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marc",
+          "lastName": "Hassenzahl"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arnold P.O.S.",
+          "lastName": "Vermeeren"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joke",
+          "lastName": "Kort"
+        }
+      ],
+      "abstractNote": "Despite the growing interest in user experience (UX), it has been hard to gain a common agreement on the nature and scope of UX. In this paper, we report a survey that gathered the views on UX of 275 researchers and practitioners from academia and industry. Most respondents agree that UX is dynamic, context-dependent, and subjective. With respect to the more controversial issues, the authors propose to delineate UX as something individual (instead of social) that emerges from interacting with a product, system, service or an object. The draft ISO definition on UX seems to be in line with the survey findings, although the issues of experiencing anticipated use and the object of UX will require further explication. The outcome of this survey lays ground for understanding, scoping, and defining the concept of user experience.",
+      "date": "2009-04-04",
+      "proceedingsTitle": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+      "conferenceName": "CHI '09: CHI Conference on Human Factors in Computing Systems",
+      "place": "Boston MA USA",
+      "publisher": "ACM",
+      "volume": "",
+      "pages": "719-728",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/1518701.1518813",
+      "ISBN": "978-1-60558-246-7",
+      "shortTitle": "Understanding, scoping and defining user experience",
+      "url": "https://dl.acm.org/doi/10.1145/1518701.1518813",
+      "accessDate": "2022-02-11T14:04:22Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: lawUnderstandingScopingDefining2009",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T14:04:22Z",
+      "dateModified": "2022-02-11T14:04:25Z"
+    }
+  },
+  {
+    "key": "E28EITNS",
+    "version": 724,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/E28EITNS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/E28EITNS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/UEKPW6NZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/E28EITNS/file/view",
+        "title": "Law et al. - 2009 - Understanding, scoping and defining user experienc.pdf",
+        "length": 233760
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "E28EITNS",
+      "version": 724,
+      "parentItem": "UEKPW6NZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Law et al. - 2009 - Understanding, scoping and defining user experienc.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Law et al. - 2009 - Understanding, scoping and defining user experienc.pdf",
+      "md5": "019a6dea3fcb7d2ab3a458255a578062",
+      "mtime": 1644588262000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-11T14:04:19Z",
+      "dateModified": "2022-02-11T14:04:22Z"
+    }
+  },
+  {
+    "key": "XIP7CAEB",
+    "version": 720,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XIP7CAEB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XIP7CAEB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/GK6V3WKX",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 82978
+      }
+    },
+    "meta": {
+      "creatorSummary": "Law et al.",
+      "parsedDate": "2008-04-05",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XIP7CAEB",
+      "version": 720,
+      "itemType": "conferencePaper",
+      "title": "Towards a shared definition of user experience",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Effie",
+          "lastName": "Law"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Virpi",
+          "lastName": "Roto"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arnold P.O.S.",
+          "lastName": "Vermeeren"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joke",
+          "lastName": "Kort"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marc",
+          "lastName": "Hassenzahl"
+        }
+      ],
+      "abstractNote": "User experience (UX) is still an elusive notion with many different definitions, despite some recent attempts to develop a unified view on UX. The lack of a shared definition of UX not only confuses or even misleads customers of a product/service but also undermines the effectiveness of researching, managing and teaching UX. Diverse ideas have been generated in scientific activities that aim to develop a common understanding about the meaning and scope of UX. It is plausible, with sound methodologies, to converge these divergences, driving the UX community closer to a common definition and integrated views of UX. This SIG tackles this challenge by systematically assembling a set of existing definitions and viewpoints of UX and collecting opinions on them from known UX experts/researchers and general CHI’08 attendees.",
+      "date": "2008-04-05",
+      "proceedingsTitle": "CHI '08 Extended Abstracts on Human Factors in Computing Systems",
+      "conferenceName": "CHI '08: CHI Conference on Human Factors in Computing Systems",
+      "place": "Florence Italy",
+      "publisher": "ACM",
+      "volume": "",
+      "pages": "2395-2398",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1145/1358628.1358693",
+      "ISBN": "978-1-60558-012-8",
+      "shortTitle": "",
+      "url": "https://dl.acm.org/doi/10.1145/1358628.1358693",
+      "accessDate": "2022-02-11T14:02:47Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: lawSharedDefinitionUser2008",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-11T14:02:47Z",
+      "dateModified": "2022-02-11T14:02:50Z"
+    }
+  },
+  {
+    "key": "GK6V3WKX",
+    "version": 721,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GK6V3WKX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GK6V3WKX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XIP7CAEB",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GK6V3WKX/file/view",
+        "title": "Law et al. - 2008 - Towards a shared definition of user experience.pdf",
+        "length": 82978
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "GK6V3WKX",
+      "version": 721,
+      "parentItem": "XIP7CAEB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Law et al. - 2008 - Towards a shared definition of user experience.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Law et al. - 2008 - Towards a shared definition of user experience.pdf",
+      "md5": "c62cc522588167bc7d796bb5b9c69d83",
+      "mtime": 1644588167000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-02-11T14:02:44Z",
+      "dateModified": "2022-02-11T14:02:47Z"
+    }
+  },
+  {
     "key": "65MN43KF",
     "version": 719,
     "library": {
