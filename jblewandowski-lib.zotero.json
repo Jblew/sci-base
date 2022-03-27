@@ -9181,7 +9181,7 @@
         "href": "https://api.zotero.org/users/8674355/items/2GLB9ETS",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 6119454
+        "attachmentSize": 6121673
       }
     },
     "meta": {
@@ -9435,7 +9435,7 @@
   },
   {
     "key": "2GLB9ETS",
-    "version": 554,
+    "version": 755,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -9463,8 +9463,8 @@
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/2GLB9ETS/file/view",
-        "title": "McNicholas and Tait - 2019 - Data science with Julia.pdf",
-        "length": 6119454
+        "title": "2GLB9ETS.pdf",
+        "length": 6121673
       }
     },
     "meta": {
@@ -9472,7 +9472,7 @@
     },
     "data": {
       "key": "2GLB9ETS",
-      "version": 554,
+      "version": 755,
       "parentItem": "TRHXLL3X",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -9482,9 +9482,9 @@
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "McNicholas and Tait - 2019 - Data science with Julia.pdf",
-      "md5": "fbcab8bd1938be57487bfd267c6383bb",
-      "mtime": 1642506423000,
+      "filename": "2GLB9ETS.pdf",
+      "md5": "51f8259d9555cceb5002063fe5777fa6",
+      "mtime": 1648339604569,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-01-18T11:46:58Z",
