@@ -1,5 +1,166 @@
 [
   {
+    "key": "SK3YH7EQ",
+    "version": 758,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SK3YH7EQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KJ72WB3Z",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ/file/view",
+        "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
+        "length": 195543
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SK3YH7EQ",
+      "version": 758,
+      "parentItem": "KJ72WB3Z",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
+      "md5": "e177fda77ec71796dd878bd85e53942a",
+      "mtime": 1649357403000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-07T18:49:59Z",
+      "dateModified": "2022-04-07T18:50:03Z"
+    }
+  },
+  {
+    "key": "KJ72WB3Z",
+    "version": 757,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KJ72WB3Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KJ72WB3Z",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 195543
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ferreira et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KJ72WB3Z",
+      "version": 757,
+      "itemType": "journalArticle",
+      "title": "Theory and practical use of Bayesian methods in interpreting clinical trial data: a narrative review",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Ferreira"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mael",
+          "lastName": "Barthoulot"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julien",
+          "lastName": "Pottecher"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Klaus D.",
+          "lastName": "Torp"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pierre",
+          "lastName": "Diemunsch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicolas",
+          "lastName": "Meyer"
+        }
+      ],
+      "abstractNote": "The critical reading of scientiﬁc articles is necessary for the daily practice of evidence-based medicine. Rigorous comprehension of statistical methods is essential, as reﬂected by the extensive use of statistics in the biomedical literature. In contrast to the customary frequentist approach, which never uses or gives the probability of a hypothesis, Bayesian theory uses probabilities for both hypotheses and data. This statistical approach is increasingly used for analyses of clinical trial data and for applied machine learning. The aim of this review is to compare general Bayesian concepts with frequentist methods to facilitate a better understanding of Bayesian theory for readers who are not familiar with this approach. The review is intended to be used in combination with a checklist we have devised for reading reports analysed by Bayesian methods. We compare and contrast the different approaches of Bayesian vs frequentist statistical methods by considering data from a clinical trial that lends itself to this comparative approach.",
+      "publicationTitle": "British Journal of Anaesthesia",
+      "volume": "125",
+      "issue": "2",
+      "pages": "201-207",
+      "date": "08/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "British Journal of Anaesthesia",
+      "language": "en",
+      "DOI": "10.1016/j.bja.2020.04.092",
+      "ISSN": "00070912",
+      "shortTitle": "Theory and practical use of Bayesian methods in interpreting clinical trial data",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S000709122030369X",
+      "accessDate": "2022-04-07T18:50:03Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-07T18:50:03Z",
+      "dateModified": "2022-04-07T18:50:03Z"
+    }
+  },
+  {
     "key": "WPZM9LDR",
     "version": 752,
     "library": {
