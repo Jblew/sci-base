@@ -1,0 +1,3 @@
+[submodule "zotero-fetch-cli"]
+	path = zotero-fetch-cli
+	url = git@github.com:Jblew/zotero-fetch-cli.git
