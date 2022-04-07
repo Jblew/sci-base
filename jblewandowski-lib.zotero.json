@@ -292,7 +292,7 @@
         "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 224219
+        "attachmentSize": 245642
       }
     },
     "meta": {
@@ -486,7 +486,7 @@
   },
   {
     "key": "SK3YH7EQ",
-    "version": 765,
+    "version": 768,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -515,7 +515,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ/file/view",
         "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
-        "length": 224219
+        "length": 245642
       }
     },
     "meta": {
@@ -523,7 +523,7 @@
     },
     "data": {
       "key": "SK3YH7EQ",
-      "version": 765,
+      "version": 768,
       "parentItem": "KJ72WB3Z",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -534,8 +534,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
-      "md5": "17d3f3347339dd704ec877d6a55cb501",
-      "mtime": 1649357631000,
+      "md5": "ffa54d61305cd16a3090d15fac0c8155",
+      "mtime": 1649358889000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-04-07T18:49:59Z",
