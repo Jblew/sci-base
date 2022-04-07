@@ -1,7 +1,7 @@
 [
   {
-    "key": "SK3YH7EQ",
-    "version": 758,
+    "key": "NX9KKYUJ",
+    "version": 767,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -15,51 +15,259 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ",
+        "href": "https://api.zotero.org/users/8674355/items/NX9KKYUJ",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/SK3YH7EQ",
+        "href": "https://www.zotero.org/jblewandowski/items/NX9KKYUJ",
         "type": "text/html"
       },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/KJ72WB3Z",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ/file/view",
-        "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
-        "length": 195543
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/LQVUFU5W",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 798766
       }
     },
     "meta": {
-      "numChildren": 0
+      "creatorSummary": "Baeten et al.",
+      "parsedDate": "2013",
+      "numChildren": 1
     },
     "data": {
-      "key": "SK3YH7EQ",
-      "version": 758,
-      "parentItem": "KJ72WB3Z",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
-      "md5": "e177fda77ec71796dd878bd85e53942a",
-      "mtime": 1649357403000,
+      "key": "NX9KKYUJ",
+      "version": 767,
+      "itemType": "journalArticle",
+      "title": "Anti-interleukin-17A monoclonal antibody secukinumab in treatment of ankylosing spondylitis: a randomised, double-blind, placebo-controlled trial",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dominique",
+          "lastName": "Baeten"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xenofon",
+          "lastName": "Baraliakos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jürgen",
+          "lastName": "Braun"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joachim",
+          "lastName": "Sieper"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Emery"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Désirée",
+          "lastName": "van der Heijde"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iain",
+          "lastName": "McInnes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jacob M",
+          "lastName": "van Laar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert",
+          "lastName": "Landewé"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Wordsworth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jürgen",
+          "lastName": "Wollenhaupt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Herbert",
+          "lastName": "Kellner"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jacqueline",
+          "lastName": "Paramarta"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jiawei",
+          "lastName": "Wei"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arndt",
+          "lastName": "Brachat"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephan",
+          "lastName": "Bek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Didier",
+          "lastName": "Laurent"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yali",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ying A",
+          "lastName": "Wang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arthur P",
+          "lastName": "Bertolino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sandro",
+          "lastName": "Gsteiger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew M",
+          "lastName": "Wright"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wolfgang",
+          "lastName": "Hueber"
+        }
+      ],
+      "abstractNote": "Background Ankylosing spondylitis is a chronic immune-mediated inﬂammatory disease characterised by spinal inﬂammation, progressive spinal rigidity, and peripheral arthritis. Interleukin 17 (IL-17) is thought to be a key inﬂammatory cytokine in the development of ankylosing spondylitis, the prototypical form of spondyloarthritis. We assessed the eﬃcacy and safety of the anti-IL-17A monoclonal antibody secukinumab in treating patients with active ankylosing spondylitis.",
+      "publicationTitle": "The Lancet",
+      "volume": "382",
+      "issue": "9906",
+      "pages": "1705-1713",
+      "date": "11/2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "The Lancet",
+      "language": "en",
+      "DOI": "10.1016/S0140-6736(13)61134-4",
+      "ISSN": "01406736",
+      "shortTitle": "Anti-interleukin-17A monoclonal antibody secukinumab in treatment of ankylosing spondylitis",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0140673613611344",
+      "accessDate": "2022-04-07T18:57:06Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: baetenAntiinterleukin17AMonoclonalAntibody2013",
       "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
       "relations": {},
-      "dateAdded": "2022-04-07T18:49:59Z",
-      "dateModified": "2022-04-07T18:50:03Z"
+      "dateAdded": "2022-04-07T18:57:06Z",
+      "dateModified": "2022-04-07T18:57:12Z"
+    }
+  },
+  {
+    "key": "I5LMNKT2",
+    "version": 767,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/I5LMNKT2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/I5LMNKT2",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/R6DHKYGI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 379357
+      }
+    },
+    "meta": {
+      "creatorSummary": "Giovagnoli",
+      "parsedDate": "2021-01-10",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "I5LMNKT2",
+      "version": 767,
+      "itemType": "journalArticle",
+      "title": "The Bayesian Design of Adaptive Clinical Trials",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alessandra",
+          "lastName": "Giovagnoli"
+        }
+      ],
+      "abstractNote": "This paper presents a brief overview of the recent literature on adaptive design of clinical trials from a Bayesian perspective for statistically not so sophisticated readers. Adaptive designs are attracting a keen interest in several disciplines, from a theoretical viewpoint and also—potentially—from a practical one, and Bayesian adaptive designs, in particular, have raised high expectations in clinical trials. The main conceptual tools are highlighted here, with a mention of several trial designs proposed in the literature that use these methods, including some of the registered Bayesian adaptive trials to this date. This review aims at complementing the existing ones on this topic, pointing at further interesting reading material.",
+      "publicationTitle": "International Journal of Environmental Research and Public Health",
+      "volume": "18",
+      "issue": "2",
+      "pages": "530",
+      "date": "2021-01-10",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IJERPH",
+      "language": "en",
+      "DOI": "10.3390/ijerph18020530",
+      "ISSN": "1660-4601",
+      "shortTitle": "",
+      "url": "https://www.mdpi.com/1660-4601/18/2/530",
+      "accessDate": "2022-04-07T18:55:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: giovagnoliBayesianDesignAdaptive2021",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-07T18:55:14Z",
+      "dateModified": "2022-04-07T18:57:12Z"
     }
   },
   {
     "key": "KJ72WB3Z",
-    "version": 757,
+    "version": 767,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -84,7 +292,7 @@
         "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 195543
+        "attachmentSize": 224219
       }
     },
     "meta": {
@@ -94,7 +302,7 @@
     },
     "data": {
       "key": "KJ72WB3Z",
-      "version": 757,
+      "version": 767,
       "itemType": "journalArticle",
       "title": "Theory and practical use of Bayesian methods in interpreting clinical trial data: a narrative review",
       "creators": [
@@ -150,13 +358,187 @@
       "libraryCatalog": "DOI.org (Crossref)",
       "callNumber": "",
       "rights": "",
-      "extra": "",
+      "extra": "Citation Key: ferreiraTheoryPracticalUse2020",
       "tags": [],
       "collections": [
         "LWLX6P2X"
       ],
       "relations": {},
       "dateAdded": "2022-04-07T18:50:03Z",
+      "dateModified": "2022-04-07T18:57:12Z"
+    }
+  },
+  {
+    "key": "LQVUFU5W",
+    "version": 764,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LQVUFU5W",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LQVUFU5W",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/NX9KKYUJ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/LQVUFU5W/file/view",
+        "title": "Baeten et al. - 2013 - Anti-interleukin-17A monoclonal antibody secukinum.pdf",
+        "length": 798766
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "LQVUFU5W",
+      "version": 764,
+      "parentItem": "NX9KKYUJ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Baeten et al. - 2013 - Anti-interleukin-17A monoclonal antibody secukinum.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Baeten et al. - 2013 - Anti-interleukin-17A monoclonal antibody secukinum.pdf",
+      "md5": "91cd9f0ddd5d202485cd4e108b6bf472",
+      "mtime": 1649357827000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-07T18:57:04Z",
+      "dateModified": "2022-04-07T18:57:07Z"
+    }
+  },
+  {
+    "key": "R6DHKYGI",
+    "version": 761,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/R6DHKYGI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/R6DHKYGI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/I5LMNKT2",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/R6DHKYGI/file/view",
+        "title": "Giovagnoli - 2021 - The Bayesian Design of Adaptive Clinical Trials.pdf",
+        "length": 379357
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "R6DHKYGI",
+      "version": 761,
+      "parentItem": "I5LMNKT2",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Giovagnoli - 2021 - The Bayesian Design of Adaptive Clinical Trials.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Giovagnoli - 2021 - The Bayesian Design of Adaptive Clinical Trials.pdf",
+      "md5": "86f4872760e52ddc4b1277651fad4e30",
+      "mtime": 1649357714000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-07T18:55:11Z",
+      "dateModified": "2022-04-07T18:55:14Z"
+    }
+  },
+  {
+    "key": "SK3YH7EQ",
+    "version": 765,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SK3YH7EQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KJ72WB3Z",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ/file/view",
+        "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
+        "length": 224219
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SK3YH7EQ",
+      "version": 765,
+      "parentItem": "KJ72WB3Z",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
+      "md5": "17d3f3347339dd704ec877d6a55cb501",
+      "mtime": 1649357631000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-07T18:49:59Z",
       "dateModified": "2022-04-07T18:50:03Z"
     }
   },
