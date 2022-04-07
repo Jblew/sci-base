@@ -1,3 +1,6 @@
 [submodule "zotero-fetch-cli"]
 	path = zotero-fetch-cli
 	url = git@github.com:Jblew/zotero-fetch-cli.git
+[submodule "markdown2paper"]
+	path = markdown2paper
+	url = git@github.com:Jblew/markdown2paper.git
