@@ -1,5 +1,166 @@
 [
   {
+    "key": "U63ZQXE4",
+    "version": 770,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U63ZQXE4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U63ZQXE4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/N8PRHRU3",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/U63ZQXE4/file/view",
+        "title": "Ferreira et al. - 2020 - A consensus checklist to help clinicians interpret.pdf",
+        "length": 254181
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "U63ZQXE4",
+      "version": 770,
+      "parentItem": "N8PRHRU3",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ferreira et al. - 2020 - A consensus checklist to help clinicians interpret.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ferreira et al. - 2020 - A consensus checklist to help clinicians interpret.pdf",
+      "md5": "b404bdba5682014c452be23c02bc7a63",
+      "mtime": 1649364649000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-07T20:50:46Z",
+      "dateModified": "2022-04-07T20:50:49Z"
+    }
+  },
+  {
+    "key": "N8PRHRU3",
+    "version": 769,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N8PRHRU3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N8PRHRU3",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/U63ZQXE4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 254181
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ferreira et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "N8PRHRU3",
+      "version": 769,
+      "itemType": "journalArticle",
+      "title": "A consensus checklist to help clinicians interpret clinical trial results analysed by Bayesian methods",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Ferreira"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mael",
+          "lastName": "Barthoulot"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julien",
+          "lastName": "Pottecher"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Klaus D.",
+          "lastName": "Torp"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pierre",
+          "lastName": "Diemunsch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicolas",
+          "lastName": "Meyer"
+        }
+      ],
+      "abstractNote": "Introduction: In the context of an increasing number of publications of trial data analysed by Bayesian methods, clinicians need support to better understand Bayesian statistical methods. The existing checklists are intended for people who already know these methods. We aimed to establish and validate a checklist that contains a group of items considered crucial in interpreting the results of a phase III RCT analysed with Bayesian methods.\nMethods: A team of biostatisticians created a checklist of previously reported items and additional items identiﬁed from a literature review. Using three different articles in three rounds, the items were then validated by residents in anaesthesiology with no skills in statistics.\nResults: Based on an initial item list, three rounds led to a consensus checklist. Eleven items were considered important information to be speciﬁed for understanding the validity of the results. Of these, three were considered essential: speciﬁcation of the prior, source of the prior (when prior is informative), and the effect size point estimate with its credible interval.\nConclusion: The checklist can help clinicians interpret the results of a phase III randomised clinical trial analysed by Bayesian methods, even clinicians with no particular knowledge of statistics, to ensure that the major elements of the statistical section are present and valid. Care should be taken in interpreting the results of a trial analysed by Bayesian methods that are not reported with these three essential items because the validity of the results cannot be established.",
+      "publicationTitle": "British Journal of Anaesthesia",
+      "volume": "125",
+      "issue": "2",
+      "pages": "208-215",
+      "date": "08/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "British Journal of Anaesthesia",
+      "language": "en",
+      "DOI": "10.1016/j.bja.2020.04.093",
+      "ISSN": "00070912",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0007091220303706",
+      "accessDate": "2022-04-07T20:50:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-07T20:50:49Z",
+      "dateModified": "2022-04-07T20:50:49Z"
+    }
+  },
+  {
     "key": "NX9KKYUJ",
     "version": 767,
     "library": {
@@ -292,7 +453,7 @@
         "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ",
         "type": "application/json",
         "attachmentType": "application/pdf",
-        "attachmentSize": 245642
+        "attachmentSize": 372610
       }
     },
     "meta": {
@@ -486,7 +647,7 @@
   },
   {
     "key": "SK3YH7EQ",
-    "version": 768,
+    "version": 771,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -515,7 +676,7 @@
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/SK3YH7EQ/file/view",
         "title": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
-        "length": 245642
+        "length": 372610
       }
     },
     "meta": {
@@ -523,7 +684,7 @@
     },
     "data": {
       "key": "SK3YH7EQ",
-      "version": 768,
+      "version": 771,
       "parentItem": "KJ72WB3Z",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -534,8 +695,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Ferreira et al. - 2020 - Theory and practical use of Bayesian methods in in.pdf",
-      "md5": "ffa54d61305cd16a3090d15fac0c8155",
-      "mtime": 1649358889000,
+      "md5": "4b0cbdcf465c257416289051a9063f68",
+      "mtime": 1649364575000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-04-07T18:49:59Z",
