@@ -4881,49 +4881,6 @@
     }
   },
   {
-    "key": "38XVEMQT",
-    "version": 674,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/38XVEMQT",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/38XVEMQT",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/6TWKTVID",
-        "type": "application/json"
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "38XVEMQT",
-      "version": 674,
-      "parentItem": "6TWKTVID",
-      "itemType": "note",
-      "note": "Revised edition of Oxford handbook of positive psychology",
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2022-02-09T12:37:19Z",
-      "dateModified": "2022-02-09T12:37:19Z"
-    }
-  },
-  {
     "key": "4Q4WILCF",
     "version": 673,
     "library": {
@@ -5378,92 +5335,6 @@
       "relations": {},
       "dateAdded": "2022-02-05T17:06:20Z",
       "dateModified": "2022-02-05T17:06:51Z"
-    }
-  },
-  {
-    "key": "24H8YM57",
-    "version": 662,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/24H8YM57",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/24H8YM57",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/7IL3VXKI",
-        "type": "application/json"
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "24H8YM57",
-      "version": 662,
-      "parentItem": "7IL3VXKI",
-      "itemType": "note",
-      "note": "\"Softcover reprint of the hardcover 1st edition 1985\". - Includes bibliographical references (pages 335-358) and indexes",
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2022-02-05T17:05:18Z",
-      "dateModified": "2022-02-05T17:05:18Z"
-    }
-  },
-  {
-    "key": "4S7FQYAF",
-    "version": 662,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/4S7FQYAF",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/4S7FQYAF",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/PWQ8XEEC",
-        "type": "application/json"
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "4S7FQYAF",
-      "version": 662,
-      "parentItem": "PWQ8XEEC",
-      "itemType": "note",
-      "note": "Literaturverz. S. 335 - 358",
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2022-02-05T17:05:04Z",
-      "dateModified": "2022-02-05T17:05:04Z"
     }
   },
   {
@@ -7536,7 +7407,7 @@
     "meta": {
       "creatorSummary": "Bartle",
       "parsedDate": "2009",
-      "numChildren": 2
+      "numChildren": 1
     },
     "data": {
       "key": "8Z7L3WVH",
@@ -15046,7 +14917,7 @@
     "meta": {
       "creatorSummary": "Crawford et al.",
       "parsedDate": "2019",
-      "numChildren": 2
+      "numChildren": 1
     },
     "data": {
       "key": "3UWW8NF4",
