@@ -1,5 +1,52 @@
 [
   {
+    "key": "AXHIYWCK",
+    "version": 775,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AXHIYWCK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AXHIYWCK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "AXHIYWCK",
+      "version": 775,
+      "parentItem": "XUGFX4KN",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "rely on the subject reflec",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|000793|00263",
+      "annotationPosition": "{\"rects\":[[164.222,471.144,262.552,479.87]],\"pageIndex\":2}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-17T14:57:20Z",
+      "dateModified": "2022-04-17T14:57:20Z"
+    }
+  },
+  {
     "key": "U63ZQXE4",
     "version": 770,
     "library": {
@@ -21785,7 +21832,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "XUGFX4KN",
