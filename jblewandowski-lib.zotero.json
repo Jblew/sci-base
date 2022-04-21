@@ -1,5 +1,196 @@
 [
   {
+    "key": "PG3TGEGR",
+    "version": 786,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PG3TGEGR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PG3TGEGR",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PG3TGEGR",
+      "version": 786,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:53:55Z",
+      "dateModified": "2022-04-21T10:53:55Z"
+    }
+  },
+  {
+    "key": "G5Y8ZCUH",
+    "version": 783,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/G5Y8ZCUH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/G5Y8ZCUH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "G5Y8ZCUH",
+      "version": 783,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "most neonatal seizures present no physical signs, especially after anti-epileptic drug use.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|000311|00141",
+      "annotationPosition": "{\"rects\":[[165.37,689.629,525.93,700.655]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:51:46Z",
+      "dateModified": "2022-04-21T10:51:46Z"
+    }
+  },
+  {
+    "key": "BPCHTAJ4",
+    "version": 781,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BPCHTAJ4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BPCHTAJ4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "BPCHTAJ4",
+      "version": 781,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "opposed to the state-of-the-art hand engineered  \nfeature-based representation",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|000727|00365",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[333.315,465.679,525.922,476.705],[72.412,442.639,186.315,453.665]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:50:18Z",
+      "dateModified": "2022-04-21T10:50:18Z"
+    }
+  },
+  {
+    "key": "RXI2V5WX",
+    "version": 780,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RXI2V5WX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RXI2V5WX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "RXI2V5WX",
+      "version": 780,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "compared with two baseline SVM based systems.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|001173|00480",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[157.989,350.699,358.544,361.725]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:49:52Z",
+      "dateModified": "2022-04-21T10:49:52Z"
+    }
+  },
+  {
     "key": "2INITSFP",
     "version": 778,
     "library": {
@@ -30,7 +221,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 3
     },
     "data": {
       "key": "2INITSFP",
