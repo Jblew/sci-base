@@ -1,7 +1,169 @@
 [
   {
+    "key": "54QDVUK7",
+    "version": 805,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/54QDVUK7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/54QDVUK7",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "54QDVUK7",
+      "version": 805,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "10.1007@s11071-019-05311-z.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "10.1007@s11071-019-05311-z.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:12:34Z",
+      "dateModified": "2022-04-21T11:12:34Z"
+    }
+  },
+  {
+    "key": "Y7B6NFYL",
+    "version": 804,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y7B6NFYL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y7B6NFYL",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/Y7B6NFYL/file/view",
+        "title": "P18-1028.pdf",
+        "length": 495655
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Y7B6NFYL",
+      "version": 804,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "P18-1028.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "P18-1028.pdf",
+      "md5": "b71e8699b491583c87a1e236cba49870",
+      "mtime": 1650539271321,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:07:51Z",
+      "dateModified": "2022-04-21T11:07:51Z"
+    }
+  },
+  {
+    "key": "UYDIBX4Q",
+    "version": 802,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UYDIBX4Q",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UYDIBX4Q",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/UYDIBX4Q/file/view",
+        "title": "1811.07868.pdf",
+        "length": 1714080
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "UYDIBX4Q",
+      "version": 802,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "1811.07868.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "1811.07868.pdf",
+      "md5": "db7bc18feba2e4e2ec196315d7a37e5c",
+      "mtime": 1650539197492,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:06:37Z",
+      "dateModified": "2022-04-21T11:06:37Z"
+    }
+  },
+  {
     "key": "VNAPG29V",
-    "version": 800,
+    "version": 807,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,6 +183,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/VNAPG29V",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/VNAPG29V/file/view",
+        "title": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
+        "length": 5100517
       }
     },
     "meta": {
@@ -28,7 +196,7 @@
     },
     "data": {
       "key": "VNAPG29V",
-      "version": 800,
+      "version": 807,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
@@ -38,8 +206,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "86a341052f834b298cccace35cf5fbeb",
+      "mtime": 1650539068035,
       "tags": [],
       "collections": [
         "FC7PYH7E"
