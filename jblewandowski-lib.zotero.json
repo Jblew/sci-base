@@ -1,7 +1,216 @@
 [
   {
+    "key": "VNAPG29V",
+    "version": 800,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VNAPG29V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VNAPG29V",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VNAPG29V",
+      "version": 800,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:04:28Z",
+      "dateModified": "2022-04-21T11:04:28Z"
+    }
+  },
+  {
+    "key": "PSWIUD2I",
+    "version": 799,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PSWIUD2I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PSWIUD2I",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/PSWIUD2I/file/view",
+        "title": "thomas2013.pdf",
+        "length": 616025
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PSWIUD2I",
+      "version": 799,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "thomas2013.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "thomas2013.pdf",
+      "md5": "77bf854408842be8d40f91d417e0fe4b",
+      "mtime": 1650538823278,
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:00:23Z",
+      "dateModified": "2022-04-21T11:00:23Z"
+    }
+  },
+  {
+    "key": "XLI5XSE6",
+    "version": 796,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XLI5XSE6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XLI5XSE6",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/XLI5XSE6/file/view",
+        "title": "aarabi2007.pdf",
+        "length": 421528
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "XLI5XSE6",
+      "version": 796,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "aarabi2007.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "aarabi2007.pdf",
+      "md5": "57a81c9fc85793ad25bd6dadeffd32d9",
+      "mtime": 1650538757276,
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:59:17Z",
+      "dateModified": "2022-04-21T10:59:17Z"
+    }
+  },
+  {
+    "key": "HZD4XPDC",
+    "version": 790,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HZD4XPDC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HZD4XPDC",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "HZD4XPDC",
+      "version": 790,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The features are usually extracted  \nfrom the time, frequency and information theory domains to provide energy, frequency, temporal and structural  \ndescriptors of the neonatal EEG, giving an informative characterization of each segment of EEG [10], [12].",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|002460|00670",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[388.804,160.589,525.545,171.615],[72.412,137.549,525.262,148.575],[72.353,114.609,503.85,125.635]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:55:04Z",
+      "dateModified": "2022-04-21T10:55:04Z"
+    }
+  },
+  {
     "key": "PG3TGEGR",
-    "version": 786,
+    "version": 787,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,6 +230,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/PG3TGEGR",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/PG3TGEGR/file/view",
+        "title": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
+        "length": 577166
       }
     },
     "meta": {
@@ -28,7 +243,7 @@
     },
     "data": {
       "key": "PG3TGEGR",
-      "version": 786,
+      "version": 787,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
@@ -38,8 +253,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "bfd14d114722bec6d1b095b56fa0215d",
+      "mtime": 1650538435165,
       "tags": [],
       "collections": [
         "NF5IV7F9"
@@ -221,7 +436,7 @@
       }
     },
     "meta": {
-      "numChildren": 3
+      "numChildren": 4
     },
     "data": {
       "key": "2INITSFP",
