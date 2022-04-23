@@ -3508,6 +3508,100 @@
     }
   },
   {
+    "key": "8JLUW98X",
+    "version": 704,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8JLUW98X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8JLUW98X",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Knapp et al.",
+      "parsedDate": "2016",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "8JLUW98X",
+      "version": 704,
+      "itemType": "book",
+      "title": "Sprint: how to solve big problems and test new ideas in just five days",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jake",
+          "lastName": "Knapp"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Zeratsky"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Braden",
+          "lastName": "Kowitz"
+        }
+      ],
+      "abstractNote": "From three design partners at Google Ventures, a unique five-day process--called the sprint--for solving tough problems using design, prototyping, and testing ideas with customers",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "First Simon & Schuster hardcover edition",
+      "place": "New York",
+      "publisher": "Simon & Schuster",
+      "date": "2016",
+      "numPages": "274",
+      "language": "",
+      "ISBN": "978-1-5011-2174-6",
+      "shortTitle": "Sprint",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "HD30.29 .K63 2016",
+      "rights": "",
+      "extra": "OCLC: ocn913304205\nCitation Key: knappSprintHowSolve2016",
+      "tags": [
+        {
+          "tag": "Creative ability in business",
+          "type": 1
+        },
+        {
+          "tag": "Management",
+          "type": 1
+        },
+        {
+          "tag": "Problem solving",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-02-09T20:14:49Z",
+      "dateModified": "2022-02-09T20:14:52Z"
+    }
+  },
+  {
     "key": "8JSFQVZA",
     "version": 704,
     "library": {
