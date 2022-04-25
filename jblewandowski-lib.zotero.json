@@ -1,7 +1,205 @@
 [
   {
+    "key": "WXGTRTCD",
+    "version": 849,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WXGTRTCD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WXGTRTCD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "WXGTRTCD",
+      "version": 849,
+      "parentItem": "EKBRLXAB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "In par- ticular, there is evidence that ongoing substance use is a critical risk factor, with reduced likelihood of further admissions or transition to schizophrenia in people who cease substance use after a substance-related psychoses but increased risks in people with ongoing use.19,96",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "513",
+      "annotationSortIndex": "00008|003257|00241",
+      "annotationPosition": "{\"pageIndex\":8,\"rects\":[[531.547,529.321,562.553,541.469],[311.299,517.32,565.608,529.468],[311.415,505.318,565.657,517.466],[311.415,493.317,565.599,505.465],[311.247,481.315,565.62,493.463],[311.215,469.314,531.106,481.462]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:35:10Z",
+      "dateModified": "2022-04-25T11:35:10Z"
+    }
+  },
+  {
+    "key": "3BBLCGSE",
+    "version": 846,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3BBLCGSE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3BBLCGSE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "3BBLCGSE",
+      "version": 846,
+      "parentItem": "EKBRLXAB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "predictors of greater rates of transition are likely to be similar to those reported in other first episode psychoses, including younger age of first psychosis,16,17,49,75,80 longer duration of untreated psychosis78,80,84 and impaired premorbid social function.17,49,79,80,84",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "512",
+      "annotationSortIndex": "00007|003777|00668",
+      "annotationPosition": "{\"rects\":[[508.107,103.112,555.474,115.26],[301.33,91.111,555.483,103.26],[301.162,79.109,555.505,91.257],[301.026,67.108,555.478,79.267],[301.042,55.117,555.473,67.267],[301.111,43.117,378.414,55.265]],\"pageIndex\":7}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:33:42Z",
+      "dateModified": "2022-04-25T11:33:42Z"
+    }
+  },
+  {
+    "key": "U3HZSMNI",
+    "version": 843,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U3HZSMNI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U3HZSMNI",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/U3HZSMNI/file/view",
+        "title": "10.1176@appi.ajp.2019.18101217.pdf",
+        "length": 626108
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "U3HZSMNI",
+      "version": 843,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "10.1176@appi.ajp.2019.18101217.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "10.1176@appi.ajp.2019.18101217.pdf",
+      "md5": "f96289f42b5364423c52da61eb379be5",
+      "mtime": 1650886159162,
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:29:19Z",
+      "dateModified": "2022-04-25T11:29:19Z"
+    }
+  },
+  {
+    "key": "WZT6EIF9",
+    "version": 841,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WZT6EIF9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WZT6EIF9",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WZT6EIF9",
+      "version": 841,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "sbv110.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "sbv110.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:27:49Z",
+      "dateModified": "2022-04-25T11:27:49Z"
+    }
+  },
+  {
     "key": "MCP8HLND",
-    "version": 838,
+    "version": 845,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,6 +219,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/MCP8HLND",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/MCP8HLND/file/view",
+        "title": "sbj064.pdf",
+        "length": 185626
       }
     },
     "meta": {
@@ -28,7 +232,7 @@
     },
     "data": {
       "key": "MCP8HLND",
-      "version": 838,
+      "version": 845,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "sbj064.pdf",
@@ -38,8 +242,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "sbj064.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "4adad000808d38cd7a34219aad7447e3",
+      "mtime": 1650886025951,
       "tags": [],
       "collections": [
         "4XW94U8A"
@@ -436,7 +640,7 @@
       }
     },
     "meta": {
-      "numChildren": 4
+      "numChildren": 6
     },
     "data": {
       "key": "EKBRLXAB",
@@ -32980,64 +33184,6 @@
       "relations": {},
       "dateAdded": "2021-11-04T19:08:40Z",
       "dateModified": "2021-11-04T19:09:10Z"
-    }
-  },
-  {
-    "key": "2ZWMMTDY",
-    "version": 45,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/2ZWMMTDY",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/2ZWMMTDY",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/ZJ37DAWA",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/2ZWMMTDY/file/view",
-        "title": "Weinberg et al. - 2009 - Why would young people donate blood A survey-base.pdf",
-        "length": 91152
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "2ZWMMTDY",
-      "version": 45,
-      "parentItem": "ZJ37DAWA",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Weinberg et al. - 2009 - Why would young people donate blood A survey-base.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Weinberg et al. - 2009 - Why would young people donate blood A survey-base.pdf",
-      "md5": "f4f72a32927b3bb81fa5f148a32f9cea",
-      "mtime": 1636052947000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:08:40Z",
-      "dateModified": "2021-11-04T19:09:07Z"
     }
   },
   {
