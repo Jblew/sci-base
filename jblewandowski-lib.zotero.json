@@ -1,5 +1,193 @@
 [
   {
+    "key": "8I7CH8WB",
+    "version": 856,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8I7CH8WB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8I7CH8WB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8I7CH8WB",
+      "version": 856,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "MTC allow us to rank-order available interventions regarding effi- cacy, safety, or patient-reported outcomes",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|002188|00623",
+      "annotationPosition": "{\"rects\":[[237.429,150.877,287.924,160.375],[66.303,139.407,287.697,148.905],[66.227,127.938,237.6,137.436]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:48:34Z",
+      "dateModified": "2022-04-25T11:48:34Z"
+    }
+  },
+  {
+    "key": "3Q2I656L",
+    "version": 855,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3Q2I656L",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3Q2I656L",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "3Q2I656L",
+      "version": 855,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "indirect com- parison of two interventions is made through a common comparator.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|001877|00542",
+      "annotationPosition": "{\"rects\":[[232.254,231.203,287.65,240.701],[66.171,219.724,287.717,229.222],[66.227,208.254,152.695,217.752]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:48:14Z",
+      "dateModified": "2022-04-25T11:48:14Z"
+    }
+  },
+  {
+    "key": "9ZSQH4E5",
+    "version": 854,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9ZSQH4E5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9ZSQH4E5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "9ZSQH4E5",
+      "version": 854,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "MTC",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|001512|00451",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[196.982,322.989,219.04,332.487]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:47:51Z",
+      "dateModified": "2022-04-25T11:47:51Z"
+    }
+  },
+  {
+    "key": "8I9PAXFJ",
+    "version": 852,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8I9PAXFJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8I9PAXFJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8I9PAXFJ",
+      "version": 852,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "MTC allow for indirect com- parisons and can therefore provide very useful information for clinical and reimbursement decision-making in the absence of head-to-head data",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|000414|00236",
+      "annotationPosition": "{\"rects\":[[182.736,538.521,287.692,547.019],[66.152,527.046,287.845,535.544],[66.262,515.57,287.768,524.068],[66.347,504.095,174.568,512.593]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:46:43Z",
+      "dateModified": "2022-04-25T11:46:43Z"
+    }
+  },
+  {
     "key": "WXGTRTCD",
     "version": 849,
     "library": {
@@ -149,7 +337,7 @@
   },
   {
     "key": "WZT6EIF9",
-    "version": 841,
+    "version": 853,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -169,6 +357,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/WZT6EIF9",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/WZT6EIF9/file/view",
+        "title": "sbv110.pdf",
+        "length": 398923
       }
     },
     "meta": {
@@ -176,7 +370,7 @@
     },
     "data": {
       "key": "WZT6EIF9",
-      "version": 841,
+      "version": 853,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "sbv110.pdf",
@@ -186,8 +380,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "sbv110.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "2f8b02931cb2eedc28f0e4586362370c",
+      "mtime": 1650886069581,
       "tags": [],
       "collections": [
         "4XW94U8A"
@@ -443,7 +637,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 4
     },
     "data": {
       "key": "EEXBS6FJ",
