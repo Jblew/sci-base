@@ -1,5 +1,202 @@
 [
   {
+    "key": "CPTGB9HZ",
+    "version": 820,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CPTGB9HZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CPTGB9HZ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "CPTGB9HZ",
+      "version": 820,
+      "parentItem": "EKBRLXAB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "pooled estimate was lower than that for brief, atyp- ical, NOS psychoses, and schizophreniform psychosis (between-group Q 5,830, df 3, P < .0001)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "508",
+      "annotationSortIndex": "00003|000901|00485",
+      "annotationPosition": "{\"rects\":[[301.033,285.762,552.428,297.91],[301.096,273.761,555.486,285.909],[301.317,261.707,497.583,273.908]],\"pageIndex\":3}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:08:14Z",
+      "dateModified": "2022-04-25T09:08:14Z"
+    }
+  },
+  {
+    "key": "HN2BZCXE",
+    "version": 817,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HN2BZCXE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HN2BZCXE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "HN2BZCXE",
+      "version": 817,
+      "parentItem": "EKBRLXAB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Studies of national register data from Sweden, Denmark, and Finland have reported pro- portions of transition from substance-induced psychosis to schizophrenia ranging from 6% to 17%.15–17",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "506",
+      "annotationSortIndex": "00001|000278|00133",
+      "annotationPosition": "{\"rects\":[[141.507,637.366,285.494,649.514],[31.11,625.364,282.448,637.512],[31.036,613.363,285.483,625.511],[31.163,601.361,237.712,613.509]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:05:05Z",
+      "dateModified": "2022-04-25T09:05:05Z"
+    }
+  },
+  {
+    "key": "KRHN5THZ",
+    "version": 817,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KRHN5THZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KRHN5THZ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KRHN5THZ",
+      "version": 817,
+      "parentItem": "EKBRLXAB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "People with substance-induced psychoses are often excluded from studies of early psychosis,9 limiting the evidence on prevalence, course, and outcomes that is required to guide the management and treatment of these conditions.10",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "505",
+      "annotationSortIndex": "00000|003361|00482",
+      "annotationPosition": "{\"rects\":[[357.753,288.588,565.611,300.743],[311.469,276.592,565.625,288.742],[311.31,264.592,565.631,276.74],[311.247,252.591,565.662,264.739],[311.31,240.589,391.988,252.738]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:02:53Z",
+      "dateModified": "2022-04-25T09:02:53Z"
+    }
+  },
+  {
+    "key": "EKBRLXAB",
+    "version": 814,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EKBRLXAB",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB/file/view",
+        "title": "sbz102.pdf",
+        "length": 438644
+      }
+    },
+    "meta": {
+      "numChildren": 3
+    },
+    "data": {
+      "key": "EKBRLXAB",
+      "version": 814,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "sbz102.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "sbz102.pdf",
+      "md5": "8fbabfd207a6928b152ac91db523ccd1",
+      "mtime": 1650876400796,
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-25T08:46:40Z",
+      "dateModified": "2022-04-25T08:46:40Z"
+    }
+  },
+  {
     "key": "PNIGKDHP",
     "version": 809,
     "library": {
@@ -48,7 +245,7 @@
   },
   {
     "key": "54QDVUK7",
-    "version": 805,
+    "version": 816,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -68,6 +265,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/54QDVUK7",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/54QDVUK7/file/view",
+        "title": "10.1007@s11071-019-05311-z.pdf",
+        "length": 1512923
       }
     },
     "meta": {
@@ -75,7 +278,7 @@
     },
     "data": {
       "key": "54QDVUK7",
-      "version": 805,
+      "version": 816,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "10.1007@s11071-019-05311-z.pdf",
@@ -85,8 +288,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "10.1007@s11071-019-05311-z.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "0eca10495d8aaabbc3a6498078114027",
+      "mtime": 1650539554086,
       "tags": [],
       "collections": [
         "FC7PYH7E"
