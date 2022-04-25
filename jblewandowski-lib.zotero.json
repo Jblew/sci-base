@@ -1,5 +1,55 @@
 [
   {
+    "key": "EEXBS6FJ",
+    "version": 822,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EEXBS6FJ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "EEXBS6FJ",
+      "version": 822,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "main.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "main.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:13:18Z",
+      "dateModified": "2022-04-25T09:13:18Z"
+    }
+  },
+  {
     "key": "CPTGB9HZ",
     "version": 820,
     "library": {
