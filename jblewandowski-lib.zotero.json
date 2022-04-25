@@ -1,7 +1,104 @@
 [
   {
+    "key": "FQGG3XFJ",
+    "version": 833,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FQGG3XFJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FQGG3XFJ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "FQGG3XFJ",
+      "version": 833,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:38:02Z",
+      "dateModified": "2022-04-25T09:38:02Z"
+    }
+  },
+  {
+    "key": "QAXLGPNM",
+    "version": 828,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QAXLGPNM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QAXLGPNM",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "QAXLGPNM",
+      "version": 828,
+      "parentItem": "EKBRLXAB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Such care can double the likelihood of remission in early psychosis,92,95 reduce the risk for hospital re-admission96 and lead to better symp- tomatic, drug use and functional outcomes at 10-year follow-up.97,98",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "512",
+      "annotationSortIndex": "00007|003371|00560",
+      "annotationPosition": "{\"rects\":[[440.949,211.114,555.462,223.262],[301.099,199.112,555.479,211.266],[301.138,187.117,552.429,199.267],[301.165,175.117,555.489,187.265],[301.112,163.115,359.279,175.263]],\"pageIndex\":7}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:36:48Z",
+      "dateModified": "2022-04-25T09:36:48Z"
+    }
+  },
+  {
     "key": "EEXBS6FJ",
-    "version": 822,
+    "version": 830,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,6 +118,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/EEXBS6FJ",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ/file/view",
+        "title": "main.pdf",
+        "length": 211496
       }
     },
     "meta": {
@@ -28,7 +131,7 @@
     },
     "data": {
       "key": "EEXBS6FJ",
-      "version": 822,
+      "version": 830,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "main.pdf",
@@ -38,8 +141,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "main.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "dd2c7638ac1508c78978b76470ff50b5",
+      "mtime": 1650877998194,
       "tags": [],
       "collections": [
         "LWLX6P2X"
@@ -221,7 +324,7 @@
       }
     },
     "meta": {
-      "numChildren": 3
+      "numChildren": 4
     },
     "data": {
       "key": "EKBRLXAB",
