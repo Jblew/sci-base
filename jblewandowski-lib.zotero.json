@@ -1,7 +1,113 @@
 [
   {
+    "key": "MCP8HLND",
+    "version": 838,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MCP8HLND",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MCP8HLND",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "MCP8HLND",
+      "version": 838,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "sbj064.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "sbj064.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:27:05Z",
+      "dateModified": "2022-04-25T11:27:05Z"
+    }
+  },
+  {
+    "key": "B842VX2K",
+    "version": 836,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B842VX2K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B842VX2K",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/B842VX2K/file/view",
+        "title": "8552",
+        "length": 1044726
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "B842VX2K",
+      "version": 836,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "8552",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "8552",
+      "md5": "9ce939e88f0079daed5f60bac5f80701",
+      "mtime": 1650885968021,
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:26:08Z",
+      "dateModified": "2022-04-25T11:26:08Z"
+    }
+  },
+  {
     "key": "FQGG3XFJ",
-    "version": 833,
+    "version": 834,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,6 +127,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/FQGG3XFJ",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/FQGG3XFJ/file/view",
+        "title": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
+        "length": 517707
       }
     },
     "meta": {
@@ -28,7 +140,7 @@
     },
     "data": {
       "key": "FQGG3XFJ",
-      "version": 833,
+      "version": 834,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
@@ -38,8 +150,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "1582133abab15bb369daa1ff9c395dde",
+      "mtime": 1650879482314,
       "tags": [],
       "collections": [
         "4XW94U8A"
@@ -32868,6 +32980,64 @@
       "relations": {},
       "dateAdded": "2021-11-04T19:08:40Z",
       "dateModified": "2021-11-04T19:09:10Z"
+    }
+  },
+  {
+    "key": "2ZWMMTDY",
+    "version": 45,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2ZWMMTDY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2ZWMMTDY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZJ37DAWA",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2ZWMMTDY/file/view",
+        "title": "Weinberg et al. - 2009 - Why would young people donate blood A survey-base.pdf",
+        "length": 91152
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2ZWMMTDY",
+      "version": 45,
+      "parentItem": "ZJ37DAWA",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Weinberg et al. - 2009 - Why would young people donate blood A survey-base.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Weinberg et al. - 2009 - Why would young people donate blood A survey-base.pdf",
+      "md5": "f4f72a32927b3bb81fa5f148a32f9cea",
+      "mtime": 1636052947000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-11-04T19:08:40Z",
+      "dateModified": "2021-11-04T19:09:07Z"
     }
   },
   {
