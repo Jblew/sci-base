@@ -1,5 +1,193 @@
 [
   {
+    "key": "CIRTRKQK",
+    "version": 861,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CIRTRKQK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CIRTRKQK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "CIRTRKQK",
+      "version": 861,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "same true treatment effect (i.e., the underlying effect), and that differences between studies are solely due to chance",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "957",
+      "annotationSortIndex": "00001|000000|00071",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[66.389,702.672,287.555,712.17],[66.389,691.202,287.66,700.7],[66.227,679.733,93.574,689.231]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-26T09:03:35Z",
+      "dateModified": "2022-04-26T09:03:35Z"
+    }
+  },
+  {
+    "key": "CIE54EVV",
+    "version": 860,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CIE54EVV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CIE54EVV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "CIE54EVV",
+      "version": 860,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "assumption is made that each of the individual studies aims to estimate the",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|003575|00702",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[448.845,71.567,527.73,81.065],[306.166,60.088,527.73,69.586]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-26T09:03:29Z",
+      "dateModified": "2022-04-26T09:03:29Z"
+    }
+  },
+  {
+    "key": "89D4PT7U",
+    "version": 859,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/89D4PT7U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/89D4PT7U",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "89D4PT7U",
+      "version": 859,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "fixed-effect",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|003551|00702",
+      "annotationPosition": "{\"rects\":[[343.523,71.567,388.084,81.065]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-26T09:03:03Z",
+      "dateModified": "2022-04-26T09:03:03Z"
+    }
+  },
+  {
+    "key": "CXILHAH5",
+    "version": 858,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CXILHAH5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CXILHAH5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "CXILHAH5",
+      "version": 858,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Roughly, meta-analyses can be differ- entiated into fixed-effect approaches and random- effects approaches, and meta-analysis can be performed with traditional frequentist statistics or with Bayesian statistics.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|003316|00619",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[374.235,154.4,527.645,163.898],[306.308,142.921,527.645,152.419],[306.308,131.451,527.711,140.949],[306.166,119.982,527.835,129.48],[306.109,108.512,403.241,118.01]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-26T09:02:33Z",
+      "dateModified": "2022-04-26T09:02:33Z"
+    }
+  },
+  {
     "key": "8I7CH8WB",
     "version": 856,
     "library": {
@@ -637,7 +825,7 @@
       }
     },
     "meta": {
-      "numChildren": 4
+      "numChildren": 8
     },
     "data": {
       "key": "EEXBS6FJ",
