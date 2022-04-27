@@ -2665,7 +2665,7 @@
   },
   {
     "key": "HVMVMNWK",
-    "version": 868,
+    "version": 903,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -2685,6 +2685,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/HVMVMNWK",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK/file/view",
+        "title": "ezy167.pdf",
+        "length": 344440
       }
     },
     "meta": {
@@ -2692,7 +2698,7 @@
     },
     "data": {
       "key": "HVMVMNWK",
-      "version": 868,
+      "version": 903,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "ezy167.pdf",
@@ -2702,8 +2708,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "ezy167.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "d8beeac2e0e7d11e109796c0016c35f1",
+      "mtime": 1651052982074,
       "tags": [],
       "collections": [
         "LWLX6P2X"
