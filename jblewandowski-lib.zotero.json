@@ -1,5 +1,52 @@
 [
   {
+    "key": "WWUNNIGL",
+    "version": 875,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WWUNNIGL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WWUNNIGL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "WWUNNIGL",
+      "version": 875,
+      "parentItem": "HVMVMNWK",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The PS is the probability for a subject to receive a treatment conditional on a set of baseline characteristics (confounders)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|001313|00309",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[276.299,473.677,560.284,482.344],[52.302,462.679,212.75,471.346]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:58:16Z",
+      "dateModified": "2022-04-27T09:58:16Z"
+    }
+  },
+  {
     "key": "9KNWTCYJ",
     "version": 874,
     "library": {
@@ -127,7 +174,7 @@
       }
     },
     "meta": {
-      "numChildren": 1
+      "numChildren": 2
     },
     "data": {
       "key": "HVMVMNWK",
