@@ -1,5 +1,326 @@
 [
   {
+    "key": "9KNWTCYJ",
+    "version": 874,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9KNWTCYJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9KNWTCYJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "9KNWTCYJ",
+      "version": 874,
+      "parentItem": "HVMVMNWK",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "multivariable regression models adjust for confounders by modelling the relationship between covari- ates and outcome",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|000953|00276",
+      "annotationPosition": "{\"rects\":[[181.16,506.671,559.735,515.338],[52.293,495.673,119.144,504.34]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:56:24Z",
+      "dateModified": "2022-04-27T09:56:24Z"
+    }
+  },
+  {
+    "key": "DI8XGXT7",
+    "version": 873,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DI8XGXT7",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7/file/view",
+        "title": "s12879-015-1154-y.pdf",
+        "length": 4742576
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "DI8XGXT7",
+      "version": 873,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "s12879-015-1154-y.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "s12879-015-1154-y.pdf",
+      "md5": "e9863de1eb1098e245f57840bfb0aebb",
+      "mtime": 1651053300584,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:55:00Z",
+      "dateModified": "2022-04-27T09:55:00Z"
+    }
+  },
+  {
+    "key": "HVMVMNWK",
+    "version": 868,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HVMVMNWK",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HVMVMNWK",
+      "version": 868,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "ezy167.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "ezy167.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:49:42Z",
+      "dateModified": "2022-04-27T09:49:42Z"
+    }
+  },
+  {
+    "key": "4ZFLPG8R",
+    "version": 867,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4ZFLPG8R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4ZFLPG8R",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4ZFLPG8R/file/view",
+        "title": "download",
+        "length": 220723
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4ZFLPG8R",
+      "version": 867,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "download",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "download",
+      "md5": "c712074ab763cd23e40cec7326382f70",
+      "mtime": 1651052963753,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:49:23Z",
+      "dateModified": "2022-04-27T09:49:23Z"
+    }
+  },
+  {
+    "key": "WNMVJSUZ",
+    "version": 865,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WNMVJSUZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WNMVJSUZ",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/WNMVJSUZ/file/view",
+        "title": "w15301.pdf",
+        "length": 227893
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WNMVJSUZ",
+      "version": 865,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "w15301.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "w15301.pdf",
+      "md5": "7ad5d22476798dc4b36496cadded0c8c",
+      "mtime": 1651052950644,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:49:10Z",
+      "dateModified": "2022-04-27T09:49:10Z"
+    }
+  },
+  {
+    "key": "B5JGQSAL",
+    "version": 870,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B5JGQSAL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B5JGQSAL",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/B5JGQSAL/file/view",
+        "title": "dp485.pdf",
+        "length": 555871
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "B5JGQSAL",
+      "version": 870,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "dp485.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "dp485.pdf",
+      "md5": "c2a9e39c1e1091afaecbab8bd02acb09",
+      "mtime": 1651052901522,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:48:21Z",
+      "dateModified": "2022-04-27T09:48:21Z"
+    }
+  },
+  {
     "key": "CIRTRKQK",
     "version": 861,
     "library": {
@@ -32870,64 +33191,6 @@
       "relations": {},
       "dateAdded": "2021-11-04T19:08:43Z",
       "dateModified": "2021-11-04T19:09:34Z"
-    }
-  },
-  {
-    "key": "MBKZMJBL",
-    "version": 60,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/MBKZMJBL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/MBKZMJBL",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/F4F2THL5",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/MBKZMJBL/file/view",
-        "title": "Morrow-Howell et al. - 2009 - Who Benefits From Volunteering Variations in Perc.pdf",
-        "length": 120319
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "MBKZMJBL",
-      "version": 60,
-      "parentItem": "F4F2THL5",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Morrow-Howell et al. - 2009 - Who Benefits From Volunteering Variations in Perc.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Morrow-Howell et al. - 2009 - Who Benefits From Volunteering Variations in Perc.pdf",
-      "md5": "c3644e2b7318fbf01d98ad8b17c82902",
-      "mtime": 1636052972000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2021-11-04T19:08:42Z",
-      "dateModified": "2021-11-04T19:09:32Z"
     }
   },
   {
