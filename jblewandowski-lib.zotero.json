@@ -1,5 +1,52 @@
 [
   {
+    "key": "ZKT4UNXX",
+    "version": 916,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZKT4UNXX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZKT4UNXX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "ZKT4UNXX",
+      "version": 916,
+      "parentItem": "HVMVMNWK",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "main limitation of the PS methods is their inability to control for unmeasured confounding",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00005|001140|00491",
+      "annotationPosition": "{\"pageIndex\":5,\"rects\":[[68.904,290.841,294.53,299.508],[52.104,279.843,165.71,288.51]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T13:57:24Z",
+      "dateModified": "2022-04-27T13:57:24Z"
+    }
+  },
+  {
     "key": "RJ7R8AQF",
     "version": 912,
     "library": {
@@ -2844,7 +2891,7 @@
       }
     },
     "meta": {
-      "numChildren": 4
+      "numChildren": 5
     },
     "data": {
       "key": "HVMVMNWK",
