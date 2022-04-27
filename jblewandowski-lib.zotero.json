@@ -1,5 +1,155 @@
 [
   {
+    "key": "RJ7R8AQF",
+    "version": 912,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RJ7R8AQF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RJ7R8AQF",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/RJ7R8AQF/file/view",
+        "title": "elm2007.pdf",
+        "length": 177731
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "RJ7R8AQF",
+      "version": 912,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "elm2007.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "elm2007.pdf",
+      "md5": "b07defe1188002da927d38d14f6b5a07",
+      "mtime": 1651067635916,
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T13:53:55Z",
+      "dateModified": "2022-04-27T13:53:55Z"
+    }
+  },
+  {
+    "key": "N4RZ92G3",
+    "version": 906,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N4RZ92G3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N4RZ92G3",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "N4RZ92G3",
+      "version": 906,
+      "parentItem": "HVMVMNWK",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "compared with other methods, caliper matching results in esti- mates with less bias when compared with optimal and nearest neighbour matching and shows the best performance when assessed using mean squared error",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|001671|00344",
+      "annotationPosition": "{\"rects\":[[317.508,438.477,559.767,447.144],[317.841,427.309,560.243,435.976],[317.832,416.084,559.756,424.751],[317.445,404.916,450.665,413.583]],\"pageIndex\":2}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T13:46:14Z",
+      "dateModified": "2022-04-27T13:46:14Z"
+    }
+  },
+  {
+    "key": "TGGRHYTU",
+    "version": 905,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TGGRHYTU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TGGRHYTU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "TGGRHYTU",
+      "version": 905,
+      "parentItem": "HVMVMNWK",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Monte Carlo simulations have shown that when",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|001633|00728",
+      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[117.229,54.382,294.601,63.049]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T13:46:04Z",
+      "dateModified": "2022-04-27T13:46:04Z"
+    }
+  },
+  {
     "key": "SKCJ2AJE",
     "version": 899,
     "library": {
@@ -2694,7 +2844,7 @@
       }
     },
     "meta": {
-      "numChildren": 2
+      "numChildren": 4
     },
     "data": {
       "key": "HVMVMNWK",
