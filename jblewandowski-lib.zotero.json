@@ -1,5 +1,2575 @@
 [
   {
+    "key": "SKCJ2AJE",
+    "version": 899,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SKCJ2AJE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SKCJ2AJE",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YB2FXGFL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 566404
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kanagaraji and Sumathi",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "SKCJ2AJE",
+      "version": 899,
+      "itemType": "journalArticle",
+      "title": "Proposal of an Open-Source Cloud Computing System for Exchanging Medical Images of a Hospital Information System",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "G",
+          "lastName": "Kanagaraji"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A C",
+          "lastName": "Sumathi"
+        }
+      ],
+      "abstractNote": "The Hospital Information System incorporates an integrated computerized clinical information system for improved hospital administration and patient health care. It also provides an accurate, electronically stored medical record of the patient. A data warehouse of such records can be utilized for statistical requirements and for research. HIS is based on the exemplar of a centralized information system designed for quick delivery of operational and administrative information. For a small township hospital it is incapable of constructing an independent information system which resulted in high construction costs and waste of resources. In existing Hospital Information System the sharing of information is only within the same hospital. The proposed system uses the Cloud computing system for the Hospital Information System. The proposal is based on the concepts of cloud computing. The medical image information sharing, exchanging and high-end processing is available in the \"Cloud\". The information (Medical Images) present in the cloud can provide the necessary details to the doctors and the patient can seek the treatment in different branch hospital, reduce the information and computational resource maintenance in the hospital. Furthermore, existing medical equipments can be rebuilt to be more efficient and low­ cost as medical terminal units.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "6",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "I2HA6IF5"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:53:34Z",
+      "dateModified": "2022-04-27T12:53:34Z"
+    }
+  },
+  {
+    "key": "YB2FXGFL",
+    "version": 899,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YB2FXGFL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YB2FXGFL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/SKCJ2AJE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YB2FXGFL/file/view",
+        "title": "kanagaraj2011.pdf",
+        "length": 566404
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YB2FXGFL",
+      "version": 899,
+      "parentItem": "SKCJ2AJE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kanagaraji and Sumathi - Proposal of an Open-Source Cloud Computing System .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kanagaraji and Sumathi - Proposal of an Open-Source Cloud Computing System .pdf",
+      "md5": "7f746488c498f326353dc46b4da19f01",
+      "mtime": 1651063999000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:53:19Z",
+      "dateModified": "2022-04-27T12:53:34Z"
+    }
+  },
+  {
+    "key": "2INITSFP",
+    "version": 893,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2INITSFP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/34FIF25P",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP/file/view",
+        "title": "2105.13854.pdf",
+        "length": 1113750
+      }
+    },
+    "meta": {
+      "numChildren": 4
+    },
+    "data": {
+      "key": "2INITSFP",
+      "version": 893,
+      "parentItem": "34FIF25P",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "O’Shea et al. - 2020 - Neonatal seizure detection from raw multi-channel .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "O’Shea et al. - 2020 - Neonatal seizure detection from raw multi-channel .pdf",
+      "md5": "8607fd564f6ff5d67282a65f696b06f0",
+      "mtime": 1650537879146,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:44:39Z",
+      "dateModified": "2022-04-27T12:51:51Z"
+    }
+  },
+  {
+    "key": "34FIF25P",
+    "version": 893,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/34FIF25P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/34FIF25P",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1113750
+      }
+    },
+    "meta": {
+      "creatorSummary": "O’Shea et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "34FIF25P",
+      "version": 893,
+      "itemType": "journalArticle",
+      "title": "Neonatal seizure detection from raw multi-channel EEG using a fully convolutional architecture",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alison",
+          "lastName": "O’Shea"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gordon",
+          "lastName": "Lightbody"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Geraldine",
+          "lastName": "Boylan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andriy",
+          "lastName": "Temko"
+        }
+      ],
+      "abstractNote": "A deep learning classifier for detecting seizures in neonates is proposed. This architecture is designed to detect seizure events from raw electroencephalogram (EEG) signals as opposed to the state-of-the-art hand engineered feature-based representation employed in traditional machine learning based solutions. The seizure detection system utilises only convolutional layers in order to process the multichannel time domain signal and is designed to exploit the large amount of weakly labelled data in the training stage. The system performance is assessed on a large database of continuous EEG recordings of 834h in duration; this is further validated on a held-out publicly available dataset and compared with two baseline SVM based systems.",
+      "publicationTitle": "Neural Networks",
+      "volume": "123",
+      "issue": "",
+      "pages": "12-25",
+      "date": "03/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Neural Networks",
+      "language": "en",
+      "DOI": "10.1016/j.neunet.2019.11.023",
+      "ISSN": "08936080",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0893608019303910",
+      "accessDate": "2022-04-27T12:51:45Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:51:45Z",
+      "dateModified": "2022-04-27T12:51:48Z"
+    }
+  },
+  {
+    "key": "PG3TGEGR",
+    "version": 892,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PG3TGEGR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PG3TGEGR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RTNYKG9I",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/PG3TGEGR/file/view",
+        "title": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
+        "length": 577166
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PG3TGEGR",
+      "version": 892,
+      "parentItem": "RTNYKG9I",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Faul et al. - 2005 - An evaluation of automated neonatal seizure detect.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Faul et al. - 2005 - An evaluation of automated neonatal seizure detect.pdf",
+      "md5": "bfd14d114722bec6d1b095b56fa0215d",
+      "mtime": 1650538435165,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:53:55Z",
+      "dateModified": "2022-04-27T12:51:39Z"
+    }
+  },
+  {
+    "key": "RTNYKG9I",
+    "version": 892,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RTNYKG9I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RTNYKG9I",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/PG3TGEGR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 577166
+      }
+    },
+    "meta": {
+      "creatorSummary": "Faul et al.",
+      "parsedDate": "2005",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RTNYKG9I",
+      "version": 892,
+      "itemType": "journalArticle",
+      "title": "An evaluation of automated neonatal seizure detection methods",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Faul"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Geraldine",
+          "lastName": "Boylan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sean",
+          "lastName": "Connolly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Liam",
+          "lastName": "Marnane"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gordon",
+          "lastName": "Lightbody"
+        }
+      ],
+      "abstractNote": "Objective: To evaluate 3 published automated algorithms for detecting seizures in neonatal EEG.\nMethods: One-minute, artifact-free EEG segments consisting of either EEG seizure activity or non-seizure EEG activity were extracted from EEG recordings of 13 neonates. Three published neonatal seizure detection algorithms were tested on each EEG recording. In an attempt to obtain improved detection rates, threshold values in each algorithm were manipulated and the actual algorithms were altered.\nResults: We tested 43 data ﬁles containing seizure activity and 34 data ﬁles free from seizure activity. The best results for Gotman, Liu and Celka, respectively, were as follows: sensitivities of 62.5, 42.9 and 66.1% along with speciﬁcities of 64.0, 90.2 and 56.0%.\nConclusions: The levels of performance achieved by the seizure detection algorithms are not high enough for use in a clinical environment. The algorithm performance ﬁgures for our data set are considerably worse than those quoted in the original algorithm source papers. The overlap of frequency characteristics of seizure and non-seizure EEG, artifacts and natural variances in the neonatal EEG cause a great problem to the seizure detection algorithms.",
+      "publicationTitle": "Clinical Neurophysiology",
+      "volume": "116",
+      "issue": "7",
+      "pages": "1533-1541",
+      "date": "7/2005",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Clinical Neurophysiology",
+      "language": "en",
+      "DOI": "10.1016/j.clinph.2005.03.006",
+      "ISSN": "13882457",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1388245705001136",
+      "accessDate": "2022-04-27T12:51:35Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:51:35Z",
+      "dateModified": "2022-04-27T12:51:37Z"
+    }
+  },
+  {
+    "key": "XLI5XSE6",
+    "version": 891,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XLI5XSE6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XLI5XSE6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HVULI4SI",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/XLI5XSE6/file/view",
+        "title": "aarabi2007.pdf",
+        "length": 421528
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "XLI5XSE6",
+      "version": 891,
+      "parentItem": "HVULI4SI",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Aarabi et al. - 2007 - A multistage knowledge-based system for EEG seizur.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Aarabi et al. - 2007 - A multistage knowledge-based system for EEG seizur.pdf",
+      "md5": "57a81c9fc85793ad25bd6dadeffd32d9",
+      "mtime": 1650538757276,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T10:59:17Z",
+      "dateModified": "2022-04-27T12:51:13Z"
+    }
+  },
+  {
+    "key": "HVULI4SI",
+    "version": 891,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HVULI4SI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HVULI4SI",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XLI5XSE6",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 421528
+      }
+    },
+    "meta": {
+      "creatorSummary": "Aarabi et al.",
+      "parsedDate": "2007",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HVULI4SI",
+      "version": 891,
+      "itemType": "journalArticle",
+      "title": "A multistage knowledge-based system for EEG seizure detection in newborn infants",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ardalan",
+          "lastName": "Aarabi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Reinhard",
+          "lastName": "Grebe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fabrice",
+          "lastName": "Wallois"
+        }
+      ],
+      "abstractNote": "Objective: Automatic seizure detection has attracted attention as a method to obtain valuable information concerning the duration, timing, and frequency of seizures. Methods currently used to detect EEG seizures in adults show high false detection rates in neonates because they lack information about speciﬁc age-dependent features of normal and pathological EEG and artifacts. This paper describes a novel multistage knowledge-based seizure detection system for newborn infants to identify and classify normal and pathological newborn EEGs as well as seizures with a reduced false detection rate.\nMethods: We developed the system in a way to make comprehensive use of spatial and temporal contextual information obtained from multichannel EEGs. The system development consists of six major stages: (i) EEG data collection and bandpass ﬁltering; (ii) automatic artifact detection; (iii) feature extraction from segments of non-seizure and seizure activities; (iv) feature selection via the relevance and redundancy analysis; (v) EEG classiﬁcation and pattern recognition using a trained multilayer back-propagation neural network; and (v) knowledge-based decision-making to examine each of possible EEG patterns from a multi-channel perspective. The system was developed and tested with the EEG recordings of 10 newborns aged between 39 and 42 weeks.\nResults: The overall sensitivity, selectivity, and average detection rate of the system were 74%, 70.1%, and 79.7%, respectively. The average false detection of 1.55/h was also achieved by the system with a feature reduction up to 80%.\nConclusions: The expert rule-based decision-making subsystem accompanying the classiﬁer helped to reduce the false detection rate, reject a wide variety of artifacts, and discriminate various patterns of EEG. Signiﬁcance: This paper may serve as a guide for the selection of discriminative features to improve the accuracy of conventional seizure detection systems for routine clinical EEG interpretation and brain activity monitoring in newborns especially those hospitalized in the neonatal intensive care units.",
+      "publicationTitle": "Clinical Neurophysiology",
+      "volume": "118",
+      "issue": "12",
+      "pages": "2781-2797",
+      "date": "12/2007",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Clinical Neurophysiology",
+      "language": "en",
+      "DOI": "10.1016/j.clinph.2007.08.012",
+      "ISSN": "13882457",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1388245707004294",
+      "accessDate": "2022-04-27T12:51:07Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:51:07Z",
+      "dateModified": "2022-04-27T12:51:09Z"
+    }
+  },
+  {
+    "key": "PSWIUD2I",
+    "version": 890,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PSWIUD2I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PSWIUD2I",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2EBWXEVM",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/PSWIUD2I/file/view",
+        "title": "thomas2013.pdf",
+        "length": 616025
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PSWIUD2I",
+      "version": 890,
+      "parentItem": "2EBWXEVM",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Thomas et al. - 2013 - Discriminative and Generative Classification Techn.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Thomas et al. - 2013 - Discriminative and Generative Classification Techn.pdf",
+      "md5": "77bf854408842be8d40f91d417e0fe4b",
+      "mtime": 1650538823278,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:00:23Z",
+      "dateModified": "2022-04-27T12:50:56Z"
+    }
+  },
+  {
+    "key": "2EBWXEVM",
+    "version": 890,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2EBWXEVM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2EBWXEVM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/PSWIUD2I",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 616025
+      }
+    },
+    "meta": {
+      "creatorSummary": "Thomas et al.",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "2EBWXEVM",
+      "version": 890,
+      "itemType": "journalArticle",
+      "title": "Discriminative and Generative Classification Techniques Applied to Automated Neonatal Seizure Detection",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "E. M.",
+          "lastName": "Thomas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A.",
+          "lastName": "Temko"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "W. P.",
+          "lastName": "Marnane"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "G. B.",
+          "lastName": "Boylan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "G.",
+          "lastName": "Lightbody"
+        }
+      ],
+      "abstractNote": "A number of automated neonatal seizure detectors have been proposed in recent years. However, there exists a large variability in the morphology of seizure and background patterns, both across patients and over time. This has resulted in relatively poor performance from systems which have been tested over large datasets. Here, the beneﬁts of employing a pattern recognition approach are discussed. Such a system may use numerous features paired with nonlinear classiﬁers. In particular, two types of nonlinear classiﬁers are contrasted for the task. Additionally, it is shown that the proposed architecture allows for efﬁcient classiﬁer combination which improves the performance of the algorithm. The resulting automated detector is shown to achieve ﬁeld leading performance. A particular strength of the proposed algorithm is the performance of the algorithm when very low false detections are required, at 0.25 false detections per hour, the system is able to detect 75.4% of the seizure events.",
+      "publicationTitle": "IEEE Journal of Biomedical and Health Informatics",
+      "volume": "17",
+      "issue": "2",
+      "pages": "297-304",
+      "date": "3/2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IEEE J. Biomed. Health Inform.",
+      "language": "en",
+      "DOI": "10.1109/JBHI.2012.2237035",
+      "ISSN": "2168-2194, 2168-2208",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/6399502/",
+      "accessDate": "2022-04-27T12:50:52Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:50:52Z",
+      "dateModified": "2022-04-27T12:50:54Z"
+    }
+  },
+  {
+    "key": "VNAPG29V",
+    "version": 889,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VNAPG29V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VNAPG29V",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/I6XH83G8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/VNAPG29V/file/view",
+        "title": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
+        "length": 5100517
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VNAPG29V",
+      "version": 889,
+      "parentItem": "I6XH83G8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Alawida et al. - 2019 - An image encryption scheme based on hybridizing di.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Alawida et al. - 2019 - An image encryption scheme based on hybridizing di.pdf",
+      "md5": "86a341052f834b298cccace35cf5fbeb",
+      "mtime": 1650539068035,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:04:28Z",
+      "dateModified": "2022-04-27T12:50:46Z"
+    }
+  },
+  {
+    "key": "I6XH83G8",
+    "version": 889,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/I6XH83G8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/I6XH83G8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/VNAPG29V",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5100517
+      }
+    },
+    "meta": {
+      "creatorSummary": "Alawida et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "I6XH83G8",
+      "version": 889,
+      "itemType": "journalArticle",
+      "title": "An image encryption scheme based on hybridizing digital chaos and finite state machine",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Moatsum",
+          "lastName": "Alawida"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Je Sen",
+          "lastName": "Teh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azman",
+          "lastName": "Samsudin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wafa’ Hamdan",
+          "lastName": "Alshoura"
+        }
+      ],
+      "abstractNote": "Image encryption protects visual information by transforming images into an incomprehensible form. Chaotic systems are used to design image ciphers due to properties such as ergodicity and initial condition sensitivity. A chaos-based cipher derives its security strength from its underlying digital chaotic map, thus a more complex map leads to higher security. This paper introduces an enhancement to a tent map’s chaotic properties by hybridizing it with a deterministic ﬁnite state machine. We denote the resulting digital one-dimensional chaotic system as TM-DFSM. Chaotic analyses indicate that the new chaotic system has higher nonlinearity, sensitivity to initial condition, and larger chaotic parameter range than other recently proposed onedimensional chaotic systems. We then propose a new image encryption scheme based on TM-DFSM, capable of performing both confusion and diffusion operations in one pass while also having a ﬂexible key space. The encryption operations are designed to achieve maximal confusion and diffusion properties. Changing a single bit of the plainimage or secret key will result in an entirely different cipherimage. The proposed cipher has been analyzed using histogram analysis, contrast analysis, local Shannon entropy, resistance against differential cryptanalysis, and key security. Performance comparison with other recent schemes also depicts the proposed cipher’s superiority.",
+      "publicationTitle": "Signal Processing",
+      "volume": "164",
+      "issue": "",
+      "pages": "249-266",
+      "date": "11/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Signal Processing",
+      "language": "en",
+      "DOI": "10.1016/j.sigpro.2019.06.013",
+      "ISSN": "01651684",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0165168419302221",
+      "accessDate": "2022-04-27T12:50:41Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:50:41Z",
+      "dateModified": "2022-04-27T12:50:43Z"
+    }
+  },
+  {
+    "key": "UYDIBX4Q",
+    "version": 889,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UYDIBX4Q",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UYDIBX4Q",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JHXZG4KC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/UYDIBX4Q/file/view",
+        "title": "1811.07868.pdf",
+        "length": 1714080
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UYDIBX4Q",
+      "version": 889,
+      "parentItem": "JHXZG4KC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Klose and Mester - 2018 - Simulated Autonomous Driving in a Realistic Drivin.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Klose and Mester - 2018 - Simulated Autonomous Driving in a Realistic Drivin.pdf",
+      "md5": "db7bc18feba2e4e2ec196315d7a37e5c",
+      "mtime": 1650539197492,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:06:37Z",
+      "dateModified": "2022-04-27T12:50:37Z"
+    }
+  },
+  {
+    "key": "JHXZG4KC",
+    "version": 889,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JHXZG4KC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JHXZG4KC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/UYDIBX4Q",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1714080
+      }
+    },
+    "meta": {
+      "creatorSummary": "Klose and Mester",
+      "parsedDate": "2018-11-23",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "JHXZG4KC",
+      "version": 889,
+      "itemType": "journalArticle",
+      "title": "Simulated Autonomous Driving in a Realistic Driving Environment using Deep Reinforcement Learning and a Deterministic Finite State Machine",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Patrick",
+          "lastName": "Klose"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rudolf",
+          "lastName": "Mester"
+        }
+      ],
+      "abstractNote": "In the field of Autonomous Driving, the system controlling the vehicle can be seen as an agent acting in a complex environment and thus naturally fits into the modern framework of Reinforcement Learning. However, learning to drive can be a challenging task and current results are often restricted to simplified driving environments. To advance the field, we present a method to adaptively restrict the action space of the agent according to its current driving situation and show that it can be used to swiftly learn to drive in a realistic environment based on the Deep Q-Network algorithm.",
+      "publicationTitle": "arXiv:1811.07868 [cs]",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "2018-11-23",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "http://arxiv.org/abs/1811.07868",
+      "accessDate": "2022-04-27T12:50:32Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "arXiv: 1811.07868",
+      "tags": [
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:50:32Z",
+      "dateModified": "2022-04-27T12:50:35Z"
+    }
+  },
+  {
+    "key": "7EKB99PP",
+    "version": 889,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7EKB99PP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7EKB99PP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JHXZG4KC",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "7EKB99PP",
+      "version": 889,
+      "parentItem": "JHXZG4KC",
+      "itemType": "note",
+      "note": "Comment: This paper is submitted to Applications of Intelligent Systems (APPIS) 2019 for review",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:50:32Z",
+      "dateModified": "2022-04-27T12:50:32Z"
+    }
+  },
+  {
+    "key": "Y7B6NFYL",
+    "version": 888,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y7B6NFYL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y7B6NFYL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JX9LFALP",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/Y7B6NFYL/file/view",
+        "title": "P18-1028.pdf",
+        "length": 495655
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Y7B6NFYL",
+      "version": 888,
+      "parentItem": "JX9LFALP",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Schwartz et al. - 2018 - Bridging CNNs, RNNs, and Weighted Finite-State Mac.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Schwartz et al. - 2018 - Bridging CNNs, RNNs, and Weighted Finite-State Mac.pdf",
+      "md5": "b71e8699b491583c87a1e236cba49870",
+      "mtime": 1650539271321,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:07:51Z",
+      "dateModified": "2022-04-27T12:50:18Z"
+    }
+  },
+  {
+    "key": "JX9LFALP",
+    "version": 888,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JX9LFALP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JX9LFALP",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/Y7B6NFYL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 495655
+      }
+    },
+    "meta": {
+      "creatorSummary": "Schwartz et al.",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JX9LFALP",
+      "version": 888,
+      "itemType": "conferencePaper",
+      "title": "Bridging CNNs, RNNs, and Weighted Finite-State Machines",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roy",
+          "lastName": "Schwartz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sam",
+          "lastName": "Thomson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Noah A.",
+          "lastName": "Smith"
+        }
+      ],
+      "abstractNote": "Recurrent and convolutional neural networks comprise two distinct families of models that have proven to be useful for encoding natural language utterances. In this paper we present SoPa, a new model that aims to bridge these two approaches. SoPa combines neural representation learning with weighted ﬁnite-state automata (WFSAs) to learn a soft version of traditional surface patterns. We show that SoPa is an extension of a one-layer CNN, and that such CNNs are equivalent to a restricted version of SoPa, and accordingly, to a restricted form of WFSA. Empirically, on three text classiﬁcation tasks, SoPa is comparable or better than both a BiLSTM (RNN) baseline and a CNN baseline, and is particularly useful in small data settings.",
+      "date": "2018",
+      "proceedingsTitle": "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "conferenceName": "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "place": "Melbourne, Australia",
+      "publisher": "Association for Computational Linguistics",
+      "volume": "",
+      "pages": "295-305",
+      "series": "",
+      "language": "en",
+      "DOI": "10.18653/v1/P18-1028",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "http://aclweb.org/anthology/P18-1028",
+      "accessDate": "2022-04-27T12:50:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:50:14Z",
+      "dateModified": "2022-04-27T12:50:15Z"
+    }
+  },
+  {
+    "key": "54QDVUK7",
+    "version": 887,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/54QDVUK7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/54QDVUK7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/P7QRDQBL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/54QDVUK7/file/view",
+        "title": "10.1007@s11071-019-05311-z.pdf",
+        "length": 1512923
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "54QDVUK7",
+      "version": 887,
+      "parentItem": "P7QRDQBL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Alawida et al. - 2019 - Deterministic chaotic finite-state automata.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Alawida et al. - 2019 - Deterministic chaotic finite-state automata.pdf",
+      "md5": "0eca10495d8aaabbc3a6498078114027",
+      "mtime": 1650539554086,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-21T11:12:34Z",
+      "dateModified": "2022-04-27T12:50:07Z"
+    }
+  },
+  {
+    "key": "P7QRDQBL",
+    "version": 887,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P7QRDQBL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P7QRDQBL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/54QDVUK7",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1512923
+      }
+    },
+    "meta": {
+      "creatorSummary": "Alawida et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "P7QRDQBL",
+      "version": 887,
+      "itemType": "journalArticle",
+      "title": "Deterministic chaotic finite-state automata",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Moatsum",
+          "lastName": "Alawida"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Azman",
+          "lastName": "Samsudin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Je Sen",
+          "lastName": "Teh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wafa’ Hamdan",
+          "lastName": "Alshoura"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Nonlinear Dynamics",
+      "volume": "98",
+      "issue": "3",
+      "pages": "2403-2421",
+      "date": "11/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Nonlinear Dyn",
+      "language": "en",
+      "DOI": "10.1007/s11071-019-05311-z",
+      "ISSN": "0924-090X, 1573-269X",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/s11071-019-05311-z",
+      "accessDate": "2022-04-27T12:50:04Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:50:04Z",
+      "dateModified": "2022-04-27T12:50:05Z"
+    }
+  },
+  {
+    "key": "EKBRLXAB",
+    "version": 886,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EKBRLXAB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EYSLQGTZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB/file/view",
+        "title": "sbz102.pdf",
+        "length": 438644
+      }
+    },
+    "meta": {
+      "numChildren": 6
+    },
+    "data": {
+      "key": "EKBRLXAB",
+      "version": 886,
+      "parentItem": "EYSLQGTZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Murrie et al. - Transition of Substance-Induced, Brief, and Atypic.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Murrie et al. - Transition of Substance-Induced, Brief, and Atypic.pdf",
+      "md5": "8fbabfd207a6928b152ac91db523ccd1",
+      "mtime": 1650876400796,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T08:46:40Z",
+      "dateModified": "2022-04-27T12:49:56Z"
+    }
+  },
+  {
+    "key": "EYSLQGTZ",
+    "version": 886,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EYSLQGTZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EYSLQGTZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 438644
+      }
+    },
+    "meta": {
+      "creatorSummary": "Murrie et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EYSLQGTZ",
+      "version": 886,
+      "itemType": "journalArticle",
+      "title": "Transition of Substance-Induced, Brief, and Atypical Psychoses to Schizophrenia: A Systematic Review and Meta-analysis",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Murrie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julia",
+          "lastName": "Lappin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Large"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Grant",
+          "lastName": "Sara"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "12",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:49:53Z",
+      "dateModified": "2022-04-27T12:49:53Z"
+    }
+  },
+  {
+    "key": "FQGG3XFJ",
+    "version": 885,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FQGG3XFJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FQGG3XFJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/PHX75H6A",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/FQGG3XFJ/file/view",
+        "title": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
+        "length": 517707
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "FQGG3XFJ",
+      "version": 885,
+      "parentItem": "PHX75H6A",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lambert et al. - 2005 - The impact of substance use disorders on clinical .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lambert et al. - 2005 - The impact of substance use disorders on clinical .pdf",
+      "md5": "1582133abab15bb369daa1ff9c395dde",
+      "mtime": 1650879482314,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:38:02Z",
+      "dateModified": "2022-04-27T12:49:20Z"
+    }
+  },
+  {
+    "key": "PHX75H6A",
+    "version": 885,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PHX75H6A",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PHX75H6A",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/FQGG3XFJ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 517707
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lambert et al.",
+      "parsedDate": "2005",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "PHX75H6A",
+      "version": 885,
+      "itemType": "journalArticle",
+      "title": "The impact of substance use disorders on clinical outcome in 643 patients with first-episode psychosis",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Lambert"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P.",
+          "lastName": "Conus"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D. I.",
+          "lastName": "Lubman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D.",
+          "lastName": "Wade"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "H.",
+          "lastName": "Yuen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Moritz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D.",
+          "lastName": "Naber"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P. D.",
+          "lastName": "McGorry"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B. G.",
+          "lastName": "Schimmelmann"
+        }
+      ],
+      "abstractNote": "Objective: Studies investigating the impact of comorbid substance use disorders (SUD) in psychosis have tended to focus on cross-sectional data, with few studies examining the eﬀects of substance use course on clinical outcome. The main aim of the present study was to assess the impact of baseline SUD and course of SUD on remission of positive symptoms.\nMethod: The Early Psychosis Prevention and Intervention Centre admitted 786 ﬁrst-episode psychosis (FEP) patients between 1998 and 2000. Data on SUD and clinical outcome were collected from patientsÕ medical records (MR) of 643 patients who met inclusion criteria.\nResults: Lifetime prevalence of SUD was 74%, with 62% having a SUD at baseline. This reduced to 36% in those patients who completed 18 months of treatment at the EPPIC program. A Cox regression analysis indicated that a decrease or cessation of substance use signiﬁcantly increased the probability of remission, whilst persistent SUD substantially reduced the likelihood. In addition, patients who reduced use appeared to have better outcomes at 18 months than those patients who had never used substances. Baseline SUD was not found to have any signiﬁcant inﬂuence on symptom remission.\nConclusion: Patients presenting with FEP have high rates of SUD. Eﬀective management of psychosis within a specialized service is associated with reductions in SUD over the course of treatment, although persistent substance use is associated with non-compliance, treatment drop-out and poor remission rates. As such, young people with FEP and comorbid substance use should be oﬀered integrated treatment that addresses both disorders.",
+      "publicationTitle": "Acta Psychiatrica Scandinavica",
+      "volume": "112",
+      "issue": "2",
+      "pages": "141-148",
+      "date": "08/2005",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Acta Psychiatr Scand",
+      "language": "en",
+      "DOI": "10.1111/j.1600-0447.2005.00554.x",
+      "ISSN": "0001-690X, 1600-0447",
+      "shortTitle": "",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0447.2005.00554.x",
+      "accessDate": "2022-04-27T12:49:16Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:49:16Z",
+      "dateModified": "2022-04-27T12:49:17Z"
+    }
+  },
+  {
+    "key": "2P42ZUGL",
+    "version": 884,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2P42ZUGL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2P42ZUGL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/B842VX2K",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1044726
+      }
+    },
+    "meta": {
+      "creatorSummary": "Sara et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "2P42ZUGL",
+      "version": 884,
+      "itemType": "journalArticle",
+      "title": "The Impact of Cannabis and Stimulant Disorders on Diagnostic Stability in Psychosis",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Grant E",
+          "lastName": "Sara"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philip M",
+          "lastName": "Burgess"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gin S",
+          "lastName": "Malhi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Harvey A",
+          "lastName": "Whiteford"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wayne C",
+          "lastName": "Hall"
+        }
+      ],
+      "abstractNote": "Background: Substance abuse adds to diagnostic uncertainty in psychosis and may increase the risk of transition from brief and affective psychoses to schizophrenia. This study examined whether comorbid substance disorder was associated with diagnostic instability and progression from other psychosis diagnoses to schizophrenia and whether effects differed for cannabis and stimulant-related disorders.\nMethod: We identified 24,306 individuals admitted to hospital with an ICD-10 psychosis diagnosis between 2000 and 2011. We examined agreement between initial diagnosis and final diagnosis over 2–5 years and predictors of diagnostic change toward and away from a final diagnosis of schizophrenia.\nResults: Nearly half (46%) of participants with initial brief, atypical, or druginduced psychoses were later diagnosed with schizophrenia. Persisting illicit drug disorders did not increase the likelihood of progression to schizophrenia (OR = 0.97; 95% CI, 0.89–1.04) but increased the likelihood of revision of index psychosis diagnosis away from schizophrenia (OR = 1.55; 95% CI, 1.40–1.71). Cannabis disorders predicted an increased likelihood of progression to schizophrenia (OR = 1.12; 95% CI, 1.01–1.24), while stimulant disorders predicted a reduced likelihood (OR = 0.81; 95% CI, 0.67–0.97). Stimulant disorders were associated with greater overall diagnostic instability.\nConclusions: Many people with initial diagnoses of brief and affective psychoses are later diagnosed with schizophrenia. Cannabis disorders are associated with diagnostic instability and greater likelihood of progression to schizophrenia. By contrast, comorbid stimulant disorders may be associated with better prognosis in psychosis, and it may be important to avoid premature closure on a diagnosis of schizophrenia when stimulant disorders are present. J Clin Psychiatry 2014;75(4):349–356 © Copyright 2014 Physicians Postgraduate Press, Inc.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "8",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "4XW94U8A"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:48:50Z",
+      "dateModified": "2022-04-27T12:48:51Z"
+    }
+  },
+  {
+    "key": "B842VX2K",
+    "version": 884,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B842VX2K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B842VX2K",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2P42ZUGL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/B842VX2K/file/view",
+        "title": "8552",
+        "length": 1044726
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "B842VX2K",
+      "version": 884,
+      "parentItem": "2P42ZUGL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Sara et al. - The Impact of Cannabis and Stimulant Disorders on",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Sara et al. - The Impact of Cannabis and Stimulant Disorders on",
+      "md5": "9ce939e88f0079daed5f60bac5f80701",
+      "mtime": 1650885968021,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:26:08Z",
+      "dateModified": "2022-04-27T12:48:51Z"
+    }
+  },
+  {
+    "key": "C442NCKS",
+    "version": 883,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/C442NCKS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/C442NCKS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/U3HZSMNI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 626108
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kendler",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "C442NCKS",
+      "version": 883,
+      "itemType": "journalArticle",
+      "title": "Prediction of Onset of Substance-Induced Psychotic Disorder and Its Progression to Schizophrenia in a Swedish National Sample",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kenneth S",
+          "lastName": "Kendler"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "9",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:47:31Z",
+      "dateModified": "2022-04-27T12:47:31Z"
+    }
+  },
+  {
+    "key": "U3HZSMNI",
+    "version": 883,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U3HZSMNI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U3HZSMNI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/C442NCKS",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/U3HZSMNI/file/view",
+        "title": "10.1176@appi.ajp.2019.18101217.pdf",
+        "length": 626108
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "U3HZSMNI",
+      "version": 883,
+      "parentItem": "C442NCKS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kendler - Prediction of Onset of Substance-Induced Psychotic.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kendler - Prediction of Onset of Substance-Induced Psychotic.pdf",
+      "md5": "f96289f42b5364423c52da61eb379be5",
+      "mtime": 1650886159162,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:29:19Z",
+      "dateModified": "2022-04-27T12:47:31Z"
+    }
+  },
+  {
+    "key": "FQB7UEHQ",
+    "version": 881,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FQB7UEHQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FQB7UEHQ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 211496
+      }
+    },
+    "meta": {
+      "creatorSummary": "Jansen",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "FQB7UEHQ",
+      "version": 881,
+      "itemType": "journalArticle",
+      "title": "Bayesian Meta-Analysis of Multiple Treatment Comparisons: An Introduction to Mixed Treatment Comparisons",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jeroen P",
+          "lastName": "Jansen"
+        }
+      ],
+      "abstractNote": "Recently, mixed treatment comparisons (MTC) have been presented as an extension of traditional meta-analysis by including multiple different pairwise comparisons across a range of different interventions. MTC allow for indirect comparisons and can therefore provide very useful information for clinical and reimbursement decision-making in the absence of head-to-head data. In this article, we provide an introductory overview of MTC illustrated with example analyses of different drug treatments in rheumatoid arthritis using a continuous patient-reported end point. As a background, we start with an overview of the traditional metaanalyses for pairwise trials, and the difference between a traditional approach and a Bayesian approach. Next, the Bayesian MTC for continuous outcomes are presented. We ﬁnish with a discussion of how MTC can best be presented in order to maximize acceptance by target audiences, i.e., clinicians and market access decision-makers.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "9",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:45:55Z",
+      "dateModified": "2022-04-27T12:45:55Z"
+    }
+  },
+  {
+    "key": "EEXBS6FJ",
+    "version": 881,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EEXBS6FJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/FQB7UEHQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ/file/view",
+        "title": "main.pdf",
+        "length": 211496
+      }
+    },
+    "meta": {
+      "numChildren": 8
+    },
+    "data": {
+      "key": "EEXBS6FJ",
+      "version": 881,
+      "parentItem": "FQB7UEHQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Jansen - Bayesian Meta-Analysis of Multiple Treatment Compa.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Jansen - Bayesian Meta-Analysis of Multiple Treatment Compa.pdf",
+      "md5": "dd2c7638ac1508c78978b76470ff50b5",
+      "mtime": 1650877998194,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T09:13:18Z",
+      "dateModified": "2022-04-27T12:45:55Z"
+    }
+  },
+  {
+    "key": "QVCQ4FFR",
+    "version": 880,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QVCQ4FFR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QVCQ4FFR",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/B5JGQSAL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 555871
+      }
+    },
+    "meta": {
+      "creatorSummary": "Caliendo and Kopeinig",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "QVCQ4FFR",
+      "version": 880,
+      "itemType": "journalArticle",
+      "title": "Some Practical Guidance for the Implementation of Propensity Score Matching",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Marco",
+          "lastName": "Caliendo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sabine",
+          "lastName": "Kopeinig"
+        }
+      ],
+      "abstractNote": "Propensity Score Matching (PSM) has become a popular approach to estimate causal treatment eﬀects. It is widely applied when evaluating labour market policies, but empirical examples can be found in very diverse ﬁelds of study. Once the researcher has decided to use PSM, he is confronted with a lot of questions regarding its implementation. To begin with, a ﬁrst decision has to be made concerning the estimation of the propensity score. Following that one has to decide which matching algorithm to choose and determine the region of common support. Subsequently, the matching quality has to be assessed and treatment eﬀects and their standard errors have to be estimated. Furthermore, questions like ‘what to do if there is choice-based sampling?’ or ‘when to measure eﬀects?’ can be important in empirical studies. Finally, one might also want to test the sensitivity of estimated treatment eﬀects with respect to unobserved heterogeneity or failure of the common support condition. Each implementation step involves a lot of decisions and diﬀerent approaches can be thought of. The aim of this paper is to discuss these implementation issues and give some guidance to researchers who want to use PSM for evaluation purposes.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "33",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:45:32Z",
+      "dateModified": "2022-04-27T12:45:32Z"
+    }
+  },
+  {
+    "key": "B5JGQSAL",
+    "version": 880,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B5JGQSAL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B5JGQSAL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/QVCQ4FFR",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/B5JGQSAL/file/view",
+        "title": "dp485.pdf",
+        "length": 555871
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "B5JGQSAL",
+      "version": 880,
+      "parentItem": "QVCQ4FFR",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Caliendo and Kopeinig - Some Practical Guidance for the Implementation of .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Caliendo and Kopeinig - Some Practical Guidance for the Implementation of .pdf",
+      "md5": "c2a9e39c1e1091afaecbab8bd02acb09",
+      "mtime": 1651052901522,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:48:21Z",
+      "dateModified": "2022-04-27T12:45:32Z"
+    }
+  },
+  {
+    "key": "XWZ4TYKC",
+    "version": 880,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XWZ4TYKC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XWZ4TYKC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/4ZFLPG8R",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 220723
+      }
+    },
+    "meta": {
+      "creatorSummary": "Randolph et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XWZ4TYKC",
+      "version": 880,
+      "itemType": "journalArticle",
+      "title": "A Step-by-Step Guide to Propensity Score Matching in R",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Justus J",
+          "lastName": "Randolph"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kristina",
+          "lastName": "Falbe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Austin Kureethara",
+          "lastName": "Manuel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph L",
+          "lastName": "Balloun"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "19",
+      "issue": "18",
+      "pages": "6",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:45:30Z",
+      "dateModified": "2022-04-27T12:45:30Z"
+    }
+  },
+  {
+    "key": "4ZFLPG8R",
+    "version": 880,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4ZFLPG8R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4ZFLPG8R",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XWZ4TYKC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4ZFLPG8R/file/view",
+        "title": "download",
+        "length": 220723
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4ZFLPG8R",
+      "version": 880,
+      "parentItem": "XWZ4TYKC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Randolph et al. - A Step-by-Step Guide to Propensity Score Matching",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Randolph et al. - A Step-by-Step Guide to Propensity Score Matching",
+      "md5": "c712074ab763cd23e40cec7326382f70",
+      "mtime": 1651052963753,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:49:23Z",
+      "dateModified": "2022-04-27T12:45:30Z"
+    }
+  },
+  {
+    "key": "L6EPSTGR",
+    "version": 880,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L6EPSTGR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L6EPSTGR",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 4742576
+      }
+    },
+    "meta": {
+      "creatorSummary": "Remschmidt et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "L6EPSTGR",
+      "version": 880,
+      "itemType": "journalArticle",
+      "title": "Frequency and impact of confounding by indication and healthy vaccinee bias in observational studies assessing influenza vaccine effectiveness: a systematic review",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Cornelius",
+          "lastName": "Remschmidt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ole",
+          "lastName": "Wichmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas",
+          "lastName": "Harder"
+        }
+      ],
+      "abstractNote": "Background: Evidence on influenza vaccine effectiveness (VE) is commonly derived from observational studies. However, these studies are prone to confounding by indication and healthy vaccinee bias. We aimed to systematically investigate these two forms of confounding/bias.\nMethods: Systematic review of observational studies reporting influenza VE and indicators for bias and confounding. We assessed risk of confounding by indication and healthy vaccinee bias for each study and calculated ratios of odds ratios (crude/adjusted) to quantify the effect of confounder adjustment. VE-estimates during and outside influenza seasons were compared to assess residual confounding by healthy vaccinee effects.\nResults: We identified 23 studies reporting on 11 outcomes. Of these, 19 (83 %) showed high risk of bias: Fourteen due to confounding by indication, two for healthy vaccinee bias, and three studies showed both forms of confounding/bias. Adjustment for confounders increased VE on average by 12 % (95 % CI: 7–17 %; all-cause mortality), 9 % (95 % CI: 4–14 %; all-cause hospitalization) and 7 % (95 % CI: 4–10 %; influenza-like illness). Despite adjustment, nine studies showed residual confounding as indicated by significant off-season VE-estimates. These were observed for five outcomes, but more frequently for all-cause mortality as compared to other outcomes (p = 0.03) and in studies which indicated healthy vaccinee bias at baseline (p = 0.01).\nConclusions: Both confounding by indication and healthy vaccinee bias are likely to operate simultaneously in observational studies on influenza VE. Although adjustment can correct for confounding by indication to some extent, the resulting estimates are still prone to healthy vaccinee bias, at least as long as unspecific outcomes like all-cause mortality are used. Therefore, cohort studies using administrative data bases with unspecific outcomes should no longer be used to measure the effects of influenza vaccination.",
+      "publicationTitle": "BMC Infectious Diseases",
+      "volume": "15",
+      "issue": "1",
+      "pages": "429",
+      "date": "12/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "BMC Infect Dis",
+      "language": "en",
+      "DOI": "10.1186/s12879-015-1154-y",
+      "ISSN": "1471-2334",
+      "shortTitle": "Frequency and impact of confounding by indication and healthy vaccinee bias in observational studies assessing influenza vaccine effectiveness",
+      "url": "http://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-015-1154-y",
+      "accessDate": "2022-04-27T12:45:29Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:45:29Z",
+      "dateModified": "2022-04-27T12:45:29Z"
+    }
+  },
+  {
+    "key": "DI8XGXT7",
+    "version": 880,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DI8XGXT7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/L6EPSTGR",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7/file/view",
+        "title": "s12879-015-1154-y.pdf",
+        "length": 4742576
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "DI8XGXT7",
+      "version": 880,
+      "parentItem": "L6EPSTGR",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Remschmidt et al. - 2015 - Frequency and impact of confounding by indication .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Remschmidt et al. - 2015 - Frequency and impact of confounding by indication .pdf",
+      "md5": "e9863de1eb1098e245f57840bfb0aebb",
+      "mtime": 1651053300584,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T09:55:00Z",
+      "dateModified": "2022-04-27T12:45:29Z"
+    }
+  },
+  {
     "key": "WWUNNIGL",
     "version": 875,
     "library": {
@@ -94,62 +2664,6 @@
     }
   },
   {
-    "key": "DI8XGXT7",
-    "version": 873,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/DI8XGXT7",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7/file/view",
-        "title": "s12879-015-1154-y.pdf",
-        "length": 4742576
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "DI8XGXT7",
-      "version": 873,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "s12879-015-1154-y.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "s12879-015-1154-y.pdf",
-      "md5": "e9863de1eb1098e245f57840bfb0aebb",
-      "mtime": 1651053300584,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-27T09:55:00Z",
-      "dateModified": "2022-04-27T09:55:00Z"
-    }
-  },
-  {
     "key": "HVMVMNWK",
     "version": 868,
     "library": {
@@ -197,62 +2711,6 @@
       "relations": {},
       "dateAdded": "2022-04-27T09:49:42Z",
       "dateModified": "2022-04-27T09:49:42Z"
-    }
-  },
-  {
-    "key": "4ZFLPG8R",
-    "version": 867,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/4ZFLPG8R",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/4ZFLPG8R",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/4ZFLPG8R/file/view",
-        "title": "download",
-        "length": 220723
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "4ZFLPG8R",
-      "version": 867,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "download",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "download",
-      "md5": "c712074ab763cd23e40cec7326382f70",
-      "mtime": 1651052963753,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-27T09:49:23Z",
-      "dateModified": "2022-04-27T09:49:23Z"
     }
   },
   {
@@ -309,62 +2767,6 @@
       "relations": {},
       "dateAdded": "2022-04-27T09:49:10Z",
       "dateModified": "2022-04-27T09:49:10Z"
-    }
-  },
-  {
-    "key": "B5JGQSAL",
-    "version": 870,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/B5JGQSAL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/B5JGQSAL",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/B5JGQSAL/file/view",
-        "title": "dp485.pdf",
-        "length": 555871
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "B5JGQSAL",
-      "version": 870,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "dp485.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "dp485.pdf",
-      "md5": "c2a9e39c1e1091afaecbab8bd02acb09",
-      "mtime": 1651052901522,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-27T09:48:21Z",
-      "dateModified": "2022-04-27T09:48:21Z"
     }
   },
   {
@@ -838,60 +3240,6 @@
     }
   },
   {
-    "key": "U3HZSMNI",
-    "version": 843,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/U3HZSMNI",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/U3HZSMNI",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/U3HZSMNI/file/view",
-        "title": "10.1176@appi.ajp.2019.18101217.pdf",
-        "length": 626108
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "U3HZSMNI",
-      "version": 843,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "10.1176@appi.ajp.2019.18101217.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "10.1176@appi.ajp.2019.18101217.pdf",
-      "md5": "f96289f42b5364423c52da61eb379be5",
-      "mtime": 1650886159162,
-      "tags": [],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2022-04-25T11:29:19Z",
-      "dateModified": "2022-04-25T11:29:19Z"
-    }
-  },
-  {
     "key": "WZT6EIF9",
     "version": 853,
     "library": {
@@ -1004,118 +3352,6 @@
     }
   },
   {
-    "key": "B842VX2K",
-    "version": 836,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/B842VX2K",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/B842VX2K",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/B842VX2K/file/view",
-        "title": "8552",
-        "length": 1044726
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "B842VX2K",
-      "version": 836,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "8552",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "8552",
-      "md5": "9ce939e88f0079daed5f60bac5f80701",
-      "mtime": 1650885968021,
-      "tags": [],
-      "collections": [
-        "4XW94U8A"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-25T11:26:08Z",
-      "dateModified": "2022-04-25T11:26:08Z"
-    }
-  },
-  {
-    "key": "FQGG3XFJ",
-    "version": 834,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/FQGG3XFJ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/FQGG3XFJ",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/FQGG3XFJ/file/view",
-        "title": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
-        "length": 517707
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "FQGG3XFJ",
-      "version": 834,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "j.1600-0447.2005.00554.x20160725-3202-1tnpxte-with-cover-page-v2.pdf",
-      "md5": "1582133abab15bb369daa1ff9c395dde",
-      "mtime": 1650879482314,
-      "tags": [],
-      "collections": [
-        "4XW94U8A"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-25T09:38:02Z",
-      "dateModified": "2022-04-25T09:38:02Z"
-    }
-  },
-  {
     "key": "QAXLGPNM",
     "version": 828,
     "library": {
@@ -1160,62 +3396,6 @@
       "relations": {},
       "dateAdded": "2022-04-25T09:36:48Z",
       "dateModified": "2022-04-25T09:36:48Z"
-    }
-  },
-  {
-    "key": "EEXBS6FJ",
-    "version": 830,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/EEXBS6FJ",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ/file/view",
-        "title": "main.pdf",
-        "length": 211496
-      }
-    },
-    "meta": {
-      "numChildren": 8
-    },
-    "data": {
-      "key": "EEXBS6FJ",
-      "version": 830,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "main.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "main.pdf",
-      "md5": "dd2c7638ac1508c78978b76470ff50b5",
-      "mtime": 1650877998194,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-25T09:13:18Z",
-      "dateModified": "2022-04-25T09:13:18Z"
     }
   },
   {
@@ -1360,62 +3540,6 @@
     }
   },
   {
-    "key": "EKBRLXAB",
-    "version": 814,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/EKBRLXAB",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/EKBRLXAB/file/view",
-        "title": "sbz102.pdf",
-        "length": 438644
-      }
-    },
-    "meta": {
-      "numChildren": 6
-    },
-    "data": {
-      "key": "EKBRLXAB",
-      "version": 814,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "sbz102.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "sbz102.pdf",
-      "md5": "8fbabfd207a6928b152ac91db523ccd1",
-      "mtime": 1650876400796,
-      "tags": [],
-      "collections": [
-        "4XW94U8A"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-25T08:46:40Z",
-      "dateModified": "2022-04-25T08:46:40Z"
-    }
-  },
-  {
     "key": "PNIGKDHP",
     "version": 809,
     "library": {
@@ -1463,342 +3587,6 @@
     }
   },
   {
-    "key": "54QDVUK7",
-    "version": 816,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/54QDVUK7",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/54QDVUK7",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/54QDVUK7/file/view",
-        "title": "10.1007@s11071-019-05311-z.pdf",
-        "length": 1512923
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "54QDVUK7",
-      "version": 816,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "10.1007@s11071-019-05311-z.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "10.1007@s11071-019-05311-z.pdf",
-      "md5": "0eca10495d8aaabbc3a6498078114027",
-      "mtime": 1650539554086,
-      "tags": [],
-      "collections": [
-        "FC7PYH7E"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T11:12:34Z",
-      "dateModified": "2022-04-21T11:12:34Z"
-    }
-  },
-  {
-    "key": "Y7B6NFYL",
-    "version": 804,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/Y7B6NFYL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/Y7B6NFYL",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/Y7B6NFYL/file/view",
-        "title": "P18-1028.pdf",
-        "length": 495655
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "Y7B6NFYL",
-      "version": 804,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "P18-1028.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "P18-1028.pdf",
-      "md5": "b71e8699b491583c87a1e236cba49870",
-      "mtime": 1650539271321,
-      "tags": [],
-      "collections": [
-        "FC7PYH7E"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T11:07:51Z",
-      "dateModified": "2022-04-21T11:07:51Z"
-    }
-  },
-  {
-    "key": "UYDIBX4Q",
-    "version": 802,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/UYDIBX4Q",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/UYDIBX4Q",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/UYDIBX4Q/file/view",
-        "title": "1811.07868.pdf",
-        "length": 1714080
-      }
-    },
-    "meta": {
-      "numChildren": 1
-    },
-    "data": {
-      "key": "UYDIBX4Q",
-      "version": 802,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "1811.07868.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "1811.07868.pdf",
-      "md5": "db7bc18feba2e4e2ec196315d7a37e5c",
-      "mtime": 1650539197492,
-      "tags": [],
-      "collections": [
-        "FC7PYH7E"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T11:06:37Z",
-      "dateModified": "2022-04-21T11:06:37Z"
-    }
-  },
-  {
-    "key": "VNAPG29V",
-    "version": 807,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/VNAPG29V",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/VNAPG29V",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/VNAPG29V/file/view",
-        "title": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
-        "length": 5100517
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "VNAPG29V",
-      "version": 807,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "An-Image-Encryption-Scheme-based-on-Hybridizing-Digital-Chaos-and-Finite-State-Machine.pdf",
-      "md5": "86a341052f834b298cccace35cf5fbeb",
-      "mtime": 1650539068035,
-      "tags": [],
-      "collections": [
-        "FC7PYH7E"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T11:04:28Z",
-      "dateModified": "2022-04-21T11:04:28Z"
-    }
-  },
-  {
-    "key": "PSWIUD2I",
-    "version": 799,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/PSWIUD2I",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/PSWIUD2I",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/PSWIUD2I/file/view",
-        "title": "thomas2013.pdf",
-        "length": 616025
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "PSWIUD2I",
-      "version": 799,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "thomas2013.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "thomas2013.pdf",
-      "md5": "77bf854408842be8d40f91d417e0fe4b",
-      "mtime": 1650538823278,
-      "tags": [],
-      "collections": [
-        "NF5IV7F9"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T11:00:23Z",
-      "dateModified": "2022-04-21T11:00:23Z"
-    }
-  },
-  {
-    "key": "XLI5XSE6",
-    "version": 796,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/XLI5XSE6",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/XLI5XSE6",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/XLI5XSE6/file/view",
-        "title": "aarabi2007.pdf",
-        "length": 421528
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "XLI5XSE6",
-      "version": 796,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "aarabi2007.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "aarabi2007.pdf",
-      "md5": "57a81c9fc85793ad25bd6dadeffd32d9",
-      "mtime": 1650538757276,
-      "tags": [],
-      "collections": [
-        "NF5IV7F9"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T10:59:17Z",
-      "dateModified": "2022-04-21T10:59:17Z"
-    }
-  },
-  {
     "key": "HZD4XPDC",
     "version": 790,
     "library": {
@@ -1843,62 +3631,6 @@
       "relations": {},
       "dateAdded": "2022-04-21T10:55:04Z",
       "dateModified": "2022-04-21T10:55:04Z"
-    }
-  },
-  {
-    "key": "PG3TGEGR",
-    "version": 787,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/PG3TGEGR",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/PG3TGEGR",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/PG3TGEGR/file/view",
-        "title": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
-        "length": 577166
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "PG3TGEGR",
-      "version": 787,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "An_evaluation_of_automated_neonatal_seiz20160325-798-wkcf6a-libre.pdf",
-      "md5": "bfd14d114722bec6d1b095b56fa0215d",
-      "mtime": 1650538435165,
-      "tags": [],
-      "collections": [
-        "NF5IV7F9"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T10:53:55Z",
-      "dateModified": "2022-04-21T10:53:55Z"
     }
   },
   {
@@ -2040,62 +3772,6 @@
       "relations": {},
       "dateAdded": "2022-04-21T10:49:52Z",
       "dateModified": "2022-04-21T10:49:52Z"
-    }
-  },
-  {
-    "key": "2INITSFP",
-    "version": 778,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/2INITSFP",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/2INITSFP/file/view",
-        "title": "2105.13854.pdf",
-        "length": 1113750
-      }
-    },
-    "meta": {
-      "numChildren": 4
-    },
-    "data": {
-      "key": "2INITSFP",
-      "version": 778,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "2105.13854.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "2105.13854.pdf",
-      "md5": "8607fd564f6ff5d67282a65f696b06f0",
-      "mtime": 1650537879146,
-      "tags": [],
-      "collections": [
-        "NF5IV7F9"
-      ],
-      "relations": {},
-      "dateAdded": "2022-04-21T10:44:39Z",
-      "dateModified": "2022-04-21T10:44:39Z"
     }
   },
   {
