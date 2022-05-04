@@ -1,5 +1,146 @@
 [
   {
+    "key": "6ICP8SMF",
+    "version": 951,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6ICP8SMF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6ICP8SMF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5SWI7PT2",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6ICP8SMF/file/view",
+        "title": "Pike and Kernighan - 1984 - The UNIX System  Program Design in .pdf",
+        "length": 1048201
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6ICP8SMF",
+      "version": 951,
+      "parentItem": "5SWI7PT2",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Pike and Kernighan - 1984 - The UNIX System  Program Design in .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Pike and Kernighan - 1984 - The UNIX System  Program Design in .pdf",
+      "md5": "f82c38b2b92ead9ab875343a09b68ff6",
+      "mtime": 1651685295000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-04T17:28:11Z",
+      "dateModified": "2022-05-04T17:28:15Z"
+    }
+  },
+  {
+    "key": "5SWI7PT2",
+    "version": 950,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5SWI7PT2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5SWI7PT2",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/6ICP8SMF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1048201
+      }
+    },
+    "meta": {
+      "creatorSummary": "Pike and Kernighan",
+      "parsedDate": "1984",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5SWI7PT2",
+      "version": 950,
+      "itemType": "journalArticle",
+      "title": "<i>The</i> UNIX <i>System</i> : Program Design in the <i>UNIX</i> Environment",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "R.",
+          "lastName": "Pike"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B. W.",
+          "lastName": "Kernighan"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "AT&T Bell Laboratories Technical Journal",
+      "volume": "63",
+      "issue": "8",
+      "pages": "1595-1605",
+      "date": "10/1984",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1002/j.1538-7305.1984.tb00055.x",
+      "ISSN": "0748612X",
+      "shortTitle": "<i>The</i> UNIX <i>System</i>",
+      "url": "https://ieeexplore.ieee.org/document/6771909",
+      "accessDate": "2022-05-04T17:28:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-04T17:28:14Z",
+      "dateModified": "2022-05-04T17:28:15Z"
+    }
+  },
+  {
     "key": "P59BSFMF",
     "version": 942,
     "library": {
