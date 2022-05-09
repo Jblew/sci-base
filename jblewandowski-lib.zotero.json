@@ -1,7 +1,576 @@
 [
   {
+    "key": "M6B2J2LA",
+    "version": 1002,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M6B2J2LA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M6B2J2LA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "M6B2J2LA",
+      "version": 1002,
+      "parentItem": "ETKQDP6H",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "One of these classes is known as microvesicles, which are directly shed from the cell membrane. \nThe other is known as exosomes, which are released by exo- cytosis when multivesicular bodies (MVBs) fuse with the plasma membrane [31]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "18",
+      "annotationSortIndex": "00001|002459|00609",
+      "annotationPosition": "{\"rects\":[[157.434,176.056,292.538,184.323],[53.873,165.117,292.117,173.384],[54.026,154.116,292.458,162.383],[54.008,143.177,292.592,151.444],[53.927,132.238,141.205,140.505]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:09:00Z",
+      "dateModified": "2022-05-09T09:09:00Z"
+    }
+  },
+  {
+    "key": "HSLU9KKA",
+    "version": 1001,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HSLU9KKA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HSLU9KKA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "HSLU9KKA",
+      "version": 1001,
+      "parentItem": "ETKQDP6H",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Conveying information via circulating vesicles is deemed to be the third way of intercellular communication that is as essential as the cell-to-cell contact-dependent signaling and sig- naling via transfer of soluble molecules [19,20].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "18",
+      "annotationSortIndex": "00001|001116|00296",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[54.19,489.057,292.434,497.324],[54.028,478.118,292.55,486.385],[54.046,467.179,292.469,475.446],[54.001,456.241,235.775,464.508]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:07:22Z",
+      "dateModified": "2022-05-09T09:07:22Z"
+    }
+  },
+  {
+    "key": "3SBXG26K",
+    "version": 1000,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3SBXG26K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3SBXG26K",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "3SBXG26K",
+      "version": 1000,
+      "parentItem": "ETKQDP6H",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "miRNAs can stably \nexist in body fluids",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "18",
+      "annotationSortIndex": "00001|000683|00198",
+      "annotationPosition": "{\"rects\":[[214.032,587.695,292.693,595.962],[54.046,576.757,127.426,585.024]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:05:06Z",
+      "dateModified": "2022-05-09T09:05:06Z"
+    }
+  },
+  {
+    "key": "BCHNYDM7",
+    "version": 999,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BCHNYDM7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BCHNYDM7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "BCHNYDM7",
+      "version": 999,
+      "parentItem": "ETKQDP6H",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "They are released from most cell types into the extracellular space after fusion with the plasma membrane [1–3].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "17",
+      "annotationSortIndex": "00000|001720|00663",
+      "annotationPosition": "{\"rects\":[[507.118,122.588,541.199,130.855],[302.651,111.649,541.343,119.916],[302.642,100.647,460.341,108.914]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:03:27Z",
+      "dateModified": "2022-05-09T09:03:27Z"
+    }
+  },
+  {
+    "key": "ETKQDP6H",
+    "version": 997,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ETKQDP6H",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 4
+    },
+    "data": {
+      "key": "ETKQDP6H",
+      "version": 997,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "main.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "main.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:01:15Z",
+      "dateModified": "2022-05-09T09:01:15Z"
+    }
+  },
+  {
+    "key": "EHBJZLS6",
+    "version": 995,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EHBJZLS6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EHBJZLS6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KNKNFBTH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "EHBJZLS6",
+      "version": 995,
+      "parentItem": "KNKNFBTH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "MicroRNA molecules enter PBMCs and lymphocytes of peripheral blood from the circula- tion via miRNA trafficking20,21",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|001906|00248",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[230.042,522.123,553.598,534.266],[156.062,512.124,265.473,524.299]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:46:50Z",
+      "dateModified": "2022-05-09T08:46:50Z"
+    }
+  },
+  {
+    "key": "A3TPL2PJ",
+    "version": 994,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/A3TPL2PJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/A3TPL2PJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KNKNFBTH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "A3TPL2PJ",
+      "version": 994,
+      "parentItem": "KNKNFBTH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Late toxicity induced by radiotherapy develops from 3 months16 up to a couple of years after the treatment and includes diffuse leukoencephalopathy (fatigue, mental changes, memory loss, dementia), or focal radionecro- sis",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|000880|00138",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[156.229,632.123,556.247,644.299],[156.195,622.124,553.546,634.265],[156.276,612.125,164.71,624.266]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:45:58Z",
+      "dateModified": "2022-05-09T08:45:58Z"
+    }
+  },
+  {
+    "key": "KNKNFBTH",
+    "version": 991,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KNKNFBTH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KNKNFBTH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JCKJMLS7",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KNKNFBTH/file/view",
+        "title": "Stepanović et al. - 2022 - Association between microRNAs 10b2134a and acute toxicity in glioblastoma patients treated with radiotherapy and temozolomide  Scientific Reports.pdf",
+        "length": 1362858
+      }
+    },
+    "meta": {
+      "numChildren": 2
+    },
+    "data": {
+      "key": "KNKNFBTH",
+      "version": 991,
+      "parentItem": "JCKJMLS7",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Stepanović et al. - 2022 - Association between microRNAs 10b2134a and acute toxicity in glioblastoma patients treated with radiotherapy and temozolomide  Scientific Reports.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Stepanović et al. - 2022 - Association between microRNAs 10b2134a and acute toxicity in glioblastoma patients treated with radiotherapy and temozolomide  Scientific Reports.pdf",
+      "md5": "ff63b18ba775a4aecd77cfc49ab866bc",
+      "mtime": 1652085856616,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:44:16Z",
+      "dateModified": "2022-05-09T08:44:16Z"
+    }
+  },
+  {
+    "key": "JCKJMLS7",
+    "version": 990,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JCKJMLS7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JCKJMLS7",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KNKNFBTH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1362858
+      }
+    },
+    "meta": {
+      "creatorSummary": "Stepanović et al.",
+      "parsedDate": "2022-05-07",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JCKJMLS7",
+      "version": 990,
+      "itemType": "journalArticle",
+      "title": "Association between microRNAs 10b/21/34a and acute toxicity in glioblastoma patients treated with radiotherapy and temozolomide | Scientific Reports",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Aleksandar",
+          "lastName": "Stepanović"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marina",
+          "lastName": "Nikitović"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tatjana P.",
+          "lastName": "Stanojković"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Danica",
+          "lastName": "Grujičić"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zoran",
+          "lastName": "Bukumirić"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ivana",
+          "lastName": "Srbljak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rosanda",
+          "lastName": "Ilić"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Snežana",
+          "lastName": "Milošević"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tatjana",
+          "lastName": "Arsenijević"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nina",
+          "lastName": "Petrović"
+        }
+      ],
+      "abstractNote": "A personalized approach to chemoradiation is important in reducing its potential side effects and identifying a group of patients prone to toxicity. MicroRNAs have been shown to have a predictive potential for radiotoxicity. The goal of the study was to test if levels of miRNA in peripheral blood mononuclear cells of glioblastoma patients are associated with toxicity and to identify the peak time point for toxicity. MicroRNA-10b/21/34a levels were measured in 43 patients with and without toxicity, at baseline, at the 15th, and at the 30th fraction by Real-Time quantitative Polymerase Chain Reaction. MicroRNA-10b/21 levels increased with toxicity grade (p = 0.014; p = 0.013); miR-21/34a levels were significantly different between patients with and without toxicity at the 15th fraction (p = 0.030; p = 0.045), while miR-34a levels significantly changed during treatment (p < 0.001). All three miRNAs showed a significantly high positive correlation with one another. MiR-34a might be considered as a predictive factor for toxicity due to its changes during treatment, and differences between the groups with and without toxicity; miR-10b might be used to predict toxicity; miR-10b/21 might be used for predicting the grade of toxicity in GB patients.",
+      "publicationTitle": "Scientific Reports",
+      "volume": "12",
+      "issue": "1",
+      "pages": "7505",
+      "date": "2022-05-07",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1038/s41598-022-11445-9",
+      "ISSN": "2045-2322",
+      "shortTitle": "",
+      "url": "https://www.nature.com/articles/s41598-022-11445-9",
+      "accessDate": "2022-05-09T08:44:13Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "www.nature.com",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:44:13Z",
+      "dateModified": "2022-05-09T08:44:13Z"
+    }
+  },
+  {
+    "key": "N3KHWNVF",
+    "version": 993,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N3KHWNVF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N3KHWNVF",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/N3KHWNVF/file/view",
+        "title": "s41598-022-08305-x.pdf",
+        "length": 9982182
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "N3KHWNVF",
+      "version": 993,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "s41598-022-08305-x.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "s41598-022-08305-x.pdf",
+      "md5": "a7c644665c5fe15fac3829687bb12793",
+      "mtime": 1652085454162,
+      "tags": [],
+      "collections": [
+        "97KVKMED"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:37:34Z",
+      "dateModified": "2022-05-09T08:37:34Z"
+    }
+  },
+  {
     "key": "8894YJJ4",
-    "version": 978,
+    "version": 986,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,6 +590,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/8894YJJ4",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/8894YJJ4/file/view",
+        "title": "s41598-022-11279-5.pdf",
+        "length": 1361022
       }
     },
     "meta": {
@@ -28,7 +603,7 @@
     },
     "data": {
       "key": "8894YJJ4",
-      "version": 978,
+      "version": 986,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "s41598-022-11279-5.pdf",
@@ -38,8 +613,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "s41598-022-11279-5.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "b5c7c34349949fe0510cfc5e52546b54",
+      "mtime": 1652083362429,
       "tags": [],
       "collections": [
         "B6B3RW8P"
@@ -6461,6 +7036,53 @@
       "relations": {},
       "dateAdded": "2022-04-25T11:48:14Z",
       "dateModified": "2022-04-25T11:48:14Z"
+    }
+  },
+  {
+    "key": "9ZSQH4E5",
+    "version": 854,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9ZSQH4E5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9ZSQH4E5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "9ZSQH4E5",
+      "version": 854,
+      "parentItem": "EEXBS6FJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "MTC",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "956",
+      "annotationSortIndex": "00000|001512|00451",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[196.982,322.989,219.04,332.487]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-25T11:47:51Z",
+      "dateModified": "2022-04-25T11:47:51Z"
     }
   },
   {
