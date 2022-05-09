@@ -1,5 +1,99 @@
 [
   {
+    "key": "NZUNT75N",
+    "version": 1008,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NZUNT75N",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NZUNT75N",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "NZUNT75N",
+      "version": 1008,
+      "parentItem": "ETKQDP6H",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Exosomal miR-21 and miR-29a, in addition to the classic role of targeting mRNA, were first discovered to have the capacity to act as ligands that bind to toll-like receptors (TLRs)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "21",
+      "annotationSortIndex": "00004|000124|00077",
+      "annotationPosition": "{\"pageIndex\":4,\"rects\":[[192.267,708.285,284.252,716.552],[45.426,697.283,283.849,705.55],[45.462,686.344,284.333,694.611],[45.578,675.405,177.849,683.672]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:20:34Z",
+      "dateModified": "2022-05-09T09:20:34Z"
+    }
+  },
+  {
+    "key": "42AMD3W7",
+    "version": 1004,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/42AMD3W7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/42AMD3W7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "42AMD3W7",
+      "version": 1004,
+      "parentItem": "ETKQDP6H",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "As mentioned above, exosomes are originally formed by endocytosis. First, the cell membrane is internalized to produce endosomes. Subsequently, many small vesicles are formed inside the endosome by invaginating parts of the endosome membranes. Such endosomes are called MVBs. Finally, the MVBs fuse with the cell membrane and release the intralumi- nal endosomal vesicles into the extracellular space to become exosomes [32].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "18",
+      "annotationSortIndex": "00001|003023|00077",
+      "annotationPosition": "{\"rects\":[[322.88,708.305,549.763,716.572],[311.09,697.303,549.638,705.57],[311.09,686.364,549.656,694.631],[311.018,675.425,549.593,683.692],[310.919,664.424,549.638,672.691],[311.188,653.485,549.45,661.752],[311.045,642.546,549.62,650.813],[311.09,631.544,365.838,639.811]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:09:58Z",
+      "dateModified": "2022-05-09T09:09:58Z"
+    }
+  },
+  {
     "key": "M6B2J2LA",
     "version": 1002,
     "library": {
@@ -212,7 +306,7 @@
       }
     },
     "meta": {
-      "numChildren": 4
+      "numChildren": 6
     },
     "data": {
       "key": "ETKQDP6H",
@@ -7036,53 +7130,6 @@
       "relations": {},
       "dateAdded": "2022-04-25T11:48:14Z",
       "dateModified": "2022-04-25T11:48:14Z"
-    }
-  },
-  {
-    "key": "9ZSQH4E5",
-    "version": 854,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/9ZSQH4E5",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/9ZSQH4E5",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/EEXBS6FJ",
-        "type": "application/json"
-      }
-    },
-    "meta": {},
-    "data": {
-      "key": "9ZSQH4E5",
-      "version": 854,
-      "parentItem": "EEXBS6FJ",
-      "itemType": "annotation",
-      "annotationType": "highlight",
-      "annotationText": "MTC",
-      "annotationComment": "",
-      "annotationColor": "#ff6666",
-      "annotationPageLabel": "956",
-      "annotationSortIndex": "00000|001512|00451",
-      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[196.982,322.989,219.04,332.487]]}",
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2022-04-25T11:47:51Z",
-      "dateModified": "2022-04-25T11:47:51Z"
     }
   },
   {
