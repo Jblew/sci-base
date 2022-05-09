@@ -1,5 +1,467 @@
 [
   {
+    "key": "8894YJJ4",
+    "version": 978,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8894YJJ4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8894YJJ4",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "8894YJJ4",
+      "version": 978,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "s41598-022-11279-5.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "s41598-022-11279-5.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:02:42Z",
+      "dateModified": "2022-05-09T08:02:42Z"
+    }
+  },
+  {
+    "key": "QHJAVPXE",
+    "version": 976,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QHJAVPXE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QHJAVPXE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "QHJAVPXE",
+      "version": 976,
+      "parentItem": "K3PT3NJ9",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Ironically, individuals who believe they are choosing healthier versions of their favorite foods are trading fat for less healthy sugar. Although exchanging sugar for fat alone may not increase rates of obesity as shown in a recent systematic review,6",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|001171|00329",
+      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[249.384,453.937,283.671,462.177],[36.442,443.959,284.292,452.199],[36.047,433.924,283.293,442.164],[36.227,423.946,283.573,432.186],[36.244,413.911,181.583,423.997]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:00:39Z",
+      "dateModified": "2022-05-09T08:00:39Z"
+    }
+  },
+  {
+    "key": "6QVEUJUI",
+    "version": 976,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6QVEUJUI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6QVEUJUI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "6QVEUJUI",
+      "version": 976,
+      "parentItem": "K3PT3NJ9",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Consuming excess sugar even in small amounts (⩾10% of total calories) has been shown to be harmful, leading to weight gain, diabetes and cardiovascular disease.2,3",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|000863|00287",
+      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[45.167,491.917,283.331,504.237],[36.227,483.983,283.692,492.223],[36.218,473.948,189.532,484.092]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:00:26Z",
+      "dateModified": "2022-05-09T08:00:26Z"
+    }
+  },
+  {
+    "key": "4G55H7P8",
+    "version": 971,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4G55H7P8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4G55H7P8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "4G55H7P8",
+      "version": 971,
+      "parentItem": "KTFDSYQI",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "risk. It is thought that SSBs contribute to weight gain because of their high added-sugar content, low satiety, and potential incom- plete compensation for total energy, leading to increased energy intake.7,8",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|001733|00529",
+      "annotationPosition": "{\"rects\":[[255,254.775,289.789,263.477],[56.289,243.093,290.205,251.795],[56.251,231.411,289.718,240.113],[56.213,219.729,290.102,228.431],[56.403,208.047,117.662,216.749]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:49:33Z",
+      "dateModified": "2022-05-09T07:49:33Z"
+    }
+  },
+  {
+    "key": "KTFDSYQI",
+    "version": 977,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KTFDSYQI",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI/file/view",
+        "title": "CIRCULATIONAHA.109.876185",
+        "length": 217126
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KTFDSYQI",
+      "version": 977,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "CIRCULATIONAHA.109.876185",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "CIRCULATIONAHA.109.876185",
+      "md5": "60f6050f6b98aebd20ad62edfe37a53c",
+      "mtime": 1652082476625,
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:47:56Z",
+      "dateModified": "2022-05-09T07:47:56Z"
+    }
+  },
+  {
+    "key": "8QVK3WAN",
+    "version": 966,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8QVK3WAN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8QVK3WAN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8QVK3WAN",
+      "version": 966,
+      "parentItem": "K3PT3NJ9",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "However, the food industry may have replaced fat with sugar, which may be more obesogenic even if the calories per portion are less.2,3",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|001749|00487",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[133.104,296.104,283.592,304.344],[36.505,285.956,284.273,294.196],[36.048,275.864,164.928,285.951]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:46:39Z",
+      "dateModified": "2022-05-09T07:46:39Z"
+    }
+  },
+  {
+    "key": "K3PT3NJ9",
+    "version": 964,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K3PT3NJ9",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9/file/view",
+        "title": "nutd201543.pdf",
+        "length": 153643
+      }
+    },
+    "meta": {
+      "numChildren": 3
+    },
+    "data": {
+      "key": "K3PT3NJ9",
+      "version": 964,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "nutd201543.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "nutd201543.pdf",
+      "md5": "d5a5c65edf0561f637b281ae9bef5073",
+      "mtime": 1652082375313,
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:46:15Z",
+      "dateModified": "2022-05-09T07:46:15Z"
+    }
+  },
+  {
+    "key": "YBGI4KZ8",
+    "version": 970,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YBGI4KZ8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YBGI4KZ8",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YBGI4KZ8/file/view",
+        "title": "s41387-022-00203-5.pdf",
+        "length": 767720
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YBGI4KZ8",
+      "version": 970,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "s41387-022-00203-5.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "s41387-022-00203-5.pdf",
+      "md5": "4c3199f5a084451934f081ebc21bd90d",
+      "mtime": 1652082027062,
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:40:27Z",
+      "dateModified": "2022-05-09T07:40:27Z"
+    }
+  },
+  {
+    "key": "66872973",
+    "version": 961,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/66872973",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/66872973",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/66872973/file/view",
+        "title": "s41387-021-00176-x.pdf",
+        "length": 1002905
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "66872973",
+      "version": 961,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "s41387-021-00176-x.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "s41387-021-00176-x.pdf",
+      "md5": "5d8c1d2c43dd4488718bdad0a83a5fe6",
+      "mtime": 1652081758488,
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:35:58Z",
+      "dateModified": "2022-05-09T07:35:58Z"
+    }
+  },
+  {
     "key": "6ICP8SMF",
     "version": 951,
     "library": {
