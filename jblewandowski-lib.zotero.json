@@ -1,5 +1,646 @@
 [
   {
+    "key": "GUIPSPR8",
+    "version": 1049,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GUIPSPR8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GUIPSPR8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "GUIPSPR8",
+      "version": 1049,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Second, as it is often the case in administrative database-related studies, multiple groups of authors used the same data base and potential overlap between study populations cannot be completely ex- cluded",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "14",
+      "annotationSortIndex": "00013|000641|00246",
+      "annotationPosition": "{\"pageIndex\":13,\"rects\":[[150.762,538.587,290.421,547.926],[57.065,526.568,291.314,535.907],[57.065,514.55,290.257,523.889],[56.84,502.588,290.211,511.927],[57.055,490.569,84.176,499.908]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:11:33Z",
+      "dateModified": "2022-05-10T08:11:33Z"
+    }
+  },
+  {
+    "key": "5HPXH3ZY",
+    "version": 1045,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5HPXH3ZY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5HPXH3ZY",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5HPXH3ZY",
+      "version": 1045,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "wong2012.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "wong2012.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:09:34Z",
+      "dateModified": "2022-05-10T08:09:34Z"
+    }
+  },
+  {
+    "key": "ICDI53GB",
+    "version": 1043,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ICDI53GB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ICDI53GB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "ICDI53GB",
+      "version": 1043,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "instrumental variable technique",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "13",
+      "annotationSortIndex": "00012|000173|00642",
+      "annotationPosition": "{\"rects\":[[237.151,142.583,290.43,151.922],[56.644,130.565,134.701,139.904]],\"pageIndex\":12}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:08:16Z",
+      "dateModified": "2022-05-10T08:08:16Z"
+    }
+  },
+  {
+    "key": "IMUQ2ZLT",
+    "version": 1042,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IMUQ2ZLT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IMUQ2ZLT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "IMUQ2ZLT",
+      "version": 1042,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Hak et al. sug- gested that circulation of influenza in the few months before and after the influenza season might account for “off-season” estimates, as well as a prolonged im- pact of influenza on mortality which extends several months beyond illness [4]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "12",
+      "annotationSortIndex": "00011|000834|00654",
+      "annotationPosition": "{\"pageIndex\":11,\"rects\":[[468.996,130.568,538.218,139.907],[304.997,118.606,538.273,127.945],[304.87,106.588,538.537,115.927],[304.938,94.569,538.192,103.908],[304.967,82.607,538.437,91.946],[305.046,70.589,410.167,79.928]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:07:56Z",
+      "dateModified": "2022-05-10T08:07:56Z"
+    }
+  },
+  {
+    "key": "ZVV4M4M9",
+    "version": 1040,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZVV4M4M9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZVV4M4M9",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "ZVV4M4M9",
+      "version": 1040,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Campitelli et al. [7] showed that it is possible to adjust, at least in part, for both forms of bias/confounding,",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00010|000219|00642",
+      "annotationPosition": "{\"rects\":[[57.114,142.584,290.104,151.923],[57.065,130.565,290.121,139.904]],\"pageIndex\":10}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:03:56Z",
+      "dateModified": "2022-05-10T08:03:56Z"
+    }
+  },
+  {
+    "key": "H2HH473Z",
+    "version": 1047,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H2HH473Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H2HH473Z",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/H2HH473Z/file/view",
+        "title": "campitelli2010.pdf",
+        "length": 155826
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "H2HH473Z",
+      "version": 1047,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "campitelli2010.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "campitelli2010.pdf",
+      "md5": "95a6d06c88d88136066749cdf439ff2b",
+      "mtime": 1652169804124,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:03:24Z",
+      "dateModified": "2022-05-10T08:03:24Z"
+    }
+  },
+  {
+    "key": "PLLK7FJB",
+    "version": 1032,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PLLK7FJB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PLLK7FJB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "PLLK7FJB",
+      "version": 1032,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "At population level, implausibly high mortality benefits of influenza vaccination have been observed particularly in elderly persons. Observational studies found a reduc- tion of mortality of about 50 %, while it was estimated that influenza-related mortality attributed to less than 10 % in this age-group [2]. These and other observations led to the hypothesis of healthy vaccinee bias [36]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "10",
+      "annotationSortIndex": "00009|000656|00594",
+      "annotationPosition": "{\"rects\":[[64.775,190.606,290.253,199.945],[57.065,178.588,290.745,187.927],[56.977,166.569,290.192,175.908],[56.859,154.607,290.434,163.946],[56.859,142.589,290.389,151.928],[57.496,130.57,290.233,139.909],[56.879,118.608,273.904,127.947]],\"pageIndex\":9}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:00:19Z",
+      "dateModified": "2022-05-10T08:00:19Z"
+    }
+  },
+  {
+    "key": "399MXXHC",
+    "version": 1026,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/399MXXHC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/399MXXHC",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/399MXXHC/file/view",
+        "title": "2046-4053-4-1.pdf",
+        "length": 338484
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "399MXXHC",
+      "version": 1026,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "2046-4053-4-1.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2046-4053-4-1.pdf",
+      "md5": "d6388d165ee160ccb7a09b175da938b7",
+      "mtime": 1652168854119,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:47:34Z",
+      "dateModified": "2022-05-10T07:47:34Z"
+    }
+  },
+  {
+    "key": "T4352B4K",
+    "version": 1024,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/T4352B4K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/T4352B4K",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/T4352B4K/file/view",
+        "title": "moher2009.pdf",
+        "length": 143407
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "T4352B4K",
+      "version": 1024,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "moher2009.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "moher2009.pdf",
+      "md5": "a28e4d72ae38ce8799c383a038072c81",
+      "mtime": 1652168837785,
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:47:17Z",
+      "dateModified": "2022-05-10T07:47:17Z"
+    }
+  },
+  {
+    "key": "H3EVVQHR",
+    "version": 1021,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H3EVVQHR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H3EVVQHR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "H3EVVQHR",
+      "version": 1021,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) statement [12]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|001636|00114",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[305.136,670.564,538.494,679.903],[304.95,658.545,471.12,667.884]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:44:09Z",
+      "dateModified": "2022-05-10T07:44:09Z"
+    }
+  },
+  {
+    "key": "DCFHQV4H",
+    "version": 1018,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DCFHQV4H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DCFHQV4H",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "DCFHQV4H",
+      "version": 1018,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Off-season estimates are calculated for time periods outside influenza seasons when the virus is (virtually) not circulating and therefore no vaccine effect should be present [10, 11].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|000632|00246",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[245.655,538.587,290.444,547.926],[57.057,526.568,290.276,535.907],[56.979,514.55,290.619,523.889],[57.057,502.588,290.253,511.927],[56.94,490.569,126.621,499.908]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:41:21Z",
+      "dateModified": "2022-05-10T07:41:21Z"
+    }
+  },
+  {
+    "key": "ZP6UADXP",
+    "version": 1017,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZP6UADXP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZP6UADXP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "ZP6UADXP",
+      "version": 1017,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "healthy vaccinee bias” and refers to a situation when patients, who are in better health conditions, are more likely to adhere to the annually recommended influenza vaccination [10]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|000171|00126",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[181.322,658.545,290.462,667.884],[56.988,646.584,290.392,655.923],[56.939,634.565,290.68,643.904],[56.988,622.547,220.009,631.886]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:40:57Z",
+      "dateModified": "2022-05-10T07:40:57Z"
+    }
+  },
+  {
+    "key": "F8ACTFMU",
+    "version": 1016,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F8ACTFMU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F8ACTFMU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DI8XGXT7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "F8ACTFMU",
+      "version": 1016,
+      "parentItem": "DI8XGXT7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "overestimate VE, particularly against unspecific outcomes such as all-cause mortality",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|002272|00637",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[133.034,147.346,290.543,156.685],[56.958,135.385,269.212,144.724]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:39:20Z",
+      "dateModified": "2022-05-10T07:39:20Z"
+    }
+  },
+  {
     "key": "NZUNT75N",
     "version": 1008,
     "library": {
@@ -283,7 +924,7 @@
   },
   {
     "key": "ETKQDP6H",
-    "version": 997,
+    "version": 1011,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -303,6 +944,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/ETKQDP6H",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H/file/view",
+        "title": "main.pdf",
+        "length": 743609
       }
     },
     "meta": {
@@ -310,7 +957,7 @@
     },
     "data": {
       "key": "ETKQDP6H",
-      "version": 997,
+      "version": 1011,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "main.pdf",
@@ -320,8 +967,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "main.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "ff71299e310f75d0612a938cf53cda39",
+      "mtime": 1652086875571,
       "tags": [],
       "collections": [
         "B6B3RW8P"
@@ -6733,7 +7380,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 9
     },
     "data": {
       "key": "DI8XGXT7",
