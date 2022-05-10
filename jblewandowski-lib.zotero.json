@@ -1,5 +1,1814 @@
 [
   {
+    "key": "H39NH2LY",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H39NH2LY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H39NH2LY",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/399MXXHC",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 338484
+      }
+    },
+    "meta": {
+      "creatorSummary": "PRISMA-P Group et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "H39NH2LY",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "PRISMA-P Group"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Moher"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Larissa",
+          "lastName": "Shamseer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mike",
+          "lastName": "Clarke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Davina",
+          "lastName": "Ghersi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alessandro",
+          "lastName": "Liberati"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Petticrew"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Shekelle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lesley A",
+          "lastName": "Stewart"
+        }
+      ],
+      "abstractNote": "Systematic reviews should build on a protocol that describes the rationale, hypothesis, and planned methods of the review; few reviews report whether a protocol exists. Detailed, well-described protocols can facilitate the understanding and appraisal of the review methods, as well as the detection of modifications to methods and selective reporting in completed reviews. We describe the development of a reporting guideline, the Preferred Reporting Items for Systematic reviews and Meta-Analyses for Protocols 2015 (PRISMA-P 2015). PRISMA-P consists of a 17-item checklist intended to facilitate the preparation and reporting of a robust protocol for the systematic review. Funders and those commissioning reviews might consider mandating the use of the checklist to facilitate the submission of relevant protocol information in funding applications. Similarly, peer reviewers and editors can use the guidance to gauge the completeness and transparency of a systematic review protocol submitted for publication in a journal or other medium.",
+      "publicationTitle": "Systematic Reviews",
+      "volume": "4",
+      "issue": "1",
+      "pages": "1",
+      "date": "12/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Syst Rev",
+      "language": "en",
+      "DOI": "10.1186/2046-4053-4-1",
+      "ISSN": "2046-4053",
+      "shortTitle": "",
+      "url": "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/2046-4053-4-1",
+      "accessDate": "2022-05-10T15:30:35Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: prisma-pgroupPreferredReportingItems2015",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:35Z",
+      "dateModified": "2022-05-10T15:31:34Z"
+    }
+  },
+  {
+    "key": "Q3MG5GFR",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Q3MG5GFR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Q3MG5GFR",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 743609
+      }
+    },
+    "meta": {
+      "creatorSummary": "Zhang et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "Q3MG5GFR",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Exosome and Exosomal MicroRNA: Trafficking, Sorting, and Function",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jian",
+          "lastName": "Zhang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sha",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lu",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Meng",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chongye",
+          "lastName": "Guo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jun",
+          "lastName": "Yao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shuangli",
+          "lastName": "Mi"
+        }
+      ],
+      "abstractNote": "Exosomes are 40–100 nm nano-sized vesicles that are released from many cell types into the extracellular space. Such vesicles are widely distributed in various body ﬂuids. Recently, mRNAs and microRNAs (miRNAs) have been identiﬁed in exosomes, which can be taken up by neighboring or distant cells and subsequently modulate recipient cells. This suggests an active sorting mechanism of exosomal miRNAs, since the miRNA proﬁles of exosomes may differ from those of the parent cells. Exosomal miRNAs play an important role in disease progression, and can stimulate angiogenesis and facilitate metastasis in cancers. In this review, we will introduce the origin and the trafﬁcking of exosomes between cells, display current research on the sorting mechanism of exosomal miRNAs, and brieﬂy describe how exosomes and their miRNAs function in recipient cells. Finally, we will discuss the potential applications of these miRNA-containing vesicles in clinical settings.",
+      "publicationTitle": "Genomics, Proteomics & Bioinformatics",
+      "volume": "13",
+      "issue": "1",
+      "pages": "17-24",
+      "date": "02/2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Genomics, Proteomics & Bioinformatics",
+      "language": "en",
+      "DOI": "10.1016/j.gpb.2015.02.001",
+      "ISSN": "16720229",
+      "shortTitle": "Exosome and Exosomal MicroRNA",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S167202291500011X",
+      "accessDate": "2022-05-10T15:30:39Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: zhangExosomeExosomalMicroRNA2015",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:39Z",
+      "dateModified": "2022-05-10T15:31:34Z"
+    }
+  },
+  {
+    "key": "9NRE9QBV",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9NRE9QBV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9NRE9QBV",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/N3KHWNVF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 9982182
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kletetschka et al.",
+      "parsedDate": "2022",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9NRE9QBV",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Distribution of water phase near the poles of the Moon from gravity aspects",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gunther",
+          "lastName": "Kletetschka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jaroslav",
+          "lastName": "Klokočník"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicholas",
+          "lastName": "Hasson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jan",
+          "lastName": "Kostelecký"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aleš",
+          "lastName": "Bezděk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kurosh",
+          "lastName": "Karimi"
+        }
+      ],
+      "abstractNote": "Abstract\n            \n              Our Moon periodically moves through the magnetic tail of the Earth that contains terrestrial ions of hydrogen and oxygen. A possible density contrast might have been discovered that could be consistent with the presence of water phase of potential terrestrial origin. Using novel gravity aspects (descriptors) derived from harmonic potential coefficients of gravity field of the Moon, we discovered gravity strike angle anomalies that point to water phase locations in the polar regions of the Moon. Our analysis suggests that impact cratering processes were responsible for specific pore space network that were subsequently filled with the water phase filling volumes of permafrost in the lunar subsurface. In this work, we suggest the accumulation of up to ~ 3000 km\n              3\n              of terrestrial water phase (Earth’s atmospheric escape) now filling the pore spaced regolith, portion of which is distributed along impact zones of the polar regions of the Moon. These unique locations serve as potential resource utilization sites for future landing exploration and habitats (e.g., NASA Artemis Plan objectives).",
+      "publicationTitle": "Scientific Reports",
+      "volume": "12",
+      "issue": "1",
+      "pages": "4501",
+      "date": "12/2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Sci Rep",
+      "language": "en",
+      "DOI": "10.1038/s41598-022-08305-x",
+      "ISSN": "2045-2322",
+      "shortTitle": "",
+      "url": "https://www.nature.com/articles/s41598-022-08305-x",
+      "accessDate": "2022-05-10T15:30:47Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: kletetschkaDistributionWaterPhase2022",
+      "tags": [],
+      "collections": [
+        "97KVKMED"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:47Z",
+      "dateModified": "2022-05-10T15:31:34Z"
+    }
+  },
+  {
+    "key": "JB5RNJ89",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JB5RNJ89",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JB5RNJ89",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/T4352B4K",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 143407
+      }
+    },
+    "meta": {
+      "creatorSummary": "Moher et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JB5RNJ89",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Moher"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alessandro",
+          "lastName": "Liberati"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jennifer",
+          "lastName": "Tetzlaff"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Douglas G",
+          "lastName": "Altman"
+        }
+      ],
+      "abstractNote": "Objectives METHODS Protocol and registration Eligibility criteria Information sources Search Study selection Data collection process Data items Risk of bias in individual studies Summary measures Synthesis of results Risk of bias across studies Additional analyses RESULTS Study selection Study characteristics Risk of bias within studies\nResults of individual studies Synthesis of results Risk of bias across studies Additional analysis DISCUSSION Summary of evidence Limitations\nConclusions FUNDING Funding",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "7",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: moherPreferredReportingItems",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:37Z",
+      "dateModified": "2022-05-10T15:31:34Z"
+    }
+  },
+  {
+    "key": "IYHID6ZV",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IYHID6ZV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IYHID6ZV",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/H2HH473Z",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 155826
+      }
+    },
+    "meta": {
+      "creatorSummary": "Campitelli et al.",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "IYHID6ZV",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Influenza vaccination and all-cause mortality in community-dwelling elderly in Ontario, Canada, a cohort study",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael A.",
+          "lastName": "Campitelli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura C.",
+          "lastName": "Rosella"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Therese A.",
+          "lastName": "Stukel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeffrey C.",
+          "lastName": "Kwong"
+        }
+      ],
+      "abstractNote": "The objective of this study was to evaluate the effectiveness of inﬂuenza vaccines in reducing all-cause mortality among community-dwelling elderly. We included 25,922 Ontario residents over age 65 who responded to population health surveys. After full adjustment, inﬂuenza vaccination was associated with a statistically signiﬁcant reduction in all-cause mortality during inﬂuenza seasons (hazard ratio (HR) = 0.61; 95% CI 0.47–0.79). Contrary to expectations, statistically signiﬁcant associations between inﬂuenza vaccination and mortality were also observed during periods preceding (HR = 0.55; 95% CI 0.40–0.75) and following (HR = 0.74; 95% CI 0.59–0.94) inﬂuenza seasons, indicating the presence of residual confounding. Adjustment for functional status indicators, excluding individuals with high one-year predicted mortality at baseline, and moving the start date of follow-up failed to eliminate the refractory confounding. Since observational studies are prone to bias, future efforts to estimate vaccine effectiveness in the elderly should strive to minimize bias through improved data quality, novel data sources, and/or new analytical techniques.",
+      "publicationTitle": "Vaccine",
+      "volume": "29",
+      "issue": "2",
+      "pages": "240-246",
+      "date": "12/2010",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Vaccine",
+      "language": "en",
+      "DOI": "10.1016/j.vaccine.2010.10.049",
+      "ISSN": "0264410X",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0264410X10015501",
+      "accessDate": "2022-05-10T15:30:32Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: campitelliInfluenzaVaccinationAllcause2010",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:32Z",
+      "dateModified": "2022-05-10T15:31:34Z"
+    }
+  },
+  {
+    "key": "JCKJMLS7",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JCKJMLS7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JCKJMLS7",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KNKNFBTH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1362858
+      }
+    },
+    "meta": {
+      "creatorSummary": "Stepanović et al.",
+      "parsedDate": "2022-05-07",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JCKJMLS7",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Association between microRNAs 10b/21/34a and acute toxicity in glioblastoma patients treated with radiotherapy and temozolomide | Scientific Reports",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Aleksandar",
+          "lastName": "Stepanović"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marina",
+          "lastName": "Nikitović"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tatjana P.",
+          "lastName": "Stanojković"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Danica",
+          "lastName": "Grujičić"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zoran",
+          "lastName": "Bukumirić"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ivana",
+          "lastName": "Srbljak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rosanda",
+          "lastName": "Ilić"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Snežana",
+          "lastName": "Milošević"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tatjana",
+          "lastName": "Arsenijević"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nina",
+          "lastName": "Petrović"
+        }
+      ],
+      "abstractNote": "A personalized approach to chemoradiation is important in reducing its potential side effects and identifying a group of patients prone to toxicity. MicroRNAs have been shown to have a predictive potential for radiotoxicity. The goal of the study was to test if levels of miRNA in peripheral blood mononuclear cells of glioblastoma patients are associated with toxicity and to identify the peak time point for toxicity. MicroRNA-10b/21/34a levels were measured in 43 patients with and without toxicity, at baseline, at the 15th, and at the 30th fraction by Real-Time quantitative Polymerase Chain Reaction. MicroRNA-10b/21 levels increased with toxicity grade (p = 0.014; p = 0.013); miR-21/34a levels were significantly different between patients with and without toxicity at the 15th fraction (p = 0.030; p = 0.045), while miR-34a levels significantly changed during treatment (p < 0.001). All three miRNAs showed a significantly high positive correlation with one another. MiR-34a might be considered as a predictive factor for toxicity due to its changes during treatment, and differences between the groups with and without toxicity; miR-10b might be used to predict toxicity; miR-10b/21 might be used for predicting the grade of toxicity in GB patients.",
+      "publicationTitle": "Scientific Reports",
+      "volume": "12",
+      "issue": "1",
+      "pages": "7505",
+      "date": "2022-05-07",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.1038/s41598-022-11445-9",
+      "ISSN": "2045-2322",
+      "shortTitle": "",
+      "url": "https://www.nature.com/articles/s41598-022-11445-9",
+      "accessDate": "2022-05-09T08:44:13Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "www.nature.com",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: stepanovicAssociationMicroRNAs10b2022",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:44:13Z",
+      "dateModified": "2022-05-10T15:31:34Z"
+    }
+  },
+  {
+    "key": "5SWI7PT2",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5SWI7PT2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5SWI7PT2",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/6ICP8SMF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1048201
+      }
+    },
+    "meta": {
+      "creatorSummary": "Pike and Kernighan",
+      "parsedDate": "1984",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5SWI7PT2",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "<i>The</i> UNIX <i>System</i> : Program Design in the <i>UNIX</i> Environment",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "R.",
+          "lastName": "Pike"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "B. W.",
+          "lastName": "Kernighan"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "AT&T Bell Laboratories Technical Journal",
+      "volume": "63",
+      "issue": "8",
+      "pages": "1595-1605",
+      "date": "10/1984",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1002/j.1538-7305.1984.tb00055.x",
+      "ISSN": "0748612X",
+      "shortTitle": "<i>The</i> UNIX <i>System</i>",
+      "url": "https://ieeexplore.ieee.org/document/6771909",
+      "accessDate": "2022-05-04T17:28:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: pikeUNIXSystemProgram1984",
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-04T17:28:14Z",
+      "dateModified": "2022-05-10T15:31:34Z"
+    }
+  },
+  {
+    "key": "6YYDIJZI",
+    "version": 1059,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6YYDIJZI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6YYDIJZI",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/66872973",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1002905
+      }
+    },
+    "meta": {
+      "creatorSummary": "Dhanasekara et al.",
+      "parsedDate": "2021",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6YYDIJZI",
+      "version": 1059,
+      "itemType": "journalArticle",
+      "title": "Egg and saturated fat containing breakfasts have no acute effect on acute glycemic control in healthy adults: a randomized partial crossover trial",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Chathurika S.",
+          "lastName": "Dhanasekara"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John A.",
+          "lastName": "Dawson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Martin",
+          "lastName": "Binks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Allison",
+          "lastName": "Childress"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nikhil V.",
+          "lastName": "Dhurandhar"
+        }
+      ],
+      "abstractNote": "BACKGROUND/OBJECTIVES: High egg consumption is associated with poor glycemic control. Considering the widespread consumption of eggs, it is crucial to determine causality in this association. We tested if egg consumption acutely alters glucose disposal in the absence or presence of saturated fat, which is frequently consumed with eggs. SUBJECTS/METHODS: In a randomized partial crossover clinical trial, 48 subjects (consuming ≥ 1 egg/week) received two of four isocaloric, macronutrient-matched breakfasts. The groups were deﬁned based on the main ingredient of the breakfasts offered: eggs (EB); saturated fat (SB); eggs and saturated fat (ES); and control, which included a cereal based breakfast (CB). The breakfasts were offered in two testing sessions spaced seven days apart. Six blood samples (pre breakfast (fasting); 30, 60, 90, 120, and 180 minutes post breakfast) were collected to measure glucose and insulin levels. Area under the curves (AUC) were analyzed controlling for the baseline concentrations using mixed-effects models accounting for within-subject dependencies to compare these across breakfast assignments.\nRESULTS: Forty-eight patients (46% males, age 25.8 ± 7.7 years, BMI 25.7 ± 4.6 kg/m2) were included. Neither EB, SB nor ES was associated with a signiﬁcant difference in AUC of glucose or insulin compared to CB (p > 0.1).\nCONCLUSIONS: Acutely, consumption of egg breakfast with or without accompanying saturated fat does not adversely affect glucose disposal in healthy adults. While this is reassuring for continued egg consumption, a long-term evaluation of egg intake with or without saturated fat would be the next step. Nutrition and Diabetes (2021)11:34 ; https://doi.org/10.1038/s41387-021-00176-x 1234567890();,:",
+      "publicationTitle": "Nutrition & Diabetes",
+      "volume": "11",
+      "issue": "1",
+      "pages": "34",
+      "date": "06/2021",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Nutr. Diabetes",
+      "language": "en",
+      "DOI": "10.1038/s41387-021-00176-x",
+      "ISSN": "2044-4052",
+      "shortTitle": "Egg and saturated fat containing breakfasts have no acute effect on acute glycemic control in healthy adults",
+      "url": "https://www.nature.com/articles/s41387-021-00176-x",
+      "accessDate": "2022-05-10T15:31:01Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: dhanasekaraEggSaturatedFat2021",
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:31:01Z",
+      "dateModified": "2022-05-10T15:31:33Z"
+    }
+  },
+  {
+    "key": "WAY4PS4W",
+    "version": 1059,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WAY4PS4W",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WAY4PS4W",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YBGI4KZ8",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 767720
+      }
+    },
+    "meta": {
+      "creatorSummary": "Zhang et al.",
+      "parsedDate": "2022",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WAY4PS4W",
+      "version": 1059,
+      "itemType": "journalArticle",
+      "title": "Sex-specific mediating effect of gestational weight gain between pre-pregnancy body mass index and gestational diabetes mellitus",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shuang",
+          "lastName": "Zhang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jingyu",
+          "lastName": "Wang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fang",
+          "lastName": "Xu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juhong",
+          "lastName": "Yang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yongzhang",
+          "lastName": "Qin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Junhong",
+          "lastName": "Leng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nan",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jia",
+          "lastName": "Guo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiaochen",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zhong’ai",
+          "lastName": "Gao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiaofang",
+          "lastName": "Shen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hui",
+          "lastName": "Gao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Baocheng",
+          "lastName": "Chang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hong",
+          "lastName": "Zhu"
+        }
+      ],
+      "abstractNote": "BACKGROUND: Inappropriate weight gain may increase the risk of gestational diabetes mellitus (GDM). However, the relationship between pre-pregnancy body mass index (BMI), weight gain, and GDM has not been precisely quantiﬁed. This study aimed to explore whether gestational weight gain played a mediating role between pre-pregnancy BMI and GDM and whether the mediating effect was sex speciﬁc.\nMETHODS: This study established a population-based observational cohort to assess weight gain in pregnant women. Mediation analyses were performed to quantify whether weight gain mediated the association between pre-pregnancy BMI and GDM.\nRESULTS: A total of 67,777 pregnant women were included in the ﬁnal analysis, among whom 6751 (10.0%) were diagnosed with GDM. We veriﬁed that both pre-pregnancy BMI and weight gain were associated with GDM, and that BMI negatively contributed to weight gain. We also found that weight gain had a signiﬁcant mediating effect on the relationship between pre-pregnancy BMI and GDM (Za × Zb conﬁdence intervals [CIs] 0.00234–0.00618). Furthermore, the effect was sex-speciﬁc, in that it was only signiﬁcant in overweight women carrying female fetuses (Za × Zb CIs 0.00422–0.01977), but not male fetuses (Za × Zb CIs −0.00085 to 0.01236).\nCONCLUSIONS: Weight gain during pregnancy had a fetal sex-speciﬁc mediating effect between pre-pregnancy BMI and GDM. Nutrition and Diabetes (2022)12:25 ; https://doi.org/10.1038/s41387-022-00203-5 1234567890();,:",
+      "publicationTitle": "Nutrition & Diabetes",
+      "volume": "12",
+      "issue": "1",
+      "pages": "25",
+      "date": "12/2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Nutr. Diabetes",
+      "language": "en",
+      "DOI": "10.1038/s41387-022-00203-5",
+      "ISSN": "2044-4052",
+      "shortTitle": "",
+      "url": "https://www.nature.com/articles/s41387-022-00203-5",
+      "accessDate": "2022-05-10T15:30:58Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: zhangSexspecificMediatingEffect2022",
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:58Z",
+      "dateModified": "2022-05-10T15:31:33Z"
+    }
+  },
+  {
+    "key": "LWRD4VT8",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LWRD4VT8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LWRD4VT8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 153643
+      }
+    },
+    "meta": {
+      "creatorSummary": "Nguyen et al.",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "LWRD4VT8",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "A systematic comparison of sugar content in low-fat vs regular versions of food",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "P K",
+          "lastName": "Nguyen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S",
+          "lastName": "Lin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P",
+          "lastName": "Heidenreich"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Nutrition & Diabetes",
+      "volume": "6",
+      "issue": "1",
+      "pages": "e193-e193",
+      "date": "1/2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Nutr & Diabetes",
+      "language": "en",
+      "DOI": "10.1038/nutd.2015.43",
+      "ISSN": "2044-4052",
+      "shortTitle": "",
+      "url": "http://www.nature.com/articles/nutd201543",
+      "accessDate": "2022-05-10T15:30:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: nguyenSystematicComparisonSugar2016",
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:55Z",
+      "dateModified": "2022-05-10T15:31:33Z"
+    }
+  },
+  {
+    "key": "GNC2FD98",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GNC2FD98",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GNC2FD98",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 217126
+      }
+    },
+    "meta": {
+      "creatorSummary": "Malik et al.",
+      "parsedDate": "2010-03-23",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "GNC2FD98",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Sugar-Sweetened Beverages, Obesity, Type 2 Diabetes Mellitus, and Cardiovascular Disease Risk",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Vasanti S.",
+          "lastName": "Malik"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Barry M.",
+          "lastName": "Popkin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George A.",
+          "lastName": "Bray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jean-Pierre",
+          "lastName": "Després"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank B.",
+          "lastName": "Hu"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Circulation",
+      "volume": "121",
+      "issue": "11",
+      "pages": "1356-1364",
+      "date": "2010-03-23",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Circulation",
+      "language": "en",
+      "DOI": "10.1161/CIRCULATIONAHA.109.876185",
+      "ISSN": "0009-7322, 1524-4539",
+      "shortTitle": "",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.109.876185",
+      "accessDate": "2022-05-10T15:30:53Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: malikSugarSweetenedBeveragesObesity2010",
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:53Z",
+      "dateModified": "2022-05-10T15:31:33Z"
+    }
+  },
+  {
+    "key": "L8Q6CH43",
+    "version": 1058,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L8Q6CH43",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L8Q6CH43",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/8894YJJ4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1361022
+      }
+    },
+    "meta": {
+      "creatorSummary": "Paulo and Sá-Leão",
+      "parsedDate": "2022",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "L8Q6CH43",
+      "version": 1058,
+      "itemType": "journalArticle",
+      "title": "Evidence for the intermediate disturbance hypothesis and exponential decay in replacement in Streptococcus pneumoniae following use of conjugate vaccines",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "A. Cristina",
+          "lastName": "Paulo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raquel",
+          "lastName": "Sá-Leão"
+        }
+      ],
+      "abstractNote": "Abstract\n            \n              Understanding how pneumococci respond to pneumococcal conjugate vaccines (PCVs) is crucial to predict the impact of upcoming higher-valency vaccines. However, stages in pneumococcal community succession following disturbance are poorly understood as long-time series on carriage are scarce and mostly evaluated at end-point measurements. We used a 20-year cross-sectional dataset of pneumococci carried by Portuguese children, and methods from community ecology, to study community assembly and diversity following use of PCV7 and PCV13. Two successional stages were detected upon introduction of each PCV: one in which non-vaccine serotypes increased in abundance, fitted by a broken-stick model, and a second in which the community returned to the original structure, fitted by a geometric series, but with different serotype profile and a drop in richness as great as 24%. A peak in diversity was observed for levels of intermediate vaccine uptake (30–40%) in agreement with the intermediate disturbance hypothesis. Serotype replacement was fitted by an exponential decay model (\n              R\n              2\n               = 80%, P < 0.001). The half-life for replacement was 8 years for PCV7 and 10 years for PCV13. The structure of the pneumococcal community is resilient to vaccine pressure. The increasing loss of diversity, however, suggests it could eventually reach a threshold beyond which it may no longer recover.",
+      "publicationTitle": "Scientific Reports",
+      "volume": "12",
+      "issue": "1",
+      "pages": "7510",
+      "date": "12/2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Sci Rep",
+      "language": "en",
+      "DOI": "10.1038/s41598-022-11279-5",
+      "ISSN": "2045-2322",
+      "shortTitle": "",
+      "url": "https://www.nature.com/articles/s41598-022-11279-5",
+      "accessDate": "2022-05-10T15:30:50Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: pauloEvidenceIntermediateDisturbance2022",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-10T15:30:50Z",
+      "dateModified": "2022-05-10T15:31:33Z"
+    }
+  },
+  {
+    "key": "66872973",
+    "version": 1057,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/66872973",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/66872973",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6YYDIJZI",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/66872973/file/view",
+        "title": "s41387-021-00176-x.pdf",
+        "length": 1002905
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "66872973",
+      "version": 1057,
+      "parentItem": "6YYDIJZI",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Dhanasekara et al. - 2021 - Egg and saturated fat containing breakfasts have n.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Dhanasekara et al. - 2021 - Egg and saturated fat containing breakfasts have n.pdf",
+      "md5": "5d8c1d2c43dd4488718bdad0a83a5fe6",
+      "mtime": 1652081758488,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:35:58Z",
+      "dateModified": "2022-05-10T15:31:02Z"
+    }
+  },
+  {
+    "key": "YBGI4KZ8",
+    "version": 1055,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YBGI4KZ8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YBGI4KZ8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WAY4PS4W",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YBGI4KZ8/file/view",
+        "title": "s41387-022-00203-5.pdf",
+        "length": 767720
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YBGI4KZ8",
+      "version": 1055,
+      "parentItem": "WAY4PS4W",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Zhang et al. - 2022 - Sex-specific mediating effect of gestational weigh.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Zhang et al. - 2022 - Sex-specific mediating effect of gestational weigh.pdf",
+      "md5": "4c3199f5a084451934f081ebc21bd90d",
+      "mtime": 1652082027062,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:40:27Z",
+      "dateModified": "2022-05-10T15:30:59Z"
+    }
+  },
+  {
+    "key": "K3PT3NJ9",
+    "version": 1054,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K3PT3NJ9",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/LWRD4VT8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9/file/view",
+        "title": "nutd201543.pdf",
+        "length": 153643
+      }
+    },
+    "meta": {
+      "numChildren": 3
+    },
+    "data": {
+      "key": "K3PT3NJ9",
+      "version": 1054,
+      "parentItem": "LWRD4VT8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Nguyen et al. - 2016 - A systematic comparison of sugar content in low-fa.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Nguyen et al. - 2016 - A systematic comparison of sugar content in low-fa.pdf",
+      "md5": "d5a5c65edf0561f637b281ae9bef5073",
+      "mtime": 1652082375313,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:46:15Z",
+      "dateModified": "2022-05-10T15:30:56Z"
+    }
+  },
+  {
+    "key": "KTFDSYQI",
+    "version": 1053,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KTFDSYQI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GNC2FD98",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI/file/view",
+        "title": "CIRCULATIONAHA.109.876185",
+        "length": 217126
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KTFDSYQI",
+      "version": 1053,
+      "parentItem": "GNC2FD98",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Malik et al. - 2010 - Sugar-Sweetened Beverages, Obesity, Type 2 Diabete.876185",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Malik et al. - 2010 - Sugar-Sweetened Beverages, Obesity, Type 2 Diabete.876185",
+      "md5": "60f6050f6b98aebd20ad62edfe37a53c",
+      "mtime": 1652082476625,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T07:47:56Z",
+      "dateModified": "2022-05-10T15:30:54Z"
+    }
+  },
+  {
+    "key": "8894YJJ4",
+    "version": 1052,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8894YJJ4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8894YJJ4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/L8Q6CH43",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/8894YJJ4/file/view",
+        "title": "s41598-022-11279-5.pdf",
+        "length": 1361022
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "8894YJJ4",
+      "version": 1052,
+      "parentItem": "L8Q6CH43",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Paulo and Sá-Leão - 2022 - Evidence for the intermediate disturbance hypothes.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Paulo and Sá-Leão - 2022 - Evidence for the intermediate disturbance hypothes.pdf",
+      "md5": "b5c7c34349949fe0510cfc5e52546b54",
+      "mtime": 1652083362429,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:02:42Z",
+      "dateModified": "2022-05-10T15:30:51Z"
+    }
+  },
+  {
+    "key": "N3KHWNVF",
+    "version": 1051,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N3KHWNVF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N3KHWNVF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9NRE9QBV",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/N3KHWNVF/file/view",
+        "title": "s41598-022-08305-x.pdf",
+        "length": 9982182
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "N3KHWNVF",
+      "version": 1051,
+      "parentItem": "9NRE9QBV",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kletetschka et al. - 2022 - Distribution of water phase near the poles of the .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kletetschka et al. - 2022 - Distribution of water phase near the poles of the .pdf",
+      "md5": "a7c644665c5fe15fac3829687bb12793",
+      "mtime": 1652085454162,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T08:37:34Z",
+      "dateModified": "2022-05-10T15:30:47Z"
+    }
+  },
+  {
+    "key": "ETKQDP6H",
+    "version": 1050,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ETKQDP6H",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/Q3MG5GFR",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H/file/view",
+        "title": "main.pdf",
+        "length": 743609
+      }
+    },
+    "meta": {
+      "numChildren": 6
+    },
+    "data": {
+      "key": "ETKQDP6H",
+      "version": 1050,
+      "parentItem": "Q3MG5GFR",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Zhang et al. - 2015 - Exosome and Exosomal MicroRNA Trafficking, Sortin.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Zhang et al. - 2015 - Exosome and Exosomal MicroRNA Trafficking, Sortin.pdf",
+      "md5": "ff71299e310f75d0612a938cf53cda39",
+      "mtime": 1652086875571,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-09T09:01:15Z",
+      "dateModified": "2022-05-10T15:30:40Z"
+    }
+  },
+  {
+    "key": "T4352B4K",
+    "version": 1050,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/T4352B4K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/T4352B4K",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JB5RNJ89",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/T4352B4K/file/view",
+        "title": "moher2009.pdf",
+        "length": 143407
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "T4352B4K",
+      "version": 1050,
+      "parentItem": "JB5RNJ89",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Moher et al. - Preferred Reporting Items for Systematic Reviews a.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Moher et al. - Preferred Reporting Items for Systematic Reviews a.pdf",
+      "md5": "a28e4d72ae38ce8799c383a038072c81",
+      "mtime": 1652168837785,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:47:17Z",
+      "dateModified": "2022-05-10T15:30:37Z"
+    }
+  },
+  {
+    "key": "399MXXHC",
+    "version": 1050,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/399MXXHC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/399MXXHC",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/H39NH2LY",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/399MXXHC/file/view",
+        "title": "2046-4053-4-1.pdf",
+        "length": 338484
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "399MXXHC",
+      "version": 1050,
+      "parentItem": "H39NH2LY",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "PRISMA-P Group et al. - 2015 - Preferred reporting items for systematic review an.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "PRISMA-P Group et al. - 2015 - Preferred reporting items for systematic review an.pdf",
+      "md5": "d6388d165ee160ccb7a09b175da938b7",
+      "mtime": 1652168854119,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T07:47:34Z",
+      "dateModified": "2022-05-10T15:30:35Z"
+    }
+  },
+  {
+    "key": "H2HH473Z",
+    "version": 1050,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H2HH473Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H2HH473Z",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/IYHID6ZV",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/H2HH473Z/file/view",
+        "title": "campitelli2010.pdf",
+        "length": 155826
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "H2HH473Z",
+      "version": 1050,
+      "parentItem": "IYHID6ZV",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Campitelli et al. - 2010 - Influenza vaccination and all-cause mortality in c.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Campitelli et al. - 2010 - Influenza vaccination and all-cause mortality in c.pdf",
+      "md5": "95a6d06c88d88136066749cdf439ff2b",
+      "mtime": 1652169804124,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:03:24Z",
+      "dateModified": "2022-05-10T15:30:33Z"
+    }
+  },
+  {
     "key": "GUIPSPR8",
     "version": 1049,
     "library": {
@@ -238,62 +2047,6 @@
     }
   },
   {
-    "key": "H2HH473Z",
-    "version": 1047,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/H2HH473Z",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/H2HH473Z",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/H2HH473Z/file/view",
-        "title": "campitelli2010.pdf",
-        "length": 155826
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "H2HH473Z",
-      "version": 1047,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "campitelli2010.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "campitelli2010.pdf",
-      "md5": "95a6d06c88d88136066749cdf439ff2b",
-      "mtime": 1652169804124,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-10T08:03:24Z",
-      "dateModified": "2022-05-10T08:03:24Z"
-    }
-  },
-  {
     "key": "PLLK7FJB",
     "version": 1032,
     "library": {
@@ -338,118 +2091,6 @@
       "relations": {},
       "dateAdded": "2022-05-10T08:00:19Z",
       "dateModified": "2022-05-10T08:00:19Z"
-    }
-  },
-  {
-    "key": "399MXXHC",
-    "version": 1026,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/399MXXHC",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/399MXXHC",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/399MXXHC/file/view",
-        "title": "2046-4053-4-1.pdf",
-        "length": 338484
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "399MXXHC",
-      "version": 1026,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "2046-4053-4-1.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "2046-4053-4-1.pdf",
-      "md5": "d6388d165ee160ccb7a09b175da938b7",
-      "mtime": 1652168854119,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-10T07:47:34Z",
-      "dateModified": "2022-05-10T07:47:34Z"
-    }
-  },
-  {
-    "key": "T4352B4K",
-    "version": 1024,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/T4352B4K",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/T4352B4K",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/T4352B4K/file/view",
-        "title": "moher2009.pdf",
-        "length": 143407
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "T4352B4K",
-      "version": 1024,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "moher2009.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "moher2009.pdf",
-      "md5": "a28e4d72ae38ce8799c383a038072c81",
-      "mtime": 1652168837785,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-10T07:47:17Z",
-      "dateModified": "2022-05-10T07:47:17Z"
     }
   },
   {
@@ -923,62 +2564,6 @@
     }
   },
   {
-    "key": "ETKQDP6H",
-    "version": 1011,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/ETKQDP6H",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/ETKQDP6H/file/view",
-        "title": "main.pdf",
-        "length": 743609
-      }
-    },
-    "meta": {
-      "numChildren": 6
-    },
-    "data": {
-      "key": "ETKQDP6H",
-      "version": 1011,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "main.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "main.pdf",
-      "md5": "ff71299e310f75d0612a938cf53cda39",
-      "mtime": 1652086875571,
-      "tags": [],
-      "collections": [
-        "B6B3RW8P"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T09:01:15Z",
-      "dateModified": "2022-05-09T09:01:15Z"
-    }
-  },
-  {
     "key": "EHBJZLS6",
     "version": 995,
     "library": {
@@ -1131,241 +2716,6 @@
     }
   },
   {
-    "key": "JCKJMLS7",
-    "version": 990,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/JCKJMLS7",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/JCKJMLS7",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/KNKNFBTH",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1362858
-      }
-    },
-    "meta": {
-      "creatorSummary": "Stepanović et al.",
-      "parsedDate": "2022-05-07",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "JCKJMLS7",
-      "version": 990,
-      "itemType": "journalArticle",
-      "title": "Association between microRNAs 10b/21/34a and acute toxicity in glioblastoma patients treated with radiotherapy and temozolomide | Scientific Reports",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Aleksandar",
-          "lastName": "Stepanović"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Marina",
-          "lastName": "Nikitović"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tatjana P.",
-          "lastName": "Stanojković"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Danica",
-          "lastName": "Grujičić"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Zoran",
-          "lastName": "Bukumirić"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ivana",
-          "lastName": "Srbljak"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Rosanda",
-          "lastName": "Ilić"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Snežana",
-          "lastName": "Milošević"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tatjana",
-          "lastName": "Arsenijević"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Nina",
-          "lastName": "Petrović"
-        }
-      ],
-      "abstractNote": "A personalized approach to chemoradiation is important in reducing its potential side effects and identifying a group of patients prone to toxicity. MicroRNAs have been shown to have a predictive potential for radiotoxicity. The goal of the study was to test if levels of miRNA in peripheral blood mononuclear cells of glioblastoma patients are associated with toxicity and to identify the peak time point for toxicity. MicroRNA-10b/21/34a levels were measured in 43 patients with and without toxicity, at baseline, at the 15th, and at the 30th fraction by Real-Time quantitative Polymerase Chain Reaction. MicroRNA-10b/21 levels increased with toxicity grade (p = 0.014; p = 0.013); miR-21/34a levels were significantly different between patients with and without toxicity at the 15th fraction (p = 0.030; p = 0.045), while miR-34a levels significantly changed during treatment (p < 0.001). All three miRNAs showed a significantly high positive correlation with one another. MiR-34a might be considered as a predictive factor for toxicity due to its changes during treatment, and differences between the groups with and without toxicity; miR-10b might be used to predict toxicity; miR-10b/21 might be used for predicting the grade of toxicity in GB patients.",
-      "publicationTitle": "Scientific Reports",
-      "volume": "12",
-      "issue": "1",
-      "pages": "7505",
-      "date": "2022-05-07",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
-      "DOI": "10.1038/s41598-022-11445-9",
-      "ISSN": "2045-2322",
-      "shortTitle": "",
-      "url": "https://www.nature.com/articles/s41598-022-11445-9",
-      "accessDate": "2022-05-09T08:44:13Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "www.nature.com",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "B6B3RW8P"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T08:44:13Z",
-      "dateModified": "2022-05-09T08:44:13Z"
-    }
-  },
-  {
-    "key": "N3KHWNVF",
-    "version": 993,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/N3KHWNVF",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/N3KHWNVF",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/N3KHWNVF/file/view",
-        "title": "s41598-022-08305-x.pdf",
-        "length": 9982182
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "N3KHWNVF",
-      "version": 993,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "s41598-022-08305-x.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "s41598-022-08305-x.pdf",
-      "md5": "a7c644665c5fe15fac3829687bb12793",
-      "mtime": 1652085454162,
-      "tags": [],
-      "collections": [
-        "97KVKMED"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T08:37:34Z",
-      "dateModified": "2022-05-09T08:37:34Z"
-    }
-  },
-  {
-    "key": "8894YJJ4",
-    "version": 986,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/8894YJJ4",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/8894YJJ4",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/8894YJJ4/file/view",
-        "title": "s41598-022-11279-5.pdf",
-        "length": 1361022
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "8894YJJ4",
-      "version": 986,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "s41598-022-11279-5.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "s41598-022-11279-5.pdf",
-      "md5": "b5c7c34349949fe0510cfc5e52546b54",
-      "mtime": 1652083362429,
-      "tags": [],
-      "collections": [
-        "B6B3RW8P"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T08:02:42Z",
-      "dateModified": "2022-05-09T08:02:42Z"
-    }
-  },
-  {
     "key": "QHJAVPXE",
     "version": 976,
     "library": {
@@ -1507,62 +2857,6 @@
     }
   },
   {
-    "key": "KTFDSYQI",
-    "version": 977,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/KTFDSYQI",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/KTFDSYQI/file/view",
-        "title": "CIRCULATIONAHA.109.876185",
-        "length": 217126
-      }
-    },
-    "meta": {
-      "numChildren": 1
-    },
-    "data": {
-      "key": "KTFDSYQI",
-      "version": 977,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "CIRCULATIONAHA.109.876185",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "CIRCULATIONAHA.109.876185",
-      "md5": "60f6050f6b98aebd20ad62edfe37a53c",
-      "mtime": 1652082476625,
-      "tags": [],
-      "collections": [
-        "W65AE2DP"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T07:47:56Z",
-      "dateModified": "2022-05-09T07:47:56Z"
-    }
-  },
-  {
     "key": "8QVK3WAN",
     "version": 966,
     "library": {
@@ -1607,174 +2901,6 @@
       "relations": {},
       "dateAdded": "2022-05-09T07:46:39Z",
       "dateModified": "2022-05-09T07:46:39Z"
-    }
-  },
-  {
-    "key": "K3PT3NJ9",
-    "version": 964,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/K3PT3NJ9",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/K3PT3NJ9/file/view",
-        "title": "nutd201543.pdf",
-        "length": 153643
-      }
-    },
-    "meta": {
-      "numChildren": 3
-    },
-    "data": {
-      "key": "K3PT3NJ9",
-      "version": 964,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "nutd201543.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "nutd201543.pdf",
-      "md5": "d5a5c65edf0561f637b281ae9bef5073",
-      "mtime": 1652082375313,
-      "tags": [],
-      "collections": [
-        "W65AE2DP"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T07:46:15Z",
-      "dateModified": "2022-05-09T07:46:15Z"
-    }
-  },
-  {
-    "key": "YBGI4KZ8",
-    "version": 970,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/YBGI4KZ8",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/YBGI4KZ8",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/YBGI4KZ8/file/view",
-        "title": "s41387-022-00203-5.pdf",
-        "length": 767720
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "YBGI4KZ8",
-      "version": 970,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "s41387-022-00203-5.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "s41387-022-00203-5.pdf",
-      "md5": "4c3199f5a084451934f081ebc21bd90d",
-      "mtime": 1652082027062,
-      "tags": [],
-      "collections": [
-        "W65AE2DP"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T07:40:27Z",
-      "dateModified": "2022-05-09T07:40:27Z"
-    }
-  },
-  {
-    "key": "66872973",
-    "version": 961,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/66872973",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/66872973",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/66872973/file/view",
-        "title": "s41387-021-00176-x.pdf",
-        "length": 1002905
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "66872973",
-      "version": 961,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "s41387-021-00176-x.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "s41387-021-00176-x.pdf",
-      "md5": "5d8c1d2c43dd4488718bdad0a83a5fe6",
-      "mtime": 1652081758488,
-      "tags": [],
-      "collections": [
-        "W65AE2DP"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-09T07:35:58Z",
-      "dateModified": "2022-05-09T07:35:58Z"
     }
   },
   {
@@ -1832,89 +2958,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2022-05-04T17:28:11Z",
-      "dateModified": "2022-05-04T17:28:15Z"
-    }
-  },
-  {
-    "key": "5SWI7PT2",
-    "version": 950,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/5SWI7PT2",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/5SWI7PT2",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/6ICP8SMF",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1048201
-      }
-    },
-    "meta": {
-      "creatorSummary": "Pike and Kernighan",
-      "parsedDate": "1984",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "5SWI7PT2",
-      "version": 950,
-      "itemType": "journalArticle",
-      "title": "<i>The</i> UNIX <i>System</i> : Program Design in the <i>UNIX</i> Environment",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "R.",
-          "lastName": "Pike"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "B. W.",
-          "lastName": "Kernighan"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "AT&T Bell Laboratories Technical Journal",
-      "volume": "63",
-      "issue": "8",
-      "pages": "1595-1605",
-      "date": "10/1984",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "10.1002/j.1538-7305.1984.tb00055.x",
-      "ISSN": "0748612X",
-      "shortTitle": "<i>The</i> UNIX <i>System</i>",
-      "url": "https://ieeexplore.ieee.org/document/6771909",
-      "accessDate": "2022-05-04T17:28:14Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "FC7PYH7E"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-04T17:28:14Z",
       "dateModified": "2022-05-04T17:28:15Z"
     }
   },
