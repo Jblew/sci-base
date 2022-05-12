@@ -1,5 +1,674 @@
 [
   {
+    "key": "9MCQFKJM",
+    "version": 1104,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9MCQFKJM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9MCQFKJM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/P47AH3VR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 468765
+      }
+    },
+    "meta": {
+      "creatorSummary": "Rudnick et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9MCQFKJM",
+      "version": 1104,
+      "itemType": "journalArticle",
+      "title": "The Controversy of Contrast-Induced Nephropathy With Intravenous Contrast: What Is the Risk?",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michael R.",
+          "lastName": "Rudnick"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amanda K.",
+          "lastName": "Leonberg-Yoo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Harold I.",
+          "lastName": "Litt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raphael M.",
+          "lastName": "Cohen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susan",
+          "lastName": "Hilton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter P.",
+          "lastName": "Reese"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "American Journal of Kidney Diseases",
+      "volume": "75",
+      "issue": "1",
+      "pages": "105-113",
+      "date": "01/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "American Journal of Kidney Diseases",
+      "language": "en",
+      "DOI": "10.1053/j.ajkd.2019.05.022",
+      "ISSN": "02726386",
+      "shortTitle": "The Controversy of Contrast-Induced Nephropathy With Intravenous Contrast",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0272638619308443",
+      "accessDate": "2022-05-12T19:13:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: rudnickControversyContrastInducedNephropathy2020",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T19:13:55Z",
+      "dateModified": "2022-05-12T19:14:02Z"
+    }
+  },
+  {
+    "key": "JTA8VWMS",
+    "version": 1104,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JTA8VWMS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JTA8VWMS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5HPXH3ZY",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 890534
+      }
+    },
+    "meta": {
+      "creatorSummary": "Wong",
+      "parsedDate": "2012-03-26",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JTA8VWMS",
+      "version": 1104,
+      "itemType": "journalArticle",
+      "title": "Estimating Influenza Vaccine Effectiveness in Community-Dwelling Elderly Patients Using the Instrumental Variable Analysis Method",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kenny",
+          "lastName": "Wong"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Archives of Internal Medicine",
+      "volume": "172",
+      "issue": "6",
+      "pages": "484",
+      "date": "2012-03-26",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Arch Intern Med",
+      "language": "en",
+      "DOI": "10.1001/archinternmed.2011.2038",
+      "ISSN": "0003-9926",
+      "shortTitle": "",
+      "url": "http://archinte.jamanetwork.com/article.aspx?doi=10.1001/archinternmed.2011.2038",
+      "accessDate": "2022-05-12T19:13:45Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: wongEstimatingInfluenzaVaccine2012",
+      "tags": [],
+      "collections": [
+        "LWLX6P2X"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T19:13:45Z",
+      "dateModified": "2022-05-12T19:14:02Z"
+    }
+  },
+  {
+    "key": "W3HZZ2BZ",
+    "version": 1104,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W3HZZ2BZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W3HZZ2BZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 502389
+      }
+    },
+    "meta": {
+      "creatorSummary": "Matthay et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "W3HZZ2BZ",
+      "version": 1104,
+      "itemType": "journalArticle",
+      "title": "Alternative causal inference methods in population health research: Evaluating tradeoffs and triangulating evidence",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ellicott C.",
+          "lastName": "Matthay"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Erin",
+          "lastName": "Hagan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura M.",
+          "lastName": "Gottlieb"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "May Lynn",
+          "lastName": "Tan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Vlahov"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nancy E.",
+          "lastName": "Adler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M. Maria",
+          "lastName": "Glymour"
+        }
+      ],
+      "abstractNote": "Population health researchers from different fields often address similar substantive questions but rely on different study designs, reflecting their home disciplines. This is especially true in studies involving causal inference, for which semantic and substantive differences inhibit interdisciplinary dialogue and collaboration. In this paper, we group nonrandomized study designs into two categories: those that use confounder-control (such as regression adjustment or propensity score matching) and those that rely on an instrument (such as instru­ mental variables, regression discontinuity, or differences-in-differences approaches). Using the Shadish, Cook, and Campbell framework for evaluating threats to validity, we contrast the assumptions, strengths, and limi­ tations of these two approaches and illustrate differences with examples from the literature on education and health. Across disciplines, all methods to test a hypothesized causal relationship involve unverifiable assump­ tions, and rarely is there clear justification for exclusive reliance on one method. Each method entails trade-offs between statistical power, internal validity, measurement quality, and generalizability. The choice between confounder-control and instrument-based methods should be guided by these tradeoffs and consideration of the most important limitations of previous work in the area. Our goals are to foster common understanding of the methods available for causal inference in population health research and the tradeoffs between them; to encourage researchers to objectively evaluate what can be learned from methods outside one’s home discipline; and to facilitate the selection of methods that best answer the investigator’s scientific questions.",
+      "publicationTitle": "SSM - Population Health",
+      "volume": "10",
+      "issue": "",
+      "pages": "100526",
+      "date": "04/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "SSM - Population Health",
+      "language": "en",
+      "DOI": "10.1016/j.ssmph.2019.100526",
+      "ISSN": "23528273",
+      "shortTitle": "Alternative causal inference methods in population health research",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352827319301545",
+      "accessDate": "2022-05-12T19:13:51Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: matthayAlternativeCausalInference2020",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T19:13:51Z",
+      "dateModified": "2022-05-12T19:14:02Z"
+    }
+  },
+  {
+    "key": "P47AH3VR",
+    "version": 1103,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P47AH3VR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P47AH3VR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9MCQFKJM",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/P47AH3VR/file/view",
+        "title": "10.1053@j.ajkd.2019.05.022.pdf",
+        "length": 468765
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "P47AH3VR",
+      "version": 1103,
+      "parentItem": "9MCQFKJM",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Rudnick et al. - 2020 - The Controversy of Contrast-Induced Nephropathy Wi.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Rudnick et al. - 2020 - The Controversy of Contrast-Induced Nephropathy Wi.pdf",
+      "md5": "b5728443d22bacc451f37c67f389d25a",
+      "mtime": 1652341999060,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T07:53:19Z",
+      "dateModified": "2022-05-12T19:13:55Z"
+    }
+  },
+  {
+    "key": "K9GUWZRY",
+    "version": 1103,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K9GUWZRY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/W3HZZ2BZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY/file/view",
+        "title": "main.pdf",
+        "length": 502389
+      }
+    },
+    "meta": {
+      "numChildren": 9
+    },
+    "data": {
+      "key": "K9GUWZRY",
+      "version": 1103,
+      "parentItem": "W3HZZ2BZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Matthay et al. - 2020 - Alternative causal inference methods in population.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Matthay et al. - 2020 - Alternative causal inference methods in population.pdf",
+      "md5": "b530edf4bcdd4b94243203bee1b8d90e",
+      "mtime": 1652342739817,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:05:39Z",
+      "dateModified": "2022-05-12T19:13:52Z"
+    }
+  },
+  {
+    "key": "5HPXH3ZY",
+    "version": 1102,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5HPXH3ZY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5HPXH3ZY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JTA8VWMS",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5HPXH3ZY/file/view",
+        "title": "wong2012.pdf",
+        "length": 890534
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5HPXH3ZY",
+      "version": 1102,
+      "parentItem": "JTA8VWMS",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Wong - 2012 - Estimating Influenza Vaccine Effectiveness in Comm.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Wong - 2012 - Estimating Influenza Vaccine Effectiveness in Comm.pdf",
+      "md5": "1bb90cf4e2a5a7b6853d958d5c9282d7",
+      "mtime": 1652170174854,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-10T08:09:34Z",
+      "dateModified": "2022-05-12T19:13:46Z"
+    }
+  },
+  {
+    "key": "CKC93ZXI",
+    "version": 1100,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CKC93ZXI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CKC93ZXI",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/27QE9HIH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1165152
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chang et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CKC93ZXI",
+      "version": 1100,
+      "itemType": "journalArticle",
+      "title": "The effect of an International competitive leaderboard on self-motivated simulation-based CPR practice among healthcare professionals: A randomized control trial",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Todd P.",
+          "lastName": "Chang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tia",
+          "lastName": "Raymond"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maya",
+          "lastName": "Dewan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ralph",
+          "lastName": "MacKinnon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Travis",
+          "lastName": "Whitfill"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ilana",
+          "lastName": "Harwayne-Gidansky"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cara",
+          "lastName": "Doughty"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karin",
+          "lastName": "Frisell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Kessler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heather",
+          "lastName": "Wolfe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marc",
+          "lastName": "Auerbach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chrystal",
+          "lastName": "Rutledge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diana",
+          "lastName": "Mitchell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Priti",
+          "lastName": "Jani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Catharine M.",
+          "lastName": "Walsh"
+        }
+      ],
+      "abstractNote": "Background: Little is known about how best to motivate healthcare professionals to engage in frequent cardiopulmonary resuscitation (CPR) refresher skills practice. A competitive leaderboard for simulated CPR can encourage self-directed practice on a small scale. The study aimed to determine if a large-scale, multi-center leaderboard improved simulated CPR practice frequency and CPR performance among healthcare professionals.\nMethods: This was a multi-national, randomized cross-over study among 17 sites using a competitive online leaderboard to improve simulated practice frequency and CPR performance. All sites placed a Laerdal1 ResusciAnne or ResusciBaby QCPR manikin in 1 or more clinical units – emergency department, ICU, etc. – in easy reach for 8 months. These simulators provide visual feedback during 2-minute compressions-only CPR and a performance score. Sites were randomly assigned to the intervention for the first 4-months or the second 4-months. Following any CPR practice by a healthcare professional, participants uploaded scores and an optional ‘selfie’ photo to the leaderboard. During the intervention phase, the leaderboard displayed ranked scores and high scores earned digital badges. The leaderboard did not display control phase participants. Outcomes included CPR practice frequency and mean compression score, using non-parametric statistics for analyses.\nResults: Nine-hundred nineteen participants completed 1850 simulated CPR episodes. Exposure to the leaderboard yielded 1.94 episodes per person compared to 2.14 during the control phase (p = 0.99). Mean CPR performance participants did not differ between phases: 90.7 vs. 89.3 (p = 0.19).\nConclusion: A competitive leaderboard was not associated with an increase in self-directed simulated CPR practice or improved performance.",
+      "publicationTitle": "Resuscitation",
+      "volume": "138",
+      "issue": "",
+      "pages": "273-281",
+      "date": "05/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Resuscitation",
+      "language": "en",
+      "DOI": "10.1016/j.resuscitation.2019.02.050",
+      "ISSN": "03009572",
+      "shortTitle": "The effect of an International competitive leaderboard on self-motivated simulation-based CPR practice among healthcare professionals",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957219301005",
+      "accessDate": "2022-05-12T19:12:15Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: changEffectInternationalCompetitive2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T19:12:15Z",
+      "dateModified": "2022-05-12T19:12:22Z"
+    }
+  },
+  {
+    "key": "27QE9HIH",
+    "version": 1099,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/27QE9HIH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/27QE9HIH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CKC93ZXI",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/27QE9HIH/file/view",
+        "title": "Chang et al. - 2019 - The effect of an International competitive leaderb.pdf",
+        "length": 1165152
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "27QE9HIH",
+      "version": 1099,
+      "parentItem": "CKC93ZXI",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Chang et al. - 2019 - The effect of an International competitive leaderb.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Chang et al. - 2019 - The effect of an International competitive leaderb.pdf",
+      "md5": "152e8d295f75e12032d939bb107ccda2",
+      "mtime": 1652382736000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T19:12:11Z",
+      "dateModified": "2022-05-12T19:12:16Z"
+    }
+  },
+  {
     "key": "B6XC5CGG",
     "version": 1096,
     "library": {
@@ -21,6 +690,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/B6XC5CGG",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KUF8B3V5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1405214
       }
     },
     "meta": {
@@ -82,7 +757,7 @@
   },
   {
     "key": "KUF8B3V5",
-    "version": 1094,
+    "version": 1098,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -106,6 +781,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/B6XC5CGG",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KUF8B3V5/file/view",
+        "title": "Feige et al. - Zero-knowledge proofs of identity.pdf",
+        "length": 1405214
       }
     },
     "meta": {
@@ -113,7 +794,7 @@
     },
     "data": {
       "key": "KUF8B3V5",
-      "version": 1094,
+      "version": 1098,
       "parentItem": "B6XC5CGG",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -124,8 +805,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Feige et al. - Zero-knowledge proofs of identity.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "5fa181d45d725f5009eefaa542253d6e",
+      "mtime": 1652373049000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-05-12T16:30:47Z",
@@ -739,118 +1420,6 @@
       "relations": {},
       "dateAdded": "2022-05-12T08:18:33Z",
       "dateModified": "2022-05-12T08:18:33Z"
-    }
-  },
-  {
-    "key": "K9GUWZRY",
-    "version": 1077,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/K9GUWZRY",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY/file/view",
-        "title": "main.pdf",
-        "length": 502389
-      }
-    },
-    "meta": {
-      "numChildren": 9
-    },
-    "data": {
-      "key": "K9GUWZRY",
-      "version": 1077,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "main.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "main.pdf",
-      "md5": "b530edf4bcdd4b94243203bee1b8d90e",
-      "mtime": 1652342739817,
-      "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-12T08:05:39Z",
-      "dateModified": "2022-05-12T08:05:39Z"
-    }
-  },
-  {
-    "key": "P47AH3VR",
-    "version": 1062,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/P47AH3VR",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/P47AH3VR",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/P47AH3VR/file/view",
-        "title": "10.1053@j.ajkd.2019.05.022.pdf",
-        "length": 468765
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "P47AH3VR",
-      "version": 1062,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "10.1053@j.ajkd.2019.05.022.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "10.1053@j.ajkd.2019.05.022.pdf",
-      "md5": "b5728443d22bacc451f37c67f389d25a",
-      "mtime": 1652341999060,
-      "tags": [],
-      "collections": [
-        "B6B3RW8P"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-12T07:53:19Z",
-      "dateModified": "2022-05-12T07:53:19Z"
     }
   },
   {
@@ -2707,62 +3276,6 @@
       "relations": {},
       "dateAdded": "2022-05-10T08:11:33Z",
       "dateModified": "2022-05-10T08:11:33Z"
-    }
-  },
-  {
-    "key": "5HPXH3ZY",
-    "version": 1060,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/5HPXH3ZY",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/5HPXH3ZY",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/5HPXH3ZY/file/view",
-        "title": "wong2012.pdf",
-        "length": 890534
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "5HPXH3ZY",
-      "version": 1060,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "wong2012.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "wong2012.pdf",
-      "md5": "1bb90cf4e2a5a7b6853d958d5c9282d7",
-      "mtime": 1652170174854,
-      "tags": [],
-      "collections": [
-        "LWLX6P2X"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-10T08:09:34Z",
-      "dateModified": "2022-05-10T08:09:34Z"
     }
   },
   {
