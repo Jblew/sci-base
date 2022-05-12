@@ -1,7 +1,430 @@
 [
   {
+    "key": "85YPF2GY",
+    "version": 1089,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/85YPF2GY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/85YPF2GY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "85YPF2GY",
+      "version": 1089,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "conceptualize matching as ful­ filling the backdoor criterion because of a perfect offsetting balance between the influence of confounding variables and the spurious asso­ ciation within matched pairs (Kim, Steiner, Hall, & Su, 2016; Kim & Steiner, 2019). These concepts are relevant across all approaches to matching based on observable covariates, regardless of the specific al­ gorithms used to create matches (Ho, Imai, King, & Stuart, 2007; Stuart, 2010)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "4",
+      "annotationSortIndex": "00003|001565|00344",
+      "annotationPosition": "{\"rects\":[[177.718,436.441,288.302,449.472],[37.819,426.01,291.014,439.041],[37.699,415.521,288.323,428.552],[37.858,405.09,290.635,418.121],[37.898,394.602,291.028,407.633],[37.747,384.171,288.344,397.202],[37.858,373.682,290.997,386.713],[37.962,363.251,58.071,376.282]],\"pageIndex\":3}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:39:11Z",
+      "dateModified": "2022-05-12T08:39:11Z"
+    }
+  },
+  {
+    "key": "AIHB2GZR",
+    "version": 1088,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AIHB2GZR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AIHB2GZR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "AIHB2GZR",
+      "version": 1088,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "These methods all eliminate confounding by making comparisons within subgroups or pseudo populations that have balanced covariates, such that the cova­ riates cannot bias the treatment-outcome association.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "4",
+      "annotationSortIndex": "00003|001279|00292",
+      "annotationPosition": "{\"rects\":[[235.036,488.768,290.99,501.799],[37.858,478.337,290.981,491.368],[37.755,467.849,288.321,480.88],[37.771,457.36,238.378,470.391]],\"pageIndex\":3}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:38:00Z",
+      "dateModified": "2022-05-12T08:38:00Z"
+    }
+  },
+  {
+    "key": "MXY82NU8",
+    "version": 1085,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MXY82NU8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MXY82NU8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "MXY82NU8",
+      "version": 1085,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "treatment—can beForcing variable:below the thresho",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|001342|00221",
+      "annotationPosition": "{\"rects\":[[58.641,560.143,122.013,573.174]],\"pageIndex\":2}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:34:07Z",
+      "dateModified": "2022-05-12T08:34:07Z"
+    }
+  },
+  {
+    "key": "KJW96FV7",
+    "version": 1083,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KJW96FV7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KJW96FV7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KJW96FV7",
+      "version": 1083,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Modern frameworks define confounding as arising from shared causes of treatment and outcome; such factors can create asso­ ciations between treatment and outcome even if the treatment has no causal effect on the outcome",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|004900|00502",
+      "annotationPosition": "{\"rects\":[[356.883,278.553,560.005,291.584],[306.864,268.121,557.328,281.152],[306.864,257.633,559.973,270.664],[306.864,247.201,406.477,260.232]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:32:27Z",
+      "dateModified": "2022-05-12T08:32:27Z"
+    }
+  },
+  {
+    "key": "LW79GH59",
+    "version": 1081,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LW79GH59",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LW79GH59",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LW79GH59",
+      "version": 1081,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "grounded in Pearl’s transdisciplinary causal inference frame­ work (Pearl, 2000)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|003719|00271",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[341.899,509.688,557.317,522.719],[306.672,499.256,374.187,512.287]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:28:55Z",
+      "dateModified": "2022-05-12T08:28:55Z"
+    }
+  },
+  {
+    "key": "FFNYSVFQ",
+    "version": 1079,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FFNYSVFQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FFNYSVFQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "FFNYSVFQ",
+      "version": 1079,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Choosing a method entails tradeoffs between statistical power, internal validity, measurement quality, and generalizability.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|001680|00355",
+      "annotationPosition": "{\"rects\":[[249.36,426.01,290.988,439.041],[37.747,415.521,291.004,428.552],[37.747,405.09,208.318,418.121]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:25:11Z",
+      "dateModified": "2022-05-12T08:25:11Z"
+    }
+  },
+  {
+    "key": "LL4Q3FBC",
+    "version": 1075,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LL4Q3FBC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LL4Q3FBC",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LL4Q3FBC",
+      "version": 1075,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "instrument-based studies, researchers leverage an apparently arbitrary or “exogenous” (Box 1, definition 5) source of variation in the treatment received—often a change in a pro­ gram, policy, or other accident of time and space—that influences treatment but is not likely to be otherwise associated with outcomes.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|003310|00555",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[418.944,225.995,559.975,239.026],[306.8,215.507,560.019,228.538],[306.864,205.019,557.334,218.05],[306.864,194.587,560.009,207.618],[306.808,184.099,560.016,197.13]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:19:16Z",
+      "dateModified": "2022-05-12T08:19:16Z"
+    }
+  },
+  {
+    "key": "82VNR9CW",
+    "version": 1075,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/82VNR9CW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/82VNR9CW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "82VNR9CW",
+      "version": 1075,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "confounder-control studies, researchers compare outcomes for people observed to have differing treatments (Box 1, definition 2) and use various statistical adjustment methods to account for imbalances",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|003090|00513",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[490.206,267.834,559.992,280.865],[306.864,257.346,559.991,270.377],[306.864,246.915,560.012,259.946],[306.864,236.426,477.989,249.457]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:19:01Z",
+      "dateModified": "2022-05-12T08:19:01Z"
+    }
+  },
+  {
+    "key": "KZI83LSE",
+    "version": 1074,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KZI83LSE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KZI83LSE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KZI83LSE",
+      "version": 1074,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "confounder-control” or “instrument-based”",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|003050|00513",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[310.474,267.834,468.416,280.865]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:18:33Z",
+      "dateModified": "2022-05-12T08:18:33Z"
+    }
+  },
+  {
     "key": "K9GUWZRY",
-    "version": 1067,
+    "version": 1077,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -21,14 +444,20 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/K9GUWZRY",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY/file/view",
+        "title": "main.pdf",
+        "length": 502389
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 9
     },
     "data": {
       "key": "K9GUWZRY",
-      "version": 1067,
+      "version": 1077,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "main.pdf",
@@ -38,8 +467,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "main.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "b530edf4bcdd4b94243203bee1b8d90e",
+      "mtime": 1652342739817,
       "tags": [],
       "collections": [
         "N52LNBGM"
