@@ -1,5 +1,111 @@
 [
   {
+    "key": "K9GUWZRY",
+    "version": 1067,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K9GUWZRY",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "K9GUWZRY",
+      "version": 1067,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "main.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "main.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:05:39Z",
+      "dateModified": "2022-05-12T08:05:39Z"
+    }
+  },
+  {
+    "key": "P47AH3VR",
+    "version": 1062,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P47AH3VR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P47AH3VR",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/P47AH3VR/file/view",
+        "title": "10.1053@j.ajkd.2019.05.022.pdf",
+        "length": 468765
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "P47AH3VR",
+      "version": 1062,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "10.1053@j.ajkd.2019.05.022.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "10.1053@j.ajkd.2019.05.022.pdf",
+      "md5": "b5728443d22bacc451f37c67f389d25a",
+      "mtime": 1652341999060,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T07:53:19Z",
+      "dateModified": "2022-05-12T07:53:19Z"
+    }
+  },
+  {
     "key": "H39NH2LY",
     "version": 1058,
     "library": {
@@ -1857,7 +1963,7 @@
   },
   {
     "key": "5HPXH3ZY",
-    "version": 1045,
+    "version": 1060,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1877,6 +1983,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/5HPXH3ZY",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5HPXH3ZY/file/view",
+        "title": "wong2012.pdf",
+        "length": 890534
       }
     },
     "meta": {
@@ -1884,7 +1996,7 @@
     },
     "data": {
       "key": "5HPXH3ZY",
-      "version": 1045,
+      "version": 1060,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "wong2012.pdf",
@@ -1894,8 +2006,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "wong2012.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "1bb90cf4e2a5a7b6853d958d5c9282d7",
+      "mtime": 1652170174854,
       "tags": [],
       "collections": [
         "LWLX6P2X"
