@@ -1,5 +1,324 @@
 [
   {
+    "key": "B6XC5CGG",
+    "version": 1096,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B6XC5CGG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B6XC5CGG",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Feige et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "B6XC5CGG",
+      "version": 1096,
+      "itemType": "journalArticle",
+      "title": "Zero-knowledge proofs of identity",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Uriel",
+          "lastName": "Feige"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amos",
+          "lastName": "Fiat"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adi",
+          "lastName": "Shamir"
+        }
+      ],
+      "abstractNote": "In this paper we extend the notion of interactive proofs of assertions to interactive proofs of knowledge.This leads to the definition of unrestricted input zero-knowledgeproofs of knowledgein which the prover demonstrates possession of knowledge without revealing any computational information whatsoever (not even the one bit revealed in zero-knowledge proofs of assertions). We show the relevance of these notions to identification schemes, in which parties prove their identity by demonstrating their knowledge rather than by proving the validity of assertions. We describe a novel scheme which is provably secure if factoring is difficultand whose practical implementations are about two orders of magnitude faster than RSA-basedidentificationschemes.The advantages of thinking in terms of proofs of knowledgerather than proofs of assertions are demonstrated in two efficientvariants ofthe scheme:unrestricted input zero-knowledgeproofsofknowledge are used in the construction of a scheme which needs no directory; a version of the scheme based on parallel interactive proofs (which are not known to be zero knowledge) is proved secure by observing that the identification protocols are proofs of knowledge.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "18",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: feigeZeroknowledgeProofsIdentity",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T16:30:48Z",
+      "dateModified": "2022-05-12T16:32:24Z"
+    }
+  },
+  {
+    "key": "KUF8B3V5",
+    "version": 1094,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KUF8B3V5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KUF8B3V5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/B6XC5CGG",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KUF8B3V5",
+      "version": 1094,
+      "parentItem": "B6XC5CGG",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Feige et al. - Zero-knowledge proofs of identity.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Feige et al. - Zero-knowledge proofs of identity.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T16:30:47Z",
+      "dateModified": "2022-05-12T16:30:49Z"
+    }
+  },
+  {
+    "key": "WV3ZCQNB",
+    "version": 1093,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WV3ZCQNB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WV3ZCQNB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/CRY6YJUF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2901734
+      }
+    },
+    "meta": {
+      "creatorSummary": "Quisquater et al.",
+      "parsedDate": "1990",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WV3ZCQNB",
+      "version": 1093,
+      "itemType": "bookSection",
+      "title": "How to Explain Zero-Knowledge Protocols to Your Children",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Gilles",
+          "lastName": "Brassard"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jean-Jacques",
+          "lastName": "Quisquater"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Myriam",
+          "lastName": "Quisquater"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Muriel",
+          "lastName": "Quisquater"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michaël",
+          "lastName": "Quisquater"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Louis",
+          "lastName": "Guillou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie Annick",
+          "lastName": "Guillou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gaïd",
+          "lastName": "Guillou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Guillou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gwenolé",
+          "lastName": "Guillou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Soazig",
+          "lastName": "Guillou"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "Advances in Cryptology — CRYPTO’ 89 Proceedings",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "435",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "New York, NY",
+      "publisher": "Springer New York",
+      "date": "1990",
+      "pages": "628-631",
+      "language": "en",
+      "ISBN": "978-0-387-97317-3",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/0-387-34805-0_60",
+      "accessDate": "2022-05-12T16:29:53Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Series Title: Lecture Notes in Computer Science\nDOI: 10.1007/0-387-34805-0_60\nCitation Key: quisquaterHowExplainZeroKnowledge1990",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-12T16:29:53Z",
+      "dateModified": "2022-05-12T16:29:57Z"
+    }
+  },
+  {
+    "key": "CRY6YJUF",
+    "version": 1093,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CRY6YJUF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CRY6YJUF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WV3ZCQNB",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/CRY6YJUF/file/view",
+        "title": "Quisquater1990_Chapter_HowToExplainZero-KnowledgeProt.pdf",
+        "length": 2901734
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "CRY6YJUF",
+      "version": 1093,
+      "parentItem": "WV3ZCQNB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Quisquater1990_Chapter_HowToExplainZero-KnowledgeProt.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Quisquater1990_Chapter_HowToExplainZero-KnowledgeProt.pdf",
+      "md5": "d2bad3b98a3d88844fe252706f670c11",
+      "mtime": 1652372960000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T16:29:20Z",
+      "dateModified": "2022-05-12T16:29:54Z"
+    }
+  },
+  {
     "key": "85YPF2GY",
     "version": 1089,
     "library": {
