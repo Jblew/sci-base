@@ -1,5 +1,205 @@
 [
   {
+    "key": "B4JH92F6",
+    "version": 1121,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B4JH92F6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B4JH92F6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "B4JH92F6",
+      "version": 1121,
+      "parentItem": "EUI3XTKN",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The implemented network is the basic component of many neural networks; it has two mini- columns, each has two neural pools: an excitatory pool with 60 neurons and an inhibitory pool with 15 neurons",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|000775|00222",
+      "annotationPosition": "{\"rects\":[[166.428,548.07,291.551,557.086],[45.197,536.613,291.205,545.628],[45.529,525.156,291.399,534.171],[45.434,513.699,241.284,522.715]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T06:53:03Z",
+      "dateModified": "2022-05-13T06:53:03Z"
+    }
+  },
+  {
+    "key": "AZ88JRT5",
+    "version": 1120,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AZ88JRT5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AZ88JRT5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "AZ88JRT5",
+      "version": 1120,
+      "parentItem": "EUI3XTKN",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "ASIC (Application Specific Integrated Circuit)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|004310|00599",
+      "annotationPosition": "{\"rects\":[[444.516,171.328,549.677,180.343],[303.527,159.871,374.892,168.886]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T06:51:42Z",
+      "dateModified": "2022-05-13T06:51:42Z"
+    }
+  },
+  {
+    "key": "EUI3XTKN",
+    "version": 1109,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EUI3XTKN",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN/file/view",
+        "title": "fnins-08-00379.pdf",
+        "length": 3413473
+      }
+    },
+    "meta": {
+      "numChildren": 2
+    },
+    "data": {
+      "key": "EUI3XTKN",
+      "version": 1109,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "fnins-08-00379.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "fnins-08-00379.pdf",
+      "md5": "f37dddca8d0239b7e950e98d43760a8e",
+      "mtime": 1652424107044,
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-13T06:41:47Z",
+      "dateModified": "2022-05-13T06:41:47Z"
+    }
+  },
+  {
+    "key": "IQ8R9A2F",
+    "version": 1107,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IQ8R9A2F",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "IQ8R9A2F",
+      "version": 1107,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "2021.12.02.471005.full.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2021.12.02.471005.full.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-13T06:40:54Z",
+      "dateModified": "2022-05-13T06:40:54Z"
+    }
+  },
+  {
     "key": "9MCQFKJM",
     "version": 1104,
     "library": {
@@ -381,7 +581,7 @@
       }
     },
     "meta": {
-      "numChildren": 9
+      "numChildren": 10
     },
     "data": {
       "key": "K9GUWZRY",
@@ -997,6 +1197,53 @@
       "relations": {},
       "dateAdded": "2022-05-12T16:29:20Z",
       "dateModified": "2022-05-12T16:29:54Z"
+    }
+  },
+  {
+    "key": "X6NFJ95X",
+    "version": 1105,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/X6NFJ95X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/X6NFJ95X",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/K9GUWZRY",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "X6NFJ95X",
+      "version": 1105,
+      "parentItem": "K9GUWZRY",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Panel fixed effects",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "4",
+      "annotationSortIndex": "00003|002743|00564",
+      "annotationPosition": "{\"rects\":[[49.748,216.815,112.587,229.846]],\"pageIndex\":3}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-12T08:41:27Z",
+      "dateModified": "2022-05-12T08:41:27Z"
     }
   },
   {
