@@ -42557,7 +42557,7 @@
   },
   {
     "key": "PSCAAL8V",
-    "version": 3,
+    "version": 1183,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -42592,7 +42592,7 @@
     },
     "data": {
       "key": "PSCAAL8V",
-      "version": 3,
+      "version": 1183,
       "itemType": "journalArticle",
       "title": "Gamification Science, Its History and Future: Definitions and a Research Agenda",
       "creators": [
@@ -42690,7 +42690,8 @@
         }
       ],
       "collections": [
-        "YRDSMPUP"
+        "YRDSMPUP",
+        "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-10-24T19:15:28Z",
@@ -42699,7 +42700,7 @@
   },
   {
     "key": "EGYPXIRL",
-    "version": 3,
+    "version": 1178,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -42734,7 +42735,7 @@
     },
     "data": {
       "key": "EGYPXIRL",
-      "version": 3,
+      "version": 1178,
       "itemType": "journalArticle",
       "title": "Opening the black box of gameful experience: Implications for gamification process design",
       "creators": [
@@ -42794,7 +42795,8 @@
         }
       ],
       "collections": [
-        "YRDSMPUP"
+        "YRDSMPUP",
+        "S2BGKY6M"
       ],
       "relations": {},
       "dateAdded": "2021-10-24T19:15:28Z",
