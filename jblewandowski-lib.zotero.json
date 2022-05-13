@@ -1,5 +1,493 @@
 [
   {
+    "key": "RCC252TR",
+    "version": 1163,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RCC252TR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RCC252TR",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/RCC252TR/file/view",
+        "title": "main.pdf",
+        "length": 1061434
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "RCC252TR",
+      "version": 1163,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "main.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "main.pdf",
+      "md5": "729f44b3963d8257a5512a410bfa6acb",
+      "mtime": 1652428033502,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:47:13Z",
+      "dateModified": "2022-05-13T07:47:13Z"
+    }
+  },
+  {
+    "key": "U2N8QSCB",
+    "version": 1152,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U2N8QSCB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U2N8QSCB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "U2N8QSCB",
+      "version": 1152,
+      "parentItem": "GH83DC5I",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Here we fabricated sub-100-nm components, each of which incor- porated a NbO2 volatile Mott memristive switch, an internal parallel capacitor defined by the metal contacts sandwiching a dielectric, and an internal series resistor defined by an electrode interface (Fig. 1a–c, Supplementary Figs. 2–4)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "518",
+      "annotationSortIndex": "00000|002935|00392",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[315.192,389.09,560.781,399.271],[306.517,377.594,562.598,388.52],[306.488,367.59,562.809,377.771],[306.488,356.84,562.708,367.021],[306.498,346.09,404.96,356.271]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:38:38Z",
+      "dateModified": "2022-05-13T07:38:38Z"
+    }
+  },
+  {
+    "key": "NAPVLT4J",
+    "version": 1150,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NAPVLT4J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NAPVLT4J",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "NAPVLT4J",
+      "version": 1150,
+      "parentItem": "GH83DC5I",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The design and realization of higher-order electronic elements will enable extremely efficient implementations of neuromorphic arti- ficial intelligence",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "518",
+      "annotationSortIndex": "00000|002623|00660",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[39.904,120.34,296.209,130.52],[40.04,109.59,294.314,119.77],[39.945,98.84,105.135,109.02]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:37:57Z",
+      "dateModified": "2022-05-13T07:37:57Z"
+    }
+  },
+  {
+    "key": "JZ5RVBJV",
+    "version": 1142,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JZ5RVBJV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JZ5RVBJV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "JZ5RVBJV",
+      "version": 1142,
+      "parentItem": "GH83DC5I",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Periodic spiking requires only second-order complexity, but full neuromorphic action-potential func- tionality (including phasic and periodic spiking, bursting, self-sustained oscillations, chaos and sub/super-threshold active dynamics) requires a minimum of third-order complexity (three s",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "518",
+      "annotationSortIndex": "00000|001867|00521",
+      "annotationPosition": "{\"rects\":[[184.961,260.09,296.288,270.271],[40.055,249.34,294.337,259.521],[39.813,238.59,296.1,248.77],[40.027,227.84,296.105,238.02],[40.03,217.09,206.432,227.27]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:31:09Z",
+      "dateModified": "2022-05-13T07:31:09Z"
+    }
+  },
+  {
+    "key": "XEZADL7K",
+    "version": 1141,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XEZADL7K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XEZADL7K",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "XEZADL7K",
+      "version": 1141,
+      "parentItem": "GH83DC5I",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Commu- nication and processing of data via neuromorphic dynamics is a key goal for brain-inspired computers11",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "518",
+      "annotationSortIndex": "00000|001711|00488",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[261.8,292.34,294.319,302.521],[40.06,281.59,296.215,291.771],[39.815,270.84,167.021,281.359]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:28:57Z",
+      "dateModified": "2022-05-13T07:28:57Z"
+    }
+  },
+  {
+    "key": "F73HB874",
+    "version": 1140,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F73HB874",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F73HB874",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "F73HB874",
+      "version": 1140,
+      "parentItem": "GH83DC5I",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "these can instead be more faithfully emulated by higher-order circuit elements that naturally express neuromorphic nonlinear dynamics1–4.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "518",
+      "annotationSortIndex": "00000|000283|00189",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[530.668,590.888,554.32,601.994],[217.702,577.892,528.067,588.998],[217.729,564.884,439.092,576.359]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:20:50Z",
+      "dateModified": "2022-05-13T07:20:50Z"
+    }
+  },
+  {
+    "key": "GH83DC5I",
+    "version": 1137,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GH83DC5I",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I/file/view",
+        "title": "10.1038@s41586-020-2735-5.pdf",
+        "length": 2802651
+      }
+    },
+    "meta": {
+      "numChildren": 5
+    },
+    "data": {
+      "key": "GH83DC5I",
+      "version": 1137,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "10.1038@s41586-020-2735-5.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "10.1038@s41586-020-2735-5.pdf",
+      "md5": "6dd2df3fd81dc74d4222e467caf8f0c2",
+      "mtime": 1652426402756,
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:20:02Z",
+      "dateModified": "2022-05-13T07:20:02Z"
+    }
+  },
+  {
+    "key": "QM9RXA97",
+    "version": 1133,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QM9RXA97",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QM9RXA97",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "QM9RXA97",
+      "version": 1133,
+      "parentItem": "IQ8R9A2F",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "synthetic biological intelligence (SBI),",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|000088|00422",
+      "annotationPosition": "{\"rects\":[[371.813,407.615,544.06,419.836]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:15:37Z",
+      "dateModified": "2022-05-13T07:15:37Z"
+    }
+  },
+  {
+    "key": "W4RZ34K8",
+    "version": 1131,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W4RZ34K8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W4RZ34K8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "W4RZ34K8",
+      "version": 1131,
+      "parentItem": "IQ8R9A2F",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "learning was apparent within five minutes of real-time gameplay, not observed in control conditions",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|002786|00346",
+      "annotationPosition": "{\"rects\":[[108.492,482.768,531.72,496.052],[50.856,467.888,142.008,481.172]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:15:00Z",
+      "dateModified": "2022-05-13T07:15:00Z"
+    }
+  },
+  {
+    "key": "87WSE2EA",
+    "version": 1130,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/87WSE2EA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/87WSE2EA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "87WSE2EA",
+      "version": 1130,
+      "parentItem": "IQ8R9A2F",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "integrated with in silico computing via high-density multielectrode array",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|002508|00286",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[326.652,542.288,531.72,555.572],[50.808,527.408,225.732,540.692]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:14:37Z",
+      "dateModified": "2022-05-13T07:14:37Z"
+    }
+  },
+  {
     "key": "B4JH92F6",
     "version": 1121,
     "library": {
@@ -151,7 +639,7 @@
   },
   {
     "key": "IQ8R9A2F",
-    "version": 1107,
+    "version": 1158,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -171,14 +659,20 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/IQ8R9A2F",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F/file/view",
+        "title": "2021.12.02.471005.full.pdf",
+        "length": 22879391
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 3
     },
     "data": {
       "key": "IQ8R9A2F",
-      "version": 1107,
+      "version": 1158,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "2021.12.02.471005.full.pdf",
@@ -188,8 +682,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "2021.12.02.471005.full.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "b682119da16717651644d50329c586cb",
+      "mtime": 1652424054261,
       "tags": [],
       "collections": [
         "N52LNBGM"
