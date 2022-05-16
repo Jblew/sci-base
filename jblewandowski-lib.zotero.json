@@ -1,7 +1,559 @@
 [
   {
+    "key": "YSC677FU",
+    "version": 1198,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YSC677FU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YSC677FU",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2802651
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kumar et al.",
+      "parsedDate": "2020-09-24",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "YSC677FU",
+      "version": 1198,
+      "itemType": "journalArticle",
+      "title": "Third-order nanocircuit elements for neuromorphic engineering",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Suhas",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R. Stanley",
+          "lastName": "Williams"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ziwen",
+          "lastName": "Wang"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Nature",
+      "volume": "585",
+      "issue": "7826",
+      "pages": "518-523",
+      "date": "2020-09-24",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Nature",
+      "language": "en",
+      "DOI": "10.1038/s41586-020-2735-5",
+      "ISSN": "0028-0836, 1476-4687",
+      "shortTitle": "",
+      "url": "https://www.nature.com/articles/s41586-020-2735-5",
+      "accessDate": "2022-05-16T20:04:29Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: kumarThirdorderNanocircuitElements2020",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-16T20:04:29Z",
+      "dateModified": "2022-05-16T20:04:45Z"
+    }
+  },
+  {
+    "key": "5UJIK85C",
+    "version": 1198,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5UJIK85C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5UJIK85C",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3413473
+      }
+    },
+    "meta": {
+      "creatorSummary": "Yaghini Bonabi et al.",
+      "parsedDate": "2014-11-21",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5UJIK85C",
+      "version": 1198,
+      "itemType": "journalArticle",
+      "title": "FPGA implementation of a biological neural network based on the Hodgkin-Huxley neuron model",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Safa",
+          "lastName": "Yaghini Bonabi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hassan",
+          "lastName": "Asgharian"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Saeed",
+          "lastName": "Safari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Majid",
+          "lastName": "Nili Ahmadabadi"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Frontiers in Neuroscience",
+      "volume": "8",
+      "issue": "",
+      "pages": "",
+      "date": "2014-11-21",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Front. Neurosci.",
+      "language": "en",
+      "DOI": "10.3389/fnins.2014.00379",
+      "ISSN": "1662-453X",
+      "shortTitle": "",
+      "url": "http://journal.frontiersin.org/article/10.3389/fnins.2014.00379/abstract",
+      "accessDate": "2022-05-16T20:04:32Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: yaghinibonabiFPGAImplementationBiological2014",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-16T20:04:32Z",
+      "dateModified": "2022-05-16T20:04:45Z"
+    }
+  },
+  {
+    "key": "P32MQHNZ",
+    "version": 1198,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P32MQHNZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P32MQHNZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/RCC252TR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1061434
+      }
+    },
+    "meta": {
+      "creatorSummary": "Harrington et al.",
+      "parsedDate": "2022",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "P32MQHNZ",
+      "version": 1198,
+      "itemType": "journalArticle",
+      "title": "Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Carmel Therese",
+          "lastName": "Harrington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Naz Al",
+          "lastName": "Hafid"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen Ann",
+          "lastName": "Waters"
+        }
+      ],
+      "abstractNote": "Background Autonomic dysfunction has been implicated in the pathophysiology of the Sudden Infant Death Syndrome (SIDS). Butyrylcholinesterase (BChE) is an enzyme of the cholinergic system, a major branch of the autonomic system, and may provide a measure of autonomic (dys)function. This study was undertaken to evaluate BChE activity in infants and young children who had died from Sudden Infant Death or Sudden Unexpected Death.",
+      "publicationTitle": "eBioMedicine",
+      "volume": "80",
+      "issue": "",
+      "pages": "104041",
+      "date": "06/2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "eBioMedicine",
+      "language": "en",
+      "DOI": "10.1016/j.ebiom.2022.104041",
+      "ISSN": "23523964",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352396422002225",
+      "accessDate": "2022-05-16T20:04:26Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: harringtonButyrylcholinesterasePotentialBiomarker2022",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-16T20:04:26Z",
+      "dateModified": "2022-05-16T20:04:45Z"
+    }
+  },
+  {
+    "key": "SNGBSZ7G",
+    "version": 1198,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SNGBSZ7G",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SNGBSZ7G",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 22879391
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kagan et al.",
+      "parsedDate": "2021-12-03",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "SNGBSZ7G",
+      "version": 1198,
+      "itemType": "report",
+      "title": "<i>In vitro</i> neurons learn and exhibit sentience when embodied in a simulated game-world",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Brett J.",
+          "lastName": "Kagan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andy C.",
+          "lastName": "Kitchen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nhi T.",
+          "lastName": "Tran"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bradyn J.",
+          "lastName": "Parker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anjali",
+          "lastName": "Bhat"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ben",
+          "lastName": "Rollo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adeel",
+          "lastName": "Razi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karl J.",
+          "lastName": "Friston"
+        }
+      ],
+      "abstractNote": "Integrating neurons into digital systems to leverage their innate intelligence may enable performance infeasible with silicon alone, along with providing insight into the cellular origin of intelligence. We developed\n            DishBrain\n            , a system which exhibits natural intelligence by harnessing the inherent adaptive computation of neurons in a structured environment.\n            In vitro\n            neural networks from human or rodent origins, are integrated with\n            in silico\n            computing via high-density multielectrode array. Through electrophysiological stimulation and recording, cultures were embedded in a simulated game-world, mimicking the arcade game ‘Pong’. Applying a previously untestable theory of active inference via the Free Energy Principle, we found that learning was apparent within five minutes of real-time gameplay, not observed in control conditions. Further experiments demonstrate the importance of closed-loop structured feedback in eliciting learning over time. Cultures display the ability to self-organise in a goal-directed manner in response to sparse sensory information about the consequences of their actions.",
+      "reportNumber": "",
+      "reportType": "preprint",
+      "seriesTitle": "",
+      "place": "",
+      "institution": "Synthetic Biology",
+      "date": "2021-12-03",
+      "pages": "",
+      "language": "en",
+      "shortTitle": "",
+      "url": "http://biorxiv.org/lookup/doi/10.1101/2021.12.02.471005",
+      "accessDate": "2022-05-16T20:04:35Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1101/2021.12.02.471005\nCitation Key: kaganVitroNeuronsLearn2021",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-16T20:04:35Z",
+      "dateModified": "2022-05-16T20:04:44Z"
+    }
+  },
+  {
+    "key": "IQ8R9A2F",
+    "version": 1197,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IQ8R9A2F",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/SNGBSZ7G",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F/file/view",
+        "title": "2021.12.02.471005.full.pdf",
+        "length": 22879391
+      }
+    },
+    "meta": {
+      "numChildren": 3
+    },
+    "data": {
+      "key": "IQ8R9A2F",
+      "version": 1197,
+      "parentItem": "SNGBSZ7G",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kagan et al. - 2021 - In vitro neurons learn and exhibit sentienc.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kagan et al. - 2021 - In vitro neurons learn and exhibit sentienc.pdf",
+      "md5": "b682119da16717651644d50329c586cb",
+      "mtime": 1652424054261,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T06:40:54Z",
+      "dateModified": "2022-05-16T20:04:35Z"
+    }
+  },
+  {
+    "key": "EUI3XTKN",
+    "version": 1197,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EUI3XTKN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5UJIK85C",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN/file/view",
+        "title": "fnins-08-00379.pdf",
+        "length": 3413473
+      }
+    },
+    "meta": {
+      "numChildren": 2
+    },
+    "data": {
+      "key": "EUI3XTKN",
+      "version": 1197,
+      "parentItem": "5UJIK85C",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Yaghini Bonabi et al. - 2014 - FPGA implementation of a biological neural network.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Yaghini Bonabi et al. - 2014 - FPGA implementation of a biological neural network.pdf",
+      "md5": "f37dddca8d0239b7e950e98d43760a8e",
+      "mtime": 1652424107044,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T06:41:47Z",
+      "dateModified": "2022-05-16T20:04:33Z"
+    }
+  },
+  {
+    "key": "GH83DC5I",
+    "version": 1197,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GH83DC5I",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/YSC677FU",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I/file/view",
+        "title": "10.1038@s41586-020-2735-5.pdf",
+        "length": 2802651
+      }
+    },
+    "meta": {
+      "numChildren": 5
+    },
+    "data": {
+      "key": "GH83DC5I",
+      "version": 1197,
+      "parentItem": "YSC677FU",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kumar et al. - 2020 - Third-order nanocircuit elements for neuromorphic .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kumar et al. - 2020 - Third-order nanocircuit elements for neuromorphic .pdf",
+      "md5": "6dd2df3fd81dc74d4222e467caf8f0c2",
+      "mtime": 1652426402756,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-13T07:20:02Z",
+      "dateModified": "2022-05-16T20:04:30Z"
+    }
+  },
+  {
     "key": "RCC252TR",
-    "version": 1163,
+    "version": 1197,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -22,6 +574,10 @@
         "href": "https://www.zotero.org/jblewandowski/items/RCC252TR",
         "type": "text/html"
       },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/P32MQHNZ",
+        "type": "application/json"
+      },
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/RCC252TR/file/view",
@@ -34,25 +590,23 @@
     },
     "data": {
       "key": "RCC252TR",
-      "version": 1163,
+      "version": 1197,
+      "parentItem": "P32MQHNZ",
       "itemType": "attachment",
       "linkMode": "imported_file",
-      "title": "main.pdf",
+      "title": "Harrington et al. - 2022 - Butyrylcholinesterase is a potential biomarker for.pdf",
       "accessDate": "",
       "url": "",
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "main.pdf",
+      "filename": "Harrington et al. - 2022 - Butyrylcholinesterase is a potential biomarker for.pdf",
       "md5": "729f44b3963d8257a5512a410bfa6acb",
       "mtime": 1652428033502,
       "tags": [],
-      "collections": [
-        "B6B3RW8P"
-      ],
       "relations": {},
       "dateAdded": "2022-05-13T07:47:13Z",
-      "dateModified": "2022-05-13T07:47:13Z"
+      "dateModified": "2022-05-16T20:04:27Z"
     }
   },
   {
@@ -291,62 +845,6 @@
     }
   },
   {
-    "key": "GH83DC5I",
-    "version": 1137,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/GH83DC5I",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/GH83DC5I/file/view",
-        "title": "10.1038@s41586-020-2735-5.pdf",
-        "length": 2802651
-      }
-    },
-    "meta": {
-      "numChildren": 5
-    },
-    "data": {
-      "key": "GH83DC5I",
-      "version": 1137,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "10.1038@s41586-020-2735-5.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "10.1038@s41586-020-2735-5.pdf",
-      "md5": "6dd2df3fd81dc74d4222e467caf8f0c2",
-      "mtime": 1652426402756,
-      "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-13T07:20:02Z",
-      "dateModified": "2022-05-13T07:20:02Z"
-    }
-  },
-  {
     "key": "QM9RXA97",
     "version": 1133,
     "library": {
@@ -579,118 +1077,6 @@
       "relations": {},
       "dateAdded": "2022-05-13T06:51:42Z",
       "dateModified": "2022-05-13T06:51:42Z"
-    }
-  },
-  {
-    "key": "EUI3XTKN",
-    "version": 1109,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/EUI3XTKN",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/EUI3XTKN/file/view",
-        "title": "fnins-08-00379.pdf",
-        "length": 3413473
-      }
-    },
-    "meta": {
-      "numChildren": 2
-    },
-    "data": {
-      "key": "EUI3XTKN",
-      "version": 1109,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "fnins-08-00379.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "fnins-08-00379.pdf",
-      "md5": "f37dddca8d0239b7e950e98d43760a8e",
-      "mtime": 1652424107044,
-      "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-13T06:41:47Z",
-      "dateModified": "2022-05-13T06:41:47Z"
-    }
-  },
-  {
-    "key": "IQ8R9A2F",
-    "version": 1158,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/IQ8R9A2F",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/IQ8R9A2F/file/view",
-        "title": "2021.12.02.471005.full.pdf",
-        "length": 22879391
-      }
-    },
-    "meta": {
-      "numChildren": 3
-    },
-    "data": {
-      "key": "IQ8R9A2F",
-      "version": 1158,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "2021.12.02.471005.full.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "2021.12.02.471005.full.pdf",
-      "md5": "b682119da16717651644d50329c586cb",
-      "mtime": 1652424054261,
-      "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-13T06:40:54Z",
-      "dateModified": "2022-05-13T06:40:54Z"
     }
   },
   {
