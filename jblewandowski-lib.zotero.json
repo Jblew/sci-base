@@ -1,5 +1,146 @@
 [
   {
+    "key": "5HQ93JMG",
+    "version": 1275,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5HQ93JMG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5HQ93JMG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "5HQ93JMG",
+      "version": 1275,
+      "parentItem": "ZCX4MWUL",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "For each behavior, you’ll identify the metadata you want to use as the basis for rewards and analysis. For example, for reading pages, you’ll probably collect information like category, topic, and author",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "144",
+      "annotationSortIndex": "00165|000918|00416",
+      "annotationPosition": "{\"pageIndex\":165,\"rects\":[[59.99,233.183,390.388,245.443],[59.99,220.688,418.734,232.948],[59.99,208.193,210.317,220.453]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:43:08Z",
+      "dateModified": "2022-05-17T14:43:08Z"
+    }
+  },
+  {
+    "key": "JXS77JDK",
+    "version": 1273,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JXS77JDK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JXS77JDK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "JXS77JDK",
+      "version": 1273,
+      "parentItem": "ZCX4MWUL",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Defining Desired Behaviors",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "144",
+      "annotationSortIndex": "00165|000497|00183",
+      "annotationPosition": "{\"pageIndex\":165,\"rects\":[[60,462.25,196.336,478.042]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:41:52Z",
+      "dateModified": "2022-05-17T14:41:52Z"
+    }
+  },
+  {
+    "key": "4L84RQSD",
+    "version": 1273,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4L84RQSD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4L84RQSD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "4L84RQSD",
+      "version": 1273,
+      "parentItem": "ZCX4MWUL",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Selecting Business Objectives",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "143",
+      "annotationSortIndex": "00164|000385|00473",
+      "annotationPosition": "{\"pageIndex\":164,\"rects\":[[84,172.238,231.748,188.03]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:41:50Z",
+      "dateModified": "2022-05-17T14:41:50Z"
+    }
+  },
+  {
     "key": "RC9D6JFM",
     "version": 1270,
     "library": {
@@ -128,7 +269,7 @@
       }
     },
     "meta": {
-      "numChildren": 2
+      "numChildren": 5
     },
     "data": {
       "key": "ZCX4MWUL",
@@ -10500,111 +10641,6 @@
       "relations": {},
       "dateAdded": "2022-04-27T13:46:14Z",
       "dateModified": "2022-04-27T13:46:14Z"
-    }
-  },
-  {
-    "key": "TGGRHYTU",
-    "version": 905,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/TGGRHYTU",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/TGGRHYTU",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
-        "type": "application/json"
-      }
-    },
-    "meta": {},
-    "data": {
-      "key": "TGGRHYTU",
-      "version": 905,
-      "parentItem": "HVMVMNWK",
-      "itemType": "annotation",
-      "annotationType": "highlight",
-      "annotationText": "Monte Carlo simulations have shown that when",
-      "annotationComment": "",
-      "annotationColor": "#ffd400",
-      "annotationPageLabel": "3",
-      "annotationSortIndex": "00002|001633|00728",
-      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[117.229,54.382,294.601,63.049]]}",
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2022-04-27T13:46:04Z",
-      "dateModified": "2022-04-27T13:46:04Z"
-    }
-  },
-  {
-    "key": "YB2FXGFL",
-    "version": 899,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/YB2FXGFL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/YB2FXGFL",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/SKCJ2AJE",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/YB2FXGFL/file/view",
-        "title": "kanagaraj2011.pdf",
-        "length": 566404
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "YB2FXGFL",
-      "version": 899,
-      "parentItem": "SKCJ2AJE",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Kanagaraji and Sumathi - Proposal of an Open-Source Cloud Computing System .pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Kanagaraji and Sumathi - Proposal of an Open-Source Cloud Computing System .pdf",
-      "md5": "7f746488c498f326353dc46b4da19f01",
-      "mtime": 1651063999000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2022-04-27T12:53:19Z",
-      "dateModified": "2022-04-27T12:53:34Z"
     }
   },
   {
