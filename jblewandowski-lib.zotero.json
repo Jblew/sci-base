@@ -1,5 +1,196 @@
 [
   {
+    "key": "YXP8EE7K",
+    "version": 1374,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YXP8EE7K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YXP8EE7K",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/HA6P3T4L",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 10202710
+      }
+    },
+    "meta": {
+      "creatorSummary": "Schell",
+      "parsedDate": "2008",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "YXP8EE7K",
+      "version": 1374,
+      "itemType": "book",
+      "title": "The art of game design: a book of lenses",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jesse",
+          "lastName": "Schell"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Amsterdam ; Boston",
+      "publisher": "Elsevier/Morgan Kaufmann",
+      "date": "2008",
+      "numPages": "489",
+      "language": "en",
+      "ISBN": "978-0-12-369496-6",
+      "shortTitle": "The art of game design",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "QA76.76.C672 S34 2008",
+      "rights": "",
+      "extra": "OCLC: ocn213839335\nCitation Key: schellArtGameDesign2008",
+      "tags": [
+        {
+          "tag": "Computer games",
+          "type": 1
+        },
+        {
+          "tag": "Design",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:42:27Z",
+      "dateModified": "2022-05-17T19:42:36Z"
+    }
+  },
+  {
+    "key": "HA6P3T4L",
+    "version": 1372,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HA6P3T4L",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HA6P3T4L",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/YXP8EE7K",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/HA6P3T4L/file/view",
+        "title": "Schell - 2008 - The Art of Game Design A book of lenses.pdf",
+        "length": 10202710
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "HA6P3T4L",
+      "version": 1372,
+      "parentItem": "YXP8EE7K",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Schell - 2008 - The art of game design a book of lenses.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Schell - 2008 - The art of game design a book of lenses.pdf",
+      "md5": "349ce0ea85eb4d41f8b3149521862359",
+      "mtime": 1652816548000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:42:24Z",
+      "dateModified": "2022-05-17T19:42:28Z"
+    }
+  },
+  {
+    "key": "LMLEV884",
+    "version": 1361,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LMLEV884",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LMLEV884",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/SPKD3IWT",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LMLEV884",
+      "version": 1361,
+      "parentItem": "SPKD3IWT",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "we use three case studies conducted in Kenya and Zambia",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|001135|00403",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[248.997,383.495,453.19,390.661]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:35:22Z",
+      "dateModified": "2022-05-17T19:35:22Z"
+    }
+  },
+  {
     "key": "MZVYDFYW",
     "version": 1351,
     "library": {
@@ -25203,7 +25394,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "SPKD3IWT",
