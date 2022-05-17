@@ -1,5 +1,287 @@
 [
   {
+    "key": "L53FBMWE",
+    "version": 1324,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L53FBMWE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L53FBMWE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XUGFX4KN",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "L53FBMWE",
+      "version": 1324,
+      "parentItem": "XUGFX4KN",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Qualitative Comparative Analysis",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "8",
+      "annotationSortIndex": "00007|001439|00468",
+      "annotationPosition": "{\"pageIndex\":7,\"rects\":[[315.639,265.462,447.217,274.188]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:13:42Z",
+      "dateModified": "2022-05-17T19:13:42Z"
+    }
+  },
+  {
+    "key": "LR9MUF2Y",
+    "version": 1315,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LR9MUF2Y",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LR9MUF2Y",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LR9MUF2Y",
+      "version": 1315,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "defining clear objectives are important and an essential activity when engineering gamified software (Table 3)",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "17",
+      "annotationSortIndex": "00016|000173|00093",
+      "annotationPosition": "{\"pageIndex\":16,\"rects\":[[145.788,734.923,511.179,748.212],[59.763,721.118,265.704,734.407]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:07:50Z",
+      "dateModified": "2022-05-17T19:07:50Z"
+    }
+  },
+  {
+    "key": "LYHGR6HG",
+    "version": 1314,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LYHGR6HG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LYHGR6HG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LYHGR6HG",
+      "version": 1314,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "definition, ranking, and justification of project objectives are recommended (cf. [27])",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "16",
+      "annotationSortIndex": "00015|002691|00713",
+      "annotationPosition": "{\"pageIndex\":15,\"rects\":[[390.779,115.388,511.331,128.677],[59.763,101.582,362.6,114.871]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:07:37Z",
+      "dateModified": "2022-05-17T19:07:37Z"
+    }
+  },
+  {
+    "key": "C7EBRYQY",
+    "version": 1313,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/C7EBRYQY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/C7EBRYQY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "C7EBRYQY",
+      "version": 1313,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "deriving goals that could be used to measure the success of the gamified software",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "16",
+      "annotationSortIndex": "00015|002572|00699",
+      "annotationPosition": "{\"pageIndex\":15,\"rects\":[[119.422,129.193,511.251,142.482]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:07:29Z",
+      "dateModified": "2022-05-17T19:07:29Z"
+    }
+  },
+  {
+    "key": "DRRDDVPQ",
+    "version": 1310,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DRRDDVPQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DRRDDVPQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "DRRDDVPQ",
+      "version": 1310,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "A common practice in method engineering is the assembly of situational methods for specific engineering projects based on fragments, synthesized from existing method knowledge [45,46,50,51].",
+      "annotationComment": "",
+      "annotationColor": "#5fb236",
+      "annotationPageLabel": "9",
+      "annotationSortIndex": "00008|001782|00449",
+      "annotationPosition": "{\"pageIndex\":8,\"rects\":[[457.43,379.174,511.427,392.468],[59.763,365.373,511.343,378.662],[59.763,351.567,511.379,364.856],[59.763,337.762,127.945,351.051]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:06:28Z",
+      "dateModified": "2022-05-17T19:06:28Z"
+    }
+  },
+  {
+    "key": "AL53FLHY",
+    "version": 1309,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AL53FLHY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AL53FLHY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "AL53FLHY",
+      "version": 1309,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "In Information Systems (IS) research the method engineering methodology, which is defined as “the engineering discipline to design, construct and adapt methods, techniques and tools for the development of information systems” [45], has been established for developing methods in software engineering [46–48,49].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "9",
+      "annotationSortIndex": "00008|001512|00408",
+      "annotationPosition": "{\"pageIndex\":8,\"rects\":[[261.706,420.593,511.427,433.883],[59.763,406.785,511.167,420.079],[59.763,392.979,511.451,406.273],[59.763,379.174,454.069,392.468]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:06:18Z",
+      "dateModified": "2022-05-17T19:06:18Z"
+    }
+  },
+  {
     "key": "MFX5BLM6",
     "version": 1285,
     "library": {
@@ -28446,7 +28728,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 5
     },
     "data": {
       "key": "KUIASEL5",
@@ -32836,7 +33118,7 @@
       }
     },
     "meta": {
-      "numChildren": 1
+      "numChildren": 2
     },
     "data": {
       "key": "XUGFX4KN",
