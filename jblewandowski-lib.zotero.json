@@ -1,5 +1,63 @@
 [
   {
+    "key": "TL2ZTHA4",
+    "version": 1377,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TL2ZTHA4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TL2ZTHA4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/A6C8KXYQ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/TL2ZTHA4/file/view",
+        "title": "Schell - 2019 - Tenth Anniversary The Art of Game Design A Book .pdf",
+        "length": 25380201
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "TL2ZTHA4",
+      "version": 1377,
+      "parentItem": "A6C8KXYQ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Schell - 2019 - Tenth Anniversary The Art of Game Design A Book .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Schell - 2019 - Tenth Anniversary The Art of Game Design A Book .pdf",
+      "md5": "c67fde3269f43b69e891aeab93474497",
+      "mtime": 1652816696000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:44:56Z",
+      "dateModified": "2022-05-17T19:44:56Z"
+    }
+  },
+  {
     "key": "YXP8EE7K",
     "version": 1374,
     "library": {
@@ -27744,12 +27802,18 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/A6C8KXYQ",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/TL2ZTHA4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 25380201
       }
     },
     "meta": {
       "creatorSummary": "Schell",
       "parsedDate": "2019-07-31",
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "A6C8KXYQ",
