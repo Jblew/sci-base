@@ -1,5 +1,99 @@
 [
   {
+    "key": "RC9D6JFM",
+    "version": 1270,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RC9D6JFM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RC9D6JFM",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "RC9D6JFM",
+      "version": 1270,
+      "parentItem": "ZCX4MWUL",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "• Selecting business objectives",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "142",
+      "annotationSortIndex": "00163|001864|00516",
+      "annotationPosition": "{\"pageIndex\":163,\"rects\":[[65.998,132.953,201.974,145.213]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:39:02Z",
+      "dateModified": "2022-05-17T14:39:02Z"
+    }
+  },
+  {
+    "key": "ZCEG39CS",
+    "version": 1269,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCEG39CS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZCEG39CS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "ZCEG39CS",
+      "version": 1269,
+      "parentItem": "ZCX4MWUL",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Planning a rewards Project",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "142",
+      "annotationSortIndex": "00163|001651|00435",
+      "annotationPosition": "{\"pageIndex\":163,\"rects\":[[60,206,237.566,226.304]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:38:37Z",
+      "dateModified": "2022-05-17T14:38:37Z"
+    }
+  },
+  {
     "key": "ZCX4MWUL",
     "version": 1243,
     "library": {
@@ -34,7 +128,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 2
     },
     "data": {
       "key": "ZCX4MWUL",
@@ -10406,6 +10500,111 @@
       "relations": {},
       "dateAdded": "2022-04-27T13:46:14Z",
       "dateModified": "2022-04-27T13:46:14Z"
+    }
+  },
+  {
+    "key": "TGGRHYTU",
+    "version": 905,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TGGRHYTU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TGGRHYTU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HVMVMNWK",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "TGGRHYTU",
+      "version": 905,
+      "parentItem": "HVMVMNWK",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Monte Carlo simulations have shown that when",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|001633|00728",
+      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[117.229,54.382,294.601,63.049]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T13:46:04Z",
+      "dateModified": "2022-04-27T13:46:04Z"
+    }
+  },
+  {
+    "key": "YB2FXGFL",
+    "version": 899,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YB2FXGFL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YB2FXGFL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/SKCJ2AJE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YB2FXGFL/file/view",
+        "title": "kanagaraj2011.pdf",
+        "length": 566404
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YB2FXGFL",
+      "version": 899,
+      "parentItem": "SKCJ2AJE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kanagaraji and Sumathi - Proposal of an Open-Source Cloud Computing System .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kanagaraji and Sumathi - Proposal of an Open-Source Cloud Computing System .pdf",
+      "md5": "7f746488c498f326353dc46b4da19f01",
+      "mtime": 1651063999000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-04-27T12:53:19Z",
+      "dateModified": "2022-04-27T12:53:34Z"
     }
   },
   {
