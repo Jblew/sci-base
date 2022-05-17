@@ -1,5 +1,392 @@
 [
   {
+    "key": "ZCX4MWUL",
+    "version": 1243,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZCX4MWUL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JQ7ZV6I5",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL/file/view",
+        "title": "Zichermann and Cunningham - Gamification by Design.pdf",
+        "length": 17829778
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "ZCX4MWUL",
+      "version": 1243,
+      "parentItem": "JQ7ZV6I5",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Zichermann and Cunningham - Gamification by Design.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Zichermann and Cunningham - Gamification by Design.pdf",
+      "md5": "61f336d0c76784b68cf1a95a14ec38b8",
+      "mtime": 1652797928000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:32:05Z",
+      "dateModified": "2022-05-17T14:32:34Z"
+    }
+  },
+  {
+    "key": "WD74FL8C",
+    "version": 1234,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WD74FL8C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WD74FL8C",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/V45Q3RVA",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "WD74FL8C",
+      "version": 1234,
+      "parentItem": "V45Q3RVA",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "designer formulates the brief in terms of one of a range of target behaviours",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "384",
+      "annotationSortIndex": "00002|000906|00296",
+      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[139.527,489.256,283.934,497.226],[32.833,478.767,185.165,486.737]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:22:53Z",
+      "dateModified": "2022-05-17T14:22:53Z"
+    }
+  },
+  {
+    "key": "5K2PCN67",
+    "version": 1228,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5K2PCN67",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5K2PCN67",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "5K2PCN67",
+      "version": 1228,
+      "parentItem": "5ESMX5BT",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "test",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "728",
+      "annotationSortIndex": "00003|001235|00444",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[80.672,212.536,94.241,221.503]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:20:29Z",
+      "dateModified": "2022-05-17T14:20:29Z"
+    }
+  },
+  {
+    "key": "DV3TJCQ2",
+    "version": 1226,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DV3TJCQ2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DV3TJCQ2",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "DV3TJCQ2",
+      "version": 1226,
+      "parentItem": "5ESMX5BT",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "prototypes",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "728",
+      "annotationSortIndex": "00003|000782|00360",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[287.09,296.214,328.774,305.181]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:20:22Z",
+      "dateModified": "2022-05-17T14:20:22Z"
+    }
+  },
+  {
+    "key": "XV2SYAB6",
+    "version": 1225,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XV2SYAB6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XV2SYAB6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "XV2SYAB6",
+      "version": 1225,
+      "parentItem": "5ESMX5BT",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Empathy",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "728",
+      "annotationSortIndex": "00003|000184|00253",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[190.601,403.816,226.359,412.783]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:20:13Z",
+      "dateModified": "2022-05-17T14:20:13Z"
+    }
+  },
+  {
+    "key": "AWGWSV5E",
+    "version": 1225,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AWGWSV5E",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AWGWSV5E",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "AWGWSV5E",
+      "version": 1225,
+      "parentItem": "5ESMX5BT",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Five-steps",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "728",
+      "annotationSortIndex": "00003|000054|00228",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[304.099,427.412,344.621,437.374]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:20:11Z",
+      "dateModified": "2022-05-17T14:20:11Z"
+    }
+  },
+  {
+    "key": "5CDN3HRW",
+    "version": 1224,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5CDN3HRW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5CDN3HRW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "5CDN3HRW",
+      "version": 1224,
+      "parentItem": "5ESMX5BT",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "ideate",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "728",
+      "annotationSortIndex": "00003|000572|00324",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[268.496,331.772,292.012,341.734]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:19:55Z",
+      "dateModified": "2022-05-17T14:19:55Z"
+    }
+  },
+  {
+    "key": "TFN2IHCP",
+    "version": 1224,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TFN2IHCP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TFN2IHCP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "TFN2IHCP",
+      "version": 1224,
+      "parentItem": "5ESMX5BT",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "define",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "728",
+      "annotationSortIndex": "00003|000396|00300",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[101.367,355.696,125.556,365.658]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:19:52Z",
+      "dateModified": "2022-05-17T14:19:52Z"
+    }
+  },
+  {
     "key": "92DJEFEV",
     "version": 1214,
     "library": {
@@ -127,7 +514,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 6
     },
     "data": {
       "key": "5ESMX5BT",
@@ -24216,7 +24603,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "V45Q3RVA",
@@ -26193,12 +26580,18 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/JQ7ZV6I5",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 17829778
       }
     },
     "meta": {
       "creatorSummary": "Zichermann and Cunningham",
       "parsedDate": "2011",
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "JQ7ZV6I5",
