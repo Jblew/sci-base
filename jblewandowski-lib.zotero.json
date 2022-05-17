@@ -1,5 +1,156 @@
 [
   {
+    "key": "92DJEFEV",
+    "version": 1214,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/92DJEFEV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/92DJEFEV",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 506335
+      }
+    },
+    "meta": {
+      "creatorSummary": "Park and McKilligan",
+      "parsedDate": "2018",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "92DJEFEV",
+      "version": 1214,
+      "itemType": "bookSection",
+      "title": "A Systematic Literature Review for Human-Computer Interaction and Design Thinking Process Integration",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Aaron",
+          "lastName": "Marcus"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Wentao",
+          "lastName": "Wang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hye",
+          "lastName": "Park"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Seda",
+          "lastName": "McKilligan"
+        }
+      ],
+      "abstractNote": "Human-computer interaction (HCI) has been challenged in recent years because of advanced technology requiring adoption of new applications and investigations of connection with other disciplines, to enhance its theoretical knowledge. Design thinking (DT), an innovative and creative problem solving process, provides potential answers to the kind of knowledge and techniques designers can bring into HCI. This paper reports a systematic review of comparison between HCI design process and DT process. A total of 72 peer-reviewed research papers were reviewed published between 1972 and 2017 towards answering the following question: How do HCI and DT processes overlap, differ, and can learn from each other? Synthesizing the ﬁndings revealed a description and taxonomy of the variations, success factors, and practices between the two problem solving processes. The review highlights shared process phases with different goals in each suggesting that the two domains could complement each other in various ways, for applications in academia and industry.",
+      "bookTitle": "Design, User Experience, and Usability: Theory and Practice",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "10918",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "date": "2018",
+      "pages": "725-740",
+      "language": "en",
+      "ISBN": "978-3-319-91796-2 978-3-319-91797-9",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/978-3-319-91797-9_50",
+      "accessDate": "2022-05-17T14:11:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Series Title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-319-91797-9_50\nCitation Key: parkSystematicLiteratureReview2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:11:31Z",
+      "dateModified": "2022-05-17T14:11:35Z"
+    }
+  },
+  {
+    "key": "5ESMX5BT",
+    "version": 1215,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5ESMX5BT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/92DJEFEV",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5ESMX5BT/file/view",
+        "title": "Park and McKilligan - 2018 - A Systematic Literature Review for Human-Computer .pdf",
+        "length": 506335
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5ESMX5BT",
+      "version": 1215,
+      "parentItem": "92DJEFEV",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Park and McKilligan - 2018 - A Systematic Literature Review for Human-Computer .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Park and McKilligan - 2018 - A Systematic Literature Review for Human-Computer .pdf",
+      "md5": "6e7890faddb7883943280eb9e80e1cf0",
+      "mtime": 1652796692000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T14:11:27Z",
+      "dateModified": "2022-05-17T14:11:32Z"
+    }
+  },
+  {
     "key": "YSC677FU",
     "version": 1198,
     "library": {
