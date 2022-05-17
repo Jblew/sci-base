@@ -1,5 +1,59 @@
 [
   {
+    "key": "A8CWWC7F",
+    "version": 1279,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/A8CWWC7F",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/A8CWWC7F",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/A8CWWC7F/file/view",
+        "title": "clickbait.pdf",
+        "length": 1232638
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "A8CWWC7F",
+      "version": 1279,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "clickbait.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "clickbait.pdf",
+      "md5": "4d4f328a932f62617f76fcfdaa3c7ff8",
+      "mtime": 1652809085000,
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T17:38:05Z",
+      "dateModified": "2022-05-17T17:38:05Z"
+    }
+  },
+  {
     "key": "5HQ93JMG",
     "version": 1275,
     "library": {
