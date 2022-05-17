@@ -1,5 +1,240 @@
 [
   {
+    "key": "MZVYDFYW",
+    "version": 1351,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MZVYDFYW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MZVYDFYW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "MZVYDFYW",
+      "version": 1351,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "recommended focusing brainstorming on the fulfillment of user’s needs, desired behavior, and target outcome",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "20",
+      "annotationSortIndex": "00019|001674|00369",
+      "annotationPosition": "{\"pageIndex\":19,\"rects\":[[396.217,458.788,511.281,472.077],[59.763,444.959,476.968,458.253]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:23:14Z",
+      "dateModified": "2022-05-17T19:23:14Z"
+    }
+  },
+  {
+    "key": "EKPS4FG8",
+    "version": 1350,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EKPS4FG8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EKPS4FG8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "EKPS4FG8",
+      "version": 1350,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Explorative brainstorming",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "20",
+      "annotationSortIndex": "00019|001353|00314",
+      "annotationPosition": "{\"pageIndex\":19,\"rects\":[[336.623,514.009,464.171,527.298]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:22:59Z",
+      "dateModified": "2022-05-17T19:22:59Z"
+    }
+  },
+  {
+    "key": "AFBJDCXM",
+    "version": 1349,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AFBJDCXM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AFBJDCXM",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "AFBJDCXM",
+      "version": 1349,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "iterative brainstorming activity",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "20",
+      "annotationSortIndex": "00019|001256|00300",
+      "annotationPosition": "{\"pageIndex\":19,\"rects\":[[234.786,527.814,384.015,541.103]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:22:52Z",
+      "dateModified": "2022-05-17T19:22:52Z"
+    }
+  },
+  {
+    "key": "TCEC9ZKJ",
+    "version": 1347,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TCEC9ZKJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TCEC9ZKJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "TCEC9ZKJ",
+      "version": 1347,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "consider game mechanics",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "19",
+      "annotationSortIndex": "00018|001394|00684",
+      "annotationPosition": "{\"pageIndex\":18,\"rects\":[[127.565,143.738,258.127,157.027]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:22:01Z",
+      "dateModified": "2022-05-17T19:22:01Z"
+    }
+  },
+  {
+    "key": "H3FHY343",
+    "version": 1346,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H3FHY343",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H3FHY343",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/KUIASEL5",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "H3FHY343",
+      "version": 1346,
+      "parentItem": "KUIASEL5",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "develop a gamification design",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "19",
+      "annotationSortIndex": "00018|000997|00615",
+      "annotationPosition": "{\"pageIndex\":18,\"rects\":[[59.763,212.765,211.201,226.054]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T19:21:54Z",
+      "dateModified": "2022-05-17T19:21:54Z"
+    }
+  },
+  {
     "key": "L53FBMWE",
     "version": 1324,
     "library": {
@@ -28728,7 +28963,7 @@
       }
     },
     "meta": {
-      "numChildren": 5
+      "numChildren": 10
     },
     "data": {
       "key": "KUIASEL5",
