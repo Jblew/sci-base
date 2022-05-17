@@ -1,7 +1,7 @@
 [
   {
-    "key": "A8CWWC7F",
-    "version": 1279,
+    "key": "MFX5BLM6",
+    "version": 1285,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -15,42 +15,127 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/A8CWWC7F",
+        "href": "https://api.zotero.org/users/8674355/items/MFX5BLM6",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/A8CWWC7F",
+        "href": "https://www.zotero.org/jblewandowski/items/MFX5BLM6",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/4MFFG3ZF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 345196
+      }
+    },
+    "meta": {
+      "creatorSummary": "Molyneux and Coddington",
+      "parsedDate": "2020-04-20",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "MFX5BLM6",
+      "version": 1285,
+      "itemType": "journalArticle",
+      "title": "Aggregation, Clickbait and Their Effect on Perceptions of Journalistic Credibility and Quality",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Logan",
+          "lastName": "Molyneux"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Coddington"
+        }
+      ],
+      "abstractNote": "Many journalists and industry observers lament that aggregating news underneath sensational headlines will erode credibility and turn off readers. While some scholarly work has studied journalists’ perspectives of this practice, little has been done to understand what audiences think of aggregation and clickbait. This study uses published original and aggregated news articles as stimuli in two online experiments to test readers’ perceptions of news aggregation and clickbait. Aggregation itself has little effect on perceptions of credibility and quality; instead, writing proficiency is more closely linked to these perceptions. Results also suggest clickbait headlines may lower perceptions of credibility and quality.",
+      "publicationTitle": "Journalism Practice",
+      "volume": "14",
+      "issue": "4",
+      "pages": "429-446",
+      "date": "2020-04-20",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journalism Practice",
+      "language": "en",
+      "DOI": "10.1080/17512786.2019.1628658",
+      "ISSN": "1751-2786, 1751-2794",
+      "shortTitle": "",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/17512786.2019.1628658",
+      "accessDate": "2022-05-17T17:40:42Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: molyneuxAggregationClickbaitTheir2020",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-05-17T17:40:42Z",
+      "dateModified": "2022-05-17T17:40:49Z"
+    }
+  },
+  {
+    "key": "4MFFG3ZF",
+    "version": 1283,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4MFFG3ZF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4MFFG3ZF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/MFX5BLM6",
+        "type": "application/json"
       },
       "enclosure": {
         "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/A8CWWC7F/file/view",
-        "title": "clickbait.pdf",
-        "length": 1232638
+        "href": "https://api.zotero.org/users/8674355/items/4MFFG3ZF/file/view",
+        "title": "Molyneux and Coddington - 2020 - Aggregation, Clickbait and Their Effect on Percept.pdf",
+        "length": 345196
       }
     },
     "meta": {
       "numChildren": 0
     },
     "data": {
-      "key": "A8CWWC7F",
-      "version": 1279,
+      "key": "4MFFG3ZF",
+      "version": 1283,
+      "parentItem": "MFX5BLM6",
       "itemType": "attachment",
       "linkMode": "imported_file",
-      "title": "clickbait.pdf",
+      "title": "Molyneux and Coddington - 2020 - Aggregation, Clickbait and Their Effect on Percept.pdf",
       "accessDate": "",
       "url": "",
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "clickbait.pdf",
-      "md5": "4d4f328a932f62617f76fcfdaa3c7ff8",
-      "mtime": 1652809085000,
+      "filename": "Molyneux and Coddington - 2020 - Aggregation, Clickbait and Their Effect on Percept.pdf",
+      "md5": "80aa4a8171d5c13ca8746043b1f1827d",
+      "mtime": 1652809243000,
       "tags": [],
-      "collections": [],
       "relations": {},
-      "dateAdded": "2022-05-17T17:38:05Z",
-      "dateModified": "2022-05-17T17:38:05Z"
+      "dateAdded": "2022-05-17T17:40:39Z",
+      "dateModified": "2022-05-17T17:40:43Z"
     }
   },
   {
