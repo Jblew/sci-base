@@ -1,5 +1,457 @@
 [
   {
+    "key": "M96EGSKL",
+    "version": 1397,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M96EGSKL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M96EGSKL",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "M96EGSKL",
+      "version": 1397,
+      "itemType": "book",
+      "title": "Actionable gamification: beyond points, badges, and leaderboards",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Fremont, CA",
+      "publisher": "Octalysis Media",
+      "date": "2015",
+      "numPages": "499",
+      "language": "eng",
+      "ISBN": "978-1-5117-4404-1",
+      "shortTitle": "Actionable gamification",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: chouActionableGamificationPoints2015",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:58:40Z",
+      "dateModified": "2022-05-18T14:59:09Z"
+    }
+  },
+  {
+    "key": "WVCNT36S",
+    "version": 1396,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WVCNT36S",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WVCNT36S",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WVCNT36S",
+      "version": 1396,
+      "itemType": "book",
+      "title": "Actionable gamification: beyond points, badges, and leaderboards",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Fremont, CA",
+      "publisher": "Octalysis Media",
+      "date": "2015",
+      "numPages": "499",
+      "language": "eng",
+      "ISBN": "978-1-5117-4404-1",
+      "shortTitle": "Actionable gamification",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:58:44Z",
+      "dateModified": "2022-05-18T14:59:05Z"
+    }
+  },
+  {
+    "key": "K84SZ7MA",
+    "version": 1396,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/K84SZ7MA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/K84SZ7MA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/UV768XGL",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "K84SZ7MA",
+      "version": 1396,
+      "parentItem": "UV768XGL",
+      "itemType": "note",
+      "note": "Hier auch später erschienene, unveränderte Nachdrucke",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:59:04Z",
+      "dateModified": "2022-05-18T14:59:04Z"
+    }
+  },
+  {
+    "key": "UV768XGL",
+    "version": 1396,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UV768XGL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UV768XGL",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UV768XGL",
+      "version": 1396,
+      "itemType": "book",
+      "title": "Actionable gamification: beyond points, badges, and leaderboards",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Fremont, CA",
+      "publisher": "Octalysis Media",
+      "date": "2016",
+      "numPages": "499",
+      "language": "eng",
+      "ISBN": "978-1-5117-4404-1",
+      "shortTitle": "Actionable gamification",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:59:04Z",
+      "dateModified": "2022-05-18T14:59:04Z"
+    }
+  },
+  {
+    "key": "HAF2LECH",
+    "version": 1396,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HAF2LECH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HAF2LECH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/5ZSNR75D",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "HAF2LECH",
+      "version": 1396,
+      "parentItem": "5ZSNR75D",
+      "itemType": "note",
+      "note": "Hier auch später erschienene, unveränderte Nachdrucke",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:59:02Z",
+      "dateModified": "2022-05-18T14:59:02Z"
+    }
+  },
+  {
+    "key": "5ZSNR75D",
+    "version": 1396,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5ZSNR75D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5ZSNR75D",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5ZSNR75D",
+      "version": 1396,
+      "itemType": "book",
+      "title": "Actionable gamification: beyond points, badges, and leaderboards",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Fremont, CA",
+      "publisher": "Octalysis Media",
+      "date": "2016",
+      "numPages": "499",
+      "language": "eng",
+      "ISBN": "978-1-5117-4404-1",
+      "shortTitle": "Actionable gamification",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:59:02Z",
+      "dateModified": "2022-05-18T14:59:02Z"
+    }
+  },
+  {
+    "key": "PU4Y6ZBX",
+    "version": 1395,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PU4Y6ZBX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PU4Y6ZBX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/WVCNT36S",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "PU4Y6ZBX",
+      "version": 1395,
+      "parentItem": "WVCNT36S",
+      "itemType": "note",
+      "note": "Hier auch später erschienene, unveränderte Nachdrucke",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:58:44Z",
+      "dateModified": "2022-05-18T14:58:44Z"
+    }
+  },
+  {
+    "key": "YTLF29UE",
+    "version": 1394,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YTLF29UE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YTLF29UE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/M96EGSKL",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YTLF29UE",
+      "version": 1394,
+      "parentItem": "M96EGSKL",
+      "itemType": "note",
+      "note": "Hier auch später erschienene, unveränderte Nachdrucke",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:58:40Z",
+      "dateModified": "2022-05-18T14:58:40Z"
+    }
+  },
+  {
     "key": "M9TGUT64",
     "version": 1393,
     "library": {
