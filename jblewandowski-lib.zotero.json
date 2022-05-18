@@ -1,5 +1,77 @@
 [
   {
+    "key": "M9TGUT64",
+    "version": 1393,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M9TGUT64",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M9TGUT64",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2015",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "M9TGUT64",
+      "version": 1393,
+      "itemType": "book",
+      "title": "Actionable Gamification",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "Createspace Independent Publishing Platform",
+      "date": "2015",
+      "numPages": "",
+      "language": "",
+      "ISBN": "1-5117-4404-9",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: actionablegamification_2015",
+      "tags": [],
+      "collections": [
+        "YRDSMPUP",
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-24T19:15:28Z",
+      "dateModified": "2022-05-18T14:54:01Z"
+    }
+  },
+  {
     "key": "TL2ZTHA4",
     "version": 1377,
     "library": {
@@ -45048,78 +45120,6 @@
       "relations": {},
       "dateAdded": "2021-10-24T19:15:27Z",
       "dateModified": "2021-10-24T19:42:16Z"
-    }
-  },
-  {
-    "key": "M9TGUT64",
-    "version": 276,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/M9TGUT64",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/M9TGUT64",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Chou",
-      "parsedDate": "2015",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "M9TGUT64",
-      "version": 276,
-      "itemType": "book",
-      "title": "Actionable Gamification",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Yu-kai",
-          "lastName": "Chou"
-        }
-      ],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "",
-      "publisher": "Createspace Independent Publishing Platform",
-      "date": "2015",
-      "numPages": "",
-      "language": "",
-      "ISBN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: actionablegamification_2015",
-      "tags": [],
-      "collections": [
-        "YRDSMPUP",
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-10-24T19:15:28Z",
-      "dateModified": "2021-10-24T19:41:52Z"
     }
   },
   {
