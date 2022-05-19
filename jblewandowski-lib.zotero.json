@@ -1,5 +1,405 @@
 [
   {
+    "key": "HFB7KAL6",
+    "version": 1419,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HFB7KAL6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HFB7KAL6",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3APAI2BI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 216756
+      }
+    },
+    "meta": {
+      "creatorSummary": "Nacke and Deterding",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HFB7KAL6",
+      "version": 1419,
+      "itemType": "journalArticle",
+      "title": "The maturing of gamification research",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lennart E.",
+          "lastName": "Nacke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sebastian",
+          "lastName": "Deterding"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Computers in Human Behavior",
+      "volume": "71",
+      "issue": "",
+      "pages": "450-454",
+      "date": "06/2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Computers in Human Behavior",
+      "language": "en",
+      "DOI": "10.1016/j.chb.2016.11.062",
+      "ISSN": "07475632",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0747563216308111",
+      "accessDate": "2022-05-19T16:45:29Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: nackeMaturingGamificationResearch2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-19T16:45:29Z",
+      "dateModified": "2022-05-19T16:45:34Z"
+    }
+  },
+  {
+    "key": "YIXNJPVH",
+    "version": 1419,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YIXNJPVH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YIXNJPVH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BSML8PVV",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 418678
+      }
+    },
+    "meta": {
+      "creatorSummary": "Huotari and Hamari",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "YIXNJPVH",
+      "version": 1419,
+      "itemType": "journalArticle",
+      "title": "A definition for gamification: anchoring gamification in the service marketing literature",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kai",
+          "lastName": "Huotari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juho",
+          "lastName": "Hamari"
+        }
+      ],
+      "abstractNote": "BGamification^ has gained considerable scholarly and practitioner attention; however, the discussion in academia has been largely confined to the human–computer interaction and game studies domains. Since gamification is often used in service design, it is important that the concept be brought in line with the service literature. So far, though, there has been a dearth of such literature. This article is an attempt to tie in gamification with service marketing theory, which conceptualizes the consumer as a co-producer of the service. It presents games as service systems composed of operant and operand resources. It proposes a definition for gamification, one that emphasizes its experiential nature. The definition highlights four important aspects of gamification: affordances, psychological mediators, goals of gamification and the context of gamification. Using the definition the article identifies four possible gamifying actors and examines gamification as communicative staging of the service environment.",
+      "publicationTitle": "Electronic Markets",
+      "volume": "27",
+      "issue": "1",
+      "pages": "21-31",
+      "date": "02/2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Electron Markets",
+      "language": "en",
+      "DOI": "10.1007/s12525-015-0212-z",
+      "ISSN": "1019-6781, 1422-8890",
+      "shortTitle": "A definition for gamification",
+      "url": "https://link.springer.com/10.1007/s12525-015-0212-z",
+      "accessDate": "2022-05-19T16:35:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: huotariDefinitionGamificationAnchoring2017",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-19T16:35:31Z",
+      "dateModified": "2022-05-19T16:45:34Z"
+    }
+  },
+  {
+    "key": "WVCNT36S",
+    "version": 1419,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WVCNT36S",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WVCNT36S",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "WVCNT36S",
+      "version": 1419,
+      "itemType": "book",
+      "title": "Actionable gamification: beyond points, badges, and leaderboards",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Fremont, CA",
+      "publisher": "Octalysis Media",
+      "date": "2015",
+      "numPages": "499",
+      "language": "eng",
+      "ISBN": "978-1-5117-4404-1",
+      "shortTitle": "Actionable gamification",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: chouActionableGamificationPoints2015a",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:58:44Z",
+      "dateModified": "2022-05-19T16:45:34Z"
+    }
+  },
+  {
+    "key": "3APAI2BI",
+    "version": 1418,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3APAI2BI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3APAI2BI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HFB7KAL6",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3APAI2BI/file/view",
+        "title": "Nacke and Deterding - 2017 - The maturing of gamification research.pdf",
+        "length": 216756
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3APAI2BI",
+      "version": 1418,
+      "parentItem": "HFB7KAL6",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Nacke and Deterding - 2017 - The maturing of gamification research.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Nacke and Deterding - 2017 - The maturing of gamification research.pdf",
+      "md5": "b85617e3c33dfe774eee4ed5ed862247",
+      "mtime": 1652978729000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-19T16:45:25Z",
+      "dateModified": "2022-05-19T16:45:29Z"
+    }
+  },
+  {
+    "key": "92DZRSDW",
+    "version": 1413,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/92DZRSDW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/92DZRSDW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/BSML8PVV",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "92DZRSDW",
+      "version": 1413,
+      "parentItem": "BSML8PVV",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "human–computer interaction (HCI).",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "21",
+      "annotationSortIndex": "00000|001533|00457",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[395.199,323.55,544.357,333.513]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-19T16:35:52Z",
+      "dateModified": "2022-05-19T16:35:52Z"
+    }
+  },
+  {
+    "key": "BSML8PVV",
+    "version": 1414,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BSML8PVV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BSML8PVV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/YIXNJPVH",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BSML8PVV/file/view",
+        "title": "Huotari and Hamari - 2017 - A definition for gamification anchoring gamificat.pdf",
+        "length": 418678
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "BSML8PVV",
+      "version": 1414,
+      "parentItem": "YIXNJPVH",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Huotari and Hamari - 2017 - A definition for gamification anchoring gamificat.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Huotari and Hamari - 2017 - A definition for gamification anchoring gamificat.pdf",
+      "md5": "6b905d3b5194bb994d88c5197c61eb69",
+      "mtime": 1652978132000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-19T16:35:28Z",
+      "dateModified": "2022-05-19T16:35:32Z"
+    }
+  },
+  {
     "key": "JYA6LTKJ",
     "version": 1409,
     "library": {
@@ -219,77 +619,6 @@
       "relations": {},
       "dateAdded": "2022-05-18T14:58:40Z",
       "dateModified": "2022-05-18T14:59:09Z"
-    }
-  },
-  {
-    "key": "WVCNT36S",
-    "version": 1396,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/WVCNT36S",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/WVCNT36S",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Chou",
-      "parsedDate": "2015",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "WVCNT36S",
-      "version": 1396,
-      "itemType": "book",
-      "title": "Actionable gamification: beyond points, badges, and leaderboards",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Yu-Kai",
-          "lastName": "Chou"
-        }
-      ],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "Fremont, CA",
-      "publisher": "Octalysis Media",
-      "date": "2015",
-      "numPages": "499",
-      "language": "eng",
-      "ISBN": "978-1-5117-4404-1",
-      "shortTitle": "Actionable gamification",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "K10plus ISBN",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-18T14:58:44Z",
-      "dateModified": "2022-05-18T14:59:05Z"
     }
   },
   {
