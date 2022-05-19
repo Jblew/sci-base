@@ -1,5 +1,156 @@
 [
   {
+    "key": "JYA6LTKJ",
+    "version": 1409,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JYA6LTKJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JYA6LTKJ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/FMEHVT5R",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1582404
+      }
+    },
+    "meta": {
+      "creatorSummary": "Klock et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JYA6LTKJ",
+      "version": 1409,
+      "itemType": "journalArticle",
+      "title": "Tailored gamification: A review of literature",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ana Carolina Tomé",
+          "lastName": "Klock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Isabela",
+          "lastName": "Gasparini"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marcelo Soares",
+          "lastName": "Pimenta"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Juho",
+          "lastName": "Hamari"
+        }
+      ],
+      "abstractNote": "Gamification is increasingly becoming a pertinent aspect of any UI and UX design. However, a canonical dearth in research and application of gamification has been related to the role of individual differences in susceptibility to gamification and its varied designs. To address this gap, this study reviews the extant corpus of research on tailored gamification (42 studies). The findings of the review indicate that most studies on the field are mostly focused on user modeling for a future personalization, adaptation, or recommendation of game elements. This user model usually contains the users’ preferences of play (i.e., player types), and is mostly applied in educational settings. The main contributions of this paper are a standardized terminology of the game elements used in tailored gamification, the discussion on the most suitable game elements for each users’ characteristic, and a research agenda including dynamic modeling, exploring multiple characteristics simultaneously, and understanding the effects of other aspects of the interaction on user experience.",
+      "publicationTitle": "International Journal of Human-Computer Studies",
+      "volume": "144",
+      "issue": "",
+      "pages": "102495",
+      "date": "12/2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "International Journal of Human-Computer Studies",
+      "language": "en",
+      "DOI": "10.1016/j.ijhcs.2020.102495",
+      "ISSN": "10715819",
+      "shortTitle": "Tailored gamification",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1071581920300975",
+      "accessDate": "2022-05-19T15:26:03Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: klockTailoredGamificationReview2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-19T15:26:03Z",
+      "dateModified": "2022-05-19T15:26:43Z"
+    }
+  },
+  {
+    "key": "FMEHVT5R",
+    "version": 1406,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FMEHVT5R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FMEHVT5R",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JYA6LTKJ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/FMEHVT5R/file/view",
+        "title": "Klock et al. - 2020 - Tailored gamification A review of literature.pdf",
+        "length": 1582404
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "FMEHVT5R",
+      "version": 1406,
+      "parentItem": "JYA6LTKJ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Klock et al. - 2020 - Tailored gamification A review of literature.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Klock et al. - 2020 - Tailored gamification A review of literature.pdf",
+      "md5": "117a106a68e819e8f56e40cd2f82c5e4",
+      "mtime": 1652973964000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-19T15:25:58Z",
+      "dateModified": "2022-05-19T15:26:04Z"
+    }
+  },
+  {
     "key": "M96EGSKL",
     "version": 1397,
     "library": {
