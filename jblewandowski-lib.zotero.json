@@ -1,5 +1,93 @@
 [
   {
+    "key": "P32MQHNZ",
+    "version": 1447,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P32MQHNZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P32MQHNZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/RCC252TR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1061434
+      }
+    },
+    "meta": {
+      "creatorSummary": "Harrington et al.",
+      "parsedDate": "2022",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "P32MQHNZ",
+      "version": 1447,
+      "itemType": "journalArticle",
+      "title": "Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Carmel Therese",
+          "lastName": "Harrington"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Naz Al",
+          "lastName": "Hafid"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen Ann",
+          "lastName": "Waters"
+        }
+      ],
+      "abstractNote": "Background Autonomic dysfunction has been implicated in the pathophysiology of the Sudden Infant Death Syndrome (SIDS). Butyrylcholinesterase (BChE) is an enzyme of the cholinergic system, a major branch of the autonomic system, and may provide a measure of autonomic (dys)function. This study was undertaken to evaluate BChE activity in infants and young children who had died from Sudden Infant Death or Sudden Unexpected Death.",
+      "publicationTitle": "eBioMedicine",
+      "volume": "80",
+      "issue": "",
+      "pages": "104041",
+      "date": "06/2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "eBioMedicine",
+      "language": "en",
+      "DOI": "10.1016/j.ebiom.2022.104041",
+      "ISSN": "23523964",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352396422002225",
+      "accessDate": "2022-05-16T20:04:26Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: harringtonButyrylcholinesterasePotentialBiomarker2022",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-16T20:04:26Z",
+      "dateModified": "2022-05-20T18:01:17Z"
+    }
+  },
+  {
     "key": "5ZSNR75D",
     "version": 1446,
     "library": {
@@ -3308,94 +3396,6 @@
       ],
       "relations": {},
       "dateAdded": "2022-05-16T20:04:32Z",
-      "dateModified": "2022-05-16T20:04:45Z"
-    }
-  },
-  {
-    "key": "P32MQHNZ",
-    "version": 1198,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/P32MQHNZ",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/P32MQHNZ",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/RCC252TR",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1061434
-      }
-    },
-    "meta": {
-      "creatorSummary": "Harrington et al.",
-      "parsedDate": "2022",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "P32MQHNZ",
-      "version": 1198,
-      "itemType": "journalArticle",
-      "title": "Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Carmel Therese",
-          "lastName": "Harrington"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Naz Al",
-          "lastName": "Hafid"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Karen Ann",
-          "lastName": "Waters"
-        }
-      ],
-      "abstractNote": "Background Autonomic dysfunction has been implicated in the pathophysiology of the Sudden Infant Death Syndrome (SIDS). Butyrylcholinesterase (BChE) is an enzyme of the cholinergic system, a major branch of the autonomic system, and may provide a measure of autonomic (dys)function. This study was undertaken to evaluate BChE activity in infants and young children who had died from Sudden Infant Death or Sudden Unexpected Death.",
-      "publicationTitle": "eBioMedicine",
-      "volume": "80",
-      "issue": "",
-      "pages": "104041",
-      "date": "06/2022",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "eBioMedicine",
-      "language": "en",
-      "DOI": "10.1016/j.ebiom.2022.104041",
-      "ISSN": "23523964",
-      "shortTitle": "",
-      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352396422002225",
-      "accessDate": "2022-05-16T20:04:26Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Citation Key: harringtonButyrylcholinesterasePotentialBiomarker2022",
-      "tags": [],
-      "collections": [
-        "B6B3RW8P"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-16T20:04:26Z",
       "dateModified": "2022-05-16T20:04:45Z"
     }
   },
