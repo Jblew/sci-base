@@ -1,5 +1,372 @@
 [
   {
+    "key": "2NXJD89R",
+    "version": 1443,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2NXJD89R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2NXJD89R",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/KN8755H2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 108186
+      }
+    },
+    "meta": {
+      "creatorSummary": "Crommelinck and Anseel",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "2NXJD89R",
+      "version": 1443,
+      "itemType": "journalArticle",
+      "title": "Understanding and encouraging feedback-seeking behaviour: a literature review: Feedback-seeking behaviour: a review",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Michiel",
+          "lastName": "Crommelinck"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frederik",
+          "lastName": "Anseel"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Medical Education",
+      "volume": "47",
+      "issue": "3",
+      "pages": "232-241",
+      "date": "03/2013",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1111/medu.12075",
+      "ISSN": "03080110",
+      "shortTitle": "Understanding and encouraging feedback-seeking behaviour",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/medu.12075",
+      "accessDate": "2022-05-20T12:19:08Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: crommelinckUnderstandingEncouragingFeedbackseeking2013",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-20T12:19:08Z",
+      "dateModified": "2022-05-20T12:19:12Z"
+    }
+  },
+  {
+    "key": "KN8755H2",
+    "version": 1441,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KN8755H2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KN8755H2",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2NXJD89R",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/KN8755H2/file/view",
+        "title": "Crommelinck and Anseel - 2013 - Understanding and encouraging feedback-seeking beh.pdf",
+        "length": 108186
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "KN8755H2",
+      "version": 1441,
+      "parentItem": "2NXJD89R",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Crommelinck and Anseel - 2013 - Understanding and encouraging feedback-seeking beh.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Crommelinck and Anseel - 2013 - Understanding and encouraging feedback-seeking beh.pdf",
+      "md5": "554cc0c116e14307402f95dc93db2d31",
+      "mtime": 1653049148000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-20T12:19:05Z",
+      "dateModified": "2022-05-20T12:19:08Z"
+    }
+  },
+  {
+    "key": "YHSE2M4Y",
+    "version": 1439,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YHSE2M4Y",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YHSE2M4Y",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Astr??m and Murray",
+      "parsedDate": "2010",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YHSE2M4Y",
+      "version": 1439,
+      "itemType": "book",
+      "title": "Feedback Systems: An Introduction for Scientists and Engineers",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Karl Johan",
+          "lastName": "Astr??m"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard M",
+          "lastName": "Murray"
+        }
+      ],
+      "abstractNote": "This book provides an introduction to the mathematics needed to model, analyze, and design feedback systems. It is an ideal textbook for undergraduate and graduate students, and is indispensable for researchers seeking a self-contained reference on control theory. Unlike most books on the subject, Feedback Systems develops transfer functions through the exponential response of a system, and is accessible across a range of disciplines that utilize feedback in physical, biological, information, and economic systems. Karl ??str??m and Richard Murray use techniques from physics, computer science, and operations research to introduce control-oriented modeling. They begin with state space tools for analysis and design, including stability of solutions, Lyapunov functions, reachability, state feedback observability, and estimators. The matrix exponential plays a central role in the analysis of linear control systems, allowing a concise development of many of the key concepts for this class of models. ??str??m and Murray then develop and explain tools in the frequency domain, including transfer functions, Nyquist analysis, PID control, frequency domain design, and robustness. They provide exercises at the end of every chapter, and an accompanying electronic solutions manual is available. Feedback Systems is a complete one-volume resource for students and researchers in mathematics, engineering, and the sciences. Covers the mathematics needed to model, analyze, and design feedback systems Serves as an introductory textbook for students and a self-contained resource for researchers Includes exercises at the end of every chapter Features an electronic solutions manual Offers techniques applicable across a range of disciplines.",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "2010",
+      "numPages": "",
+      "language": "In English",
+      "ISBN": "978-1-4008-2873-9",
+      "shortTitle": "Feedback Systems",
+      "url": "https://doi.org/10.1515/9781400828739",
+      "accessDate": "2022-05-20T12:14:14Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Open WorldCat",
+      "callNumber": "",
+      "rights": "",
+      "extra": "OCLC: 1130275375\nCitation Key: astrmFeedbackSystemsIntroduction2010",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-20T12:14:14Z",
+      "dateModified": "2022-05-20T12:14:34Z"
+    }
+  },
+  {
+    "key": "YNSY58IB",
+    "version": 1432,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YNSY58IB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YNSY58IB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/48WEBZ4V",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 284106
+      }
+    },
+    "meta": {
+      "creatorSummary": "Baumeister et al.",
+      "parsedDate": "2007",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "YNSY58IB",
+      "version": 1432,
+      "itemType": "journalArticle",
+      "title": "How Emotion Shapes Behavior: Feedback, Anticipation, and Reflection, Rather Than Direct Causation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roy F.",
+          "lastName": "Baumeister"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kathleen D.",
+          "lastName": "Vohs"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C.",
+          "lastName": "Nathan DeWall"
+        },
+        {
+          "creatorType": "author",
+          "name": "Liqing Zhang"
+        }
+      ],
+      "abstractNote": "Fear causes fleeing and thereby saves lives: this exemplifies a popular and common sense but increasingly untenable view that the direct causation of behavior is the primary function of emotion. Instead, the authors develop a theory of emotion as a feedback system whose influence on behavior is typically indirect. By providing feedback and stimulating retrospective appraisal of actions, conscious emotional states can promote learning and alter guidelines for future behavior. Behavior may also be chosen to pursue (or avoid) anticipated emotional outcomes. Rapid, automatic affective responses, in contrast to the full-blown conscious emotions, may inform cognition and behavioral choice and thereby help guide current behavior. The automatic affective responses may also remind the person of past emotional outcomes and provide useful guides as to what emotional outcomes may be anticipated in the present. To justify replacing the direct causation model with the feedback model, the authors review a large body of empirical findings.",
+      "publicationTitle": "Personality and Social Psychology Review",
+      "volume": "11",
+      "issue": "2",
+      "pages": "167-203",
+      "date": "05/2007",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Pers Soc Psychol Rev",
+      "language": "en",
+      "DOI": "10.1177/1088868307301033",
+      "ISSN": "1088-8683, 1532-7957",
+      "shortTitle": "How Emotion Shapes Behavior",
+      "url": "http://journals.sagepub.com/doi/10.1177/1088868307301033",
+      "accessDate": "2022-05-20T12:09:50Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: baumeisterHowEmotionShapes2007",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-20T12:09:50Z",
+      "dateModified": "2022-05-20T12:09:58Z"
+    }
+  },
+  {
+    "key": "48WEBZ4V",
+    "version": 1442,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/48WEBZ4V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/48WEBZ4V",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/YNSY58IB",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/48WEBZ4V/file/view",
+        "title": "Baumeister et al. - 2007 - How Emotion Shapes Behavior Feedback, Anticipatio.pdf",
+        "length": 284106
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "48WEBZ4V",
+      "version": 1442,
+      "parentItem": "YNSY58IB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Baumeister et al. - 2007 - How Emotion Shapes Behavior Feedback, Anticipatio.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Baumeister et al. - 2007 - How Emotion Shapes Behavior Feedback, Anticipatio.pdf",
+      "md5": "fe6e2161e7f2e3384b62ab45f3503493",
+      "mtime": 1653048590000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-20T12:09:46Z",
+      "dateModified": "2022-05-20T12:09:51Z"
+    }
+  },
+  {
     "key": "HFB7KAL6",
     "version": 1419,
     "library": {
