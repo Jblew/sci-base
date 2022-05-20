@@ -1,5 +1,225 @@
 [
   {
+    "key": "5ZSNR75D",
+    "version": 1446,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5ZSNR75D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5ZSNR75D",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "5ZSNR75D",
+      "version": 1446,
+      "itemType": "book",
+      "title": "Actionable gamification: beyond points, badges, and leaderboards",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Fremont, CA",
+      "publisher": "Octalysis Media",
+      "date": "2016",
+      "numPages": "499",
+      "language": "eng",
+      "ISBN": "978-1-5117-4404-1",
+      "shortTitle": "Actionable gamification",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: chouActionableGamificationPoints2016",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:59:02Z",
+      "dateModified": "2022-05-20T12:30:08Z"
+    }
+  },
+  {
+    "key": "UV768XGL",
+    "version": 1446,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UV768XGL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UV768XGL",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chou",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UV768XGL",
+      "version": 1446,
+      "itemType": "book",
+      "title": "Actionable gamification: beyond points, badges, and leaderboards",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yu-Kai",
+          "lastName": "Chou"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Fremont, CA",
+      "publisher": "Octalysis Media",
+      "date": "2016",
+      "numPages": "499",
+      "language": "eng",
+      "ISBN": "978-1-5117-4404-1",
+      "shortTitle": "Actionable gamification",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: chouActionableGamificationPoints2016b",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-05-18T14:59:04Z",
+      "dateModified": "2022-05-20T12:30:07Z"
+    }
+  },
+  {
+    "key": "JQ7ZV6I5",
+    "version": 1445,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JQ7ZV6I5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JQ7ZV6I5",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 17829778
+      }
+    },
+    "meta": {
+      "creatorSummary": "Zichermann and Cunningham",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JQ7ZV6I5",
+      "version": 1445,
+      "itemType": "book",
+      "title": "Gamification by design: implementing game mechanics in web and mobile apps",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gabe",
+          "lastName": "Zichermann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christopher",
+          "lastName": "Cunningham"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "First edition",
+      "place": "Beijing Cambridge Farnham Köln Sebastopol Tokyo",
+      "publisher": "O'Reilly",
+      "date": "2011",
+      "numPages": "182",
+      "language": "eng",
+      "ISBN": "978-93-5023-454-9 978-1-4493-1539-9 978-1-4493-9767-8",
+      "shortTitle": "Gamification by design",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: zichermannGamificationDesignImplementing2011",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2021-12-17T17:53:25Z",
+      "dateModified": "2022-05-20T12:29:58Z"
+    }
+  },
+  {
     "key": "2NXJD89R",
     "version": 1443,
     "library": {
@@ -1032,75 +1252,6 @@
     }
   },
   {
-    "key": "UV768XGL",
-    "version": 1396,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/UV768XGL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/UV768XGL",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Chou",
-      "parsedDate": "2016",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "UV768XGL",
-      "version": 1396,
-      "itemType": "book",
-      "title": "Actionable gamification: beyond points, badges, and leaderboards",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Yu-Kai",
-          "lastName": "Chou"
-        }
-      ],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "Fremont, CA",
-      "publisher": "Octalysis Media",
-      "date": "2016",
-      "numPages": "499",
-      "language": "eng",
-      "ISBN": "978-1-5117-4404-1",
-      "shortTitle": "Actionable gamification",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "K10plus ISBN",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2022-05-18T14:59:04Z",
-      "dateModified": "2022-05-18T14:59:04Z"
-    }
-  },
-  {
     "key": "HAF2LECH",
     "version": 1396,
     "library": {
@@ -1138,75 +1289,6 @@
       "itemType": "note",
       "note": "Hier auch später erschienene, unveränderte Nachdrucke",
       "tags": [],
-      "relations": {},
-      "dateAdded": "2022-05-18T14:59:02Z",
-      "dateModified": "2022-05-18T14:59:02Z"
-    }
-  },
-  {
-    "key": "5ZSNR75D",
-    "version": 1396,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/5ZSNR75D",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/5ZSNR75D",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Chou",
-      "parsedDate": "2016",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "5ZSNR75D",
-      "version": 1396,
-      "itemType": "book",
-      "title": "Actionable gamification: beyond points, badges, and leaderboards",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Yu-Kai",
-          "lastName": "Chou"
-        }
-      ],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "",
-      "place": "Fremont, CA",
-      "publisher": "Octalysis Media",
-      "date": "2016",
-      "numPages": "499",
-      "language": "eng",
-      "ISBN": "978-1-5117-4404-1",
-      "shortTitle": "Actionable gamification",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "K10plus ISBN",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
       "relations": {},
       "dateAdded": "2022-05-18T14:59:02Z",
       "dateModified": "2022-05-18T14:59:02Z"
@@ -29067,88 +29149,6 @@
       "relations": {},
       "dateAdded": "2021-12-19T20:57:29Z",
       "dateModified": "2021-12-19T20:57:31Z"
-    }
-  },
-  {
-    "key": "JQ7ZV6I5",
-    "version": 417,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/JQ7ZV6I5",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/JQ7ZV6I5",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/ZCX4MWUL",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 17829778
-      }
-    },
-    "meta": {
-      "creatorSummary": "Zichermann and Cunningham",
-      "parsedDate": "2011",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "JQ7ZV6I5",
-      "version": 417,
-      "itemType": "book",
-      "title": "Gamification by design: implementing game mechanics in web and mobile apps",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Gabe",
-          "lastName": "Zichermann"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Christopher",
-          "lastName": "Cunningham"
-        }
-      ],
-      "abstractNote": "",
-      "series": "",
-      "seriesNumber": "",
-      "volume": "",
-      "numberOfVolumes": "",
-      "edition": "First edition",
-      "place": "Beijing Cambridge Farnham Köln Sebastopol Tokyo",
-      "publisher": "O'Reilly",
-      "date": "2011",
-      "numPages": "182",
-      "language": "eng",
-      "ISBN": "978-93-5023-454-9 978-1-4493-1539-9 978-1-4493-9767-8",
-      "shortTitle": "Gamification by design",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "K10plus ISBN",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "S2BGKY6M"
-      ],
-      "relations": {},
-      "dateAdded": "2021-12-17T17:53:25Z",
-      "dateModified": "2021-12-17T17:53:25Z"
     }
   },
   {
