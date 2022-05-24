@@ -1,7 +1,7 @@
 [
   {
-    "key": "D29RE7NB",
-    "version": 1461,
+    "key": "CABNHXL9",
+    "version": 1463,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -15,47 +15,303 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/D29RE7NB",
+        "href": "https://api.zotero.org/users/8674355/items/CABNHXL9",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/D29RE7NB",
+        "href": "https://www.zotero.org/jblewandowski/items/CABNHXL9",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/SESNFT5V",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 175225
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bem",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CABNHXL9",
+      "version": 1463,
+      "itemType": "journalArticle",
+      "title": "Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect.",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Daryl J.",
+          "lastName": "Bem"
+        }
+      ],
+      "abstractNote": "The term psi denotes anomalous processes of information or energy transfer that are currently unexplained in terms of known physical or biological mechanisms. Two variants of psi are precognition (conscious cognitive awareness) and premonition (affective apprehension) of a future event that could not otherwise be anticipated through any known inferential process. Precognition and premonition are themselves special cases of a more general phenomenon: the anomalous retroactive influence of some future event on an individual’s current responses, whether those responses are conscious or nonconscious, cognitive or affective. This article reports 9 experiments, involving more than 1,000 participants, that test for retroactive influence by “time-reversing” well-established psychological effects so that the individual’s responses are obtained before the putatively causal stimulus events occur. Data are presented for 4 time-reversed effects: precognitive approach to erotic stimuli and precognitive avoidance of negative stimuli; retroactive priming; retroactive habituation; and retroactive facilitation of recall. The mean effect size (d) in psi performance across all 9 experiments was 0.22, and all but one of the experiments yielded statistically significant results. The individual-difference variable of stimulus seeking, a component of extraversion, was significantly correlated with psi performance in 5 of the experiments, with participants who scored above the midpoint on a scale of stimulus seeking achieving a mean effect size of 0.43. Skepticism about psi, issues of replication, and theories of psi are also discussed.",
+      "publicationTitle": "Journal of Personality and Social Psychology",
+      "volume": "100",
+      "issue": "3",
+      "pages": "407-425",
+      "date": "2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Personality and Social Psychology",
+      "language": "en",
+      "DOI": "10.1037/a0021524",
+      "ISSN": "1939-1315, 0022-3514",
+      "shortTitle": "Feeling the future",
+      "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/a0021524",
+      "accessDate": "2022-05-24T16:56:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: bemFeelingFutureExperimental2011",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-24T16:56:49Z",
+      "dateModified": "2022-05-24T16:57:02Z"
+    }
+  },
+  {
+    "key": "BAHLFX7S",
+    "version": 1463,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BAHLFX7S",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BAHLFX7S",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YANRPB9W",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 11355
+      }
+    },
+    "meta": {
+      "creatorSummary": "Judd and Gawronski",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "BAHLFX7S",
+      "version": 1463,
+      "itemType": "journalArticle",
+      "title": "Editorial comment.",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Charles M.",
+          "lastName": "Judd"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bertram",
+          "lastName": "Gawronski"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Journal of Personality and Social Psychology",
+      "volume": "100",
+      "issue": "3",
+      "pages": "406-406",
+      "date": "2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Personality and Social Psychology",
+      "language": "en",
+      "DOI": "10.1037/0022789",
+      "ISSN": "1939-1315, 0022-3514",
+      "shortTitle": "",
+      "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/0022789",
+      "accessDate": "2022-05-24T16:56:45Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: juddEditorialComment2011",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-24T16:56:45Z",
+      "dateModified": "2022-05-24T16:57:02Z"
+    }
+  },
+  {
+    "key": "DVQEXHYA",
+    "version": 1463,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DVQEXHYA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DVQEXHYA",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/D29RE7NB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 58657
+      }
+    },
+    "meta": {
+      "creatorSummary": "Wagenmakers et al.",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "DVQEXHYA",
+      "version": 1463,
+      "itemType": "journalArticle",
+      "title": "Why psychologists must change the way they analyze their data: The case of psi: Comment on Bem (2011).",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eric-Jan",
+          "lastName": "Wagenmakers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ruud",
+          "lastName": "Wetzels"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Denny",
+          "lastName": "Borsboom"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Han L. J.",
+          "lastName": "van der Maas"
+        }
+      ],
+      "abstractNote": "Does psi exist? D. J. Bem (2011) conducted 9 studies with over 1,000 participants in an attempt to demonstrate that future events retroactively affect people’s responses. Here we discuss several limitations of Bem’s experiments on psi; in particular, we show that the data analysis was partly exploratory and that one-sided p values may overstate the statistical evidence against the null hypothesis. We reanalyze Bem’s data with a default Bayesian t test and show that the evidence for psi is weak to nonexistent. We argue that in order to convince a skeptical audience of a controversial claim, one needs to conduct strictly confirmatory studies and analyze the results with statistical tests that are conservative rather than liberal. We conclude that Bem’s p values do not indicate evidence in favor of precognition; instead, they indicate that experimental psychologists need to change the way they conduct their experiments and analyze their data.",
+      "publicationTitle": "Journal of Personality and Social Psychology",
+      "volume": "100",
+      "issue": "3",
+      "pages": "426-432",
+      "date": "03/2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Personality and Social Psychology",
+      "language": "en",
+      "DOI": "10.1037/a0022790",
+      "ISSN": "1939-1315, 0022-3514",
+      "shortTitle": "Why psychologists must change the way they analyze their data",
+      "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/a0022790",
+      "accessDate": "2022-05-24T16:56:43Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: wagenmakersWhyPsychologistsMust2011",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-05-24T16:56:43Z",
+      "dateModified": "2022-05-24T16:57:02Z"
+    }
+  },
+  {
+    "key": "SESNFT5V",
+    "version": 1462,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SESNFT5V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SESNFT5V",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CABNHXL9",
+        "type": "application/json"
       },
       "enclosure": {
         "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/D29RE7NB/file/view",
-        "title": "wagenmakers2011.pdf",
-        "length": 58657
+        "href": "https://api.zotero.org/users/8674355/items/SESNFT5V/file/view",
+        "title": "Bem2011.pdf",
+        "length": 175225
       }
     },
     "meta": {
       "numChildren": 0
     },
     "data": {
-      "key": "D29RE7NB",
-      "version": 1461,
+      "key": "SESNFT5V",
+      "version": 1462,
+      "parentItem": "CABNHXL9",
       "itemType": "attachment",
       "linkMode": "imported_file",
-      "title": "wagenmakers2011.pdf",
+      "title": "Bem - 2011 - Feeling the future Experimental evidence for anom.pdf",
       "accessDate": "",
       "url": "",
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "wagenmakers2011.pdf",
-      "md5": "3264e351a1eea484936a66b6e6c514f4",
-      "mtime": 1653404565067,
+      "filename": "Bem - 2011 - Feeling the future Experimental evidence for anom.pdf",
+      "md5": "de8f606c8e613baa9d53587b1c0f42aa",
+      "mtime": 1653404461962,
       "tags": [],
-      "collections": [],
       "relations": {},
-      "dateAdded": "2022-05-24T15:02:45Z",
-      "dateModified": "2022-05-24T15:02:45Z"
+      "dateAdded": "2022-05-24T15:01:01Z",
+      "dateModified": "2022-05-24T16:56:50Z"
     }
   },
   {
     "key": "YANRPB9W",
-    "version": 1459,
+    "version": 1462,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -76,6 +332,10 @@
         "href": "https://www.zotero.org/jblewandowski/items/YANRPB9W",
         "type": "text/html"
       },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/BAHLFX7S",
+        "type": "application/json"
+      },
       "enclosure": {
         "type": "application/pdf",
         "href": "https://api.zotero.org/users/8674355/items/YANRPB9W/file/view",
@@ -88,25 +348,81 @@
     },
     "data": {
       "key": "YANRPB9W",
-      "version": 1459,
+      "version": 1462,
+      "parentItem": "BAHLFX7S",
       "itemType": "attachment",
       "linkMode": "imported_file",
-      "title": "judd2011.pdf",
+      "title": "Judd and Gawronski - 2011 - Editorial comment..pdf",
       "accessDate": "",
       "url": "",
       "note": "",
       "contentType": "application/pdf",
       "charset": "",
-      "filename": "judd2011.pdf",
+      "filename": "Judd and Gawronski - 2011 - Editorial comment..pdf",
       "md5": "af11489ecc61922dfb8e088979ec8123",
       "mtime": 1653404532589,
       "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
       "relations": {},
       "dateAdded": "2022-05-24T15:02:12Z",
-      "dateModified": "2022-05-24T15:02:12Z"
+      "dateModified": "2022-05-24T16:56:46Z"
+    }
+  },
+  {
+    "key": "D29RE7NB",
+    "version": 1462,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/D29RE7NB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/D29RE7NB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DVQEXHYA",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/D29RE7NB/file/view",
+        "title": "wagenmakers2011.pdf",
+        "length": 58657
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "D29RE7NB",
+      "version": 1462,
+      "parentItem": "DVQEXHYA",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Wagenmakers et al. - 2011 - Why psychologists must change the way they analyze.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Wagenmakers et al. - 2011 - Why psychologists must change the way they analyze.pdf",
+      "md5": "3264e351a1eea484936a66b6e6c514f4",
+      "mtime": 1653404565067,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-24T15:02:45Z",
+      "dateModified": "2022-05-24T16:56:44Z"
     }
   },
   {
@@ -163,62 +479,6 @@
       "relations": {},
       "dateAdded": "2022-05-24T15:01:38Z",
       "dateModified": "2022-05-24T15:01:38Z"
-    }
-  },
-  {
-    "key": "SESNFT5V",
-    "version": 1455,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/SESNFT5V",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/SESNFT5V",
-        "type": "text/html"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/SESNFT5V/file/view",
-        "title": "Bem2011.pdf",
-        "length": 175225
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "SESNFT5V",
-      "version": 1455,
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "bem2011.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "bem2011.pdf",
-      "md5": "de8f606c8e613baa9d53587b1c0f42aa",
-      "mtime": 1653404461962,
-      "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-05-24T15:01:01Z",
-      "dateModified": "2022-05-24T15:01:01Z"
     }
   },
   {
