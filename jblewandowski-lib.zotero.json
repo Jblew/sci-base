@@ -1,5 +1,102 @@
 [
   {
+    "key": "Y9EJFWEC",
+    "version": 1451,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y9EJFWEC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y9EJFWEC",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/58Z6EGMJ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "Y9EJFWEC",
+      "version": 1451,
+      "parentItem": "58Z6EGMJ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Light microscopic features are hetero- geneous and comprise no glomerular lesions, focal segmental glomerulosclerosis (FSGS), and prolifer- ative glomerulonephritis.1,3,4,6 T",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|002771|00579",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[317.825,203.494,472.113,212.984],[270.504,191.494,472.596,200.984],[270.544,179.494,472.138,188.984],[270.544,167.494,399.307,176.984]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-05-24T06:23:19Z",
+      "dateModified": "2022-05-24T06:23:19Z"
+    }
+  },
+  {
+    "key": "58Z6EGMJ",
+    "version": 1448,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/58Z6EGMJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/58Z6EGMJ",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "58Z6EGMJ",
+      "version": 1448,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "2237.full.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2237.full.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-05-24T06:21:54Z",
+      "dateModified": "2022-05-24T06:21:54Z"
+    }
+  },
+  {
     "key": "P32MQHNZ",
     "version": 1447,
     "library": {
