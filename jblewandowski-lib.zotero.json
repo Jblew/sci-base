@@ -1,5 +1,171 @@
 [
   {
+    "key": "T8YDYJKI",
+    "version": 1465,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/T8YDYJKI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/T8YDYJKI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/F35RIPRC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/T8YDYJKI/file/view",
+        "title": "Koolen et al. - 2014 - Line length as a robust method to detect high-acti.pdf",
+        "length": 1760450
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "T8YDYJKI",
+      "version": 1465,
+      "parentItem": "F35RIPRC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Koolen et al. - 2014 - Line length as a robust method to detect high-acti.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Koolen et al. - 2014 - Line length as a robust method to detect high-acti.pdf",
+      "md5": "5878e07f0206da4c5796b7efd485f502",
+      "mtime": 1654162368000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-02T09:32:44Z",
+      "dateModified": "2022-06-02T09:32:49Z"
+    }
+  },
+  {
+    "key": "F35RIPRC",
+    "version": 1464,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F35RIPRC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F35RIPRC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/T8YDYJKI",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1760450
+      }
+    },
+    "meta": {
+      "creatorSummary": "Koolen et al.",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "F35RIPRC",
+      "version": 1464,
+      "itemType": "journalArticle",
+      "title": "Line length as a robust method to detect high-activity events: Automated burst detection in premature EEG recordings",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ninah",
+          "lastName": "Koolen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katrien",
+          "lastName": "Jansen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jan",
+          "lastName": "Vervisch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vladimir",
+          "lastName": "Matic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maarten",
+          "lastName": "De Vos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gunnar",
+          "lastName": "Naulaers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sabine",
+          "lastName": "Van Huffel"
+        }
+      ],
+      "abstractNote": "Objective: EEG is a valuable tool for evaluation of brain maturation in preterm babies. Preterm EEG constitutes of high voltage burst activities and more suppressed episodes, called interburst intervals (IBIs). Evolution of background characteristics provides information on brain maturation and helps in prediction of neurological outcome. The aim is to develop a method for automated burst detection.\nMethods: Thirteen polysomnography recordings were used, collected at preterm postmenstrual age of 31.4 (26.1–34.4) weeks. We developed a burst detection algorithm based on the feature line length and compared it with manual scorings of clinical experts and other published methods.\nResults: The line length–based algorithm is robust (84.27% accuracy, 84.00% sensitivity, 85.70% speciﬁcity). It is not critically dependent on the number of measurement channels, because two channels still provide 82% accuracy. Furthermore, it approximates well clinically relevant features, such as median IBI duration 5.45 (4.00–7.11) s, maximum IBI duration 14.02 (8.73–18.80) s and burst percentage 48.89 (35.45–60.12)%, with a median deviation of respectively 0.65 s, 1.96 s and 6.55%.\nConclusion: Automated assessment of long-term preterm EEG is possible and its use will optimize EEG interpretation in the NICU. Signiﬁcance: This study takes a ﬁrst step towards fully automatic analysis of the preterm brain. Ó 2014 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.",
+      "publicationTitle": "Clinical Neurophysiology",
+      "volume": "125",
+      "issue": "10",
+      "pages": "1985-1994",
+      "date": "10/2014",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Clinical Neurophysiology",
+      "language": "en",
+      "DOI": "10.1016/j.clinph.2014.02.015",
+      "ISSN": "13882457",
+      "shortTitle": "Line length as a robust method to detect high-activity events",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1388245714001114",
+      "accessDate": "2022-06-02T09:32:48Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-02T09:32:48Z",
+      "dateModified": "2022-06-02T09:32:48Z"
+    }
+  },
+  {
     "key": "CABNHXL9",
     "version": 1463,
     "library": {
