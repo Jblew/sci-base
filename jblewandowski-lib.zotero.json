@@ -1,5 +1,52 @@
 [
   {
+    "key": "BTHFY24J",
+    "version": 1472,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BTHFY24J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BTHFY24J",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "BTHFY24J",
+      "version": 1472,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Alison O’Sheaa,c,*",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|000084|00152",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[79.104,677.032,159.5,689.581]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-03T13:00:46Z",
+      "dateModified": "2022-06-03T13:00:46Z"
+    }
+  },
+  {
     "key": "T8YDYJKI",
     "version": 1465,
     "library": {
@@ -13933,7 +13980,7 @@
       }
     },
     "meta": {
-      "numChildren": 4
+      "numChildren": 5
     },
     "data": {
       "key": "2INITSFP",
