@@ -1,5 +1,52 @@
 [
   {
+    "key": "I4LY44RT",
+    "version": 1475,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/I4LY44RT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/I4LY44RT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "I4LY44RT",
+      "version": 1475,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Two feature based machine learning algorithms will be used as baselines in this work; one baseline relies on complex and highlyengineered features, the other uses a large set of many simple features [13], [25]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "4",
+      "annotationSortIndex": "00003|001741|00509",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[449.5,321.659,523.284,332.684],[72.024,298.619,523.397,309.644],[72.024,275.549,393.58,286.574]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T08:54:15Z",
+      "dateModified": "2022-06-04T08:54:15Z"
+    }
+  },
+  {
     "key": "BTHFY24J",
     "version": 1472,
     "library": {
@@ -13980,7 +14027,7 @@
       }
     },
     "meta": {
-      "numChildren": 5
+      "numChildren": 6
     },
     "data": {
       "key": "2INITSFP",
