@@ -1,5 +1,52 @@
 [
   {
+    "key": "P3BFGSMV",
+    "version": 1500,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/P3BFGSMV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/P3BFGSMV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "P3BFGSMV",
+      "version": 1500,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The respiration artefact adaption algorithm is designed to adaptively compute the seizure probability with respect to the level of background artifact corruption. This makes the system more robust to long-term artifacts, which are typically found in the long unedited EEG recordings that are collected in the NICU.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "10",
+      "annotationSortIndex": "00009|001096|00348",
+      "annotationPosition": "{\"pageIndex\":9,\"rects\":[[72.024,482.599,523.102,493.624],[72.024,459.679,523.492,470.704],[72.024,436.619,421.563,447.644]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T14:04:28Z",
+      "dateModified": "2022-06-04T14:04:28Z"
+    }
+  },
+  {
     "key": "JRM2C6KF",
     "version": 1496,
     "library": {
@@ -14805,7 +14852,7 @@
       }
     },
     "meta": {
-      "numChildren": 17
+      "numChildren": 18
     },
     "data": {
       "key": "2INITSFP",
