@@ -1,5 +1,99 @@
 [
   {
+    "key": "SZV4CLIK",
+    "version": 1483,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SZV4CLIK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SZV4CLIK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "SZV4CLIK",
+      "version": 1483,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The target when designing a neonatal seizure detection algorithm is to perform well on EEG data of unseen newborn babies. This is different from seizure detection and prediction in adults where patient specific systems can be of interest [27].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|000486|00187",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[81.864,643.669,523.453,654.694],[72.024,620.629,523.343,631.654],[72.024,597.559,163.94,608.584]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:46:19Z",
+      "dateModified": "2022-06-04T13:46:19Z"
+    }
+  },
+  {
+    "key": "IMYE9IHG",
+    "version": 1482,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/IMYE9IHG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/IMYE9IHG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "IMYE9IHG",
+      "version": 1482,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "If EEG features are concatenated across channels this will lead to the classifier learning seizure-location dependencies, which are too baby specific and will not allow the algorithm to generalise to new data.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|000838|00256",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[390.832,574.639,523.081,585.664],[72.024,551.599,523.416,562.624],[72.024,528.559,307.897,539.584]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:46:12Z",
+      "dateModified": "2022-06-04T13:46:12Z"
+    }
+  },
+  {
     "key": "UG7YJ7TM",
     "version": 1480,
     "library": {
@@ -14168,7 +14262,7 @@
       }
     },
     "meta": {
-      "numChildren": 9
+      "numChildren": 11
     },
     "data": {
       "key": "2INITSFP",
