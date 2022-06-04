@@ -1,5 +1,99 @@
 [
   {
+    "key": "UG7YJ7TM",
+    "version": 1480,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UG7YJ7TM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UG7YJ7TM",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "UG7YJ7TM",
+      "version": 1480,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "also its spatial location specified as shown in Figure 1 (b). We will refer to these as strong labels",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|000132|00095",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[251.138,735.589,523.331,746.614],[72.024,712.669,188.153,723.694]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:24:10Z",
+      "dateModified": "2022-06-04T13:24:10Z"
+    }
+  },
+  {
+    "key": "ZXA5NQ4V",
+    "version": 1479,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/ZXA5NQ4V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/ZXA5NQ4V",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "ZXA5NQ4V",
+      "version": 1479,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "These overall annotations are sufficient for evaluation of the algorithmic performance but are not enough for the extraction of seizure signal signatures to train a classifier. In this work, we refer to these annotations as weak annotations.",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00005|001153|00669",
+      "annotationPosition": "{\"pageIndex\":5,\"rects\":[[469.54,161.429,523.419,172.454],[72.024,138.389,523.325,149.414],[72.024,115.449,505.056,126.474]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T12:24:08Z",
+      "dateModified": "2022-06-04T12:24:08Z"
+    }
+  },
+  {
     "key": "WHSRT5X6",
     "version": 1478,
     "library": {
@@ -14074,7 +14168,7 @@
       }
     },
     "meta": {
-      "numChildren": 7
+      "numChildren": 9
     },
     "data": {
       "key": "2INITSFP",
