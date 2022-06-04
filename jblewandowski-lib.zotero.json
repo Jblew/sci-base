@@ -1,5 +1,52 @@
 [
   {
+    "key": "WHSRT5X6",
+    "version": 1478,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WHSRT5X6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WHSRT5X6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "WHSRT5X6",
+      "version": 1478,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Propagating these overall annotations to each EEG channel will introduce a lot of noise, since seizures can be localised to a single channel and even migrate from one channel to another during the seizure event.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00005|000976|00646",
+      "annotationPosition": "{\"pageIndex\":5,\"rects\":[[81.864,184.469,523.453,195.494],[72.024,161.429,467.38,172.454]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T12:23:45Z",
+      "dateModified": "2022-06-04T12:23:45Z"
+    }
+  },
+  {
     "key": "I4LY44RT",
     "version": 1475,
     "library": {
@@ -14027,7 +14074,7 @@
       }
     },
     "meta": {
-      "numChildren": 6
+      "numChildren": 7
     },
     "data": {
       "key": "2INITSFP",
