@@ -1,5 +1,548 @@
 [
   {
+    "key": "JRM2C6KF",
+    "version": 1496,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JRM2C6KF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JRM2C6KF",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "JRM2C6KF",
+      "version": 1496,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "One key takeaway from this work is that when many relatively simple EEG signal features are combined with a powerful and robust classifier, such as the SVM, a reliable detector can be trained. This algorithm has been successfully validated in a clinical trial in eight NICUs across Europe [30]. This algorithm’s performance is used as a baseline on the Cork dataset in this work.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "9",
+      "annotationSortIndex": "00008|001138|00371",
+      "annotationPosition": "{\"pageIndex\":8,\"rects\":[[81.864,459.679,523.284,470.704],[72.024,436.619,523.347,447.644],[72.024,413.576,523.196,424.605],[72.024,390.659,255.26,401.684]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:54:55Z",
+      "dateModified": "2022-06-04T13:54:55Z"
+    }
+  },
+  {
+    "key": "3FPGHMBX",
+    "version": 1497,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3FPGHMBX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3FPGHMBX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/B85H4BHU",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3FPGHMBX/file/view",
+        "title": "Kuhlmann et al. - 2018 - Epilepsyecosystem.org crowd-sourcing reproducible.pdf",
+        "length": 1059121
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3FPGHMBX",
+      "version": 1497,
+      "parentItem": "B85H4BHU",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kuhlmann et al. - 2018 - Epilepsyecosystem.org crowd-sourcing reproducible.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kuhlmann et al. - 2018 - Epilepsyecosystem.org crowd-sourcing reproducible.pdf",
+      "md5": "a04f22a770a20585b25d5cec525483eb",
+      "mtime": 1654350658000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:50:54Z",
+      "dateModified": "2022-06-04T13:50:59Z"
+    }
+  },
+  {
+    "key": "B85H4BHU",
+    "version": 1494,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B85H4BHU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B85H4BHU",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3FPGHMBX",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1059121
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kuhlmann et al.",
+      "parsedDate": "2018-08-08",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "B85H4BHU",
+      "version": 1494,
+      "itemType": "journalArticle",
+      "title": "Epilepsyecosystem.org: crowd-sourcing reproducible seizure prediction with long-term human intracranial EEG",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Levin",
+          "lastName": "Kuhlmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philippa",
+          "lastName": "Karoly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dean R",
+          "lastName": "Freestone"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin H",
+          "lastName": "Brinkmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andriy",
+          "lastName": "Temko"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandre",
+          "lastName": "Barachant"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Feng",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gilberto",
+          "lastName": "Titericz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brian W",
+          "lastName": "Lang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Lavery"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kelly",
+          "lastName": "Roman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Derek",
+          "lastName": "Broadhead"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Scott",
+          "lastName": "Dobson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gareth",
+          "lastName": "Jones"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Qingnan",
+          "lastName": "Tang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Irina",
+          "lastName": "Ivanenko"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Oleg",
+          "lastName": "Panichev"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Timothée",
+          "lastName": "Proix"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michal",
+          "lastName": "Náhlík"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel B",
+          "lastName": "Grunberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chip",
+          "lastName": "Reuben"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gregory",
+          "lastName": "Worrell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brian",
+          "lastName": "Litt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David T J",
+          "lastName": "Liley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David B",
+          "lastName": "Grayden"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mark J",
+          "lastName": "Cook"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Brain",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "2018-08-08",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1093/brain/awy210",
+      "ISSN": "0006-8950, 1460-2156",
+      "shortTitle": "Epilepsyecosystem.org",
+      "url": "https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy210/5066003",
+      "accessDate": "2022-06-04T13:50:58Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:50:58Z",
+      "dateModified": "2022-06-04T13:50:58Z"
+    }
+  },
+  {
+    "key": "GBQUZY5X",
+    "version": 1490,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GBQUZY5X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GBQUZY5X",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "GBQUZY5X",
+      "version": 1490,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "with the github repository link for the implementation available in [27]",
+      "annotationComment": "",
+      "annotationColor": "#5fb236",
+      "annotationPageLabel": "9",
+      "annotationSortIndex": "00008|000434|00164",
+      "annotationPosition": "{\"pageIndex\":8,\"rects\":[[460.06,666.589,523.238,677.614],[72.024,643.669,298.467,654.694]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:49:41Z",
+      "dateModified": "2022-06-04T13:49:41Z"
+    }
+  },
+  {
+    "key": "FERSQFIC",
+    "version": 1489,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FERSQFIC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FERSQFIC",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "FERSQFIC",
+      "version": 1489,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "the raw EEG sampled at 256Hz is band-pass filtered between 0.5Hz and 12.8Hz, down-sampled to 32Hz and split into 8-second windows with a 4-second shift.",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "9",
+      "annotationSortIndex": "00008|000137|00095",
+      "annotationPosition": "{\"pageIndex\":8,\"rects\":[[308,735.589,523.334,746.614],[72.024,712.669,504.746,723.694]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:49:15Z",
+      "dateModified": "2022-06-04T13:49:28Z"
+    }
+  },
+  {
+    "key": "PFR76S33",
+    "version": 1488,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PFR76S33",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PFR76S33",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "PFR76S33",
+      "version": 1488,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "moving 8-second window of EEG",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "9",
+      "annotationSortIndex": "00008|000312|00141",
+      "annotationPosition": "{\"pageIndex\":8,\"rects\":[[300.777,689.629,442.632,700.654]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:49:22Z",
+      "dateModified": "2022-06-04T13:49:22Z"
+    }
+  },
+  {
+    "key": "M7XG6BF7",
+    "version": 1486,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M7XG6BF7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M7XG6BF7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "M7XG6BF7",
+      "version": 1486,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "the voltage must be larger than 2μV and the pattern must be longer than ten seconds in duration for an event to be classified as a seizure [29].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|002477|00674",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[479.109,156.029,522.883,167.054],[72.024,132.986,522.633,144.015],[72.024,109.929,140.137,120.954]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:47:49Z",
+      "dateModified": "2022-06-04T13:47:49Z"
+    }
+  },
+  {
+    "key": "9ZDJSHQJ",
+    "version": 1484,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9ZDJSHQJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9ZDJSHQJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "9ZDJSHQJ",
+      "version": 1484,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Background EEG of both healthy and sick newborns appears random in nature [28].",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|002300|00651",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[81.864,178.949,417.537,189.974]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-04T13:47:40Z",
+      "dateModified": "2022-06-04T13:47:40Z"
+    }
+  },
+  {
     "key": "SZV4CLIK",
     "version": 1483,
     "library": {
@@ -14262,7 +14805,7 @@
       }
     },
     "meta": {
-      "numChildren": 11
+      "numChildren": 17
     },
     "data": {
       "key": "2INITSFP",
