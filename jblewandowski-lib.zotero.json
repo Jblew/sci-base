@@ -1,5 +1,202 @@
 [
   {
+    "key": "LMZ7EJJ8",
+    "version": 1510,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LMZ7EJJ8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LMZ7EJJ8",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JSU5LGCV",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LMZ7EJJ8",
+      "version": 1510,
+      "parentItem": "JSU5LGCV",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Ultra-high frequencies ([5 MHz) are not used in electrosurgery because the leakage effect is too great to fall within the limits set by safety standards.12,13",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "591.e5",
+      "annotationSortIndex": "00004|000323|00495",
+      "annotationPosition": "{\"pageIndex\":4,\"rects\":[[182.479,278.512,280.238,287.727],[59.783,265.573,280.216,277.697],[59.544,254.644,280.269,263.859],[59.743,242.682,174.391,253.99]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-06T07:50:16Z",
+      "dateModified": "2022-06-06T07:50:16Z"
+    }
+  },
+  {
+    "key": "9K3Z2MUN",
+    "version": 1508,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9K3Z2MUN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9K3Z2MUN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JSU5LGCV",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "9K3Z2MUN",
+      "version": 1508,
+      "parentItem": "JSU5LGCV",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Therefore, high-frequency alternating currents are impossible to insulate completely",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "591.e4",
+      "annotationSortIndex": "00003|001838|00627",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[304.497,147.043,525.267,156.258],[304.796,135.081,448.816,144.296]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-06T07:46:39Z",
+      "dateModified": "2022-06-06T07:46:39Z"
+    }
+  },
+  {
+    "key": "2CIPI5I5",
+    "version": 1507,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2CIPI5I5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2CIPI5I5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JSU5LGCV",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "2CIPI5I5",
+      "version": 1507,
+      "parentItem": "JSU5LGCV",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The flow of an alternating current through a capacitor is known as a capacitive current",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "591.e4",
+      "annotationSortIndex": "00003|001629|00567",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[331.483,206.797,525.416,216.012],[304.846,194.835,494.438,204.05]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-06T07:46:21Z",
+      "dateModified": "2022-06-06T07:46:21Z"
+    }
+  },
+  {
+    "key": "JSU5LGCV",
+    "version": 1503,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JSU5LGCV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JSU5LGCV",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/JSU5LGCV/file/view",
+        "title": "taheri2014.pdf",
+        "length": 838391
+      }
+    },
+    "meta": {
+      "numChildren": 3
+    },
+    "data": {
+      "key": "JSU5LGCV",
+      "version": 1503,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "taheri2014.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "taheri2014.pdf",
+      "md5": "563b1fcb472ac053ee82112f7e0aee00",
+      "mtime": 1654500582801,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-06T07:29:42Z",
+      "dateModified": "2022-06-06T07:29:42Z"
+    }
+  },
+  {
     "key": "P3BFGSMV",
     "version": 1500,
     "library": {
@@ -1662,7 +1859,7 @@
   },
   {
     "key": "58Z6EGMJ",
-    "version": 1448,
+    "version": 1505,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -1682,6 +1879,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/58Z6EGMJ",
         "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/58Z6EGMJ/file/view",
+        "title": "2237.full.pdf",
+        "length": 610002
       }
     },
     "meta": {
@@ -1689,7 +1892,7 @@
     },
     "data": {
       "key": "58Z6EGMJ",
-      "version": 1448,
+      "version": 1505,
       "itemType": "attachment",
       "linkMode": "imported_file",
       "title": "2237.full.pdf",
@@ -1699,8 +1902,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "2237.full.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "666fe90afd42d97c06d5cc9daadd6fa3",
+      "mtime": 1653373314430,
       "tags": [],
       "collections": [
         "B6B3RW8P"
