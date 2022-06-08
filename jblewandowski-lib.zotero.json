@@ -1,5 +1,193 @@
 [
   {
+    "key": "NGJHIGG6",
+    "version": 1517,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NGJHIGG6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NGJHIGG6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "NGJHIGG6",
+      "version": 1517,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "32]",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00010|001273|00404",
+      "annotationPosition": "{\"rects\":[[181.058,427.379,193.23,438.405]],\"pageIndex\":10}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-08T06:02:36Z",
+      "dateModified": "2022-06-08T06:02:36Z"
+    }
+  },
+  {
+    "key": "KCZ2Z9SV",
+    "version": 1516,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KCZ2Z9SV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KCZ2Z9SV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KCZ2Z9SV",
+      "version": 1516,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "frequency scaling that would be similar in concept to Mel-scaling",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00010|001186|00380",
+      "annotationPosition": "{\"pageIndex\":10,\"rects\":[[220.338,450.439,484.156,461.465]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-08T06:01:22Z",
+      "dateModified": "2022-06-08T06:01:22Z"
+    }
+  },
+  {
+    "key": "4B3DN94X",
+    "version": 1515,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4B3DN94X",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4B3DN94X",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "4B3DN94X",
+      "version": 1515,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "learning the filter-bank weights of the spectral  \nenvelope.",
+      "annotationComment": "",
+      "annotationColor": "#5fb236",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00010|001116|00357",
+      "annotationPosition": "{\"rects\":[[333.365,473.479,525.826,484.505],[72.393,450.439,113.01,461.465]],\"pageIndex\":10}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-08T06:00:57Z",
+      "dateModified": "2022-06-08T06:00:57Z"
+    }
+  },
+  {
+    "key": "8KP2C3EB",
+    "version": 1513,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8KP2C3EB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8KP2C3EB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JSU5LGCV",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8KP2C3EB",
+      "version": 1513,
+      "parentItem": "JSU5LGCV",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "However, because the chemical reaction of each phase can be neutralized by the opposite phase, these chemical effects diminish as the fre- quency of alternations increase and almost disap- pear at high frequencies ([5 to 10 kHz).2,17,22-26",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "591.e6",
+      "annotationSortIndex": "00005|000310|00244",
+      "annotationPosition": "{\"pageIndex\":5,\"rects\":[[95.267,529.605,281.089,538.82],[59.754,517.643,280.173,526.858],[59.634,505.681,280.235,514.896],[59.764,493.719,280.251,502.934],[59.634,480.78,264.814,493.065]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-06T07:51:09Z",
+      "dateModified": "2022-06-06T07:51:09Z"
+    }
+  },
+  {
     "key": "LMZ7EJJ8",
     "version": 1510,
     "library": {
@@ -171,7 +359,7 @@
       }
     },
     "meta": {
-      "numChildren": 3
+      "numChildren": 4
     },
     "data": {
       "key": "JSU5LGCV",
@@ -15055,7 +15243,7 @@
       }
     },
     "meta": {
-      "numChildren": 18
+      "numChildren": 21
     },
     "data": {
       "key": "2INITSFP",
