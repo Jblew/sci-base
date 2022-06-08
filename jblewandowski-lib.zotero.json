@@ -1,5 +1,146 @@
 [
   {
+    "key": "LA7CUHKR",
+    "version": 1521,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LA7CUHKR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LA7CUHKR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LA7CUHKR",
+      "version": 1521,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "work uses filters that are only three samples wide  \nin all deep learning architectures; this corresponds to less than one tenth of a second in the first convolutional  \nlayer.",
+      "annotationComment": "",
+      "annotationColor": "#2ea8e5",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00010|001975|00564",
+      "annotationPosition": "{\"rects\":[[324.237,266.429,525.82,277.455],[72.313,243.389,525.637,254.415],[72.323,220.349,96.954,231.375]],\"pageIndex\":10}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-08T07:22:54Z",
+      "dateModified": "2022-06-08T07:22:57Z"
+    }
+  },
+  {
+    "key": "TNYQIZSD",
+    "version": 1519,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TNYQIZSD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TNYQIZSD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "TNYQIZSD",
+      "version": 1519,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Finally, sample size filters, which are an important feature of the architecture used in this work, were tested. In contrast to larger filter lengths, sample-sized filters allow for the learning of the EEG filters in a hierarchical manner [33]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00010|001765|00518",
+      "annotationPosition": "{\"pageIndex\":10,\"rects\":[[261.921,312.419,525.659,323.445],[72.383,289.379,525.882,300.405],[72.323,266.429,297.65,277.455]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-08T07:22:36Z",
+      "dateModified": "2022-06-08T07:22:36Z"
+    }
+  },
+  {
+    "key": "QQUQCKDN",
+    "version": 1518,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QQUQCKDN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QQUQCKDN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2INITSFP",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "QQUQCKDN",
+      "version": 1518,
+      "parentItem": "2INITSFP",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "1D convolutional filters a",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00010|001416|00426",
+      "annotationPosition": "{\"pageIndex\":10,\"rects\":[[398.87,404.459,498.171,415.485]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-08T07:14:57Z",
+      "dateModified": "2022-06-08T07:14:57Z"
+    }
+  },
+  {
     "key": "NGJHIGG6",
     "version": 1517,
     "library": {
@@ -15243,7 +15384,7 @@
       }
     },
     "meta": {
-      "numChildren": 21
+      "numChildren": 24
     },
     "data": {
       "key": "2INITSFP",
