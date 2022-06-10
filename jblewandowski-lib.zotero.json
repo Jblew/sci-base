@@ -1,5 +1,405 @@
 [
   {
+    "key": "YB6E2E2E",
+    "version": 1569,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YB6E2E2E",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YB6E2E2E",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RJFWPKGL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/YB6E2E2E/file/view",
+        "title": "Yang et al. - Deep Convolutional Neural Networks on Multichannel.pdf",
+        "length": 1008929
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "YB6E2E2E",
+      "version": 1569,
+      "parentItem": "RJFWPKGL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Yang et al. - Deep Convolutional Neural Networks on Multichannel.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Yang et al. - Deep Convolutional Neural Networks on Multichannel.pdf",
+      "md5": "a05a18b4a8a60e573151c7ec0f2d2d43",
+      "mtime": 1654866825000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:13:41Z",
+      "dateModified": "2022-06-10T13:13:45Z"
+    }
+  },
+  {
+    "key": "RJFWPKGL",
+    "version": 1568,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RJFWPKGL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RJFWPKGL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YB6E2E2E",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1008929
+      }
+    },
+    "meta": {
+      "creatorSummary": "Yang et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RJFWPKGL",
+      "version": 1568,
+      "itemType": "journalArticle",
+      "title": "Deep Convolutional Neural Networks on Multichannel Time Series for Human Activity Recognition",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jian Bo",
+          "lastName": "Yang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Minh Nhut",
+          "lastName": "Nguyen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Phyo Phyo",
+          "lastName": "San"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiao Li",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shonali",
+          "lastName": "Krishnaswamy"
+        }
+      ],
+      "abstractNote": "This paper focuses on human activity recognition (HAR) problem, in which inputs are multichannel time series signals acquired from a set of bodyworn inertial sensors and outputs are predeﬁned human activities. In this problem, extracting effective features for identifying activities is a critical but challenging task. Most existing work relies on heuristic hand-crafted feature design and shallow feature learning architectures, which cannot ﬁnd those distinguishing features to accurately classify different activities. In this paper, we propose a systematic feature learning method for HAR problem. This method adopts a deep convolutional neural networks (CNN) to automate feature learning from the raw inputs in a systematic way. Through the deep architecture, the learned features are deemed as the higher level abstract representation of low level raw time series signals. By leveraging the labelled information via supervised learning, the learned features are endowed with more discriminative power. Uniﬁed in one model, feature learning and classiﬁcation are mutually enhanced. All these unique advantages of the CNN make it outperform other HAR algorithms, as veriﬁed in the experiments on the Opportunity Activity Recognition Challenge and other benchmark datasets.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "7",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:13:45Z",
+      "dateModified": "2022-06-10T13:13:45Z"
+    }
+  },
+  {
+    "key": "AJBNRP6E",
+    "version": 1570,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AJBNRP6E",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AJBNRP6E",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RFTBMUEB",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/AJBNRP6E/file/view",
+        "title": "Malhotra et al. - 2015 - Long short term memory networks for anomaly detect.pdf",
+        "length": 1424464
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "AJBNRP6E",
+      "version": 1570,
+      "parentItem": "RFTBMUEB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Malhotra et al. - 2015 - Long Short Term Memory Networks for Anomaly Detect.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Malhotra et al. - 2015 - Long Short Term Memory Networks for Anomaly Detect.pdf",
+      "md5": "832d586925b871d6b302f5f24af2e145",
+      "mtime": 1654866823000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:13:38Z",
+      "dateModified": "2022-06-10T13:13:43Z"
+    }
+  },
+  {
+    "key": "RFTBMUEB",
+    "version": 1568,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RFTBMUEB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RFTBMUEB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/AJBNRP6E",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1424464
+      }
+    },
+    "meta": {
+      "creatorSummary": "Malhotra et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RFTBMUEB",
+      "version": 1568,
+      "itemType": "journalArticle",
+      "title": "Long Short Term Memory Networks for Anomaly Detection in Time Series",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Pankaj",
+          "lastName": "Malhotra"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lovekesh",
+          "lastName": "Vig"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gautam",
+          "lastName": "Shroﬀ"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Puneet",
+          "lastName": "Agarwal"
+        }
+      ],
+      "abstractNote": "Long Short Term Memory (LSTM) networks have been demonstrated to be particularly useful for learning sequences containing longer term patterns of unknown length, due to their ability to maintain long term memory. Stacking recurrent hidden layers in such networks also enables the learning of higher level temporal features, for faster learning with sparser representations. In this paper, we use stacked LSTM networks for anomaly/fault detection in time series. A network is trained on non-anomalous data and used as a predictor over a number of time steps. The resulting prediction errors are modeled as a multivariate Gaussian distribution, which is used to assess the likelihood of anomalous behavior. The eﬃcacy of this approach is demonstrated on four datasets: ECG, space shuttle, power demand, and multi-sensor engine dataset.",
+      "publicationTitle": "Computational Intelligence",
+      "volume": "",
+      "issue": "",
+      "pages": "6",
+      "date": "2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:13:43Z",
+      "dateModified": "2022-06-10T13:13:43Z"
+    }
+  },
+  {
+    "key": "6KKKDBU2",
+    "version": 1566,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6KKKDBU2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6KKKDBU2",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "6KKKDBU2",
+      "version": 1566,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "native support for input data comprised of sequences",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00022|001760|00593",
+      "annotationPosition": "{\"pageIndex\":22,\"rects\":[[447.507,237.504,538.806,248.12],[56.693,223.058,232.477,233.674]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:10:58Z",
+      "dateModified": "2022-06-10T13:10:58Z"
+    }
+  },
+  {
+    "key": "QJ7MATGB",
+    "version": 1566,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QJ7MATGB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QJ7MATGB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "QJ7MATGB",
+      "version": 1566,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "add the explicit handling of order between observations when learning a mapping function from inputs to outputs, not offered by MLPs or CNNs.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00022|001607|00564",
+      "annotationPosition": "{\"pageIndex\":22,\"rects\":[[460.69,266.395,538.902,277.011],[56.693,251.949,540.209,262.565],[56.693,237.504,212.679,248.12]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:10:54Z",
+      "dateModified": "2022-06-10T13:10:54Z"
+    }
+  },
+  {
     "key": "EFLPAWNZ",
     "version": 1565,
     "library": {
@@ -299,7 +699,7 @@
       }
     },
     "meta": {
-      "numChildren": 11
+      "numChildren": 13
     },
     "data": {
       "key": "9SW94XLH",
