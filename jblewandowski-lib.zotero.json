@@ -1,5 +1,657 @@
 [
   {
+    "key": "EFLPAWNZ",
+    "version": 1565,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EFLPAWNZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EFLPAWNZ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "EFLPAWNZ",
+      "version": 1565,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "extraction and classification are unified in one model so their performances are mutually enhanced",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00022|000839|00315",
+      "annotationPosition": "{\"pageIndex\":22,\"rects\":[[85.958,515.926,509.322,526.542],[85.958,501.48,182.86,512.096]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:59:38Z",
+      "dateModified": "2022-06-10T12:59:38Z"
+    }
+  },
+  {
+    "key": "7Y3FGN86",
+    "version": 1565,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7Y3FGN86",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7Y3FGN86",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "7Y3FGN86",
+      "version": 1565,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "CNNs for activity recognition",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00022|000645|00272",
+      "annotationPosition": "{\"pageIndex\":22,\"rects\":[[208.885,559.264,362.124,569.88]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:59:18Z",
+      "dateModified": "2022-06-10T12:59:18Z"
+    }
+  },
+  {
+    "key": "8BE3MRX4",
+    "version": 1565,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8BE3MRX4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8BE3MRX4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8BE3MRX4",
+      "version": 1565,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "CNNs has been demonstrated to great effect on time series classification tasks such as automatically detecting human activities based on raw accelerator sensor data from fitness devices and smartphones.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00022|000455|00215",
+      "annotationPosition": "{\"pageIndex\":22,\"rects\":[[168.246,615.553,538.587,626.169],[56.693,601.107,538.588,611.723],[56.693,586.661,250.817,597.277]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:59:09Z",
+      "dateModified": "2022-06-10T12:59:09Z"
+    }
+  },
+  {
+    "key": "NRDQUPW3",
+    "version": 1564,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NRDQUPW3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NRDQUPW3",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "NRDQUPW3",
+      "version": 1564,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "deep architecture allows multiple layers of these processing units to be stacked, so that this deep learning model can characterize the salience of signals in different scales",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00022|000201|00117",
+      "annotationPosition": "{\"pageIndex\":22,\"rects\":[[203.959,713.685,509.317,724.301],[85.958,699.239,509.312,709.855],[85.958,684.793,212.387,695.409]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:57:28Z",
+      "dateModified": "2022-06-10T12:57:28Z"
+    }
+  },
+  {
+    "key": "RRIYLX8M",
+    "version": 1562,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RRIYLX8M",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RRIYLX8M",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 8537362
+      }
+    },
+    "meta": {
+      "creatorSummary": "Brownlee",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RRIYLX8M",
+      "version": 1562,
+      "itemType": "journalArticle",
+      "title": "Deep Learning for Time Series Forecasting",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jason",
+          "lastName": "Brownlee"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "572",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: brownleeDeepLearningTime",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:54:34Z",
+      "dateModified": "2022-06-10T12:54:53Z"
+    }
+  },
+  {
+    "key": "9SW94XLH",
+    "version": 1561,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/9SW94XLH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RRIYLX8M",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH/file/view",
+        "title": "deep_learning_time_series_forecasting.pdf",
+        "length": 8537362
+      }
+    },
+    "meta": {
+      "numChildren": 11
+    },
+    "data": {
+      "key": "9SW94XLH",
+      "version": 1561,
+      "parentItem": "RRIYLX8M",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Brownlee - Deep Learning for Time Series Forecasting.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Brownlee - Deep Learning for Time Series Forecasting.pdf",
+      "md5": "11d578010449744db1861df9f3bf54ae",
+      "mtime": 1654864975000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:42:55Z",
+      "dateModified": "2022-06-10T12:54:34Z"
+    }
+  },
+  {
+    "key": "2ERTERUT",
+    "version": 1560,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2ERTERUT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2ERTERUT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "2ERTERUT",
+      "version": 1560,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "sequence of observations can be treated like a one-dimensional image that a CNN model can read and distill into the most salient elements.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00021|002407|00734",
+      "annotationPosition": "{\"pageIndex\":21,\"rects\":[[300.65,97.166,538.578,107.782],[56.693,82.72,535.659,93.336]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:54:13Z",
+      "dateModified": "2022-06-10T12:54:13Z"
+    }
+  },
+  {
+    "key": "M2BSG2LA",
+    "version": 1559,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M2BSG2LA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M2BSG2LA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "M2BSG2LA",
+      "version": 1559,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "spatial or temporal subsampling.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00021|002204|00670",
+      "annotationPosition": "{\"pageIndex\":21,\"rects\":[[237.619,160.31,405.927,170.926]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:53:55Z",
+      "dateModified": "2022-06-10T12:53:55Z"
+    }
+  },
+  {
+    "key": "MQGTH8N5",
+    "version": 1559,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MQGTH8N5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MQGTH8N5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "MQGTH8N5",
+      "version": 1559,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "model then learns how to automatically extract the features from the raw data that are directly useful for the problem",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00021|001754|00559",
+      "annotationPosition": "{\"pageIndex\":21,\"rects\":[[424.449,271.334,539.004,281.95],[56.693,256.889,538.587,267.505]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:53:04Z",
+      "dateModified": "2022-06-10T12:53:04Z"
+    }
+  },
+  {
+    "key": "VJEBIFKP",
+    "version": 1558,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VJEBIFKP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VJEBIFKP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "VJEBIFKP",
+      "version": 1558,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "representation learning",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00021|001880|00588",
+      "annotationPosition": "{\"pageIndex\":21,\"rects\":[[214.469,242.443,329.491,253.059]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:52:54Z",
+      "dateModified": "2022-06-10T12:52:54Z"
+    }
+  },
+  {
+    "key": "D3L5NJIJ",
+    "version": 1557,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/D3L5NJIJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/D3L5NJIJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "D3L5NJIJ",
+      "version": 1557,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "this key limitation of having to specify the temporal dependence upfront in the design of the model",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00021|001069|00364",
+      "annotationPosition": "{\"pageIndex\":21,\"rects\":[[446.672,467.172,538.58,477.788],[56.693,452.726,447.692,463.342]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:51:04Z",
+      "dateModified": "2022-06-10T12:51:04Z"
+    }
+  },
+  {
+    "key": "PQVVHRXE",
+    "version": 1552,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PQVVHRXE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PQVVHRXE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "PQVVHRXE",
+      "version": 1552,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Traditionally, time series forecasting has been dominated by linear methods like ARIMA because they are well understood and effective on many problems",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00019|001442|00680",
+      "annotationPosition": "{\"pageIndex\":19,\"rects\":[[411.816,150.398,538.584,161.014],[56.693,135.952,538.578,146.568],[56.693,121.506,218.106,132.122]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:44:37Z",
+      "dateModified": "2022-06-10T12:44:37Z"
+    }
+  },
+  {
+    "key": "UJID7UGD",
+    "version": 1552,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UJID7UGD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UJID7UGD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "UJID7UGD",
+      "version": 1552,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "add the complexity of order or temporal dependence between observations.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00019|001161|00637",
+      "annotationPosition": "{\"pageIndex\":19,\"rects\":[[163.012,193.735,540.855,204.351]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T12:43:54Z",
+      "dateModified": "2022-06-10T12:43:54Z"
+    }
+  },
+  {
     "key": "LA7CUHKR",
     "version": 1521,
     "library": {
