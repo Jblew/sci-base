@@ -1,5 +1,569 @@
 [
   {
+    "key": "44YJGHHQ",
+    "version": 1589,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/44YJGHHQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/44YJGHHQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "44YJGHHQ",
+      "version": 1589,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "seasonal component",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "32",
+      "annotationSortIndex": "00048|000979|00394",
+      "annotationPosition": "{\"pageIndex\":48,\"rects\":[[320.376,436.715,424.428,447.331]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T14:00:11Z",
+      "dateModified": "2022-06-10T14:00:11Z"
+    }
+  },
+  {
+    "key": "KFRFXMK7",
+    "version": 1588,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KFRFXMK7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KFRFXMK7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KFRFXMK7",
+      "version": 1588,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "SARIMA.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "32",
+      "annotationSortIndex": "00048|001015|00409",
+      "annotationPosition": "{\"pageIndex\":48,\"rects\":[[56.693,422.269,108.58,432.885]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T14:00:05Z",
+      "dateModified": "2022-06-10T14:00:05Z"
+    }
+  },
+  {
+    "key": "N376JUWP",
+    "version": 1588,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/N376JUWP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/N376JUWP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "N376JUWP",
+      "version": 1588,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "seasonal",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "32",
+      "annotationSortIndex": "00048|000979|00394",
+      "annotationPosition": "{\"pageIndex\":48,\"rects\":[[320.376,436.715,362.964,447.331]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T14:00:03Z",
+      "dateModified": "2022-06-10T14:00:03Z"
+    }
+  },
+  {
+    "key": "VGWHIDLS",
+    "version": 1587,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VGWHIDLS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VGWHIDLS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "VGWHIDLS",
+      "version": 1587,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Autoregressive Integrated Moving Average, or ARIMA",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "32",
+      "annotationSortIndex": "00048|000710|00351",
+      "annotationPosition": "{\"pageIndex\":48,\"rects\":[[56.26,480.052,327.926,490.668]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:59:52Z",
+      "dateModified": "2022-06-10T13:59:52Z"
+    }
+  },
+  {
+    "key": "HQAA3NVX",
+    "version": 1580,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HQAA3NVX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HQAA3NVX",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "HQAA3NVX",
+      "version": 1580,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "regression problem is when the output variable is a real value",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "25",
+      "annotationSortIndex": "00041|000606|00248",
+      "annotationPosition": "{\"pageIndex\":41,\"rects\":[[170.962,581.143,493.403,593.098]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:56:38Z",
+      "dateModified": "2022-06-10T13:56:38Z"
+    }
+  },
+  {
+    "key": "URVT7C9I",
+    "version": 1576,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/URVT7C9I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/URVT7C9I",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "URVT7C9I",
+      "version": 1576,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The Box-Jenkins process and methods such as SARIMA.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "20",
+      "annotationSortIndex": "00036|000870|00359",
+      "annotationPosition": "{\"pageIndex\":36,\"rects\":[[182.521,471.626,475.048,482.242]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:54:36Z",
+      "dateModified": "2022-06-10T13:54:36Z"
+    }
+  },
+  {
+    "key": "DGRIX6EK",
+    "version": 1575,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DGRIX6EK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DGRIX6EK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "DGRIX6EK",
+      "version": 1575,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Test Harness",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "19",
+      "annotationSortIndex": "00035|001302|00639",
+      "annotationPosition": "{\"pageIndex\":35,\"rects\":[[232.423,187.421,342.083,202.708]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:53:55Z",
+      "dateModified": "2022-06-10T13:53:55Z"
+    }
+  },
+  {
+    "key": "2CZA8XUQ",
+    "version": 1575,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2CZA8XUQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2CZA8XUQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "2CZA8XUQ",
+      "version": 1575,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "test suites of models in parallel, rapidly getting an idea of what works and what doesn’t.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "18",
+      "annotationSortIndex": "00034|001012|00412",
+      "annotationPosition": "{\"pageIndex\":34,\"rects\":[[380.117,418.727,540.21,429.343],[56.693,404.281,349.463,414.897]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:53:43Z",
+      "dateModified": "2022-06-10T13:53:43Z"
+    }
+  },
+  {
+    "key": "YAJCY6BW",
+    "version": 1575,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YAJCY6BW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YAJCY6BW",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "YAJCY6BW",
+      "version": 1575,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Discontiguous. Observations are not uniform over time.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "14",
+      "annotationSortIndex": "00030|001673|00557",
+      "annotationPosition": "{\"pageIndex\":30,\"rects\":[[85.958,272.815,381.542,284.77]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:49:38Z",
+      "dateModified": "2022-06-10T13:49:38Z"
+    }
+  },
+  {
+    "key": "CZVR6IR5",
+    "version": 1575,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CZVR6IR5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CZVR6IR5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "CZVR6IR5",
+      "version": 1575,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": " Dynamic. A forecast model is fit on newly available data prior to each prediction.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "14",
+      "annotationSortIndex": "00030|000901|00310",
+      "annotationPosition": "{\"pageIndex\":30,\"rects\":[[74.253,519.357,512.687,531.312]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:49:27Z",
+      "dateModified": "2022-06-10T13:49:27Z"
+    }
+  },
+  {
+    "key": "7L9G32SZ",
+    "version": 1575,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7L9G32SZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7L9G32SZ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "7L9G32SZ",
+      "version": 1575,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "series with no pattern as unstructured, as in there is no discernible time-dependent structure.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "12",
+      "annotationSortIndex": "00028|001929|00679",
+      "annotationPosition": "{\"pageIndex\":28,\"rects\":[[66.362,151.36,540.849,161.976]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:48:18Z",
+      "dateModified": "2022-06-10T13:48:18Z"
+    }
+  },
+  {
+    "key": "DQH2E5YP",
+    "version": 1575,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DQH2E5YP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DQH2E5YP",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/9SW94XLH",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "DQH2E5YP",
+      "version": 1575,
+      "parentItem": "9SW94XLH",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "An input variable is an exogenous variable if it is independent of other variables in the system and the output variable depends upon it",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "11",
+      "annotationSortIndex": "00027|001939|00690",
+      "annotationPosition": "{\"pageIndex\":27,\"rects\":[[418.792,140.504,538.585,151.789],[56.693,126.058,538.582,136.674],[56.693,111.612,141.98,122.228]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:42:59Z",
+      "dateModified": "2022-06-10T13:42:59Z"
+    }
+  },
+  {
     "key": "YB6E2E2E",
     "version": 1569,
     "library": {
@@ -699,7 +1263,7 @@
       }
     },
     "meta": {
-      "numChildren": 13
+      "numChildren": 25
     },
     "data": {
       "key": "9SW94XLH",
