@@ -1,5 +1,900 @@
 [
   {
+    "key": "RFTBMUEB",
+    "version": 1619,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RFTBMUEB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RFTBMUEB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/AJBNRP6E",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1424464
+      }
+    },
+    "meta": {
+      "creatorSummary": "Malhotra et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RFTBMUEB",
+      "version": 1619,
+      "itemType": "journalArticle",
+      "title": "Long Short Term Memory Networks for Anomaly Detection in Time Series",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Pankaj",
+          "lastName": "Malhotra"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lovekesh",
+          "lastName": "Vig"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gautam",
+          "lastName": "Shroﬀ"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Puneet",
+          "lastName": "Agarwal"
+        }
+      ],
+      "abstractNote": "Long Short Term Memory (LSTM) networks have been demonstrated to be particularly useful for learning sequences containing longer term patterns of unknown length, due to their ability to maintain long term memory. Stacking recurrent hidden layers in such networks also enables the learning of higher level temporal features, for faster learning with sparser representations. In this paper, we use stacked LSTM networks for anomaly/fault detection in time series. A network is trained on non-anomalous data and used as a predictor over a number of time steps. The resulting prediction errors are modeled as a multivariate Gaussian distribution, which is used to assess the likelihood of anomalous behavior. The eﬃcacy of this approach is demonstrated on four datasets: ECG, space shuttle, power demand, and multi-sensor engine dataset.",
+      "publicationTitle": "Computational Intelligence",
+      "volume": "",
+      "issue": "",
+      "pages": "6",
+      "date": "2015",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: malhotraLongShortTerm2015",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:13:43Z",
+      "dateModified": "2022-06-18T10:35:05Z"
+    }
+  },
+  {
+    "key": "H4VFQL6P",
+    "version": 1619,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H4VFQL6P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H4VFQL6P",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2PFBD7G4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 4410234
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lee et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "H4VFQL6P",
+      "version": 1619,
+      "itemType": "conferencePaper",
+      "title": "CollaGAN: Collaborative GAN for Missing Image Data Imputation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dongwook",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Junyoung",
+          "lastName": "Kim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Won-Jin",
+          "lastName": "Moon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jong Chul",
+          "lastName": "Ye"
+        }
+      ],
+      "abstractNote": "",
+      "date": "6/2019",
+      "proceedingsTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "conferenceName": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "place": "Long Beach, CA, USA",
+      "publisher": "IEEE",
+      "volume": "",
+      "pages": "2482-2491",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1109/CVPR.2019.00259",
+      "ISBN": "978-1-72813-293-8",
+      "shortTitle": "CollaGAN",
+      "url": "https://ieeexplore.ieee.org/document/8953779/",
+      "accessDate": "2022-06-18T10:34:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: leeCollaGANCollaborativeGAN2019",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:49Z",
+      "dateModified": "2022-06-18T10:35:04Z"
+    }
+  },
+  {
+    "key": "QYVS94K8",
+    "version": 1619,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QYVS94K8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QYVS94K8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/V2NIQXRY",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1982211
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mariani et al.",
+      "parsedDate": "2018-06-05",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "QYVS94K8",
+      "version": 1619,
+      "itemType": "preprint",
+      "title": "BAGAN: Data Augmentation with Balancing GAN",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Giovanni",
+          "lastName": "Mariani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florian",
+          "lastName": "Scheidegger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roxana",
+          "lastName": "Istrate"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Costas",
+          "lastName": "Bekas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cristiano",
+          "lastName": "Malossi"
+        }
+      ],
+      "abstractNote": "Image classification datasets are often imbalanced, characteristic that negatively affects the accuracy of deep-learning classifiers. In this work we propose balancing GAN (BAGAN) as an augmentation tool to restore balance in imbalanced datasets. This is challenging because the few minority-class images may not be enough to train a GAN. We overcome this issue by including during the adversarial training all available images of majority and minority classes. The generative model learns useful features from majority classes and uses these to generate images for minority classes. We apply class conditioning in the latent space to drive the generation process towards a target class. The generator in the GAN is initialized with the encoder module of an autoencoder that enables us to learn an accurate class-conditioning in the latent space. We compare the proposed methodology with state-of-the-art GANs and demonstrate that BAGAN generates images of superior quality when trained with an imbalanced dataset.",
+      "genre": "",
+      "repository": "arXiv",
+      "archiveID": "arXiv:1803.09655",
+      "place": "",
+      "date": "2018-06-05",
+      "series": "",
+      "seriesNumber": "",
+      "DOI": "",
+      "citationKey": "",
+      "url": "http://arxiv.org/abs/1803.09655",
+      "accessDate": "2022-06-18T10:34:47Z",
+      "archive": "",
+      "archiveLocation": "",
+      "shortTitle": "BAGAN",
+      "language": "en",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Number: arXiv:1803.09655\narXiv:1803.09655 [cs, stat]\nCitation Key: marianiBAGANDataAugmentation2018",
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Statistics - Machine Learning",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:47Z",
+      "dateModified": "2022-06-18T10:35:04Z"
+    }
+  },
+  {
+    "key": "HQS2SQGT",
+    "version": 1619,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HQS2SQGT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HQS2SQGT",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XN44IW5V",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1518429
+      }
+    },
+    "meta": {
+      "creatorSummary": "Tanaka and Aranha",
+      "parsedDate": "2019-04-19",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "HQS2SQGT",
+      "version": 1619,
+      "itemType": "preprint",
+      "title": "Data Augmentation Using GANs",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Fabio Henrique Kiyoiti dos Santos",
+          "lastName": "Tanaka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claus",
+          "lastName": "Aranha"
+        }
+      ],
+      "abstractNote": "In this paper we propose the use of Generative Adversarial Networks (GAN) to generate artiﬁcial training data for machine learning tasks. The generation of artiﬁcial training data can be extremely useful in situations such as imbalanced data sets, performing a role similar to SMOTE or ADASYN. It is also useful when the data contains sensitive information, and it is desirable to avoid using the original data set as much as possible (example: medical data). We test our proposal on benchmark data sets using diﬀerent network architectures, and show that a Decision Tree (DT) classiﬁer trained using the training data generated by the GAN reached the same, (and surprisingly sometimes better), accuracy and recall than a DT trained on the original data set.",
+      "genre": "",
+      "repository": "arXiv",
+      "archiveID": "arXiv:1904.09135",
+      "place": "",
+      "date": "2019-04-19",
+      "series": "",
+      "seriesNumber": "",
+      "DOI": "",
+      "citationKey": "",
+      "url": "http://arxiv.org/abs/1904.09135",
+      "accessDate": "2022-06-18T10:34:44Z",
+      "archive": "",
+      "archiveLocation": "",
+      "shortTitle": "",
+      "language": "en",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Number: arXiv:1904.09135\narXiv:1904.09135 [cs, stat]\nCitation Key: tanakaDataAugmentationUsing2019",
+      "tags": [
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Statistics - Machine Learning",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:44Z",
+      "dateModified": "2022-06-18T10:35:04Z"
+    }
+  },
+  {
+    "key": "AP6P5KVC",
+    "version": 1619,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/AP6P5KVC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/AP6P5KVC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/DQ3RVV37",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 515091
+      }
+    },
+    "meta": {
+      "creatorSummary": "Daly et al.",
+      "parsedDate": "2021-11-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "AP6P5KVC",
+      "version": 1619,
+      "itemType": "conferencePaper",
+      "title": "Towards Deeper Neural Networks for Neonatal Seizure Detection",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Aengus",
+          "lastName": "Daly"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alison",
+          "lastName": "O'Shea"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gordon",
+          "lastName": "Lightbody"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andriy",
+          "lastName": "Temko"
+        }
+      ],
+      "abstractNote": "Machine learning and more recently deep learning have become valuable tools in clinical decision making for neonatal seizure detection. This work proposes a deep neural network architecture which is capable of extracting information from long segments of EEG. Residual connections as well as data augmentation and a more robust optimizer are efficiently exploited to train a deeper architecture with an increased receptive field and longer EEG input. The proposed system is tested on a large clinical dataset of 4,570 hours of duration and benchmarked on a publicly available Helsinki dataset of 112 hours duration. The performance has improved from an AUC of 95.41% to an AUC of 97.73% when compared to a deep learning baseline.",
+      "date": "2021-11-1",
+      "proceedingsTitle": "2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+      "conferenceName": "2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+      "place": "Mexico",
+      "publisher": "IEEE",
+      "volume": "",
+      "pages": "920-923",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1109/EMBC46164.2021.9629485",
+      "ISBN": "978-1-72811-179-7",
+      "shortTitle": "",
+      "url": "https://ieeexplore.ieee.org/document/9629485/",
+      "accessDate": "2022-06-18T10:30:57Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: dalyDeeperNeuralNetworks2021",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:30:57Z",
+      "dateModified": "2022-06-18T10:35:04Z"
+    }
+  },
+  {
+    "key": "RJFWPKGL",
+    "version": 1619,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RJFWPKGL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RJFWPKGL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/YB6E2E2E",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1008929
+      }
+    },
+    "meta": {
+      "creatorSummary": "Yang et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RJFWPKGL",
+      "version": 1619,
+      "itemType": "journalArticle",
+      "title": "Deep Convolutional Neural Networks on Multichannel Time Series for Human Activity Recognition",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jian Bo",
+          "lastName": "Yang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Minh Nhut",
+          "lastName": "Nguyen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Phyo Phyo",
+          "lastName": "San"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiao Li",
+          "lastName": "Li"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shonali",
+          "lastName": "Krishnaswamy"
+        }
+      ],
+      "abstractNote": "This paper focuses on human activity recognition (HAR) problem, in which inputs are multichannel time series signals acquired from a set of bodyworn inertial sensors and outputs are predeﬁned human activities. In this problem, extracting effective features for identifying activities is a critical but challenging task. Most existing work relies on heuristic hand-crafted feature design and shallow feature learning architectures, which cannot ﬁnd those distinguishing features to accurately classify different activities. In this paper, we propose a systematic feature learning method for HAR problem. This method adopts a deep convolutional neural networks (CNN) to automate feature learning from the raw inputs in a systematic way. Through the deep architecture, the learned features are deemed as the higher level abstract representation of low level raw time series signals. By leveraging the labelled information via supervised learning, the learned features are endowed with more discriminative power. Uniﬁed in one model, feature learning and classiﬁcation are mutually enhanced. All these unique advantages of the CNN make it outperform other HAR algorithms, as veriﬁed in the experiments on the Opportunity Activity Recognition Challenge and other benchmark datasets.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "7",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: yangDeepConvolutionalNeural",
+      "tags": [],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-10T13:13:45Z",
+      "dateModified": "2022-06-18T10:35:04Z"
+    }
+  },
+  {
+    "key": "2PFBD7G4",
+    "version": 1617,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2PFBD7G4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2PFBD7G4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/H4VFQL6P",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2PFBD7G4/file/view",
+        "title": "Lee_CollaGAN_Collaborative_GAN_for_Missing_Image_Data_Imputation_CVPR_2019_paper.pdf",
+        "length": 4410234
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2PFBD7G4",
+      "version": 1617,
+      "parentItem": "H4VFQL6P",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Lee et al. - 2019 - CollaGAN Collaborative GAN for Missing Image Data.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Lee et al. - 2019 - CollaGAN Collaborative GAN for Missing Image Data.pdf",
+      "md5": "d90aac1ec0f72c1bf8997e01d504d36b",
+      "mtime": 1655548480000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:40Z",
+      "dateModified": "2022-06-18T10:34:50Z"
+    }
+  },
+  {
+    "key": "V2NIQXRY",
+    "version": 1616,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/V2NIQXRY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/V2NIQXRY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/QYVS94K8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/V2NIQXRY/file/view",
+        "title": "1803.09655.pdf",
+        "length": 1982211
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "V2NIQXRY",
+      "version": 1616,
+      "parentItem": "QYVS94K8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mariani et al. - 2018 - BAGAN Data Augmentation with Balancing GAN.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mariani et al. - 2018 - BAGAN Data Augmentation with Balancing GAN.pdf",
+      "md5": "6f5458e48381c6a399ffa6f3ca2d651f",
+      "mtime": 1655548480000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:40Z",
+      "dateModified": "2022-06-18T10:34:47Z"
+    }
+  },
+  {
+    "key": "XN44IW5V",
+    "version": 1613,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XN44IW5V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XN44IW5V",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HQS2SQGT",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/XN44IW5V/file/view",
+        "title": "Tanaka and Aranha - 2019 - Data Augmentation Using GANs.pdf",
+        "length": 1518429
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "XN44IW5V",
+      "version": 1613,
+      "parentItem": "HQS2SQGT",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Tanaka and Aranha - 2019 - Data Augmentation Using GANs.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Tanaka and Aranha - 2019 - Data Augmentation Using GANs.pdf",
+      "md5": "a4c700389dd3eb3624c7ba6b999a29ed",
+      "mtime": 1655548484000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:38Z",
+      "dateModified": "2022-06-18T10:34:44Z"
+    }
+  },
+  {
+    "key": "Y3DZVU8T",
+    "version": 1611,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y3DZVU8T",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y3DZVU8T",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/HQS2SQGT",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Y3DZVU8T",
+      "version": 1611,
+      "parentItem": "HQS2SQGT",
+      "itemType": "note",
+      "note": "Comment: Submitted for ACML 2019",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:44Z",
+      "dateModified": "2022-06-18T10:34:44Z"
+    }
+  },
+  {
+    "key": "QJ6JVIFS",
+    "version": 1608,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QJ6JVIFS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QJ6JVIFS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/DQ3RVV37",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "QJ6JVIFS",
+      "version": 1608,
+      "parentItem": "DQ3RVV37",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "residual connections",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "921",
+      "annotationSortIndex": "00001|000729|00409",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[186.241,371.936,269.228,382.965]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:32:20Z",
+      "dateModified": "2022-06-18T10:32:20Z"
+    }
+  },
+  {
+    "key": "DQ3RVV37",
+    "version": 1609,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DQ3RVV37",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DQ3RVV37",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/AP6P5KVC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/DQ3RVV37/file/view",
+        "title": "Daly et al. - 2021 - Towards Deeper Neural Networks for Neonatal Seizur.pdf",
+        "length": 515091
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "DQ3RVV37",
+      "version": 1609,
+      "parentItem": "AP6P5KVC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Daly et al. - 2021 - Towards Deeper Neural Networks for Neonatal Seizur.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Daly et al. - 2021 - Towards Deeper Neural Networks for Neonatal Seizur.pdf",
+      "md5": "101415e4d9d5ec0a932c60c9832baaec",
+      "mtime": 1655548257000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:30:54Z",
+      "dateModified": "2022-06-18T10:30:57Z"
+    }
+  },
+  {
     "key": "44YJGHHQ",
     "version": 1589,
     "library": {
@@ -622,103 +1517,6 @@
     }
   },
   {
-    "key": "RJFWPKGL",
-    "version": 1568,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/RJFWPKGL",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/RJFWPKGL",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/YB6E2E2E",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1008929
-      }
-    },
-    "meta": {
-      "creatorSummary": "Yang et al.",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "RJFWPKGL",
-      "version": 1568,
-      "itemType": "journalArticle",
-      "title": "Deep Convolutional Neural Networks on Multichannel Time Series for Human Activity Recognition",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Jian Bo",
-          "lastName": "Yang"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Minh Nhut",
-          "lastName": "Nguyen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Phyo Phyo",
-          "lastName": "San"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Xiao Li",
-          "lastName": "Li"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Shonali",
-          "lastName": "Krishnaswamy"
-        }
-      ],
-      "abstractNote": "This paper focuses on human activity recognition (HAR) problem, in which inputs are multichannel time series signals acquired from a set of bodyworn inertial sensors and outputs are predeﬁned human activities. In this problem, extracting effective features for identifying activities is a critical but challenging task. Most existing work relies on heuristic hand-crafted feature design and shallow feature learning architectures, which cannot ﬁnd those distinguishing features to accurately classify different activities. In this paper, we propose a systematic feature learning method for HAR problem. This method adopts a deep convolutional neural networks (CNN) to automate feature learning from the raw inputs in a systematic way. Through the deep architecture, the learned features are deemed as the higher level abstract representation of low level raw time series signals. By leveraging the labelled information via supervised learning, the learned features are endowed with more discriminative power. Uniﬁed in one model, feature learning and classiﬁcation are mutually enhanced. All these unique advantages of the CNN make it outperform other HAR algorithms, as veriﬁed in the experiments on the Opportunity Activity Recognition Challenge and other benchmark datasets.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "7",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-10T13:13:45Z",
-      "dateModified": "2022-06-10T13:13:45Z"
-    }
-  },
-  {
     "key": "AJBNRP6E",
     "version": 1570,
     "library": {
@@ -773,99 +1571,6 @@
       "tags": [],
       "relations": {},
       "dateAdded": "2022-06-10T13:13:38Z",
-      "dateModified": "2022-06-10T13:13:43Z"
-    }
-  },
-  {
-    "key": "RFTBMUEB",
-    "version": 1568,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/RFTBMUEB",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/RFTBMUEB",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/AJBNRP6E",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1424464
-      }
-    },
-    "meta": {
-      "creatorSummary": "Malhotra et al.",
-      "parsedDate": "2015",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "RFTBMUEB",
-      "version": 1568,
-      "itemType": "journalArticle",
-      "title": "Long Short Term Memory Networks for Anomaly Detection in Time Series",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Pankaj",
-          "lastName": "Malhotra"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Lovekesh",
-          "lastName": "Vig"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Gautam",
-          "lastName": "Shroﬀ"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Puneet",
-          "lastName": "Agarwal"
-        }
-      ],
-      "abstractNote": "Long Short Term Memory (LSTM) networks have been demonstrated to be particularly useful for learning sequences containing longer term patterns of unknown length, due to their ability to maintain long term memory. Stacking recurrent hidden layers in such networks also enables the learning of higher level temporal features, for faster learning with sparser representations. In this paper, we use stacked LSTM networks for anomaly/fault detection in time series. A network is trained on non-anomalous data and used as a predictor over a number of time steps. The resulting prediction errors are modeled as a multivariate Gaussian distribution, which is used to assess the likelihood of anomalous behavior. The eﬃcacy of this approach is demonstrated on four datasets: ECG, space shuttle, power demand, and multi-sensor engine dataset.",
-      "publicationTitle": "Computational Intelligence",
-      "volume": "",
-      "issue": "",
-      "pages": "6",
-      "date": "2015",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "Zotero",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-10T13:13:43Z",
       "dateModified": "2022-06-10T13:13:43Z"
     }
   },
