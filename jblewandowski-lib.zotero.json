@@ -33232,7 +33232,9 @@
         "href": "https://api.zotero.org/users/8674355/items/NY277RYT/file/view"
       }
     },
-    "meta": {},
+    "meta": {
+      "numChildren": 0
+    },
     "data": {
       "key": "NY277RYT",
       "version": 427,
