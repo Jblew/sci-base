@@ -1,5 +1,48 @@
 [
   {
+    "key": "LG9S45FR",
+    "version": 1646,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LG9S45FR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LG9S45FR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/EYSLQGTZ",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "LG9S45FR",
+      "version": 1646,
+      "parentItem": "EYSLQGTZ",
+      "itemType": "note",
+      "note": "<div data-schema-version=\"8\"><p>M</p>\n<p></p>\n</div>",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-20T17:46:54Z",
+      "dateModified": "2022-06-20T17:46:58Z"
+    }
+  },
+  {
     "key": "RFTBMUEB",
     "version": 1619,
     "library": {
@@ -15358,7 +15401,7 @@
     },
     "meta": {
       "creatorSummary": "Murrie et al.",
-      "numChildren": 1
+      "numChildren": 2
     },
     "data": {
       "key": "EYSLQGTZ",
