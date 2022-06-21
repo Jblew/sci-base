@@ -1,5 +1,61 @@
 [
   {
+    "key": "JS4CE2ZZ",
+    "version": 1649,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JS4CE2ZZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JS4CE2ZZ",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/JS4CE2ZZ/file/view",
+        "title": "b6a2d25460d5ed4dbbf80b09b8e131a4.pdf",
+        "length": 1057269
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JS4CE2ZZ",
+      "version": 1649,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "b6a2d25460d5ed4dbbf80b09b8e131a4.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "b6a2d25460d5ed4dbbf80b09b8e131a4.pdf",
+      "md5": "cd2edf925798f4b30c2c6f6f6b182531",
+      "mtime": 1655802642266,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-21T09:10:42Z",
+      "dateModified": "2022-06-21T09:10:42Z"
+    }
+  },
+  {
     "key": "LG9S45FR",
     "version": 1646,
     "library": {
