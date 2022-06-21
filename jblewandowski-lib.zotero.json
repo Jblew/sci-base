@@ -1,5 +1,229 @@
 [
   {
+    "key": "W4C47TJM",
+    "version": 1658,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W4C47TJM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W4C47TJM",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/W4C47TJM/file/view",
+        "title": "erkan2010.pdf",
+        "length": 72706
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "W4C47TJM",
+      "version": 1658,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "erkan2010.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "erkan2010.pdf",
+      "md5": "d33b845935fabb831a38af5f7205fb7f",
+      "mtime": 1655803933265,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-21T09:32:13Z",
+      "dateModified": "2022-06-21T09:32:13Z"
+    }
+  },
+  {
+    "key": "4BDP5SFS",
+    "version": 1656,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4BDP5SFS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4BDP5SFS",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4BDP5SFS/file/view",
+        "title": "erkan2010.pdf",
+        "length": 72706
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4BDP5SFS",
+      "version": 1656,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "erkan2010.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "erkan2010.pdf",
+      "md5": "d33b845935fabb831a38af5f7205fb7f",
+      "mtime": 1655803923485,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-21T09:32:03Z",
+      "dateModified": "2022-06-21T09:32:03Z"
+    }
+  },
+  {
+    "key": "SDSP6K5M",
+    "version": 1654,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/SDSP6K5M",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/SDSP6K5M",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/SDSP6K5M/file/view",
+        "title": "erkan2010.pdf",
+        "length": 72706
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "SDSP6K5M",
+      "version": 1654,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "erkan2010.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "erkan2010.pdf",
+      "md5": "d33b845935fabb831a38af5f7205fb7f",
+      "mtime": 1655803911952,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-21T09:31:51Z",
+      "dateModified": "2022-06-21T09:31:51Z"
+    }
+  },
+  {
+    "key": "93T324NX",
+    "version": 1652,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/93T324NX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/93T324NX",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/93T324NX/file/view",
+        "title": "erkan2010.pdf",
+        "length": 72706
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "93T324NX",
+      "version": 1652,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "erkan2010.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "erkan2010.pdf",
+      "md5": "d33b845935fabb831a38af5f7205fb7f",
+      "mtime": 1655803908737,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-21T09:31:48Z",
+      "dateModified": "2022-06-21T09:31:48Z"
+    }
+  },
+  {
     "key": "JS4CE2ZZ",
     "version": 1649,
     "library": {
