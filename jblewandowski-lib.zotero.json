@@ -1,5 +1,52 @@
 [
   {
+    "key": "XLYWU6AL",
+    "version": 1678,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XLYWU6AL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XLYWU6AL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6XMRTSXN",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "XLYWU6AL",
+      "version": 1678,
+      "parentItem": "6XMRTSXN",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "of autoantibodies to native myelin oligodendrocyte glycoprotein (MOG) in juvenile patients with acute disseminated encephalo- myelitis (ADEM) and multiple sclerosis (MS).",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "247",
+      "annotationSortIndex": "00000|000760|00405",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[402.436,380.544,540.94,388.521],[183.097,369.602,540.775,377.579],[183.385,358.604,344.732,366.581]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-21T10:37:17Z",
+      "dateModified": "2022-06-21T10:37:17Z"
+    }
+  },
+  {
     "key": "6XMRTSXN",
     "version": 1676,
     "library": {
@@ -30,7 +77,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "6XMRTSXN",
