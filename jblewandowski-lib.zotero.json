@@ -1,5 +1,61 @@
 [
   {
+    "key": "6XMRTSXN",
+    "version": 1676,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6XMRTSXN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6XMRTSXN",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6XMRTSXN/file/view",
+        "title": "1-s2.0-S1521661610007734-main.pdf",
+        "length": 344649
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6XMRTSXN",
+      "version": 1676,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "1-s2.0-S1521661610007734-main.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "1-s2.0-S1521661610007734-main.pdf",
+      "md5": "4978721b674310c9d9380620c89343c8",
+      "mtime": 1655807714503,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-21T10:35:14Z",
+      "dateModified": "2022-06-21T10:35:14Z"
+    }
+  },
+  {
     "key": "W4C47TJM",
     "version": 1658,
     "library": {
