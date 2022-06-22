@@ -1,5 +1,442 @@
 [
   {
+    "key": "E9QV2K6N",
+    "version": 1690,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/E9QV2K6N",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/E9QV2K6N",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/X8DMUFPJ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/E9QV2K6N/file/view",
+        "title": "834.full.pdf",
+        "length": 1973008
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "E9QV2K6N",
+      "version": 1690,
+      "parentItem": "X8DMUFPJ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "834.full.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "834.full.pdf",
+      "md5": "76d65c22b714502f6b1b81d6ab42030c",
+      "mtime": 1655886739231,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-22T08:32:18Z",
+      "dateModified": "2022-06-22T08:32:18Z"
+    }
+  },
+  {
+    "key": "3RPR6PP9",
+    "version": 1688,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3RPR6PP9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3RPR6PP9",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CDI43SEJ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3RPR6PP9/file/view",
+        "title": "834.full.pdf",
+        "length": 1973008
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3RPR6PP9",
+      "version": 1688,
+      "parentItem": "CDI43SEJ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "834.full.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "834.full.pdf",
+      "md5": "76d65c22b714502f6b1b81d6ab42030c",
+      "mtime": 1655886699970,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-22T08:31:39Z",
+      "dateModified": "2022-06-22T08:31:39Z"
+    }
+  },
+  {
+    "key": "X8DMUFPJ",
+    "version": 1686,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/X8DMUFPJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/X8DMUFPJ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/E9QV2K6N",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1973008
+      }
+    },
+    "meta": {
+      "creatorSummary": "Hodges and Warlow",
+      "parsedDate": "1990-10-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "X8DMUFPJ",
+      "version": 1686,
+      "itemType": "journalArticle",
+      "title": "Syndromes of transient amnesia: towards a classification. A study of 153 cases.",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "J R",
+          "lastName": "Hodges"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "C P",
+          "lastName": "Warlow"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Journal of Neurology, Neurosurgery & Psychiatry",
+      "volume": "53",
+      "issue": "10",
+      "pages": "834-843",
+      "date": "1990-10-01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Neurology, Neurosurgery & Psychiatry",
+      "language": "en",
+      "DOI": "10.1136/jnnp.53.10.834",
+      "ISSN": "0022-3050",
+      "shortTitle": "Syndromes of transient amnesia",
+      "url": "https://jnnp.bmj.com/lookup/doi/10.1136/jnnp.53.10.834",
+      "accessDate": "2022-06-22T08:30:54Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-22T08:30:54Z",
+      "dateModified": "2022-06-22T08:30:54Z"
+    }
+  },
+  {
+    "key": "X22X3K8J",
+    "version": 1685,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/X22X3K8J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/X22X3K8J",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CDI43SEJ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/X22X3K8J/file/view",
+        "title": "document.pdf",
+        "length": 401957
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "X22X3K8J",
+      "version": 1685,
+      "parentItem": "CDI43SEJ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "document.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "document.pdf",
+      "md5": "08ee550db2ae8b738a5b612784154e6d",
+      "mtime": 1655886333744,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-22T08:25:33Z",
+      "dateModified": "2022-06-22T08:25:33Z"
+    }
+  },
+  {
+    "key": "CDI43SEJ",
+    "version": 1683,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CDI43SEJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CDI43SEJ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/X22X3K8J",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 401957
+      }
+    },
+    "meta": {
+      "creatorSummary": "Alessandro et al.",
+      "parsedDate": "2019",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "CDI43SEJ",
+      "version": 1683,
+      "itemType": "journalArticle",
+      "title": "Transient global amnesia: clinical features and prognostic factors suggesting recurrence",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lucas",
+          "lastName": "Alessandro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ismael L.",
+          "lastName": "Calandri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marcos Fernández",
+          "lastName": "Suarez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "María L.",
+          "lastName": "Heredia"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hernán",
+          "lastName": "Chaves"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ricardo F.",
+          "lastName": "Allegri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mauricio F.",
+          "lastName": "Farez"
+        }
+      ],
+      "abstractNote": "ABSTRACT The risk of recurrence of new amnesia events in patients having previously experienced transient global amnesia (TGA) ranges between 2.9-23.8%.  Objective: Our objective was to search for recurrence predictors in TGA patients.  Methods: Retrospective analysis to identify recurrence predictors in a cohort of 203 TGA patients from a single center in Buenos Aires, Argentina, diagnosed between January 2011 and March 2017 Clinical features and complementary studies (laboratory results, jugular vein Doppler ultrasound and brain MRI) were analyzed. Comparison between patients with recurrent versus single episode TGA was performed, applying a multivariate logistic regression model.  Results: Mean age at presentation was 65 years (20-84); 52% were female. Median time elapsed between symptom onset and ER visit was two hours, with the average episode duration lasting four hours. Mean follow-up was 22 months. Sixty-six percent of patients referred to an identifiable trigger. Jugular reflux was present in 66% of patients; and 22% showed images with hippocampus restriction on diffusion-weighted MRI. Eight percent of patients had TGA recurrence. Patients with recurrent TGA had a more frequent history of migraine than patients without recurrence (37.5% vs. 14%; p = 0.03). None of the other clinical characteristics and complementary studies were predictors of increased risk of recurrence.  Conclusions: Patients with migraine may have a higher risk of recurrent TGA. None of the other clinical characteristics evaluated allowed us to predict an increased risk of recurrence. Although the complementary studies allowed us to guide the diagnosis, they did not appear to have a significant impact on the prediction of recurrence risk. \n          ,  \n            RESUMEN El riesgo de recurrencia de nuevos eventos de amnesia en pacientes que han experimentado previamente Amnesia Global Transitoria (AGT) oscila entre el 2.9-23.8%.  Objetivo: Nuestro objetivo fue buscar predictores de recurrencia en pacientes con AGT.  Métodos: Análisis retrospectivo de una cohorte de 203 pacientes con AGT de un único centro en Buenos Aires, Argentina, diagnosticados entre enero-2011 y marzo-2017 Se analizaron las características clínicas y los estudios complementarios (laboratorio, Doppler de vena yugular y RM encéfalo). Se comparó el grupo de AGT recurrente versus episodio único, aplicando un modelo de regresión logística multivariada.  Resultados: la edad promedio de presentación fue de 65 años (20-84); 52% mujeres. La mediana del tiempo transcurrido entre el inicio de los síntomas y la visita a la sala de emergencia fue de 2 horas, con una duración promedio del episodio de 4 horas. El seguimiento medio fue de 22 meses. 66% de los pacientes tuvieron un desencadenante identificable. El reflujo yugular estuvo presente en el 66% de los pacientes y el 22% mostró imágenes restrictivas en DWI a nivel hipocampal. 8% de los pacientes presentaron recurrencia. Los pacientes con AGT recurrente tuvieron un historial de migraña más frecuente (37.5% vs. 14%; p=0.03). Ninguna de las otras características clínicas y estudios complementarios fueron predictores de mayor riesgo de recurrencia.  Conclusiones: los pacientes con migraña pueden tener un mayor riesgo de recurrencia de AGT. Ninguna de las otras características clínicas evaluadas nos permitió predecir un mayor riesgo de recurrencia. Aunque los estudios complementarios nos permitieron orientar el diagnóstico, no pareció tener un impacto significativo en la predicción del riesgo de recurrencia.",
+      "publicationTitle": "Arquivos de Neuro-Psiquiatria",
+      "volume": "77",
+      "issue": "1",
+      "pages": "3-9",
+      "date": "01/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Arq. Neuro-Psiquiatr.",
+      "language": "",
+      "DOI": "10.1590/0004-282x20180157",
+      "ISSN": "1678-4227, 0004-282X",
+      "shortTitle": "Transient global amnesia",
+      "url": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0004-282X2019000100003&tlng=en",
+      "accessDate": "2022-06-22T08:24:50Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-22T08:24:51Z",
+      "dateModified": "2022-06-22T08:24:51Z"
+    }
+  },
+  {
+    "key": "BHRYJW7C",
+    "version": 1682,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BHRYJW7C",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BHRYJW7C",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "McDade",
+      "parsedDate": "2022",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BHRYJW7C",
+      "version": 1682,
+      "itemType": "journalArticle",
+      "title": "Alzheimer Disease",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eric M.",
+          "lastName": "McDade"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "CONTINUUM: Lifelong Learning in Neurology",
+      "volume": "28",
+      "issue": "3",
+      "pages": "648-675",
+      "date": "6/2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1212/CON.0000000000001131",
+      "ISSN": "1538-6899, 1080-2371",
+      "shortTitle": "",
+      "url": "https://journals.lww.com/10.1212/CON.0000000000001131",
+      "accessDate": "2022-06-22T08:22:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-22T08:22:32Z",
+      "dateModified": "2022-06-22T08:22:32Z"
+    }
+  },
+  {
     "key": "XLYWU6AL",
     "version": 1678,
     "library": {
