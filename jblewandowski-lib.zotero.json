@@ -1,5 +1,146 @@
 [
   {
+    "key": "3NZDCEXU",
+    "version": 1693,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3NZDCEXU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3NZDCEXU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6IRYCPHP",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/3NZDCEXU/file/view",
+        "title": "fneur-05-00035.pdf",
+        "length": 769095
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3NZDCEXU",
+      "version": 1693,
+      "parentItem": "6IRYCPHP",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "fneur-05-00035.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "fneur-05-00035.pdf",
+      "md5": "f0c27ea25bc5a526f3d83d7f9420259a",
+      "mtime": 1655968676861,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-23T07:17:56Z",
+      "dateModified": "2022-06-23T07:17:56Z"
+    }
+  },
+  {
+    "key": "6IRYCPHP",
+    "version": 1691,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6IRYCPHP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6IRYCPHP",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/3NZDCEXU",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 769095
+      }
+    },
+    "meta": {
+      "creatorSummary": "Rimmele and Thomalla",
+      "parsedDate": "2014-03-26",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6IRYCPHP",
+      "version": 1691,
+      "itemType": "journalArticle",
+      "title": "Wake-Up Stroke: Clinical Characteristics, Imaging Findings, and Treatment Option â€“ an Update",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "D. Leander",
+          "lastName": "Rimmele"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "GÃ¶tz",
+          "lastName": "Thomalla"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "Frontiers in Neurology",
+      "volume": "5",
+      "issue": "",
+      "pages": "",
+      "date": "2014-03-26",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Front. Neurol.",
+      "language": "",
+      "DOI": "10.3389/fneur.2014.00035",
+      "ISSN": "1664-2295",
+      "shortTitle": "Wake-Up Stroke",
+      "url": "http://journal.frontiersin.org/article/10.3389/fneur.2014.00035/abstract",
+      "accessDate": "2022-06-23T07:17:30Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-23T07:17:30Z",
+      "dateModified": "2022-06-23T07:17:30Z"
+    }
+  },
+  {
     "key": "E9QV2K6N",
     "version": 1690,
     "library": {
