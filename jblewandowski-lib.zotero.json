@@ -1,5 +1,157 @@
 [
   {
+    "key": "RMPHEFZB",
+    "version": 1697,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RMPHEFZB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RMPHEFZB",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/R7UXM3TZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/RMPHEFZB/file/view",
+        "title": "Mayo Clinic Scientific Press - Mayo Clinic Neurology Board Review (2022).pdf",
+        "length": 74013165
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "RMPHEFZB",
+      "version": 1697,
+      "parentItem": "R7UXM3TZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mayo Clinic Scientific Press - Mayo Clinic Neurology Board Review (2022).pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mayo Clinic Scientific Press - Mayo Clinic Neurology Board Review (2022).pdf",
+      "md5": "baf5d7528daded6a476106875af81ad2",
+      "mtime": 1655976414029,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-23T09:26:52Z",
+      "dateModified": "2022-06-23T09:26:52Z"
+    }
+  },
+  {
+    "key": "R7UXM3TZ",
+    "version": 1695,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/R7UXM3TZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/R7UXM3TZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/RMPHEFZB",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 74013165
+      }
+    },
+    "meta": {
+      "creatorSummary": "Flemming and Mayo Clinic",
+      "parsedDate": "2021",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "R7UXM3TZ",
+      "version": 1695,
+      "itemType": "book",
+      "title": "Mayo Clinic neurology board review",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Kelly D.",
+          "lastName": "Flemming"
+        },
+        {
+          "creatorType": "editor",
+          "name": "Mayo Clinic"
+        }
+      ],
+      "abstractNote": "\"The cerebrospinal vasculature originates at the aortic arch. The right brachiocephalic artery divides into the right common carotid artery and the right subclavian artery. The left common carotid and left subclavian arteries arise directly from the aortic arch. The 2 common carotid arteries bifurcate into the internal and external carotid arteries. The anterior circulation of the brain includes the distal branches from the internal carotid artery, including the anterior cerebral artery and the middle cerebral artery. The vertebral arteries arise from the subclavians and join at the pontomedullary junction, forming the basilar artery. The vertebrobasilar system and distal branches are commonly known as the posterior circulation of the brain\"--",
+      "series": "Mayo Clinic scientific press",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "Second edition",
+      "place": "New York, NY",
+      "publisher": "Oxford University Press",
+      "date": "2021",
+      "numPages": "",
+      "language": "",
+      "ISBN": "9780197512166",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "RC343.5",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "Nervous System Diseases",
+          "type": 1
+        },
+        {
+          "tag": "Nervous System Physiological Phenomena",
+          "type": 1
+        },
+        {
+          "tag": "Study Guide",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-23T09:26:44Z",
+      "dateModified": "2022-06-23T09:26:44Z"
+    }
+  },
+  {
     "key": "3NZDCEXU",
     "version": 1693,
     "library": {
