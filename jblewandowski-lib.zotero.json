@@ -1,5 +1,572 @@
 [
   {
+    "key": "6HFBLMJP",
+    "version": 1792,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6HFBLMJP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6HFBLMJP",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/WEMPPHCR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 574211
+      }
+    },
+    "meta": {
+      "creatorSummary": "Guermandi et al.",
+      "parsedDate": "2015",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6HFBLMJP",
+      "version": 1792,
+      "itemType": "conferencePaper",
+      "title": "EEG acquisition system based on active electrodes with common-mode interference suppression by Driving Right Leg circuit",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Marco",
+          "lastName": "Guermandi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alessandro",
+          "lastName": "Bigucci"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eleonora Franchi",
+          "lastName": "Scarselli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roberto",
+          "lastName": "Guerrieri"
+        }
+      ],
+      "abstractNote": "We present a system for the acquisition of EEG signals based on active electrodes and implementing a Driving Right Leg circuit (DgRL). DgRL allows for single-ended ampliﬁcation and analog-to-digital conversion, still guaranteeing a common mode rejection in excess of 110 dB. This allows the system to acquire high-quality EEG signals essentially removing network interference for both wet and dry-contact electrodes. The front-end ampliﬁcation stage is integrated on the electrode, minimizing the system’s sensitivity to electrode contact quality, cable movement and common mode interference. The A/D conversion stage can be either integrated in the remote back-end or placed on the head as well, allowing for an all-digital communication to the back-end. Noise integrated in the band from 0.5 to 100 Hz is comprised between 0.62 and 1.3 µV, depending on the conﬁguration. Current consumption for the ampliﬁcation and A/D conversion of one channel is 390 µA. Thanks to its low noise, the high level of interference suppression and its quick setup capabilities, the system is particularly suitable for use outside clinical environments, such as in home care, braincomputer interfaces or consumer-oriented applications.",
+      "date": "8/2015",
+      "proceedingsTitle": "2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "conferenceName": "2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "place": "Milan",
+      "publisher": "IEEE",
+      "volume": "",
+      "pages": "3169-3172",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1109/EMBC.2015.7319065",
+      "ISBN": "978-1-4244-9271-8",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/7319065/",
+      "accessDate": "2022-06-25T12:36:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: guermandiEEGAcquisitionSystem2015",
+      "tags": [],
+      "collections": [
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:36:49Z",
+      "dateModified": "2022-06-25T12:54:28Z"
+    }
+  },
+  {
+    "key": "2FG9M35M",
+    "version": 1792,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2FG9M35M",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2FG9M35M",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/M8GBGVSQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2835822
+      }
+    },
+    "meta": {
+      "creatorSummary": "Texas Instruments",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "2FG9M35M",
+      "version": 1792,
+      "itemType": "document",
+      "title": "ADS129x Low-Power, 8-Channel, 24-Bit Analog Front-End for Biopotential Measurements",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Texas Instruments"
+        }
+      ],
+      "abstractNote": "",
+      "publisher": "Texas Instruments",
+      "date": "2010",
+      "language": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: texasinstrumentsADS129xLowPower8Channel2010",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9",
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:27:49Z",
+      "dateModified": "2022-06-25T12:54:28Z"
+    }
+  },
+  {
+    "key": "RZUZB3RU",
+    "version": 1792,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RZUZB3RU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RZUZB3RU",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/U5QZE264",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 25766000
+      }
+    },
+    "meta": {
+      "creatorSummary": "Texas Instruments",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RZUZB3RU",
+      "version": 1792,
+      "itemType": "document",
+      "title": "ADS1298 Performance Demonstration Kit User guide",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Texas Instruments"
+        }
+      ],
+      "abstractNote": "",
+      "publisher": "Texas Instruments",
+      "date": "05.2010",
+      "language": "",
+      "shortTitle": "",
+      "url": "https://www.ti.com/tool/ADS1298ECGFE-PDK#tech-docs",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: texasinstrumentsADS1298PerformanceDemonstration2010",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9",
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:14:24Z",
+      "dateModified": "2022-06-25T12:54:28Z"
+    }
+  },
+  {
+    "key": "DDL72544",
+    "version": 1792,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DDL72544",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DDL72544",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/SGM3QEG2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 357897
+      }
+    },
+    "meta": {
+      "creatorSummary": "Haberman and Spinelli",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "DDL72544",
+      "version": 1792,
+      "itemType": "conferencePaper",
+      "title": "A digital Driven Right Leg Circuit",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M",
+          "lastName": "Haberman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "E",
+          "lastName": "Spinelli"
+        }
+      ],
+      "abstractNote": "A novel scheme and a digital approach to the Driven Right Leg Circuit (DRL) are presented. It presents an ultra high common mode (CM) reduction of power line interference (higher than 80dB) without endangering stability. This improves by 40-50dB the CM reduction provided by a classical analog DRL, retaining the same stability criterion. The improvement comes from the inclusion of a high Q resonator in parallel with the common mode amplifier. It provides a large gain at power line frequency (50/60 Hz) whereas it does not significantly affect the open loop gain for high frequencies. The proposed scheme can be thought as an analog circuit, but the accuracy required, mainly in the resonator frequency response, leads to a digital implementation. In this way, component ageing and thermal fluctuation problems are avoided, as well as the need for manual adjusting. A prototype of the proposed DRL circuit was built and tested in laboratory conditions showing an open-loop gain of 74dB at 50Hz. It was also tested by acquiring real EEG signals.",
+      "date": "08/2010",
+      "proceedingsTitle": "2010 Annual International Conference of the IEEE Engineering in Medicine and Biology",
+      "conferenceName": "2010 32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2010)",
+      "place": "Buenos Aires",
+      "publisher": "IEEE",
+      "volume": "",
+      "pages": "6559-6562",
+      "series": "",
+      "language": "en",
+      "DOI": "10.1109/IEMBS.2010.5627108",
+      "ISBN": "978-1-4244-4123-5 978-1-4244-4124-2",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/5627108/",
+      "accessDate": "2022-06-25T12:38:49Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: habermanDigitalDrivenRight2010",
+      "tags": [],
+      "collections": [
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:38:49Z",
+      "dateModified": "2022-06-25T12:54:28Z"
+    }
+  },
+  {
+    "key": "4L36TCR4",
+    "version": 1792,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4L36TCR4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4L36TCR4",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/IF6M9J2F",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 610716
+      }
+    },
+    "meta": {
+      "creatorSummary": "Guermandi et al.",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "4L36TCR4",
+      "version": 1792,
+      "itemType": "journalArticle",
+      "title": "A Driving Right Leg Circuit (DgRL) for Improved Common Mode Rejection in Bio-Potential Acquisition Systems",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Marco",
+          "lastName": "Guermandi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eleonora Franchi",
+          "lastName": "Scarselli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roberto",
+          "lastName": "Guerrieri"
+        }
+      ],
+      "abstractNote": "The paper presents a novel Driving Right Leg (DgRL) circuit designed to mitigate the effect of common mode signals deriving, say, from power line interferences. The DgRL drives the isolated ground of the instrumentation towards a voltage which is ﬁxed with respect to the common mode potential on the subject, therefore minimizing common mode voltage at the input of the front-end. The paper provides an analytical derivation of the common mode rejection performances of DgRL as compared to the usual grounding circuit or Driven Right Leg (DRL) loop. DgRL is integrated in a bio-potential acquisition system to show how it can reduce the common mode signal of more than 70 dB with respect to standard patient grounding. This value is at least 30 dB higher than the reduction achievable with DRL, making DgRL suitable for single-ended front-ends, like those based on active electrodes. EEG signal acquisition is performed to show how the system can successfully cancel power line interference without any need for differential acquisition, signal post-processing or ﬁltering.",
+      "publicationTitle": "IEEE Transactions on Biomedical Circuits and Systems",
+      "volume": "10",
+      "issue": "2",
+      "pages": "507-517",
+      "date": "4/2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IEEE Trans. Biomed. Circuits Syst.",
+      "language": "en",
+      "DOI": "10.1109/TBCAS.2015.2446753",
+      "ISSN": "1932-4545, 1940-9990",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/7202914/",
+      "accessDate": "2022-06-25T12:38:45Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: guermandiDrivingRightLeg2016",
+      "tags": [],
+      "collections": [
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:38:45Z",
+      "dateModified": "2022-06-25T12:54:28Z"
+    }
+  },
+  {
+    "key": "XM34HGQT",
+    "version": 1792,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XM34HGQT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XM34HGQT",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5XCP36YC",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3259834
+      }
+    },
+    "meta": {
+      "creatorSummary": "Winter and Webster",
+      "parsedDate": "1983",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XM34HGQT",
+      "version": 1792,
+      "itemType": "journalArticle",
+      "title": "Driven-right-leg circuit design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bruce B.",
+          "lastName": "Winter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John G.",
+          "lastName": "Webster"
+        }
+      ],
+      "abstractNote": "The driven-right-eg circuit is often used with biopotential differential amplifiers to reduce common mode voltage. We analyze this circuit and show that high loop gains can cause instability. We present equations that can be used to design circuits that minimize common mode voltage without instability. We also show that it is important to consider the reduction of high-frequency interference from fluorescent lights when determining the bandwidth of the drivenright-leg circuit.",
+      "publicationTitle": "IEEE Transactions on Biomedical Engineering",
+      "volume": "BME-30",
+      "issue": "1",
+      "pages": "62-66",
+      "date": "01/1983",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IEEE Trans. Biomed. Eng.",
+      "language": "en",
+      "DOI": "10.1109/TBME.1983.325168",
+      "ISSN": "0018-9294, 1558-2531",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/4121504/",
+      "accessDate": "2022-06-25T12:34:05Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: winterDrivenrightlegCircuitDesign1983",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9",
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:34:05Z",
+      "dateModified": "2022-06-25T12:54:28Z"
+    }
+  },
+  {
+    "key": "NUPPV96V",
+    "version": 1792,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NUPPV96V",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NUPPV96V",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/DMETHH4A",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 919277
+      }
+    },
+    "meta": {
+      "creatorSummary": "Haberman and Spinelli",
+      "parsedDate": "2012",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "NUPPV96V",
+      "version": 1792,
+      "itemType": "journalArticle",
+      "title": "A Multichannel EEG Acquisition Scheme Based on Single Ended Amplifiers and Digital DRL",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M. A.",
+          "lastName": "Haberman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "E. M.",
+          "lastName": "Spinelli"
+        }
+      ],
+      "abstractNote": "Single ended (SE) ampliﬁers allow implementing biopotential front-ends with a reduced number of parts, being well suited for preampliﬁed electrodes or compact EEG headboxes. On the other hand, given that each channel has independent gain; mismatching between these gains results in poor common-mode rejection ratios (CMRRs) (about 30 dB considering 1% tolerance components). This work proposes a scheme for multichannel EEG acquisition systems based on SE ampliﬁers and a novel digital driven right leg (DDRL) circuit, which overcome the poor CMRR of the front-end stage providing a high common mode reduction at power line frequency (up to 80 dB). A functional prototype was built and tested showing the feasibility of the proposed technique. It provided EEG records with negligible power line interference, even in very aggressive EMI environments.",
+      "publicationTitle": "IEEE Transactions on Biomedical Circuits and Systems",
+      "volume": "6",
+      "issue": "6",
+      "pages": "614-618",
+      "date": "12/2012",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IEEE Trans. Biomed. Circuits Syst.",
+      "language": "en",
+      "DOI": "10.1109/TBCAS.2012.2190733",
+      "ISSN": "1932-4545, 1940-9990",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/6183494/",
+      "accessDate": "2022-06-25T12:38:56Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: habermanMultichannelEEGAcquisition2012",
+      "tags": [],
+      "collections": [
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:38:56Z",
+      "dateModified": "2022-06-25T12:54:27Z"
+    }
+  },
+  {
     "key": "IZY6U2V7",
     "version": 1776,
     "library": {
@@ -91,89 +658,6 @@
       "relations": {},
       "dateAdded": "2022-06-25T12:49:44Z",
       "dateModified": "2022-06-25T12:49:44Z"
-    }
-  },
-  {
-    "key": "NUPPV96V",
-    "version": 1740,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/NUPPV96V",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/NUPPV96V",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/DMETHH4A",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 919277
-      }
-    },
-    "meta": {
-      "creatorSummary": "Haberman and Spinelli",
-      "parsedDate": "2012",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "NUPPV96V",
-      "version": 1740,
-      "itemType": "journalArticle",
-      "title": "A Multichannel EEG Acquisition Scheme Based on Single Ended Amplifiers and Digital DRL",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "M. A.",
-          "lastName": "Haberman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "E. M.",
-          "lastName": "Spinelli"
-        }
-      ],
-      "abstractNote": "Single ended (SE) ampliﬁers allow implementing biopotential front-ends with a reduced number of parts, being well suited for preampliﬁed electrodes or compact EEG headboxes. On the other hand, given that each channel has independent gain; mismatching between these gains results in poor common-mode rejection ratios (CMRRs) (about 30 dB considering 1% tolerance components). This work proposes a scheme for multichannel EEG acquisition systems based on SE ampliﬁers and a novel digital driven right leg (DDRL) circuit, which overcome the poor CMRR of the front-end stage providing a high common mode reduction at power line frequency (up to 80 dB). A functional prototype was built and tested showing the feasibility of the proposed technique. It provided EEG records with negligible power line interference, even in very aggressive EMI environments.",
-      "publicationTitle": "IEEE Transactions on Biomedical Circuits and Systems",
-      "volume": "6",
-      "issue": "6",
-      "pages": "614-618",
-      "date": "12/2012",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "IEEE Trans. Biomed. Circuits Syst.",
-      "language": "en",
-      "DOI": "10.1109/TBCAS.2012.2190733",
-      "ISSN": "1932-4545, 1940-9990",
-      "shortTitle": "",
-      "url": "http://ieeexplore.ieee.org/document/6183494/",
-      "accessDate": "2022-06-25T12:38:56Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "3BGDSGWT"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-25T12:38:56Z",
-      "dateModified": "2022-06-25T12:38:56Z"
     }
   },
   {
@@ -293,88 +777,6 @@
     }
   },
   {
-    "key": "DDL72544",
-    "version": 1736,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/DDL72544",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/DDL72544",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/SGM3QEG2",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 357897
-      }
-    },
-    "meta": {
-      "creatorSummary": "Haberman and Spinelli",
-      "parsedDate": "2010",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "DDL72544",
-      "version": 1736,
-      "itemType": "conferencePaper",
-      "title": "A digital Driven Right Leg Circuit",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "M",
-          "lastName": "Haberman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "E",
-          "lastName": "Spinelli"
-        }
-      ],
-      "abstractNote": "A novel scheme and a digital approach to the Driven Right Leg Circuit (DRL) are presented. It presents an ultra high common mode (CM) reduction of power line interference (higher than 80dB) without endangering stability. This improves by 40-50dB the CM reduction provided by a classical analog DRL, retaining the same stability criterion. The improvement comes from the inclusion of a high Q resonator in parallel with the common mode amplifier. It provides a large gain at power line frequency (50/60 Hz) whereas it does not significantly affect the open loop gain for high frequencies. The proposed scheme can be thought as an analog circuit, but the accuracy required, mainly in the resonator frequency response, leads to a digital implementation. In this way, component ageing and thermal fluctuation problems are avoided, as well as the need for manual adjusting. A prototype of the proposed DRL circuit was built and tested in laboratory conditions showing an open-loop gain of 74dB at 50Hz. It was also tested by acquiring real EEG signals.",
-      "date": "08/2010",
-      "proceedingsTitle": "2010 Annual International Conference of the IEEE Engineering in Medicine and Biology",
-      "conferenceName": "2010 32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2010)",
-      "place": "Buenos Aires",
-      "publisher": "IEEE",
-      "volume": "",
-      "pages": "6559-6562",
-      "series": "",
-      "language": "en",
-      "DOI": "10.1109/IEMBS.2010.5627108",
-      "ISBN": "978-1-4244-4123-5 978-1-4244-4124-2",
-      "shortTitle": "",
-      "url": "http://ieeexplore.ieee.org/document/5627108/",
-      "accessDate": "2022-06-25T12:38:49Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "3BGDSGWT"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-25T12:38:49Z",
-      "dateModified": "2022-06-25T12:38:49Z"
-    }
-  },
-  {
     "key": "IF6M9J2F",
     "version": 1739,
     "library": {
@@ -430,94 +832,6 @@
       "relations": {},
       "dateAdded": "2022-06-25T12:38:43Z",
       "dateModified": "2022-06-25T12:38:46Z"
-    }
-  },
-  {
-    "key": "4L36TCR4",
-    "version": 1736,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/4L36TCR4",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/4L36TCR4",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/IF6M9J2F",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 610716
-      }
-    },
-    "meta": {
-      "creatorSummary": "Guermandi et al.",
-      "parsedDate": "2016",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "4L36TCR4",
-      "version": 1736,
-      "itemType": "journalArticle",
-      "title": "A Driving Right Leg Circuit (DgRL) for Improved Common Mode Rejection in Bio-Potential Acquisition Systems",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Marco",
-          "lastName": "Guermandi"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Eleonora Franchi",
-          "lastName": "Scarselli"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Roberto",
-          "lastName": "Guerrieri"
-        }
-      ],
-      "abstractNote": "The paper presents a novel Driving Right Leg (DgRL) circuit designed to mitigate the effect of common mode signals deriving, say, from power line interferences. The DgRL drives the isolated ground of the instrumentation towards a voltage which is ﬁxed with respect to the common mode potential on the subject, therefore minimizing common mode voltage at the input of the front-end. The paper provides an analytical derivation of the common mode rejection performances of DgRL as compared to the usual grounding circuit or Driven Right Leg (DRL) loop. DgRL is integrated in a bio-potential acquisition system to show how it can reduce the common mode signal of more than 70 dB with respect to standard patient grounding. This value is at least 30 dB higher than the reduction achievable with DRL, making DgRL suitable for single-ended front-ends, like those based on active electrodes. EEG signal acquisition is performed to show how the system can successfully cancel power line interference without any need for differential acquisition, signal post-processing or ﬁltering.",
-      "publicationTitle": "IEEE Transactions on Biomedical Circuits and Systems",
-      "volume": "10",
-      "issue": "2",
-      "pages": "507-517",
-      "date": "4/2016",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "IEEE Trans. Biomed. Circuits Syst.",
-      "language": "en",
-      "DOI": "10.1109/TBCAS.2015.2446753",
-      "ISSN": "1932-4545, 1940-9990",
-      "shortTitle": "",
-      "url": "http://ieeexplore.ieee.org/document/7202914/",
-      "accessDate": "2022-06-25T12:38:45Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "3BGDSGWT"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-25T12:38:45Z",
-      "dateModified": "2022-06-25T12:38:45Z"
     }
   },
   {
@@ -579,98 +893,6 @@
     }
   },
   {
-    "key": "6HFBLMJP",
-    "version": 1733,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/6HFBLMJP",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/6HFBLMJP",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/WEMPPHCR",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 574211
-      }
-    },
-    "meta": {
-      "creatorSummary": "Guermandi et al.",
-      "parsedDate": "2015",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "6HFBLMJP",
-      "version": 1733,
-      "itemType": "conferencePaper",
-      "title": "EEG acquisition system based on active electrodes with common-mode interference suppression by Driving Right Leg circuit",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Marco",
-          "lastName": "Guermandi"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Alessandro",
-          "lastName": "Bigucci"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Eleonora Franchi",
-          "lastName": "Scarselli"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Roberto",
-          "lastName": "Guerrieri"
-        }
-      ],
-      "abstractNote": "We present a system for the acquisition of EEG signals based on active electrodes and implementing a Driving Right Leg circuit (DgRL). DgRL allows for single-ended ampliﬁcation and analog-to-digital conversion, still guaranteeing a common mode rejection in excess of 110 dB. This allows the system to acquire high-quality EEG signals essentially removing network interference for both wet and dry-contact electrodes. The front-end ampliﬁcation stage is integrated on the electrode, minimizing the system’s sensitivity to electrode contact quality, cable movement and common mode interference. The A/D conversion stage can be either integrated in the remote back-end or placed on the head as well, allowing for an all-digital communication to the back-end. Noise integrated in the band from 0.5 to 100 Hz is comprised between 0.62 and 1.3 µV, depending on the conﬁguration. Current consumption for the ampliﬁcation and A/D conversion of one channel is 390 µA. Thanks to its low noise, the high level of interference suppression and its quick setup capabilities, the system is particularly suitable for use outside clinical environments, such as in home care, braincomputer interfaces or consumer-oriented applications.",
-      "date": "8/2015",
-      "proceedingsTitle": "2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
-      "conferenceName": "2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
-      "place": "Milan",
-      "publisher": "IEEE",
-      "volume": "",
-      "pages": "3169-3172",
-      "series": "",
-      "language": "en",
-      "DOI": "10.1109/EMBC.2015.7319065",
-      "ISBN": "978-1-4244-9271-8",
-      "shortTitle": "",
-      "url": "http://ieeexplore.ieee.org/document/7319065/",
-      "accessDate": "2022-06-25T12:36:49Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "3BGDSGWT"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-25T12:36:49Z",
-      "dateModified": "2022-06-25T12:36:49Z"
-    }
-  },
-  {
     "key": "KHEPWZB2",
     "version": 1732,
     "library": {
@@ -715,90 +937,6 @@
       "relations": {},
       "dateAdded": "2022-06-25T12:35:09Z",
       "dateModified": "2022-06-25T12:35:09Z"
-    }
-  },
-  {
-    "key": "XM34HGQT",
-    "version": 1729,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/XM34HGQT",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/XM34HGQT",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/5XCP36YC",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 3259834
-      }
-    },
-    "meta": {
-      "creatorSummary": "Winter and Webster",
-      "parsedDate": "1983",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "XM34HGQT",
-      "version": 1729,
-      "itemType": "journalArticle",
-      "title": "Driven-right-leg circuit design",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Bruce B.",
-          "lastName": "Winter"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "John G.",
-          "lastName": "Webster"
-        }
-      ],
-      "abstractNote": "The driven-right-eg circuit is often used with biopotential differential amplifiers to reduce common mode voltage. We analyze this circuit and show that high loop gains can cause instability. We present equations that can be used to design circuits that minimize common mode voltage without instability. We also show that it is important to consider the reduction of high-frequency interference from fluorescent lights when determining the bandwidth of the drivenright-leg circuit.",
-      "publicationTitle": "IEEE Transactions on Biomedical Engineering",
-      "volume": "BME-30",
-      "issue": "1",
-      "pages": "62-66",
-      "date": "01/1983",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "IEEE Trans. Biomed. Eng.",
-      "language": "en",
-      "DOI": "10.1109/TBME.1983.325168",
-      "ISSN": "0018-9294, 1558-2531",
-      "shortTitle": "",
-      "url": "http://ieeexplore.ieee.org/document/4121504/",
-      "accessDate": "2022-06-25T12:34:05Z",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "DOI.org (Crossref)",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "NF5IV7F9",
-        "3BGDSGWT"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-25T12:34:05Z",
-      "dateModified": "2022-06-25T12:34:05Z"
     }
   },
   {
@@ -857,144 +995,6 @@
       "relations": {},
       "dateAdded": "2022-06-25T12:34:02Z",
       "dateModified": "2022-06-25T12:34:05Z"
-    }
-  },
-  {
-    "key": "RZUZB3RU",
-    "version": 1729,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/RZUZB3RU",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/RZUZB3RU",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/U5QZE264",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 25766000
-      }
-    },
-    "meta": {
-      "creatorSummary": "Texas Instruments",
-      "parsedDate": "2010",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "RZUZB3RU",
-      "version": 1729,
-      "itemType": "document",
-      "title": "ADS1298 Performance Demonstration Kit User guide",
-      "creators": [
-        {
-          "creatorType": "author",
-          "name": "Texas Instruments"
-        }
-      ],
-      "abstractNote": "",
-      "publisher": "Texas Instruments",
-      "date": "05.2010",
-      "language": "",
-      "shortTitle": "",
-      "url": "https://www.ti.com/tool/ADS1298ECGFE-PDK#tech-docs",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "NF5IV7F9",
-        "3BGDSGWT"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-25T12:14:24Z",
-      "dateModified": "2022-06-25T12:28:47Z"
-    }
-  },
-  {
-    "key": "2FG9M35M",
-    "version": 1729,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/2FG9M35M",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/2FG9M35M",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/M8GBGVSQ",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 2835822
-      }
-    },
-    "meta": {
-      "creatorSummary": "Texas Instruments",
-      "parsedDate": "2010",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "2FG9M35M",
-      "version": 1729,
-      "itemType": "document",
-      "title": "ADS129x Low-Power, 8-Channel, 24-Bit Analog Front-End for Biopotential Measurements",
-      "creators": [
-        {
-          "creatorType": "author",
-          "name": "Texas Instruments"
-        }
-      ],
-      "abstractNote": "",
-      "publisher": "Texas Instruments",
-      "date": "2010",
-      "language": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [
-        "NF5IV7F9",
-        "3BGDSGWT"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-25T12:27:49Z",
-      "dateModified": "2022-06-25T12:28:33Z"
     }
   },
   {

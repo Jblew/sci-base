@@ -1,62 +1,5 @@
 
-@misc{noauthor_notitle_nodate,
-}
-
-@misc{noauthor_notitle_nodate-1,
-}
-
-@article{haberman_multichannel_2012,
-	title = {A {Multichannel} {EEG} {Acquisition} {Scheme} {Based} on {Single} {Ended} {Amplifiers} and {Digital} {DRL}},
-	volume = {6},
-	issn = {1932-4545, 1940-9990},
-	url = {http://ieeexplore.ieee.org/document/6183494/},
-	doi = {10.1109/TBCAS.2012.2190733},
-	abstract = {Single ended (SE) ampliﬁers allow implementing biopotential front-ends with a reduced number of parts, being well suited for preampliﬁed electrodes or compact EEG headboxes. On the other hand, given that each channel has independent gain; mismatching between these gains results in poor common-mode rejection ratios (CMRRs) (about 30 dB considering 1\% tolerance components). This work proposes a scheme for multichannel EEG acquisition systems based on SE ampliﬁers and a novel digital driven right leg (DDRL) circuit, which overcome the poor CMRR of the front-end stage providing a high common mode reduction at power line frequency (up to 80 dB). A functional prototype was built and tested showing the feasibility of the proposed technique. It provided EEG records with negligible power line interference, even in very aggressive EMI environments.},
-	language = {en},
-	number = {6},
-	urldate = {2022-06-25},
-	journal = {IEEE Transactions on Biomedical Circuits and Systems},
-	author = {Haberman, M. A. and Spinelli, E. M.},
-	month = dec,
-	year = {2012},
-	pages = {614--618},
-}
-
-@inproceedings{haberman_digital_2010,
-	address = {Buenos Aires},
-	title = {A digital {Driven} {Right} {Leg} {Circuit}},
-	isbn = {978-1-4244-4123-5 978-1-4244-4124-2},
-	url = {http://ieeexplore.ieee.org/document/5627108/},
-	doi = {10.1109/IEMBS.2010.5627108},
-	abstract = {A novel scheme and a digital approach to the Driven Right Leg Circuit (DRL) are presented. It presents an ultra high common mode (CM) reduction of power line interference (higher than 80dB) without endangering stability. This improves by 40-50dB the CM reduction provided by a classical analog DRL, retaining the same stability criterion. The improvement comes from the inclusion of a high Q resonator in parallel with the common mode amplifier. It provides a large gain at power line frequency (50/60 Hz) whereas it does not significantly affect the open loop gain for high frequencies. The proposed scheme can be thought as an analog circuit, but the accuracy required, mainly in the resonator frequency response, leads to a digital implementation. In this way, component ageing and thermal fluctuation problems are avoided, as well as the need for manual adjusting. A prototype of the proposed DRL circuit was built and tested in laboratory conditions showing an open-loop gain of 74dB at 50Hz. It was also tested by acquiring real EEG signals.},
-	language = {en},
-	urldate = {2022-06-25},
-	booktitle = {2010 {Annual} {International} {Conference} of the {IEEE} {Engineering} in {Medicine} and {Biology}},
-	publisher = {IEEE},
-	author = {Haberman, M and Spinelli, E},
-	month = aug,
-	year = {2010},
-	pages = {6559--6562},
-}
-
-@article{guermandi_driving_2016,
-	title = {A {Driving} {Right} {Leg} {Circuit} ({DgRL}) for {Improved} {Common} {Mode} {Rejection} in {Bio}-{Potential} {Acquisition} {Systems}},
-	volume = {10},
-	issn = {1932-4545, 1940-9990},
-	url = {http://ieeexplore.ieee.org/document/7202914/},
-	doi = {10.1109/TBCAS.2015.2446753},
-	abstract = {The paper presents a novel Driving Right Leg (DgRL) circuit designed to mitigate the effect of common mode signals deriving, say, from power line interferences. The DgRL drives the isolated ground of the instrumentation towards a voltage which is ﬁxed with respect to the common mode potential on the subject, therefore minimizing common mode voltage at the input of the front-end. The paper provides an analytical derivation of the common mode rejection performances of DgRL as compared to the usual grounding circuit or Driven Right Leg (DRL) loop. DgRL is integrated in a bio-potential acquisition system to show how it can reduce the common mode signal of more than 70 dB with respect to standard patient grounding. This value is at least 30 dB higher than the reduction achievable with DRL, making DgRL suitable for single-ended front-ends, like those based on active electrodes. EEG signal acquisition is performed to show how the system can successfully cancel power line interference without any need for differential acquisition, signal post-processing or ﬁltering.},
-	language = {en},
-	number = {2},
-	urldate = {2022-06-25},
-	journal = {IEEE Transactions on Biomedical Circuits and Systems},
-	author = {Guermandi, Marco and Scarselli, Eleonora Franchi and Guerrieri, Roberto},
-	month = apr,
-	year = {2016},
-	pages = {507--517},
-}
-
-@inproceedings{guermandi_eeg_2015,
+@inproceedings{guermandiEEGAcquisitionSystem2015,
 	address = {Milan},
 	title = {{EEG} acquisition system based on active electrodes with common-mode interference suppression by {Driving} {Right} {Leg} circuit},
 	isbn = {978-1-4244-9271-8},
@@ -73,10 +16,57 @@
 	pages = {3169--3172},
 }
 
-@misc{noauthor_notitle_nodate-2,
+@misc{texasinstrumentsADS129xLowPower8Channel2010,
+	title = {{ADS129x} {Low}-{Power}, 8-{Channel}, 24-{Bit} {Analog} {Front}-{End} for {Biopotential} {Measurements}},
+	publisher = {Texas Instruments},
+	author = {{Texas Instruments}},
+	year = {2010},
 }
 
-@article{winter_driven-right-leg_1983,
+@misc{texasinstrumentsADS1298PerformanceDemonstration2010,
+	title = {{ADS1298} {Performance} {Demonstration} {Kit} {User} guide},
+	url = {https://www.ti.com/tool/ADS1298ECGFE-PDK#tech-docs},
+	publisher = {Texas Instruments},
+	author = {{Texas Instruments}},
+	month = may,
+	year = {2010},
+}
+
+@inproceedings{habermanDigitalDrivenRight2010,
+	address = {Buenos Aires},
+	title = {A digital {Driven} {Right} {Leg} {Circuit}},
+	isbn = {978-1-4244-4123-5 978-1-4244-4124-2},
+	url = {http://ieeexplore.ieee.org/document/5627108/},
+	doi = {10.1109/IEMBS.2010.5627108},
+	abstract = {A novel scheme and a digital approach to the Driven Right Leg Circuit (DRL) are presented. It presents an ultra high common mode (CM) reduction of power line interference (higher than 80dB) without endangering stability. This improves by 40-50dB the CM reduction provided by a classical analog DRL, retaining the same stability criterion. The improvement comes from the inclusion of a high Q resonator in parallel with the common mode amplifier. It provides a large gain at power line frequency (50/60 Hz) whereas it does not significantly affect the open loop gain for high frequencies. The proposed scheme can be thought as an analog circuit, but the accuracy required, mainly in the resonator frequency response, leads to a digital implementation. In this way, component ageing and thermal fluctuation problems are avoided, as well as the need for manual adjusting. A prototype of the proposed DRL circuit was built and tested in laboratory conditions showing an open-loop gain of 74dB at 50Hz. It was also tested by acquiring real EEG signals.},
+	language = {en},
+	urldate = {2022-06-25},
+	booktitle = {2010 {Annual} {International} {Conference} of the {IEEE} {Engineering} in {Medicine} and {Biology}},
+	publisher = {IEEE},
+	author = {Haberman, M and Spinelli, E},
+	month = aug,
+	year = {2010},
+	pages = {6559--6562},
+}
+
+@article{guermandiDrivingRightLeg2016,
+	title = {A {Driving} {Right} {Leg} {Circuit} ({DgRL}) for {Improved} {Common} {Mode} {Rejection} in {Bio}-{Potential} {Acquisition} {Systems}},
+	volume = {10},
+	issn = {1932-4545, 1940-9990},
+	url = {http://ieeexplore.ieee.org/document/7202914/},
+	doi = {10.1109/TBCAS.2015.2446753},
+	abstract = {The paper presents a novel Driving Right Leg (DgRL) circuit designed to mitigate the effect of common mode signals deriving, say, from power line interferences. The DgRL drives the isolated ground of the instrumentation towards a voltage which is ﬁxed with respect to the common mode potential on the subject, therefore minimizing common mode voltage at the input of the front-end. The paper provides an analytical derivation of the common mode rejection performances of DgRL as compared to the usual grounding circuit or Driven Right Leg (DRL) loop. DgRL is integrated in a bio-potential acquisition system to show how it can reduce the common mode signal of more than 70 dB with respect to standard patient grounding. This value is at least 30 dB higher than the reduction achievable with DRL, making DgRL suitable for single-ended front-ends, like those based on active electrodes. EEG signal acquisition is performed to show how the system can successfully cancel power line interference without any need for differential acquisition, signal post-processing or ﬁltering.},
+	language = {en},
+	number = {2},
+	urldate = {2022-06-25},
+	journal = {IEEE Transactions on Biomedical Circuits and Systems},
+	author = {Guermandi, Marco and Scarselli, Eleonora Franchi and Guerrieri, Roberto},
+	month = apr,
+	year = {2016},
+	pages = {507--517},
+}
+
+@article{winterDrivenrightlegCircuitDesign1983,
 	title = {Driven-right-leg circuit design},
 	volume = {BME-30},
 	issn = {0018-9294, 1558-2531},
@@ -93,20 +83,30 @@
 	pages = {62--66},
 }
 
-@misc{texas_instruments_ads1298_2010,
-	title = {{ADS1298} {Performance} {Demonstration} {Kit} {User} guide},
-	url = {https://www.ti.com/tool/ADS1298ECGFE-PDK#tech-docs},
-	publisher = {Texas Instruments},
-	author = {{Texas Instruments}},
-	month = may,
-	year = {2010},
+@article{habermanMultichannelEEGAcquisition2012,
+	title = {A {Multichannel} {EEG} {Acquisition} {Scheme} {Based} on {Single} {Ended} {Amplifiers} and {Digital} {DRL}},
+	volume = {6},
+	issn = {1932-4545, 1940-9990},
+	url = {http://ieeexplore.ieee.org/document/6183494/},
+	doi = {10.1109/TBCAS.2012.2190733},
+	abstract = {Single ended (SE) ampliﬁers allow implementing biopotential front-ends with a reduced number of parts, being well suited for preampliﬁed electrodes or compact EEG headboxes. On the other hand, given that each channel has independent gain; mismatching between these gains results in poor common-mode rejection ratios (CMRRs) (about 30 dB considering 1\% tolerance components). This work proposes a scheme for multichannel EEG acquisition systems based on SE ampliﬁers and a novel digital driven right leg (DDRL) circuit, which overcome the poor CMRR of the front-end stage providing a high common mode reduction at power line frequency (up to 80 dB). A functional prototype was built and tested showing the feasibility of the proposed technique. It provided EEG records with negligible power line interference, even in very aggressive EMI environments.},
+	language = {en},
+	number = {6},
+	urldate = {2022-06-25},
+	journal = {IEEE Transactions on Biomedical Circuits and Systems},
+	author = {Haberman, M. A. and Spinelli, E. M.},
+	month = dec,
+	year = {2012},
+	pages = {614--618},
 }
 
-@misc{texas_instruments_ads129x_2010,
-	title = {{ADS129x} {Low}-{Power}, 8-{Channel}, 24-{Bit} {Analog} {Front}-{End} for {Biopotential} {Measurements}},
-	publisher = {Texas Instruments},
-	author = {{Texas Instruments}},
-	year = {2010},
+@misc{noauthor_notitle_nodate,
+}
+
+@misc{noauthor_notitle_nodate-1,
+}
+
+@misc{noauthor_notitle_nodate-2,
 }
 
 @book{flemming_mayo_2021,
