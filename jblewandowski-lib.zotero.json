@@ -1,5 +1,130 @@
 [
   {
+    "key": "RZUZB3RU",
+    "version": 1707,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RZUZB3RU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RZUZB3RU",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/U5QZE264",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 25766000
+      }
+    },
+    "meta": {
+      "creatorSummary": "Texas Instruments",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RZUZB3RU",
+      "version": 1707,
+      "itemType": "document",
+      "title": "ADS1298 Performance Demonstration Kit User guide",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Texas Instruments"
+        }
+      ],
+      "abstractNote": "",
+      "publisher": "Texas Instruments",
+      "date": "",
+      "language": "",
+      "shortTitle": "",
+      "url": "https://www.ti.com/tool/ADS1298ECGFE-PDK#tech-docs",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:14:24Z",
+      "dateModified": "2022-06-25T12:16:10Z"
+    }
+  },
+  {
+    "key": "U5QZE264",
+    "version": 1700,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/U5QZE264",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/U5QZE264",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RZUZB3RU",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/U5QZE264/file/view",
+        "title": "sbau171d.pdf",
+        "length": 25766000
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "U5QZE264",
+      "version": 1700,
+      "parentItem": "RZUZB3RU",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "sbau171d.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "sbau171d.pdf",
+      "md5": "9178b9b22900ebb71c11bdf660e5181f",
+      "mtime": 1656159255000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:14:15Z",
+      "dateModified": "2022-06-25T12:14:24Z"
+    }
+  },
+  {
     "key": "RMPHEFZB",
     "version": 1697,
     "library": {
