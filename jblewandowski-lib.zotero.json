@@ -1,7 +1,196 @@
 [
   {
+    "key": "KHEPWZB2",
+    "version": 1732,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/KHEPWZB2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/KHEPWZB2",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/M8GBGVSQ",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KHEPWZB2",
+      "version": 1732,
+      "parentItem": "M8GBGVSQ",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "right leg drive (RLD) Detection, Test Signals output signal",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|001744|00335",
+      "annotationPosition": "{\"rects\":[[465.82,447.4,556.72,456.78],[69.77,442.7,171.81,452.08],[318.33,436.4,375.1,445.78]],\"pageIndex\":0}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:35:09Z",
+      "dateModified": "2022-06-25T12:35:09Z"
+    }
+  },
+  {
+    "key": "XM34HGQT",
+    "version": 1729,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XM34HGQT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XM34HGQT",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5XCP36YC",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3259834
+      }
+    },
+    "meta": {
+      "creatorSummary": "Winter and Webster",
+      "parsedDate": "1983",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XM34HGQT",
+      "version": 1729,
+      "itemType": "journalArticle",
+      "title": "Driven-right-leg circuit design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bruce B.",
+          "lastName": "Winter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John G.",
+          "lastName": "Webster"
+        }
+      ],
+      "abstractNote": "The driven-right-eg circuit is often used with biopotential differential amplifiers to reduce common mode voltage. We analyze this circuit and show that high loop gains can cause instability. We present equations that can be used to design circuits that minimize common mode voltage without instability. We also show that it is important to consider the reduction of high-frequency interference from fluorescent lights when determining the bandwidth of the drivenright-leg circuit.",
+      "publicationTitle": "IEEE Transactions on Biomedical Engineering",
+      "volume": "BME-30",
+      "issue": "1",
+      "pages": "62-66",
+      "date": "01/1983",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IEEE Trans. Biomed. Eng.",
+      "language": "en",
+      "DOI": "10.1109/TBME.1983.325168",
+      "ISSN": "0018-9294, 1558-2531",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/4121504/",
+      "accessDate": "2022-06-25T12:34:05Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9",
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:34:05Z",
+      "dateModified": "2022-06-25T12:34:05Z"
+    }
+  },
+  {
+    "key": "5XCP36YC",
+    "version": 1726,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5XCP36YC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5XCP36YC",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XM34HGQT",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5XCP36YC/file/view",
+        "title": "Winter and Webster - 1983 - Driven-right-leg circuit design.pdf",
+        "length": 3259834
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5XCP36YC",
+      "version": 1726,
+      "parentItem": "XM34HGQT",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Winter and Webster - 1983 - Driven-right-leg circuit design.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Winter and Webster - 1983 - Driven-right-leg circuit design.pdf",
+      "md5": "2949cf7d08c478b2ea6d9920542554e3",
+      "mtime": 1656160445000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:34:02Z",
+      "dateModified": "2022-06-25T12:34:05Z"
+    }
+  },
+  {
     "key": "RZUZB3RU",
-    "version": 1707,
+    "version": 1729,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -31,11 +220,12 @@
     },
     "meta": {
       "creatorSummary": "Texas Instruments",
+      "parsedDate": "2010",
       "numChildren": 1
     },
     "data": {
       "key": "RZUZB3RU",
-      "version": 1707,
+      "version": 1729,
       "itemType": "document",
       "title": "ADS1298 Performance Demonstration Kit User guide",
       "creators": [
@@ -46,7 +236,7 @@
       ],
       "abstractNote": "",
       "publisher": "Texas Instruments",
-      "date": "",
+      "date": "05.2010",
       "language": "",
       "shortTitle": "",
       "url": "https://www.ti.com/tool/ADS1298ECGFE-PDK#tech-docs",
@@ -59,11 +249,139 @@
       "extra": "",
       "tags": [],
       "collections": [
-        "NF5IV7F9"
+        "NF5IV7F9",
+        "3BGDSGWT"
       ],
       "relations": {},
       "dateAdded": "2022-06-25T12:14:24Z",
-      "dateModified": "2022-06-25T12:16:10Z"
+      "dateModified": "2022-06-25T12:28:47Z"
+    }
+  },
+  {
+    "key": "2FG9M35M",
+    "version": 1729,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2FG9M35M",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2FG9M35M",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/M8GBGVSQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2835822
+      }
+    },
+    "meta": {
+      "creatorSummary": "Texas Instruments",
+      "parsedDate": "2010",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "2FG9M35M",
+      "version": 1729,
+      "itemType": "document",
+      "title": "ADS129x Low-Power, 8-Channel, 24-Bit Analog Front-End for Biopotential Measurements",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Texas Instruments"
+        }
+      ],
+      "abstractNote": "",
+      "publisher": "Texas Instruments",
+      "date": "2010",
+      "language": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9",
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:27:49Z",
+      "dateModified": "2022-06-25T12:28:33Z"
+    }
+  },
+  {
+    "key": "M8GBGVSQ",
+    "version": 1713,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/M8GBGVSQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/M8GBGVSQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2FG9M35M",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/M8GBGVSQ/file/view",
+        "title": "ads1298.pdf",
+        "length": 2835822
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "M8GBGVSQ",
+      "version": 1713,
+      "parentItem": "2FG9M35M",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "ads1298.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "ads1298.pdf",
+      "md5": "ad7ff130cc949277e6dd18fa18610b65",
+      "mtime": 1656160062000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-06-25T12:27:42Z",
+      "dateModified": "2022-06-25T12:27:49Z"
     }
   },
   {
