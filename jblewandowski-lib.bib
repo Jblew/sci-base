@@ -1,4 +1,81 @@
 
+@misc{noauthor_notitle_nodate,
+}
+
+@misc{noauthor_notitle_nodate-1,
+}
+
+@article{haberman_multichannel_2012,
+	title = {A {Multichannel} {EEG} {Acquisition} {Scheme} {Based} on {Single} {Ended} {Amplifiers} and {Digital} {DRL}},
+	volume = {6},
+	issn = {1932-4545, 1940-9990},
+	url = {http://ieeexplore.ieee.org/document/6183494/},
+	doi = {10.1109/TBCAS.2012.2190733},
+	abstract = {Single ended (SE) ampliﬁers allow implementing biopotential front-ends with a reduced number of parts, being well suited for preampliﬁed electrodes or compact EEG headboxes. On the other hand, given that each channel has independent gain; mismatching between these gains results in poor common-mode rejection ratios (CMRRs) (about 30 dB considering 1\% tolerance components). This work proposes a scheme for multichannel EEG acquisition systems based on SE ampliﬁers and a novel digital driven right leg (DDRL) circuit, which overcome the poor CMRR of the front-end stage providing a high common mode reduction at power line frequency (up to 80 dB). A functional prototype was built and tested showing the feasibility of the proposed technique. It provided EEG records with negligible power line interference, even in very aggressive EMI environments.},
+	language = {en},
+	number = {6},
+	urldate = {2022-06-25},
+	journal = {IEEE Transactions on Biomedical Circuits and Systems},
+	author = {Haberman, M. A. and Spinelli, E. M.},
+	month = dec,
+	year = {2012},
+	pages = {614--618},
+}
+
+@inproceedings{haberman_digital_2010,
+	address = {Buenos Aires},
+	title = {A digital {Driven} {Right} {Leg} {Circuit}},
+	isbn = {978-1-4244-4123-5 978-1-4244-4124-2},
+	url = {http://ieeexplore.ieee.org/document/5627108/},
+	doi = {10.1109/IEMBS.2010.5627108},
+	abstract = {A novel scheme and a digital approach to the Driven Right Leg Circuit (DRL) are presented. It presents an ultra high common mode (CM) reduction of power line interference (higher than 80dB) without endangering stability. This improves by 40-50dB the CM reduction provided by a classical analog DRL, retaining the same stability criterion. The improvement comes from the inclusion of a high Q resonator in parallel with the common mode amplifier. It provides a large gain at power line frequency (50/60 Hz) whereas it does not significantly affect the open loop gain for high frequencies. The proposed scheme can be thought as an analog circuit, but the accuracy required, mainly in the resonator frequency response, leads to a digital implementation. In this way, component ageing and thermal fluctuation problems are avoided, as well as the need for manual adjusting. A prototype of the proposed DRL circuit was built and tested in laboratory conditions showing an open-loop gain of 74dB at 50Hz. It was also tested by acquiring real EEG signals.},
+	language = {en},
+	urldate = {2022-06-25},
+	booktitle = {2010 {Annual} {International} {Conference} of the {IEEE} {Engineering} in {Medicine} and {Biology}},
+	publisher = {IEEE},
+	author = {Haberman, M and Spinelli, E},
+	month = aug,
+	year = {2010},
+	pages = {6559--6562},
+}
+
+@article{guermandi_driving_2016,
+	title = {A {Driving} {Right} {Leg} {Circuit} ({DgRL}) for {Improved} {Common} {Mode} {Rejection} in {Bio}-{Potential} {Acquisition} {Systems}},
+	volume = {10},
+	issn = {1932-4545, 1940-9990},
+	url = {http://ieeexplore.ieee.org/document/7202914/},
+	doi = {10.1109/TBCAS.2015.2446753},
+	abstract = {The paper presents a novel Driving Right Leg (DgRL) circuit designed to mitigate the effect of common mode signals deriving, say, from power line interferences. The DgRL drives the isolated ground of the instrumentation towards a voltage which is ﬁxed with respect to the common mode potential on the subject, therefore minimizing common mode voltage at the input of the front-end. The paper provides an analytical derivation of the common mode rejection performances of DgRL as compared to the usual grounding circuit or Driven Right Leg (DRL) loop. DgRL is integrated in a bio-potential acquisition system to show how it can reduce the common mode signal of more than 70 dB with respect to standard patient grounding. This value is at least 30 dB higher than the reduction achievable with DRL, making DgRL suitable for single-ended front-ends, like those based on active electrodes. EEG signal acquisition is performed to show how the system can successfully cancel power line interference without any need for differential acquisition, signal post-processing or ﬁltering.},
+	language = {en},
+	number = {2},
+	urldate = {2022-06-25},
+	journal = {IEEE Transactions on Biomedical Circuits and Systems},
+	author = {Guermandi, Marco and Scarselli, Eleonora Franchi and Guerrieri, Roberto},
+	month = apr,
+	year = {2016},
+	pages = {507--517},
+}
+
+@inproceedings{guermandi_eeg_2015,
+	address = {Milan},
+	title = {{EEG} acquisition system based on active electrodes with common-mode interference suppression by {Driving} {Right} {Leg} circuit},
+	isbn = {978-1-4244-9271-8},
+	url = {http://ieeexplore.ieee.org/document/7319065/},
+	doi = {10.1109/EMBC.2015.7319065},
+	abstract = {We present a system for the acquisition of EEG signals based on active electrodes and implementing a Driving Right Leg circuit (DgRL). DgRL allows for single-ended ampliﬁcation and analog-to-digital conversion, still guaranteeing a common mode rejection in excess of 110 dB. This allows the system to acquire high-quality EEG signals essentially removing network interference for both wet and dry-contact electrodes. The front-end ampliﬁcation stage is integrated on the electrode, minimizing the system’s sensitivity to electrode contact quality, cable movement and common mode interference. The A/D conversion stage can be either integrated in the remote back-end or placed on the head as well, allowing for an all-digital communication to the back-end. Noise integrated in the band from 0.5 to 100 Hz is comprised between 0.62 and 1.3 µV, depending on the conﬁguration. Current consumption for the ampliﬁcation and A/D conversion of one channel is 390 µA. Thanks to its low noise, the high level of interference suppression and its quick setup capabilities, the system is particularly suitable for use outside clinical environments, such as in home care, braincomputer interfaces or consumer-oriented applications.},
+	language = {en},
+	urldate = {2022-06-25},
+	booktitle = {2015 37th {Annual} {International} {Conference} of the {IEEE} {Engineering} in {Medicine} and {Biology} {Society} ({EMBC})},
+	publisher = {IEEE},
+	author = {Guermandi, Marco and Bigucci, Alessandro and Scarselli, Eleonora Franchi and Guerrieri, Roberto},
+	month = aug,
+	year = {2015},
+	pages = {3169--3172},
+}
+
+@misc{noauthor_notitle_nodate-2,
+}
+
 @article{winter_driven-right-leg_1983,
 	title = {Driven-right-leg circuit design},
 	volume = {BME-30},
@@ -111,7 +188,7 @@
 	pages = {648--675},
 }
 
-@misc{noauthor_notitle_nodate,
+@misc{noauthor_notitle_nodate-3,
 }
 
 @article{malhotraLongShortTerm2015,
@@ -195,15 +272,6 @@ arXiv:1904.09135 [cs, stat]},
 	pages = {7},
 }
 
-@misc{noauthor_notitle_nodate-1,
-}
-
-@misc{noauthor_notitle_nodate-2,
-}
-
-@misc{noauthor_notitle_nodate-3,
-}
-
 @misc{noauthor_notitle_nodate-4,
 }
 
@@ -214,24 +282,6 @@ arXiv:1904.09135 [cs, stat]},
 }
 
 @misc{noauthor_notitle_nodate-7,
-}
-
-@misc{noauthor_notitle_nodate-8,
-}
-
-@misc{noauthor_notitle_nodate-9,
-}
-
-@misc{noauthor_notitle_nodate-10,
-}
-
-@misc{noauthor_notitle_nodate-11,
-}
-
-@misc{noauthor_notitle_nodate-12,
-}
-
-@misc{noauthor_notitle_nodate-13,
 }
 
 @misc{noauthor_notitle_nodate,
@@ -250,13 +300,6 @@ arXiv:1904.09135 [cs, stat]},
 }
 
 @misc{noauthor_notitle_nodate-5,
-}
-
-@article{brownleeDeepLearningTime,
-	title = {Deep {Learning} for {Time} {Series} {Forecasting}},
-	language = {en},
-	author = {Brownlee, Jason},
-	pages = {572},
 }
 
 @misc{noauthor_notitle_nodate-6,
@@ -284,6 +327,13 @@ arXiv:1904.09135 [cs, stat]},
 }
 
 @misc{noauthor_notitle_nodate-14,
+}
+
+@article{brownleeDeepLearningTime,
+	title = {Deep {Learning} for {Time} {Series} {Forecasting}},
+	language = {en},
+	author = {Brownlee, Jason},
+	pages = {572},
 }
 
 @misc{noauthor_notitle_nodate-15,
@@ -316,20 +366,6 @@ arXiv:1904.09135 [cs, stat]},
 @misc{noauthor_notitle_nodate-24,
 }
 
-@article{kuhlmann_epilepsyecosystemorg_2018,
-	title = {Epilepsyecosystem.org: crowd-sourcing reproducible seizure prediction with long-term human intracranial {EEG}},
-	issn = {0006-8950, 1460-2156},
-	shorttitle = {Epilepsyecosystem.org},
-	url = {https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy210/5066003},
-	doi = {10.1093/brain/awy210},
-	language = {en},
-	urldate = {2022-06-04},
-	journal = {Brain},
-	author = {Kuhlmann, Levin and Karoly, Philippa and Freestone, Dean R and Brinkmann, Benjamin H and Temko, Andriy and Barachant, Alexandre and Li, Feng and Titericz, Gilberto and Lang, Brian W and Lavery, Daniel and Roman, Kelly and Broadhead, Derek and Dobson, Scott and Jones, Gareth and Tang, Qingnan and Ivanenko, Irina and Panichev, Oleg and Proix, Timothée and Náhlík, Michal and Grunberg, Daniel B and Reuben, Chip and Worrell, Gregory and Litt, Brian and Liley, David T J and Grayden, David B and Cook, Mark J},
-	month = aug,
-	year = {2018},
-}
-
 @misc{noauthor_notitle_nodate-25,
 }
 
@@ -357,6 +393,20 @@ arXiv:1904.09135 [cs, stat]},
 @misc{noauthor_notitle_nodate-33,
 }
 
+@article{kuhlmann_epilepsyecosystemorg_2018,
+	title = {Epilepsyecosystem.org: crowd-sourcing reproducible seizure prediction with long-term human intracranial {EEG}},
+	issn = {0006-8950, 1460-2156},
+	shorttitle = {Epilepsyecosystem.org},
+	url = {https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awy210/5066003},
+	doi = {10.1093/brain/awy210},
+	language = {en},
+	urldate = {2022-06-04},
+	journal = {Brain},
+	author = {Kuhlmann, Levin and Karoly, Philippa and Freestone, Dean R and Brinkmann, Benjamin H and Temko, Andriy and Barachant, Alexandre and Li, Feng and Titericz, Gilberto and Lang, Brian W and Lavery, Daniel and Roman, Kelly and Broadhead, Derek and Dobson, Scott and Jones, Gareth and Tang, Qingnan and Ivanenko, Irina and Panichev, Oleg and Proix, Timothée and Náhlík, Michal and Grunberg, Daniel B and Reuben, Chip and Worrell, Gregory and Litt, Brian and Liley, David T J and Grayden, David B and Cook, Mark J},
+	month = aug,
+	year = {2018},
+}
+
 @misc{noauthor_notitle_nodate-34,
 }
 
@@ -364,6 +414,33 @@ arXiv:1904.09135 [cs, stat]},
 }
 
 @misc{noauthor_notitle_nodate-36,
+}
+
+@misc{noauthor_notitle_nodate-37,
+}
+
+@misc{noauthor_notitle_nodate-38,
+}
+
+@misc{noauthor_notitle_nodate-39,
+}
+
+@misc{noauthor_notitle_nodate-40,
+}
+
+@misc{noauthor_notitle_nodate-41,
+}
+
+@misc{noauthor_notitle_nodate-42,
+}
+
+@misc{noauthor_notitle_nodate,
+}
+
+@misc{noauthor_notitle_nodate-1,
+}
+
+@misc{noauthor_notitle_nodate-2,
 }
 
 @article{koolen_line_2014,
@@ -437,10 +514,10 @@ Conclusion: Automated assessment of long-term preterm EEG is possible and its us
 	pages = {426--432},
 }
 
-@misc{noauthor_notitle_nodate,
+@misc{noauthor_notitle_nodate-3,
 }
 
-@misc{noauthor_notitle_nodate-1,
+@misc{noauthor_notitle_nodate-4,
 }
 
 @article{harringtonButyrylcholinesterasePotentialBiomarker2022,
@@ -585,7 +662,7 @@ Conclusion: Automated assessment of long-term preterm EEG is possible and its us
 	year = {2015},
 }
 
-@misc{noauthor_notitle_nodate-2,
+@misc{noauthor_notitle_nodate-5,
 }
 
 @article{klockTailoredGamificationReview2020,
@@ -637,6 +714,59 @@ Conclusion: Automated assessment of long-term preterm EEG is possible and its us
 	keywords = {Computer games, Design},
 }
 
+@misc{noauthor_notitle_nodate-6,
+}
+
+@misc{noauthor_notitle_nodate-7,
+}
+
+@misc{noauthor_notitle_nodate-8,
+}
+
+@misc{noauthor_notitle_nodate-9,
+}
+
+@misc{noauthor_notitle_nodate-10,
+}
+
+@misc{noauthor_notitle_nodate-11,
+}
+
+@misc{noauthor_notitle_nodate-12,
+}
+
+@misc{noauthor_notitle_nodate-13,
+}
+
+@misc{noauthor_notitle_nodate-14,
+}
+
+@misc{noauthor_notitle_nodate,
+}
+
+@misc{noauthor_notitle_nodate-1,
+}
+
+@misc{noauthor_notitle_nodate-2,
+}
+
+@article{molyneuxAggregationClickbaitTheir2020,
+	title = {Aggregation, {Clickbait} and {Their} {Effect} on {Perceptions} of {Journalistic} {Credibility} and {Quality}},
+	volume = {14},
+	issn = {1751-2786, 1751-2794},
+	url = {https://www.tandfonline.com/doi/full/10.1080/17512786.2019.1628658},
+	doi = {10.1080/17512786.2019.1628658},
+	abstract = {Many journalists and industry observers lament that aggregating news underneath sensational headlines will erode credibility and turn off readers. While some scholarly work has studied journalists’ perspectives of this practice, little has been done to understand what audiences think of aggregation and clickbait. This study uses published original and aggregated news articles as stimuli in two online experiments to test readers’ perceptions of news aggregation and clickbait. Aggregation itself has little effect on perceptions of credibility and quality; instead, writing proficiency is more closely linked to these perceptions. Results also suggest clickbait headlines may lower perceptions of credibility and quality.},
+	language = {en},
+	number = {4},
+	urldate = {2022-05-17},
+	journal = {Journalism Practice},
+	author = {Molyneux, Logan and Coddington, Mark},
+	month = apr,
+	year = {2020},
+	pages = {429--446},
+}
+
 @misc{noauthor_notitle_nodate-3,
 }
 
@@ -671,59 +801,6 @@ Conclusion: Automated assessment of long-term preterm EEG is possible and its us
 }
 
 @misc{noauthor_notitle_nodate-14,
-}
-
-@article{molyneuxAggregationClickbaitTheir2020,
-	title = {Aggregation, {Clickbait} and {Their} {Effect} on {Perceptions} of {Journalistic} {Credibility} and {Quality}},
-	volume = {14},
-	issn = {1751-2786, 1751-2794},
-	url = {https://www.tandfonline.com/doi/full/10.1080/17512786.2019.1628658},
-	doi = {10.1080/17512786.2019.1628658},
-	abstract = {Many journalists and industry observers lament that aggregating news underneath sensational headlines will erode credibility and turn off readers. While some scholarly work has studied journalists’ perspectives of this practice, little has been done to understand what audiences think of aggregation and clickbait. This study uses published original and aggregated news articles as stimuli in two online experiments to test readers’ perceptions of news aggregation and clickbait. Aggregation itself has little effect on perceptions of credibility and quality; instead, writing proficiency is more closely linked to these perceptions. Results also suggest clickbait headlines may lower perceptions of credibility and quality.},
-	language = {en},
-	number = {4},
-	urldate = {2022-05-17},
-	journal = {Journalism Practice},
-	author = {Molyneux, Logan and Coddington, Mark},
-	month = apr,
-	year = {2020},
-	pages = {429--446},
-}
-
-@misc{noauthor_notitle_nodate-15,
-}
-
-@misc{noauthor_notitle_nodate-16,
-}
-
-@misc{noauthor_notitle_nodate-17,
-}
-
-@misc{noauthor_notitle_nodate-18,
-}
-
-@misc{noauthor_notitle_nodate-19,
-}
-
-@misc{noauthor_notitle_nodate,
-}
-
-@misc{noauthor_notitle_nodate-1,
-}
-
-@misc{noauthor_notitle_nodate-2,
-}
-
-@misc{noauthor_notitle_nodate-3,
-}
-
-@misc{noauthor_notitle_nodate-4,
-}
-
-@misc{noauthor_notitle_nodate-5,
-}
-
-@misc{noauthor_notitle_nodate-6,
 }
 
 @incollection{parkSystematicLiteratureReview2018,
@@ -795,34 +872,34 @@ Conclusion: Automated assessment of long-term preterm EEG is possible and its us
 	doi = {10.1101/2021.12.02.471005},
 }
 
-@misc{noauthor_notitle_nodate-7,
-}
-
-@misc{noauthor_notitle_nodate-8,
-}
-
-@misc{noauthor_notitle_nodate-9,
-}
-
-@misc{noauthor_notitle_nodate-10,
-}
-
-@misc{noauthor_notitle_nodate-11,
-}
-
-@misc{noauthor_notitle_nodate-12,
-}
-
-@misc{noauthor_notitle_nodate-13,
-}
-
-@misc{noauthor_notitle_nodate-14,
-}
-
 @misc{noauthor_notitle_nodate-15,
 }
 
 @misc{noauthor_notitle_nodate-16,
+}
+
+@misc{noauthor_notitle_nodate-17,
+}
+
+@misc{noauthor_notitle_nodate-18,
+}
+
+@misc{noauthor_notitle_nodate-19,
+}
+
+@misc{noauthor_notitle_nodate-20,
+}
+
+@misc{noauthor_notitle_nodate-21,
+}
+
+@misc{noauthor_notitle_nodate-22,
+}
+
+@misc{noauthor_notitle_nodate-23,
+}
+
+@misc{noauthor_notitle_nodate-24,
 }
 
 @article{rudnickControversyContrastInducedNephropathy2020,
@@ -921,34 +998,34 @@ Conclusion: A competitive leaderboard was not associated with an increase in sel
 	pages = {628--631},
 }
 
-@misc{noauthor_notitle_nodate-17,
-}
-
-@misc{noauthor_notitle_nodate-18,
-}
-
-@misc{noauthor_notitle_nodate-19,
-}
-
-@misc{noauthor_notitle_nodate-20,
-}
-
-@misc{noauthor_notitle_nodate-21,
-}
-
-@misc{noauthor_notitle_nodate-22,
-}
-
-@misc{noauthor_notitle_nodate-23,
-}
-
-@misc{noauthor_notitle_nodate-24,
-}
-
 @misc{noauthor_notitle_nodate-25,
 }
 
-@misc{noauthor_notitle_nodate-26,
+@misc{noauthor_notitle_nodate,
+}
+
+@misc{noauthor_notitle_nodate-1,
+}
+
+@misc{noauthor_notitle_nodate-2,
+}
+
+@misc{noauthor_notitle_nodate-3,
+}
+
+@misc{noauthor_notitle_nodate-4,
+}
+
+@misc{noauthor_notitle_nodate-5,
+}
+
+@misc{noauthor_notitle_nodate-6,
+}
+
+@misc{noauthor_notitle_nodate-7,
+}
+
+@misc{noauthor_notitle_nodate-8,
 }
 
 @article{prisma-pgroupPreferredReportingItems2015,
@@ -1161,33 +1238,6 @@ CONCLUSIONS: Weight gain during pregnancy had a fetal sex-speciﬁc mediating ef
 	pages = {7510},
 }
 
-@misc{noauthor_notitle_nodate,
-}
-
-@misc{noauthor_notitle_nodate-1,
-}
-
-@misc{noauthor_notitle_nodate-2,
-}
-
-@misc{noauthor_notitle_nodate-3,
-}
-
-@misc{noauthor_notitle_nodate-4,
-}
-
-@misc{noauthor_notitle_nodate-5,
-}
-
-@misc{noauthor_notitle_nodate-6,
-}
-
-@misc{noauthor_notitle_nodate-7,
-}
-
-@misc{noauthor_notitle_nodate-8,
-}
-
 @misc{noauthor_notitle_nodate-9,
 }
 
@@ -1222,6 +1272,33 @@ CONCLUSIONS: Weight gain during pregnancy had a fetal sex-speciﬁc mediating ef
 }
 
 @misc{noauthor_notitle_nodate-20,
+}
+
+@misc{noauthor_notitle_nodate-21,
+}
+
+@misc{noauthor_notitle_nodate-22,
+}
+
+@misc{noauthor_notitle_nodate-23,
+}
+
+@misc{noauthor_notitle_nodate-24,
+}
+
+@misc{noauthor_notitle_nodate-25,
+}
+
+@misc{noauthor_notitle_nodate-26,
+}
+
+@misc{noauthor_notitle_nodate,
+}
+
+@misc{noauthor_notitle_nodate-1,
+}
+
+@misc{noauthor_notitle_nodate-2,
 }
 
 @article{passiasIncreasingCostEfficiency2022,
@@ -1762,15 +1839,6 @@ Conclusions: The expert rule-based decision-making subsystem accompanying the cl
 @misc{noauthor_notitle_nodate-2,
 }
 
-@misc{noauthor_notitle_nodate,
-}
-
-@misc{noauthor_notitle_nodate-1,
-}
-
-@misc{noauthor_notitle_nodate-2,
-}
-
 @misc{noauthor_notitle_nodate-3,
 }
 
@@ -1826,6 +1894,15 @@ Conclusions: The expert rule-based decision-making subsystem accompanying the cl
 }
 
 @misc{noauthor_notitle_nodate-21,
+}
+
+@misc{noauthor_notitle_nodate-22,
+}
+
+@misc{noauthor_notitle_nodate-23,
+}
+
+@misc{noauthor_notitle_nodate-24,
 }
 
 @article{baetenAntiinterleukin17AMonoclonalAntibody2013,
