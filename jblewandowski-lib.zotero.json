@@ -31961,7 +31961,9 @@
         "type": "application/json"
       }
     },
-    "meta": {},
+    "meta": {
+      "numChildren": 0
+    },
     "data": {
       "key": "CVB67JUD",
       "version": 535,
@@ -35515,7 +35517,9 @@
         "href": "https://api.zotero.org/users/8674355/items/NY277RYT/file/view"
       }
     },
-    "meta": {},
+    "meta": {
+      "numChildren": 0
+    },
     "data": {
       "key": "NY277RYT",
       "version": 427,
