@@ -1,5 +1,61 @@
 [
   {
+    "key": "MGI7CG3P",
+    "version": 1837,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MGI7CG3P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MGI7CG3P",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/MGI7CG3P/file/view",
+        "title": "rspb.2021.0729.pdf",
+        "length": 1000547
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "MGI7CG3P",
+      "version": 1837,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "rspb.2021.0729.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "rspb.2021.0729.pdf",
+      "md5": "52fb1a5c1890ce63f0d7ceaabac50216",
+      "mtime": 1656581969137,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-30T09:39:28Z",
+      "dateModified": "2022-06-30T09:39:28Z"
+    }
+  },
+  {
     "key": "6HFBLMJP",
     "version": 1792,
     "library": {
