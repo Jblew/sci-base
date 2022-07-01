@@ -1,5 +1,151 @@
 [
   {
+    "key": "Y5KMU39P",
+    "version": 1850,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y5KMU39P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y5KMU39P",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/L6IUNM3J",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2712669
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ravelomanantsoa et al.",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "Y5KMU39P",
+      "version": 1850,
+      "itemType": "journalArticle",
+      "title": "Simple and Efficient Compressed Sensing Encoder for Wireless Body Area Network",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Andrianiaina",
+          "lastName": "Ravelomanantsoa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hassan",
+          "lastName": "Rabah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amar",
+          "lastName": "Rouane"
+        }
+      ],
+      "abstractNote": "Compressed sensing (CS) is an emerging signal processing technique that enables sub-Nyquist measurement of signals having sparse representations in certain bases. Since most physiological signals treated within a wireless body area network (WBAN) are sparse, CS can be applied to WBANs to reduce the number of measurements and minimize the energy consumption of the sensor nodes. In this paper, we propose a simple and efﬁcient CS encoder device used to measure signals within sensor nodes of a WBAN. A digital and an analog models of the proposed CS encoder are presented. As the CS encoder and decoder are tightly coupled, a model of the overall acquisition chain is required in the ﬁrst stages of development and validation. To do this, we propose a virtual prototyping of the system with SystemC-AMS. A SPICE model and a hardware prototype of the proposed CS encoder are also presented. The simulation results of both models show that the proposed encoder was able to compressively measure an electrocardiogram (ECG) and an electroencephalogram signals with compression ratios of 6:1 and 4:1, respectively, which save 82.9% and 75% of the energy consumption of transceivers. The experiment results were consistent with those of the model and show that the hardware prototype was able to compressively measure an ECG signal with a compression ratio of 8:1. Comparison with a random demodulator (RD) was carried out and shows that the proposed encoder outperformed RD in terms of compression ratio and reconstruction quality.",
+      "publicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+      "volume": "63",
+      "issue": "12",
+      "pages": "2973-2982",
+      "date": "12/2014",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IEEE Trans. Instrum. Meas.",
+      "language": "en",
+      "DOI": "10.1109/TIM.2014.2320393",
+      "ISSN": "0018-9456, 1557-9662",
+      "shortTitle": "",
+      "url": "http://ieeexplore.ieee.org/document/6819436/",
+      "accessDate": "2022-07-01T21:22:37Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: ravelomanantsoaSimpleEfficientCompressed2014",
+      "tags": [],
+      "collections": [
+        "NF5IV7F9"
+      ],
+      "relations": {},
+      "dateAdded": "2022-07-01T21:22:37Z",
+      "dateModified": "2022-07-01T21:22:44Z"
+    }
+  },
+  {
+    "key": "L6IUNM3J",
+    "version": 1848,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/L6IUNM3J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/L6IUNM3J",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/Y5KMU39P",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/L6IUNM3J/file/view",
+        "title": "Ravelomanantsoa et al. - 2014 - Simple and Efficient Compressed Sensing Encoder fo.pdf",
+        "length": 2712669
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "L6IUNM3J",
+      "version": 1848,
+      "parentItem": "Y5KMU39P",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Ravelomanantsoa et al. - 2014 - Simple and Efficient Compressed Sensing Encoder fo.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Ravelomanantsoa et al. - 2014 - Simple and Efficient Compressed Sensing Encoder fo.pdf",
+      "md5": "b87d8203d83231f09342535aaba1e1b6",
+      "mtime": 1656710558000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-07-01T21:22:33Z",
+      "dateModified": "2022-07-01T21:22:38Z"
+    }
+  },
+  {
     "key": "MGI7CG3P",
     "version": 1837,
     "library": {
@@ -2419,6 +2565,205 @@
     }
   },
   {
+    "key": "QYVS94K8",
+    "version": 1845,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QYVS94K8",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QYVS94K8",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/V2NIQXRY",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1982211
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mariani et al.",
+      "parsedDate": "2018-06-05",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "QYVS94K8",
+      "version": 1845,
+      "itemType": "preprint",
+      "title": "BAGAN: Data Augmentation with Balancing GAN",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Giovanni",
+          "lastName": "Mariani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Florian",
+          "lastName": "Scheidegger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roxana",
+          "lastName": "Istrate"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Costas",
+          "lastName": "Bekas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cristiano",
+          "lastName": "Malossi"
+        }
+      ],
+      "abstractNote": "Image classification datasets are often imbalanced, characteristic that negatively affects the accuracy of deep-learning classifiers. In this work we propose balancing GAN (BAGAN) as an augmentation tool to restore balance in imbalanced datasets. This is challenging because the few minority-class images may not be enough to train a GAN. We overcome this issue by including during the adversarial training all available images of majority and minority classes. The generative model learns useful features from majority classes and uses these to generate images for minority classes. We apply class conditioning in the latent space to drive the generation process towards a target class. The generator in the GAN is initialized with the encoder module of an autoencoder that enables us to learn an accurate class-conditioning in the latent space. We compare the proposed methodology with state-of-the-art GANs and demonstrate that BAGAN generates images of superior quality when trained with an imbalanced dataset.",
+      "genre": "",
+      "repository": "arXiv",
+      "archiveID": "arXiv:1803.09655",
+      "place": "",
+      "date": "2018-06-05",
+      "series": "",
+      "seriesNumber": "",
+      "DOI": "",
+      "citationKey": "marianiBAGANDataAugmentation2018",
+      "url": "http://arxiv.org/abs/1803.09655",
+      "accessDate": "2022-06-18T10:34:47Z",
+      "archive": "",
+      "archiveLocation": "",
+      "shortTitle": "BAGAN",
+      "language": "en",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Number: arXiv:1803.09655\narXiv:1803.09655 [cs, stat]",
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Statistics - Machine Learning",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:47Z",
+      "dateModified": "2022-06-18T10:35:04Z"
+    }
+  },
+  {
+    "key": "HQS2SQGT",
+    "version": 1845,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HQS2SQGT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HQS2SQGT",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/XN44IW5V",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1518429
+      }
+    },
+    "meta": {
+      "creatorSummary": "Tanaka and Aranha",
+      "parsedDate": "2019-04-19",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "HQS2SQGT",
+      "version": 1845,
+      "itemType": "preprint",
+      "title": "Data Augmentation Using GANs",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Fabio Henrique Kiyoiti dos Santos",
+          "lastName": "Tanaka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claus",
+          "lastName": "Aranha"
+        }
+      ],
+      "abstractNote": "In this paper we propose the use of Generative Adversarial Networks (GAN) to generate artiﬁcial training data for machine learning tasks. The generation of artiﬁcial training data can be extremely useful in situations such as imbalanced data sets, performing a role similar to SMOTE or ADASYN. It is also useful when the data contains sensitive information, and it is desirable to avoid using the original data set as much as possible (example: medical data). We test our proposal on benchmark data sets using diﬀerent network architectures, and show that a Decision Tree (DT) classiﬁer trained using the training data generated by the GAN reached the same, (and surprisingly sometimes better), accuracy and recall than a DT trained on the original data set.",
+      "genre": "",
+      "repository": "arXiv",
+      "archiveID": "arXiv:1904.09135",
+      "place": "",
+      "date": "2019-04-19",
+      "series": "",
+      "seriesNumber": "",
+      "DOI": "",
+      "citationKey": "tanakaDataAugmentationUsing2019",
+      "url": "http://arxiv.org/abs/1904.09135",
+      "accessDate": "2022-06-18T10:34:44Z",
+      "archive": "",
+      "archiveLocation": "",
+      "shortTitle": "",
+      "language": "en",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Number: arXiv:1904.09135\narXiv:1904.09135 [cs, stat]",
+      "tags": [
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Statistics - Machine Learning",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "N52LNBGM"
+      ],
+      "relations": {},
+      "dateAdded": "2022-06-18T10:34:44Z",
+      "dateModified": "2022-06-18T10:35:04Z"
+    }
+  },
+  {
     "key": "H4VFQL6P",
     "version": 1619,
     "library": {
@@ -2507,205 +2852,6 @@
       ],
       "relations": {},
       "dateAdded": "2022-06-18T10:34:49Z",
-      "dateModified": "2022-06-18T10:35:04Z"
-    }
-  },
-  {
-    "key": "QYVS94K8",
-    "version": 1619,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/QYVS94K8",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/QYVS94K8",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/V2NIQXRY",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1982211
-      }
-    },
-    "meta": {
-      "creatorSummary": "Mariani et al.",
-      "parsedDate": "2018-06-05",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "QYVS94K8",
-      "version": 1619,
-      "itemType": "preprint",
-      "title": "BAGAN: Data Augmentation with Balancing GAN",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Giovanni",
-          "lastName": "Mariani"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Florian",
-          "lastName": "Scheidegger"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Roxana",
-          "lastName": "Istrate"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Costas",
-          "lastName": "Bekas"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Cristiano",
-          "lastName": "Malossi"
-        }
-      ],
-      "abstractNote": "Image classification datasets are often imbalanced, characteristic that negatively affects the accuracy of deep-learning classifiers. In this work we propose balancing GAN (BAGAN) as an augmentation tool to restore balance in imbalanced datasets. This is challenging because the few minority-class images may not be enough to train a GAN. We overcome this issue by including during the adversarial training all available images of majority and minority classes. The generative model learns useful features from majority classes and uses these to generate images for minority classes. We apply class conditioning in the latent space to drive the generation process towards a target class. The generator in the GAN is initialized with the encoder module of an autoencoder that enables us to learn an accurate class-conditioning in the latent space. We compare the proposed methodology with state-of-the-art GANs and demonstrate that BAGAN generates images of superior quality when trained with an imbalanced dataset.",
-      "genre": "",
-      "repository": "arXiv",
-      "archiveID": "arXiv:1803.09655",
-      "place": "",
-      "date": "2018-06-05",
-      "series": "",
-      "seriesNumber": "",
-      "DOI": "",
-      "citationKey": "",
-      "url": "http://arxiv.org/abs/1803.09655",
-      "accessDate": "2022-06-18T10:34:47Z",
-      "archive": "",
-      "archiveLocation": "",
-      "shortTitle": "BAGAN",
-      "language": "en",
-      "libraryCatalog": "arXiv.org",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Number: arXiv:1803.09655\narXiv:1803.09655 [cs, stat]\nCitation Key: marianiBAGANDataAugmentation2018",
-      "tags": [
-        {
-          "tag": "Computer Science - Computer Vision and Pattern Recognition",
-          "type": 1
-        },
-        {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "Statistics - Machine Learning",
-          "type": 1
-        }
-      ],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-18T10:34:47Z",
-      "dateModified": "2022-06-18T10:35:04Z"
-    }
-  },
-  {
-    "key": "HQS2SQGT",
-    "version": 1619,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/HQS2SQGT",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/HQS2SQGT",
-        "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/XN44IW5V",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 1518429
-      }
-    },
-    "meta": {
-      "creatorSummary": "Tanaka and Aranha",
-      "parsedDate": "2019-04-19",
-      "numChildren": 2
-    },
-    "data": {
-      "key": "HQS2SQGT",
-      "version": 1619,
-      "itemType": "preprint",
-      "title": "Data Augmentation Using GANs",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Fabio Henrique Kiyoiti dos Santos",
-          "lastName": "Tanaka"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Claus",
-          "lastName": "Aranha"
-        }
-      ],
-      "abstractNote": "In this paper we propose the use of Generative Adversarial Networks (GAN) to generate artiﬁcial training data for machine learning tasks. The generation of artiﬁcial training data can be extremely useful in situations such as imbalanced data sets, performing a role similar to SMOTE or ADASYN. It is also useful when the data contains sensitive information, and it is desirable to avoid using the original data set as much as possible (example: medical data). We test our proposal on benchmark data sets using diﬀerent network architectures, and show that a Decision Tree (DT) classiﬁer trained using the training data generated by the GAN reached the same, (and surprisingly sometimes better), accuracy and recall than a DT trained on the original data set.",
-      "genre": "",
-      "repository": "arXiv",
-      "archiveID": "arXiv:1904.09135",
-      "place": "",
-      "date": "2019-04-19",
-      "series": "",
-      "seriesNumber": "",
-      "DOI": "",
-      "citationKey": "",
-      "url": "http://arxiv.org/abs/1904.09135",
-      "accessDate": "2022-06-18T10:34:44Z",
-      "archive": "",
-      "archiveLocation": "",
-      "shortTitle": "",
-      "language": "en",
-      "libraryCatalog": "arXiv.org",
-      "callNumber": "",
-      "rights": "",
-      "extra": "Number: arXiv:1904.09135\narXiv:1904.09135 [cs, stat]\nCitation Key: tanakaDataAugmentationUsing2019",
-      "tags": [
-        {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "Statistics - Machine Learning",
-          "type": 1
-        }
-      ],
-      "collections": [
-        "N52LNBGM"
-      ],
-      "relations": {},
-      "dateAdded": "2022-06-18T10:34:44Z",
       "dateModified": "2022-06-18T10:35:04Z"
     }
   },
