@@ -1,5 +1,149 @@
 [
   {
+    "key": "2HZ24BEL",
+    "version": 1864,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2HZ24BEL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2HZ24BEL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/XGFMXGWB",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2HZ24BEL",
+      "version": 1864,
+      "parentItem": "XGFMXGWB",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Tan et al. - 2011 - Development of a Portable Linux-Based ECG Measurem.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Tan et al. - 2011 - Development of a Portable Linux-Based ECG Measurem.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-07-04T17:39:21Z",
+      "dateModified": "2022-07-04T17:39:24Z"
+    }
+  },
+  {
+    "key": "XGFMXGWB",
+    "version": 1864,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XGFMXGWB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XGFMXGWB",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Tan et al.",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "XGFMXGWB",
+      "version": 1864,
+      "itemType": "journalArticle",
+      "title": "Development of a Portable Linux-Based ECG Measurement and Monitoring System",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Tan-Hsu",
+          "lastName": "Tan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ching-Su",
+          "lastName": "Chang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yung-Fa",
+          "lastName": "Huang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yung-Fu",
+          "lastName": "Chen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cheng",
+          "lastName": "Lee"
+        }
+      ],
+      "abstractNote": "This work presents a portable Linux-based electrocardiogram (ECG) signals measurement and monitoring system. The proposed system consists of an ECG front end and an embedded Linux platform (ELP). The ECG front end digitizes 12-lead ECG signals acquired from electrodes and then delivers them to the ELP via a universal serial bus (USB) interface for storage, signal processing, and graphic display. The proposed system can be installed anywhere (e.g., offices, homes, healthcare centers and ambulances) to allow people to self-monitor their health conditions at any time. The proposed system also enables remote diagnosis via Internet. Additionally, the system has a 7-in. interactive TFT-LCD touch screen that enables users to execute various functions, such as scaling a single-lead or multiple-lead ECG waveforms. The effectiveness of the proposed system was verified by using a commercial 12-lead ECG signal simulator and in vivo experiments. In addition to its portability, the proposed system is license-free as Linux, an open-source code, is utilized during software development. The cost-effectiveness of the system significantly enhances its practical application for personal healthcare.",
+      "publicationTitle": "Journal of Medical Systems",
+      "volume": "35",
+      "issue": "4",
+      "pages": "559-569",
+      "date": "8/2011",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "J Med Syst",
+      "language": "en",
+      "DOI": "10.1007/s10916-009-9392-4",
+      "ISSN": "0148-5598, 1573-689X",
+      "shortTitle": "",
+      "url": "http://link.springer.com/10.1007/s10916-009-9392-4",
+      "accessDate": "2022-07-04T17:39:24Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "3BGDSGWT"
+      ],
+      "relations": {},
+      "dateAdded": "2022-07-04T17:39:24Z",
+      "dateModified": "2022-07-04T17:39:24Z"
+    }
+  },
+  {
     "key": "Y5KMU39P",
     "version": 1850,
     "library": {
