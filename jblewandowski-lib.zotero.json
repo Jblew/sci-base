@@ -1,7 +1,101 @@
 [
   {
+    "key": "X2PHEYPA",
+    "version": 1873,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/X2PHEYPA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/X2PHEYPA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/U5QZE264",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "X2PHEYPA",
+      "version": 1873,
+      "parentItem": "U5QZE264",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "ELEC_LA",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "52",
+      "annotationSortIndex": "00051|000557|00295",
+      "annotationPosition": "{\"pageIndex\":51,\"rects\":[[114.334,313.47,129.978,316.857]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-07-04T17:46:50Z",
+      "dateModified": "2022-07-04T17:46:50Z"
+    }
+  },
+  {
+    "key": "HZL6DM63",
+    "version": 1873,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HZL6DM63",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HZL6DM63",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/U5QZE264",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "HZL6DM63",
+      "version": 1873,
+      "parentItem": "U5QZE264",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "ELEC_RA",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "52",
+      "annotationSortIndex": "00051|000550|00291",
+      "annotationPosition": "{\"pageIndex\":51,\"rects\":[[114.334,317.498,130.541,320.884]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-07-04T17:46:49Z",
+      "dateModified": "2022-07-04T17:46:49Z"
+    }
+  },
+  {
     "key": "2HZ24BEL",
-    "version": 1864,
+    "version": 1874,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -25,6 +119,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/XGFMXGWB",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/2HZ24BEL/file/view",
+        "title": "Tan et al. - 2011 - Development of a Portable Linux-Based ECG Measurem.pdf",
+        "length": 928665
       }
     },
     "meta": {
@@ -32,7 +132,7 @@
     },
     "data": {
       "key": "2HZ24BEL",
-      "version": 1864,
+      "version": 1874,
       "parentItem": "XGFMXGWB",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -43,8 +143,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Tan et al. - 2011 - Development of a Portable Linux-Based ECG Measurem.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "810128c8daf2b3d60ac44b28170f9540",
+      "mtime": 1656956364000,
       "tags": [],
       "relations": {},
       "dateAdded": "2022-07-04T17:39:21Z",
@@ -73,6 +173,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/XGFMXGWB",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/2HZ24BEL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 928665
       }
     },
     "meta": {
@@ -1436,7 +1542,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 2
     },
     "data": {
       "key": "U5QZE264",
