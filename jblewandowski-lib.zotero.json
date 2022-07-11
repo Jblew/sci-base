@@ -1,5 +1,52 @@
 [
   {
+    "key": "F2NTXYMD",
+    "version": 1939,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/F2NTXYMD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/F2NTXYMD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RMPHEFZB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "F2NTXYMD",
+      "version": 1939,
+      "parentItem": "RMPHEFZB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Psychomotor behavioral disturbances may also accom- pany delirium",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "655",
+      "annotationSortIndex": "00675|002112|00546",
+      "annotationPosition": "{\"rects\":[[325.171,235.509,551.604,246.12],[312.27,223.509,371.4,234.12]],\"pageIndex\":675}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-07-11T05:34:03Z",
+      "dateModified": "2022-07-11T05:34:03Z"
+    }
+  },
+  {
     "key": "X2PHEYPA",
     "version": 1873,
     "library": {
@@ -1600,7 +1647,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "RMPHEFZB",
