@@ -1,5 +1,99 @@
 [
   {
+    "key": "6BSZG78U",
+    "version": 1950,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6BSZG78U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6BSZG78U",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RMPHEFZB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "6BSZG78U",
+      "version": 1950,
+      "parentItem": "RMPHEFZB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "triad of encephalopathy, ataxia, and oculomotor abnormalities. In more than 80% of patients, the condition progresse",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "661",
+      "annotationSortIndex": "00681|001803|00444",
+      "annotationPosition": "{\"rects\":[[424.509,337.027,554.496,347.638],[312.378,325.027,554.496,335.638],[312.27,313.027,451.091,323.638]],\"pageIndex\":681}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-07-11T06:26:51Z",
+      "dateModified": "2022-07-11T06:26:51Z"
+    }
+  },
+  {
+    "key": "H57WM9XQ",
+    "version": 1946,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/H57WM9XQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/H57WM9XQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RMPHEFZB",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "H57WM9XQ",
+      "version": 1946,
+      "parentItem": "RMPHEFZB",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The American Academy of Neurology guidelines recommend that initial testing for dementia include vitamin B12 and thyroid laboratory testing and imaging of the head",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "658",
+      "annotationSortIndex": "00678|002531|00685",
+      "annotationPosition": "{\"pageIndex\":678,\"rects\":[[328.287,96.387,518.97,106.998],[328.135,84.387,560.506,94.998],[328.27,70.336,549.413,82.998]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-07-11T06:18:10Z",
+      "dateModified": "2022-07-11T06:18:10Z"
+    }
+  },
+  {
     "key": "F2NTXYMD",
     "version": 1939,
     "library": {
@@ -1647,7 +1741,7 @@
       }
     },
     "meta": {
-      "numChildren": 1
+      "numChildren": 3
     },
     "data": {
       "key": "RMPHEFZB",
