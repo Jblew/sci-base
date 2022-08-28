@@ -1,5 +1,89 @@
 [
   {
+    "key": "Y4JJ8Y7U",
+    "version": 1970,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y4JJ8Y7U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y4JJ8Y7U",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Vernon",
+      "parsedDate": "2013",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Y4JJ8Y7U",
+      "version": 1970,
+      "itemType": "book",
+      "title": "Implementing domain-driven design",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Vaughn",
+          "lastName": "Vernon"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Upper Saddle River, NJ",
+      "publisher": "Addision-Wesley",
+      "date": "2013",
+      "numPages": "612",
+      "language": "",
+      "ISBN": "978-0-321-83457-7",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "QA76.76.D47 V45 2013",
+      "rights": "",
+      "extra": "OCLC: ocn830008330\nCitation Key: vernonImplementingDomaindrivenDesign2013",
+      "tags": [
+        {
+          "tag": "Computer software",
+          "type": 1
+        },
+        {
+          "tag": "Development",
+          "type": 1
+        },
+        {
+          "tag": "Object-oriented programming (Computer science)",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-08-28T19:29:34Z",
+      "dateModified": "2022-08-28T19:29:38Z"
+    }
+  },
+  {
     "key": "QE2GPAN7",
     "version": 1968,
     "library": {
