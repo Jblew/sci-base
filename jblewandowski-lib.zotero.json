@@ -1,5 +1,119 @@
 [
   {
+    "key": "8WYY3ZHL",
+    "version": 1984,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8WYY3ZHL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8WYY3ZHL",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "USA",
+      "parsedDate": "2007",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "8WYY3ZHL",
+      "version": 1984,
+      "itemType": "book",
+      "title": "Systems engineering handbook",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "",
+          "lastName": "USA"
+        }
+      ],
+      "abstractNote": "",
+      "series": "NASA SP",
+      "seriesNumber": "6105, Rev2",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Washington, D.C",
+      "publisher": "National Aeronautics and Space Administration",
+      "date": "2007",
+      "numPages": "287",
+      "language": "eng",
+      "ISBN": "978-1-68092-090-1",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "K10plus ISBN",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: usaSystemsEngineeringHandbook2007",
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-09-01T17:37:45Z",
+      "dateModified": "2022-09-01T17:37:55Z"
+    }
+  },
+  {
+    "key": "6ZNQ9VPR",
+    "version": 1983,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6ZNQ9VPR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6ZNQ9VPR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/8WYY3ZHL",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6ZNQ9VPR",
+      "version": 1983,
+      "parentItem": "8WYY3ZHL",
+      "itemType": "note",
+      "note": "Includes bibliographical references (p. 327-331) and index. - References: p. 323-326 \"NASA SP-2016 Rev2 supersedes SP-2007-6105 Rev 1 dated December, 2007\"",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-09-01T17:37:45Z",
+      "dateModified": "2022-09-01T17:37:45Z"
+    }
+  },
+  {
     "key": "PLJ4XB7H",
     "version": 1980,
     "library": {
