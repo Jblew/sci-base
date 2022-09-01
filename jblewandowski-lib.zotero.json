@@ -1,5 +1,134 @@
 [
   {
+    "key": "W75MVB7H",
+    "version": 1974,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/W75MVB7H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/W75MVB7H",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/94P9LN76",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1015417
+      }
+    },
+    "meta": {
+      "parsedDate": "2022",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "W75MVB7H",
+      "version": 1974,
+      "itemType": "journalArticle",
+      "title": "Mitochondria in cone photoreceptors act as microlenses to enhance photon delivery and confer directional sensitivity to light",
+      "creators": [],
+      "abstractNote": "",
+      "publicationTitle": "SCIENCE ADVANCES",
+      "volume": "",
+      "issue": "",
+      "pages": "14",
+      "date": "2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: MitochondriaConePhotoreceptors2022",
+      "tags": [],
+      "collections": [
+        "SXQH6CSG"
+      ],
+      "relations": {},
+      "dateAdded": "2022-09-01T17:07:13Z",
+      "dateModified": "2022-09-01T17:07:16Z"
+    }
+  },
+  {
+    "key": "94P9LN76",
+    "version": 1974,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/94P9LN76",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/94P9LN76",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/W75MVB7H",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/94P9LN76/file/view",
+        "title": "sciadv.abn2070.pdf",
+        "length": 1015417
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "94P9LN76",
+      "version": 1974,
+      "parentItem": "W75MVB7H",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "2022 - Mitochondria in cone photoreceptors act as microle.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2022 - Mitochondria in cone photoreceptors act as microle.pdf",
+      "md5": "a257063242fb1fa7e320e3d50905c8c6",
+      "mtime": 1662052030000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-09-01T17:07:10Z",
+      "dateModified": "2022-09-01T17:07:13Z"
+    }
+  },
+  {
     "key": "Y4JJ8Y7U",
     "version": 1970,
     "library": {
