@@ -1,5 +1,99 @@
 [
   {
+    "key": "PLJ4XB7H",
+    "version": 1980,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PLJ4XB7H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PLJ4XB7H",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/94P9LN76",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "PLJ4XB7H",
+      "version": 1980,
+      "parentItem": "94P9LN76",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "This bundle occupies the ellipsoid, the distal portion of the cone inner segment (IS), immediately proximal to the light-sensitive outer segment (OS; Fig. 1A)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|001562|00387",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[116.066,354.444,290.989,368.219],[36,343.443,290.999,357.218],[36,332.442,197.238,346.217]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-09-01T17:19:36Z",
+      "dateModified": "2022-09-01T17:19:36Z"
+    }
+  },
+  {
+    "key": "EAQUSRGH",
+    "version": 1978,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EAQUSRGH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EAQUSRGH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/94P9LN76",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "EAQUSRGH",
+      "version": 1978,
+      "parentItem": "94P9LN76",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Stiles-Crawford effect (SCE)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "1",
+      "annotationSortIndex": "00000|000846|00229",
+      "annotationPosition": "{\"pageIndex\":0,\"rects\":[[212.283,515.183,318.051,526.433]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-09-01T17:19:20Z",
+      "dateModified": "2022-09-01T17:19:20Z"
+    }
+  },
+  {
     "key": "W75MVB7H",
     "version": 1974,
     "library": {
@@ -105,7 +199,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 2
     },
     "data": {
       "key": "94P9LN76",
