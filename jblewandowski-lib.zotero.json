@@ -1,5 +1,155 @@
 [
   {
+    "key": "B4XTRTNT",
+    "version": 1989,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B4XTRTNT",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B4XTRTNT",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6D4BT5MI",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "B4XTRTNT",
+      "version": 1989,
+      "parentItem": "6D4BT5MI",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The strategic DDD pat- terns are used on Context Maps to define the relationships between the Bounded Contexts.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|002056|00519",
+      "annotationPosition": "{\"rects\":[[377.175,263.931,479.68,272.778],[134.954,251.975,479.979,260.822],[135.323,240.02,175.432,248.867]],\"pageIndex\":1}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-09-12T13:10:03Z",
+      "dateModified": "2022-09-12T13:10:03Z"
+    }
+  },
+  {
+    "key": "8EZF23SU",
+    "version": 1988,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8EZF23SU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8EZF23SU",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6D4BT5MI",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8EZF23SU",
+      "version": 1988,
+      "parentItem": "6D4BT5MI",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "d. The question how concrete (micro-)services shall be derived from a DDD-based model (and then composed into applications) has only been answered partially so far [31]",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "2",
+      "annotationSortIndex": "00001|000777|00250",
+      "annotationPosition": "{\"pageIndex\":1,\"rects\":[[200.08,532.762,479.959,541.609],[135.094,520.807,480.089,529.654],[135.183,508.851,259.576,517.698]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-09-12T13:01:00Z",
+      "dateModified": "2022-09-12T13:01:00Z"
+    }
+  },
+  {
+    "key": "6D4BT5MI",
+    "version": 1986,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6D4BT5MI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6D4BT5MI",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6D4BT5MI/file/view",
+        "title": "978-3-030-67445-8_11_AuthorsCopy.pdf",
+        "length": 1255468
+      }
+    },
+    "meta": {
+      "numChildren": 2
+    },
+    "data": {
+      "key": "6D4BT5MI",
+      "version": 1986,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "978-3-030-67445-8_11_AuthorsCopy.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "978-3-030-67445-8_11_AuthorsCopy.pdf",
+      "md5": "f49f8c8ed3ebe58a066b153e1e4378e1",
+      "mtime": 1662987631388,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-09-12T13:00:31Z",
+      "dateModified": "2022-09-12T13:00:31Z"
+    }
+  },
+  {
     "key": "8WYY3ZHL",
     "version": 1984,
     "library": {
