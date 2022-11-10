@@ -31056,6 +31056,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/XP2QYGTS",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5VLIRZ6Z",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 559507
       }
     },
     "meta": {
