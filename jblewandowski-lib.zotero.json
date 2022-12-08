@@ -1,5 +1,61 @@
 [
   {
+    "key": "6MJYAX68",
+    "version": 2003,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6MJYAX68",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6MJYAX68",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/6MJYAX68/file/view",
+        "title": "s41392-020-0207-x.pdf",
+        "length": 6214044
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "6MJYAX68",
+      "version": 2003,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "s41392-020-0207-x.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "s41392-020-0207-x.pdf",
+      "md5": "7db38120add3fad7526323e189102137",
+      "mtime": 1670491624255,
+      "tags": [],
+      "collections": [
+        "B6B3RW8P"
+      ],
+      "relations": {},
+      "dateAdded": "2022-12-08T09:27:04Z",
+      "dateModified": "2022-12-08T09:27:04Z"
+    }
+  },
+  {
     "key": "B4XTRTNT",
     "version": 1989,
     "library": {
