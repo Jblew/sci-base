@@ -1,7 +1,7 @@
 name: Fetch zotero bibliography
 on:
   schedule:
-    - cron: "*/10 9-23 * * *"
+    - cron: "*/45 9-23 * * *"
     - cron: "0 0-9 * * *"
   push:
     branches:
