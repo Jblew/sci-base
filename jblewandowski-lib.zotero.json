@@ -1,5 +1,61 @@
 [
   {
+    "key": "Z4UR7UGA",
+    "version": 2005,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Z4UR7UGA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Z4UR7UGA",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/Z4UR7UGA/file/view",
+        "title": "4+1view-architecture.pdf",
+        "length": 114184
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "Z4UR7UGA",
+      "version": 2005,
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "4+1view-architecture.pdf",
+      "accessDate": "2022-12-23T19:32:35Z",
+      "url": "https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "4+1view-architecture.pdf",
+      "md5": "dac1fb9066d1285eaeb952f28b97c070",
+      "mtime": 1671823955045,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2022-12-23T19:32:35Z",
+      "dateModified": "2022-12-23T19:32:35Z"
+    }
+  },
+  {
     "key": "6MJYAX68",
     "version": 2003,
     "library": {
