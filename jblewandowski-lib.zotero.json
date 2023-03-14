@@ -1,5 +1,61 @@
 [
   {
+    "key": "DI54KSYM",
+    "version": 2009,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DI54KSYM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DI54KSYM",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/DI54KSYM/file/view",
+        "title": "driskell1992.pdf",
+        "length": 840309
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "DI54KSYM",
+      "version": 2009,
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "driskell1992.pdf",
+      "accessDate": "2023-03-14T19:11:17Z",
+      "url": "https://zero.sci-hub.se/2499/e97e367ec92f364c886ac61fcc72298a/driskell1992.pdf?download=true",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "driskell1992.pdf",
+      "md5": "a22121c6d7dc6778cac337dcf573e9ae",
+      "mtime": 1678821077210,
+      "tags": [],
+      "collections": [
+        "NW25LMKW"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-14T19:11:17Z",
+      "dateModified": "2023-03-14T19:11:17Z"
+    }
+  },
+  {
     "key": "Z4UR7UGA",
     "version": 2005,
     "library": {
