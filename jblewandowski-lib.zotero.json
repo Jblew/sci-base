@@ -1,5 +1,59 @@
 [
   {
+    "key": "4W893IQB",
+    "version": 2012,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/4W893IQB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/4W893IQB",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/4W893IQB/file/view",
+        "title": "lebien2008.pdf",
+        "length": 1466163
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4W893IQB",
+      "version": 2012,
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "lebien2008.pdf",
+      "accessDate": "2023-04-06T14:50:11Z",
+      "url": "https://moscow.sci-hub.se/4084/0d12b366066a4941fc93a34bbe8e53e5/lebien2008.pdf?download=true",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "lebien2008.pdf",
+      "md5": "0130ce52c4e16b38d2246641c452796f",
+      "mtime": 1680792611879,
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2023-04-06T14:50:11Z",
+      "dateModified": "2023-04-06T14:50:11Z"
+    }
+  },
+  {
     "key": "DI54KSYM",
     "version": 2009,
     "library": {
