@@ -1,5 +1,61 @@
 [
   {
+    "key": "RMY4BCVC",
+    "version": 2014,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RMY4BCVC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RMY4BCVC",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/RMY4BCVC/file/view",
+        "title": "Molecular digital data storage using DNA.pdf",
+        "length": 1193894
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "RMY4BCVC",
+      "version": 2014,
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Molecular digital data storage using DNA.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Molecular digital data storage using DNA.pdf",
+      "md5": "bca73aa03d0441005bcfe7b54cefb12d",
+      "mtime": 1683327502114,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2023-05-05T22:58:22Z",
+      "dateModified": "2023-05-05T22:58:22Z"
+    }
+  },
+  {
     "key": "4W893IQB",
     "version": 2012,
     "library": {
