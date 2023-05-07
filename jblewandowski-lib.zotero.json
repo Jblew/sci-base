@@ -1,5 +1,166 @@
 [
   {
+    "key": "VKZD4SU5",
+    "version": 2016,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VKZD4SU5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VKZD4SU5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/PZWDFDLZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/VKZD4SU5/file/view",
+        "title": "Allen et al. - 2016 - Associations of Cognitive Function Scores with Car.pdf",
+        "length": 280361
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VKZD4SU5",
+      "version": 2016,
+      "parentItem": "PZWDFDLZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Allen et al. - 2016 - Associations of Cognitive Function Scores with Car.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Allen et al. - 2016 - Associations of Cognitive Function Scores with Car.pdf",
+      "md5": "0d7aa11a0df742ebfc00819749ab2291",
+      "mtime": 1683480781000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-07T17:32:57Z",
+      "dateModified": "2023-05-07T17:33:01Z"
+    }
+  },
+  {
+    "key": "PZWDFDLZ",
+    "version": 2015,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PZWDFDLZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PZWDFDLZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/VKZD4SU5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 280361
+      }
+    },
+    "meta": {
+      "creatorSummary": "Allen et al.",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "PZWDFDLZ",
+      "version": 2015,
+      "itemType": "journalArticle",
+      "title": "Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers: A Controlled Exposure Study of Green and Conventional Office Environments",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Joseph G.",
+          "lastName": "Allen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Piers",
+          "lastName": "MacNaughton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Usha",
+          "lastName": "Satish"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Suresh",
+          "lastName": "Santanam"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jose",
+          "lastName": "Vallarino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John D.",
+          "lastName": "Spengler"
+        }
+      ],
+      "abstractNote": "Background: The indoor built environment plays a critical role in our overall well-being because of both the amount of time we spend indoors (~90%) and the ability of buildings to positively or negatively influence our health. The advent of sustainable design or green building strategies reinvigorated questions regarding the specific factors in buildings that lead to optimized conditions for health and productivity.\nObjective: We simulated indoor environmental quality (IEQ) conditions in “Green” and “Conventional” buildings and evaluated the impacts on an objective measure of human performance: higher-order cognitive function.\nMethods: Twenty-four participants spent 6 full work days (0900–1700 hours) in an environ­ mentally controlled office space, blinded to test conditions. On different days, they were exposed to IEQ conditions representative of Conventional [high concentrations of volatile organic compounds (VOCs)] and Green (low concentrations of VOCs) office buildings in the United States. Additional conditions simulated a Green building with a high outdoor air ventilation rate (labeled Green+) and artificially elevated carbon dioxide (CO2) levels independent of ventilation.\nResults: On average, cognitive scores were 61% higher on the Green building day and 101% higher on the two Green+ building days than on the Conventional building day (p < 0.0001). VOCs and CO2 were independently associated with cognitive scores.\nConclusions: Cognitive function scores were significantly better under Green+ building conditions than in the Conventional building conditions for all nine functional domains. These findings have wide-ranging implications because this study was designed to reflect conditions that are commonly encountered every day in many indoor environments.",
+      "publicationTitle": "Environmental Health Perspectives",
+      "volume": "124",
+      "issue": "6",
+      "pages": "805-812",
+      "date": "06/2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Environmental Health Perspectives",
+      "language": "en",
+      "DOI": "10.1289/ehp.1510037",
+      "ISSN": "0091-6765, 1552-9924",
+      "shortTitle": "Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers",
+      "url": "https://ehp.niehs.nih.gov/doi/10.1289/ehp.1510037",
+      "accessDate": "2023-05-07T17:33:01Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "W65AE2DP"
+      ],
+      "relations": {},
+      "dateAdded": "2023-05-07T17:33:01Z",
+      "dateModified": "2023-05-07T17:33:01Z"
+    }
+  },
+  {
     "key": "RMY4BCVC",
     "version": 2014,
     "library": {
