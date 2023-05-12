@@ -1,5 +1,152 @@
 [
   {
+    "key": "G2BHI46K",
+    "version": 2021,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/G2BHI46K",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CTF2SMPM",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K/file/view",
+        "title": "2023.05.06.23289563v1.full.pdf",
+        "length": 3093473
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "G2BHI46K",
+      "version": 2021,
+      "parentItem": "CTF2SMPM",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Sabel et al. - 2023 - Fake Publications in Biomedical Science Red-flagg.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Sabel et al. - 2023 - Fake Publications in Biomedical Science Red-flagg.pdf",
+      "md5": "607124712fdf0a687699f0f458bc3c13",
+      "mtime": 1683899094000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:44:54Z",
+      "dateModified": "2023-05-12T13:44:58Z"
+    }
+  },
+  {
+    "key": "CTF2SMPM",
+    "version": 2021,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CTF2SMPM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CTF2SMPM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3093473
+      }
+    },
+    "meta": {
+      "creatorSummary": "Sabel et al.",
+      "parsedDate": "2023-05-08",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CTF2SMPM",
+      "version": 2021,
+      "itemType": "report",
+      "title": "Fake Publications in Biomedical Science: Red-flagging Method Indicates Mass Production",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bernhard A.",
+          "lastName": "Sabel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emely",
+          "lastName": "Knaack"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gerd",
+          "lastName": "Gigerenzer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mirela",
+          "lastName": "Bilc"
+        }
+      ],
+      "abstractNote": "Background: Integrity of academic publishing is increasingly undermined by fake science publications massively produced by commercial “editing services” (so-called “paper mills”). They use AI-supported, automated production techniques at scale and sell fake publications to students, scientists, and physicians under pressure to advance their careers. Because the scale of fake publications in biomedicine is unknown, we developed a simple method to red-flag them and estimate their number.\nMethods: To identify indicators able to red-flagged fake publications (RFPs), we sent questionnaires to authors. Based on author responses, three indicators were identified: “author´s private email”, “international co-author” and “hospital affiliation”. These were used to analyze 15,120 PubMed®-listed publications regarding date, journal, impact factor, and country of author and validated in a sample of 400 known fakes and 400 matched presumed non-fakes using classification (tallying) rules to red-flag potential fakes. For a subsample of 80 papers we used an additional indicator related to the percentage of RFP citations.\nResults: The classification rules using two (three) indicators had sensitivities of 86% (90%) and false alarm rates of 44% (37%). From 2010 to 2020 the RFP rate increased from 16% to 28%. Given the 1.3 million biomedical Scimago-listed publications in 2020, we estimate the scope of >300,000 RFPs annually. Countries with the highest RFP proportion are Russia, Turkey, China, Egypt, and India (39%-48%), with China, in absolute terms, as the largest contributor of all RFPs (55%).\nConclusions: Potential fake publications can be red-flagged using simple-to-use, validated classification rules to earmark them for subsequent scrutiny. RFP rates are increasing, suggesting higher actual fake rates than previously reported. The scale and proliferation of fake publications in biomedicine can damage trust in science, endanger public health, and impact economic spending and security. Easy-to-apply fake detection methods, as proposed here, or more complex automated methods can help prevent further damage to the permanent scientific record and enable the retraction of fake publications at scale.",
+      "reportNumber": "",
+      "reportType": "preprint",
+      "seriesTitle": "",
+      "place": "",
+      "institution": "Medical Ethics",
+      "date": "2023-05-08",
+      "pages": "",
+      "language": "en",
+      "shortTitle": "Fake Publications in Biomedical Science",
+      "url": "http://medrxiv.org/lookup/doi/10.1101/2023.05.06.23289563",
+      "accessDate": "2023-05-12T13:44:57Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1101/2023.05.06.23289563",
+      "tags": [],
+      "collections": [
+        "3GW3SEL5"
+      ],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:44:57Z",
+      "dateModified": "2023-05-12T13:44:57Z"
+    }
+  },
+  {
     "key": "VKZD4SU5",
     "version": 2016,
     "library": {
