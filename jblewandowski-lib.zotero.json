@@ -1,5 +1,851 @@
 [
   {
+    "key": "5G99QNEM",
+    "version": 2046,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5G99QNEM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5G99QNEM",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "5G99QNEM",
+      "version": 2046,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Thirdly, we need an advanced system to check scientific integrity, independent of academic publishers.",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|002885|00644",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[299.35,184.508,523.288,197.792],[70.824,169.628,339.79,182.912]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T14:00:19Z",
+      "dateModified": "2023-05-12T14:00:19Z"
+    }
+  },
+  {
+    "key": "Y6KBR3RV",
+    "version": 2045,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Y6KBR3RV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Y6KBR3RV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "Y6KBR3RV",
+      "version": 2045,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The European Research Council (ERC) has already taken a first step by asking researchers to refrain from listing impact factors in their applications, consistent with the San Francisco Declaration on Research Assessment (DORA).",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|002690|00614",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[70.824,214.268,518.644,227.552],[70.824,199.388,498.46,212.672],[70.824,184.508,296.294,197.792]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T14:00:00Z",
+      "dateModified": "2023-05-12T14:00:00Z"
+    }
+  },
+  {
+    "key": "PGPHII2H",
+    "version": 2044,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/PGPHII2H",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/PGPHII2H",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "PGPHII2H",
+      "version": 2044,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "After assessing the citations of 12 retracted clinical trial reports in 68 systematic reviews, meta-analyses, guidelines, and clinical trials, they concluded that 13 out of the 68 reviews would likely have to change their conclusions if the retracted publications were removed.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|001195|00301",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[240.41,527.038,508.396,540.322],[70.824,512.158,522.364,525.442],[70.824,497.278,504.112,510.562],[70.824,482.398,203.81,495.682]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:59:07Z",
+      "dateModified": "2023-05-12T13:59:07Z"
+    }
+  },
+  {
+    "key": "6J74MISH",
+    "version": 2042,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6J74MISH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6J74MISH",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "6J74MISH",
+      "version": 2042,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "estimated financial loss of $28 billion annually by the pharmaceutical industry",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|001018|00271",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[85.104,556.798,461.944,570.082]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:58:44Z",
+      "dateModified": "2023-05-12T13:58:44Z"
+    }
+  },
+  {
+    "key": "LIDW4EXY",
+    "version": 2041,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LIDW4EXY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LIDW4EXY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "LIDW4EXY",
+      "version": 2041,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "“replication crisis”",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|000948|00257",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[141.38,571.674,231.782,584.963]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:58:35Z",
+      "dateModified": "2023-05-12T13:58:35Z"
+    }
+  },
+  {
+    "key": "GSNYHC7D",
+    "version": 2040,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GSNYHC7D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GSNYHC7D",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "GSNYHC7D",
+      "version": 2040,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Preclinical studies at biotech company Amgen, for example, could replicate the results of only 6/53 “landmark” articles, and at Bayer, only 14/67 were replicable in oncology, women’s health, and cardiovascular medicine.",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|000756|00212",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[354.79,616.343,492.35,629.653],[70.824,601.434,507.1,614.723],[70.824,586.554,504.388,599.843],[70.824,571.674,117.74,584.963]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:58:30Z",
+      "dateModified": "2023-05-12T13:58:30Z"
+    }
+  },
+  {
+    "key": "2B7D2AGK",
+    "version": 2039,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2B7D2AGK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2B7D2AGK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "2B7D2AGK",
+      "version": 2039,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "about one quarter of them may misinform future development of human therapies (Park et al., 2022)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|000673|00197",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[319.87,631.228,520.384,644.512],[70.824,616.343,348.822,629.653]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:58:12Z",
+      "dateModified": "2023-05-12T13:58:12Z"
+    }
+  },
+  {
+    "key": "8WFDFU32",
+    "version": 2038,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8WFDFU32",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8WFDFU32",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8WFDFU32",
+      "version": 2038,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Paper mills feed on the rising administrative practice to evaluate researchers mainly by the “publish-or-perish“ criteria of counting papers and journal impact factors as a surrogate for evaluating actual research quality and content (Van Dalen and Henkens, 2012; CandalPedreira et al., 2022).",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "7",
+      "annotationSortIndex": "00006|000233|00112",
+      "annotationPosition": "{\"pageIndex\":6,\"rects\":[[99.144,716.308,516.7,729.592],[70.824,702.504,508.672,715.793],[70.824,688.708,505.816,701.992],[70.824,674.908,174.02,688.192]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:57:58Z",
+      "dateModified": "2023-05-12T13:57:58Z"
+    }
+  },
+  {
+    "key": "3T9DNILG",
+    "version": 2037,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/3T9DNILG",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/3T9DNILG",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "3T9DNILG",
+      "version": 2037,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "The rapid rise of the fake science industry is driven by SCI publication pressure on scientists, who are tempted to use paper mills that offer ghostwriting services at $1,000 to25,000 per publication, a profitable business model (Hu & Wu, 2013).",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00005|002675|00699",
+      "annotationPosition": "{\"pageIndex\":5,\"rects\":[[99.144,128.928,517.312,142.212],[70.824,115.128,521.26,128.412],[70.824,101.328,372.19,114.612]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:57:25Z",
+      "dateModified": "2023-05-12T13:57:25Z"
+    }
+  },
+  {
+    "key": "GDA9GIN6",
+    "version": 2036,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GDA9GIN6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GDA9GIN6",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "GDA9GIN6",
+      "version": 2036,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Here, editors were offered payment for each publication and were lured by a “citation booster” whereby paper mills offered to cite the “friendly” journal in their other fake articles",
+      "annotationComment": "",
+      "annotationColor": "#5fb236",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00005|001291|00342",
+      "annotationPosition": "{\"pageIndex\":5,\"rects\":[[273.41,486.478,485.608,499.762],[70.824,471.594,499.324,484.883],[70.824,456.694,282.65,469.983]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:56:29Z",
+      "dateModified": "2023-05-12T13:56:29Z"
+    }
+  },
+  {
+    "key": "EI4N2NE3",
+    "version": 2035,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/EI4N2NE3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/EI4N2NE3",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "EI4N2NE3",
+      "version": 2035,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Paper mills fully prepare – and some guarantee publication in an SCI journal and charge hefty fees ($1,000-$25,000; in Russia: $5,000)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "6",
+      "annotationSortIndex": "00005|000598|00208",
+      "annotationPosition": "{\"pageIndex\":5,\"rects\":[[280.01,620.539,515.392,633.855],[70.824,605.638,492.616,618.922]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:55:26Z",
+      "dateModified": "2023-05-12T13:55:26Z"
+    }
+  },
+  {
+    "key": "UCHAMU8A",
+    "version": 2033,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/UCHAMU8A",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/UCHAMU8A",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "UCHAMU8A",
+      "version": 2033,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "This revenue does not include non-Scimago journals (classified as “predatory journals”), which are probably more polluted by fakes, nor the open access and publication fees charged by academic publishers (approx. = $1 billion or an estimated 25% of paper mill revenue).",
+      "annotationComment": "",
+      "annotationColor": "#5fb236",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00004|002653|00695",
+      "annotationPosition": "{\"pageIndex\":4,\"rects\":[[282.29,133.608,493.036,146.892],[70.824,118.604,513.964,131.893],[70.824,103.728,517.456,117.012],[70.824,88.848,269.09,102.132]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:54:58Z",
+      "dateModified": "2023-05-12T13:54:58Z"
+    }
+  },
+  {
+    "key": "XQJG38IY",
+    "version": 2032,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/XQJG38IY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/XQJG38IY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "XQJG38IY",
+      "version": 2032,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Assuming an average $10,000 price tag for a fake publication, the estimated annual revenue of paper mills is up to $3-4 billion.",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00004|002546|00680",
+      "annotationPosition": "{\"pageIndex\":4,\"rects\":[[106.22,148.503,506.72,161.813],[70.824,133.608,279.29,146.892]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:54:39Z",
+      "dateModified": "2023-05-12T13:54:39Z"
+    }
+  },
+  {
+    "key": "7V72XS6J",
+    "version": 2031,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/7V72XS6J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/7V72XS6J",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "7V72XS6J",
+      "version": 2031,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Note the large differences in fake rate between countries, even between neighboring countries with similar histories such as Russia (48.3%) and Ukraine (3.1%), probably due to different government policies",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "5",
+      "annotationSortIndex": "00004|002187|00579",
+      "annotationPosition": "{\"pageIndex\":4,\"rects\":[[158.06,248.948,500.968,262.232],[70.824,234.188,496.06,247.472],[70.824,219.428,291.05,232.712]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:53:40Z",
+      "dateModified": "2023-05-12T13:53:40Z"
+    }
+  },
+  {
+    "key": "DBYYXBER",
+    "version": 2029,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/DBYYXBER",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/DBYYXBER",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "DBYYXBER",
+      "version": 2029,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "Despite repeated reminders with a warning that failure to reply – or replying inadequately – could trigger retraction, the response rate among suspected authors was only 45.4% (20/44) compared with 95.8% (46/48) for the control group. This survey provided the first indicators of red-flagged fake publications (RFP)",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "4",
+      "annotationSortIndex": "00003|002042|00554",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[407.95,274.268,488.272,287.552],[70.824,259.384,492.124,272.673],[70.824,244.508,520.156,257.792],[70.824,229.628,512.38,242.912],[70.824,214.628,185.432,227.912]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:52:20Z",
+      "dateModified": "2023-05-12T13:52:20Z"
+    }
+  },
+  {
+    "key": "YJESHTYV",
+    "version": 2028,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/YJESHTYV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/YJESHTYV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "YJESHTYV",
+      "version": 2028,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "A questionnaire was sent to all authors and, for control, to 48 authors of non-suspicious papers. It contained questions that authors of fake papers might be reluctant to answer (e.g., “Are you willing to provide original data?” [only 1 author of 44 suspicious articles did]",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "4",
+      "annotationSortIndex": "00003|001736|00494",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[436.18,333.818,512.428,347.102],[70.824,318.938,508.66,332.222],[70.824,304.049,510.009,317.365],[70.824,289.144,393.322,302.433]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:52:00Z",
+      "dateModified": "2023-05-12T13:52:00Z"
+    }
+  },
+  {
+    "key": "HPWEBK2J",
+    "version": 2026,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/HPWEBK2J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/HPWEBK2J",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "HPWEBK2J",
+      "version": 2026,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "where a publication was labelled as RFP: if an author used a private email and had no international partner.",
+      "annotationComment": "",
+      "annotationColor": "#ff6666",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|001640|00473",
+      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[405.19,355.418,521.488,368.702],[70.824,340.538,466.336,353.822]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:50:34Z",
+      "dateModified": "2023-05-12T13:50:34Z"
+    }
+  },
+  {
+    "key": "D3534LQI",
+    "version": 2025,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/D3534LQI",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/D3534LQI",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G2BHI46K",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "D3534LQI",
+      "version": 2025,
+      "parentItem": "G2BHI46K",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "(i) Authors of fake publications are reluctant to provide critical information as revealed by their response – or non-response – to the questionnaire by the editor,",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "3",
+      "annotationSortIndex": "00002|001330|00413",
+      "annotationPosition": "{\"pageIndex\":2,\"rects\":[[106.22,414.938,481.12,428.222],[70.824,400.054,461.74,413.343]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-12T13:49:45Z",
+      "dateModified": "2023-05-12T13:49:45Z"
+    }
+  },
+  {
     "key": "G2BHI46K",
     "version": 2021,
     "library": {
@@ -34,7 +880,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 18
     },
     "data": {
       "key": "G2BHI46K",
