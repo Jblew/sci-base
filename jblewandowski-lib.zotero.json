@@ -1,5 +1,144 @@
 [
   {
+    "key": "Q3WVQZ3J",
+    "version": 2082,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/Q3WVQZ3J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/Q3WVQZ3J",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kelders et al.",
+      "parsedDate": "2012-11-14",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "Q3WVQZ3J",
+      "version": 2082,
+      "itemType": "journalArticle",
+      "title": "Persuasive System Design Does Matter: a Systematic Review of Adherence to Web-based Interventions",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Saskia M",
+          "lastName": "Kelders"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robin N",
+          "lastName": "Kok"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hans C",
+          "lastName": "Ossebaard"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Julia Ewc",
+          "lastName": "Van Gemert-Pijnen"
+        }
+      ],
+      "abstractNote": "Background: Although web-based interventions for promoting health and health-related behavior can be effective, poor adherence is a common issue that needs to be addressed. Technology as a means to communicate the content in web-based interventions has been neglected in research. Indeed, technology is often seen as a black-box, a mere tool that has no effect or value and serves only as a vehicle to deliver intervention content. In this paper we examine technology from a holistic perspective. We see it as a vital and inseparable aspect of web-based interventions to help explain and understand adherence.\nObjective: This study aims to review the literature on web-based health interventions to investigate whether intervention characteristics and persuasive design affect adherence to a web-based intervention.\nMethods: We conducted a systematic review of studies into web-based health interventions. Per intervention, intervention characteristics, persuasive technology elements and adherence were coded. We performed a multiple regression analysis to investigate whether these variables could predict adherence.\nResults: We included 101 articles on 83 interventions. The typical web-based intervention is meant to be used once a week, is modular in set-up, is updated once a week, lasts for 10 weeks, includes interaction with the system and a counselor and peers on the web, includes some persuasive technology elements, and about 50% of the participants adhere to the intervention. Regarding persuasive technology, we see that primary task support elements are most commonly employed (mean 2.9 out of a possible 7.0). Dialogue support and social support are less commonly employed (mean 1.5 and 1.2 out of a possible 7.0, respectively). When comparing the interventions of the different health care areas, we find significant differences in intended usage (p = .004), setup (p < .001), updates (p < .001), frequency of interaction with a counselor (p < .001), the system (p = .003) and peers (p = .017), duration (F = 6.068, p = .004), adherence (F = 4.833, p = .010) and the number of primary task support elements (F = 5.631, p = .005). Our final regression model explained 55% of the variance in adherence. In this model, a RCT study as opposed to an observational study, increased interaction with a counselor, more frequent intended usage, more frequent updates and more extensive employment of dialogue support significantly predicted better adherence.\nConclusions: Using intervention characteristics and persuasive technology elements, a substantial amount of variance in adherence can be explained. Although there are differences between health care areas on intervention characteristics, health care area per se does not predict adherence. Rather, the differences in technology and interaction predict adherence. The results of this study can be used to make an informed decision about how to design a web-based intervention to which patients are more likely to adhere.",
+      "publicationTitle": "Journal of Medical Internet Research",
+      "volume": "14",
+      "issue": "6",
+      "pages": "e152",
+      "date": "2012-11-14",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "J Med Internet Res",
+      "language": "en",
+      "DOI": "10.2196/jmir.2104",
+      "ISSN": "1438-8871",
+      "shortTitle": "Persuasive System Design Does Matter",
+      "url": "http://www.jmir.org/2012/6/e152/",
+      "accessDate": "2023-06-08T09:41:15Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: keldersPersuasiveSystemDesign2012",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-08T09:41:15Z",
+      "dateModified": "2023-06-08T09:42:30Z"
+    }
+  },
+  {
+    "key": "JV47AB46",
+    "version": 2081,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JV47AB46",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JV47AB46",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/Q3WVQZ3J",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JV47AB46",
+      "version": 2081,
+      "parentItem": "Q3WVQZ3J",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kelders et al. - 2012 - Persuasive System Design Does Matter a Systematic.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kelders et al. - 2012 - Persuasive System Design Does Matter a Systematic.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-08T09:41:11Z",
+      "dateModified": "2023-06-08T09:41:16Z"
+    }
+  },
+  {
     "key": "5G99QNEM",
     "version": 2046,
     "library": {
