@@ -1,5 +1,136 @@
 [
   {
+    "key": "THDH847L",
+    "version": 2096,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/THDH847L",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/THDH847L",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kahneman",
+      "parsedDate": "2013",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "THDH847L",
+      "version": 2096,
+      "itemType": "book",
+      "title": "Thinking, fast and slow",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Kahneman"
+        }
+      ],
+      "abstractNote": "In this work the author, a recipient of the Nobel Prize in Economic Sciences for his seminal work in psychology that challenged the rational model of judgment and decision making, has brought together his many years of research and thinking in one book. He explains the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. He exposes the extraordinary capabilities, and also the faults and biases, of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behavior. He reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives, and how we can use different techniques to guard against the mental glitches that often get us into trouble. This author's work has transformed cognitive psychology and launched the new fields of behavioral economics and happiness studies. In this book, he takes us on a tour of the mind and explains the two systems that drive the way we think and the way we make choices",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "1st pbk. ed",
+      "place": "New York",
+      "publisher": "Farrar, Straus and Giroux",
+      "date": "2013",
+      "numPages": "499",
+      "language": "",
+      "ISBN": "978-0-374-53355-7",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "BF441 .K238 2013",
+      "rights": "",
+      "extra": "OCLC: ocn834531418\nCitation Key: kahnemanThinkingFastSlow2013",
+      "tags": [
+        {
+          "tag": "Decision making",
+          "type": 1
+        },
+        {
+          "tag": "Intuition",
+          "type": 1
+        },
+        {
+          "tag": "Reasoning",
+          "type": 1
+        },
+        {
+          "tag": "Thought and thinking",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-08T09:59:46Z",
+      "dateModified": "2023-06-08T09:59:57Z"
+    }
+  },
+  {
+    "key": "WBPJBJEE",
+    "version": 2095,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/WBPJBJEE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/WBPJBJEE",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/THDH847L",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WBPJBJEE",
+      "version": 2095,
+      "parentItem": "THDH847L",
+      "itemType": "note",
+      "note": "Two Systems. The characters of the story ; Attention and effort ; The lazy controller ; The associative machine ; Cognitive ease ; Norms, surprises, and causes ; A machine for jumping to conclusions ; How judgments happen ; Answering an easier question -- Heuristics and Biases. The law of small numbers ; Anchors ; The science of availability ; Availability, emotion, and risk ; Tom W's specialty ; Linda: less is more ; Causes trump statistics ; Regression to the mean ; Taming intuitive predictions -- Overconfidence. The illusion of understanding ; The illusion of validity ; Intuitions vs. formulas ; Expert intuition: when can we trust it? ; The outside view ; The engine of capitalism -- Choices. Bernoulli's errors ; Prospect theory ; The endowment effect ; Bad events ; The fourfold pattern ; Rare events ; Risk policies ; Keeping score ; Reversals ; Frames and reality -- Two Selves. Two selves ; Life as a story ; Experienced well-being ; Thinking about life -- Judgment under uncertainty -- Choices, values, and frames",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-08T09:59:46Z",
+      "dateModified": "2023-06-08T09:59:46Z"
+    }
+  },
+  {
     "key": "Q3WVQZ3J",
     "version": 2082,
     "library": {
