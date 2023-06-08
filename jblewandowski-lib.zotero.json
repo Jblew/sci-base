@@ -152,6 +152,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/Q3WVQZ3J",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/JV47AB46",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 308957
       }
     },
     "meta": {
@@ -219,7 +225,7 @@
   },
   {
     "key": "JV47AB46",
-    "version": 2081,
+    "version": 2102,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -243,6 +249,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/Q3WVQZ3J",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/JV47AB46/file/view",
+        "title": "Kelders et al. - 2012 - Persuasive System Design Does Matter a Systematic.pdf",
+        "length": 308957
       }
     },
     "meta": {
@@ -250,7 +262,7 @@
     },
     "data": {
       "key": "JV47AB46",
-      "version": 2081,
+      "version": 2102,
       "parentItem": "Q3WVQZ3J",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -261,8 +273,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Kelders et al. - 2012 - Persuasive System Design Does Matter a Systematic.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "dffbdc7750de63bc3107b7285ceedec7",
+      "mtime": 1686217276000,
       "tags": [],
       "relations": {},
       "dateAdded": "2023-06-08T09:41:11Z",
