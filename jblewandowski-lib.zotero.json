@@ -1,5 +1,530 @@
 [
   {
+    "key": "6ZQPICHC",
+    "version": 2124,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/6ZQPICHC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/6ZQPICHC",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/B4JA297Z",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2806154
+      }
+    },
+    "meta": {
+      "creatorSummary": "Istrefi et al.",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6ZQPICHC",
+      "version": 2124,
+      "itemType": "journalArticle",
+      "title": "NUMBER OF CREDITS: 30 ECTS",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Florian",
+          "lastName": "Istrefi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tim de Verdier",
+          "lastName": "Below"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ryan Michael",
+          "lastName": "Rumble"
+        }
+      ],
+      "abstractNote": "Background: We are seeing that both the field of gamification and the mobile financial application industry are growing at a rapid pace, without any indication of it declining. Businesses are implementing gamification in their platforms to motivate their users to use their applications and differentiate themselves from competitors. Purpose: This research aims to explore how gamification can influence the user's motivation in mobile financial applications. Previous literature has shown that gamification can have different outcomes on user motivation depending on what kind of environment it is implemented in and not have the desired outcome organisation anticipates it to have. Even though there is clear evidence that MFA is starting to gamify their applications, there is no study investigating how this influences the user's motivations.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: istrefiNUMBERCREDITS30",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:45:48Z",
+      "dateModified": "2023-06-10T10:45:53Z"
+    }
+  },
+  {
+    "key": "B4JA297Z",
+    "version": 2125,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/B4JA297Z",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/B4JA297Z",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6ZQPICHC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/B4JA297Z/file/view",
+        "title": "Istrefi et al. - NUMBER OF CREDITS 30 ECTS.pdf",
+        "length": 2806154
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "B4JA297Z",
+      "version": 2125,
+      "parentItem": "6ZQPICHC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Istrefi et al. - NUMBER OF CREDITS 30 ECTS.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Istrefi et al. - NUMBER OF CREDITS 30 ECTS.pdf",
+      "md5": "065229eb978b57f439e7928792df1e04",
+      "mtime": 1686393949000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:45:46Z",
+      "dateModified": "2023-06-10T10:45:49Z"
+    }
+  },
+  {
+    "key": "G6FYNS9P",
+    "version": 2121,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/G6FYNS9P",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/G6FYNS9P",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/BPZUTAG7",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 460076
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marisa et al.",
+      "parsedDate": "2020",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "G6FYNS9P",
+      "version": 2121,
+      "itemType": "journalArticle",
+      "title": "Evaluation of Student Core Drives on e-Learning during the Covid-19 with Octalysis Gamification Framework",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Fitri",
+          "lastName": "Marisa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sharifah",
+          "lastName": "Sakinah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zeratul",
+          "lastName": "Izzah"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anastasia",
+          "lastName": "L"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ronald",
+          "lastName": "David"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anang",
+          "lastName": "Aris"
+        }
+      ],
+      "abstractNote": "Learning activities during the Covid-19 pandemic were carried out with an online system even though in reality many institutions had not prepared their systems and infrastructure properly. Some e-learning media that are generally used based on survey results include 53.81% google classrooms combined with other applications that are not integrated with the institution's Learning Management System. This condition provides research opportunities to evaluate the effectiveness of online learning, especially how students are motivated to learn the method, where the results can be used as a reference in developing and refining the method. Based on many studies, that the gamification model can increase individual motivation in carrying out activities, this study uses a gamification octalysis framework to analyze the extent of the role of gamification in the learning process and measure the amount of student motivation in online learning activities. The evaluation results show that the conclusion of the Likert scale results in a \"High\" level, while the highest score is \"Very High\". As for the octalysis test scale, the average score of 6.5 on a scale of 1 to 10. The conclusion from the results of this evaluation is that the motivation to learn e-learning during the Covid-19 period is quite high and has the potential to be developed. While the results of the Octalysis framework with 8 core drives are still average, for that we need innovation in E-learning which aims to increase student motivation based on Octalysis's 8 core drives. The results of this study recommend that gamification is needed to increase student learning motivation in order to improve learning outcomes.",
+      "publicationTitle": "International Journal of Advanced Computer Science and Applications",
+      "volume": "11",
+      "issue": "11",
+      "pages": "",
+      "date": "2020",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "IJACSA",
+      "language": "en",
+      "DOI": "10.14569/IJACSA.2020.0111114",
+      "ISSN": "21565570, 2158107X",
+      "shortTitle": "",
+      "url": "http://thesai.org/Publications/ViewPaper?Volume=11&Issue=11&Code=IJACSA&SerialNo=14",
+      "accessDate": "2023-06-10T10:39:27Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: marisaEvaluationStudentCore2020",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:39:27Z",
+      "dateModified": "2023-06-10T10:39:32Z"
+    }
+  },
+  {
+    "key": "VBK6AAPU",
+    "version": 2121,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VBK6AAPU",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VBK6AAPU",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/LNEU5B63",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 598743
+      }
+    },
+    "meta": {
+      "creatorSummary": "Marisa et al.",
+      "parsedDate": "2005",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "VBK6AAPU",
+      "version": 2121,
+      "itemType": "journalArticle",
+      "title": "ANALYSIS OF RELATIONSHIP CLV WITH 8 CORE DRIVES USING CLUSTERING K-MEANS AND OCTALYSIS GAMIFICATION FRAMEWORK",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Fitri",
+          "lastName": "Marisa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sharifah Sakinah Syed",
+          "lastName": "Ahmad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zeratul Izzah",
+          "lastName": "Mohd"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tubagus Mohammad",
+          "lastName": "Akhriza"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anastasia L",
+          "lastName": "Maukar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anang",
+          "lastName": "Aris"
+        }
+      ],
+      "abstractNote": "The CLV model is an indicator used to measure and evaluate the future value of customers to the company. But the CLV model is predictive where it will be more accurate if there are many supporting variables, one of which is customer motivation. Adopt the point of view of the Octalysis gamification framework, that behavior occurs because of an individual's motivation or drive. Therefore, it is important to explore what drives influence customer behavior, so that it can affect the customer's future value (Customer Lifetime Value). By using the K-Means clustering approach, CLV value weighting, and Octalysis framework, the study analyzes the relationship between CLV and 8 core drives to customer motivation to produce 3 contributions: (1) The results of K-Means analysis of customers based on variables L, R, F, M and CLV value weights have produced the best cluster k = 2 where segment-2 has a future value level (CLV) of the company higher than segment-1, (2) Likert scale comparison analysis and the relationship between the results of CLV segmentation on 8 core drives motivational resellers to produce similarity of ranking patterns on each core drive and its average, meaning that between the customer's future value (CLV) with 8 core drives the customer motivation is not interplay. (3) Comparative Octalysis analysis of the balance of 8 core drives resellers in the two segments results in a difference in the total Octagon score (segment-2 = 368, segment-1 = 419), and this means that the high or low future value of the customer against the company is inversely proportional to the high and low of 8 core drives reseller of companies.",
+      "publicationTitle": ". Vol.",
+      "volume": "",
+      "issue": "20",
+      "pages": "",
+      "date": "2005",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "Zotero",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: marisaANALYSISRELATIONSHIPCLV2005",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:39:20Z",
+      "dateModified": "2023-06-10T10:39:32Z"
+    }
+  },
+  {
+    "key": "BPZUTAG7",
+    "version": 2119,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/BPZUTAG7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/BPZUTAG7",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/G6FYNS9P",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/BPZUTAG7/file/view",
+        "title": "Evaluation of Student Core Drives on e-Learning during the Covid-19 with Octalysis Gamification Framework.pdf",
+        "length": 460076
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "BPZUTAG7",
+      "version": 2119,
+      "parentItem": "G6FYNS9P",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Marisa et al. - 2020 - Evaluation of Student Core Drives on e-Learning du.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Marisa et al. - 2020 - Evaluation of Student Core Drives on e-Learning du.pdf",
+      "md5": "3b9bdf6cefcfba0e15d3ee7094cbb454",
+      "mtime": 1686393565000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:39:25Z",
+      "dateModified": "2023-06-10T10:39:28Z"
+    }
+  },
+  {
+    "key": "LNEU5B63",
+    "version": 2117,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/LNEU5B63",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/LNEU5B63",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/VBK6AAPU",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/LNEU5B63/file/view",
+        "title": "Marisa et al. - 2005 - ANALYSIS OF RELATIONSHIP CLV WITH 8 CORE DRIVES US.pdf",
+        "length": 598743
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "LNEU5B63",
+      "version": 2117,
+      "parentItem": "VBK6AAPU",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Marisa et al. - 2005 - ANALYSIS OF RELATIONSHIP CLV WITH 8 CORE DRIVES US.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Marisa et al. - 2005 - ANALYSIS OF RELATIONSHIP CLV WITH 8 CORE DRIVES US.pdf",
+      "md5": "cb99be8ae219b42d733f9f1b639f1ced",
+      "mtime": 1686393561000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:39:18Z",
+      "dateModified": "2023-06-10T10:39:21Z"
+    }
+  },
+  {
+    "key": "QPYDSPRS",
+    "version": 2113,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/QPYDSPRS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/QPYDSPRS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/H7KB9ML8",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/QPYDSPRS/file/view",
+        "title": "King et al. - 2017 - Designing with data improving the user experience.pdf",
+        "length": 598743
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "QPYDSPRS",
+      "version": 2113,
+      "parentItem": "H7KB9ML8",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "King et al. - 2017 - Designing with data improving the user experience.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "King et al. - 2017 - Designing with data improving the user experience.pdf",
+      "md5": "cb99be8ae219b42d733f9f1b639f1ced",
+      "mtime": 1686393548000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:39:08Z",
+      "dateModified": "2023-06-10T10:39:08Z"
+    }
+  },
+  {
     "key": "THDH847L",
     "version": 2096,
     "library": {
@@ -27980,12 +28505,18 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/H7KB9ML8",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/QPYDSPRS",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 598743
       }
     },
     "meta": {
       "creatorSummary": "King et al.",
       "parsedDate": "2017",
-      "numChildren": 1
+      "numChildren": 2
     },
     "data": {
       "key": "H7KB9ML8",
