@@ -1,5 +1,297 @@
 [
   {
+    "key": "CLX7WZGK",
+    "version": 2151,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/CLX7WZGK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/CLX7WZGK",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/GK532XYK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 871906
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mirenowicz and Schultz",
+      "parsedDate": "1994-08-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "CLX7WZGK",
+      "version": 2151,
+      "itemType": "journalArticle",
+      "title": "Importance of unpredictability for reward responses in primate dopamine neurons",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "J.",
+          "lastName": "Mirenowicz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "W.",
+          "lastName": "Schultz"
+        }
+      ],
+      "abstractNote": "1. We used single neuron recording techniques in two behaving monkeys to investigate the conditions in which dopamine neurons respond to primary rewarding or potentially rewarding stimuli. Animals received drops of liquid either outside behavioral tasks or as rewards during learning or established performance of an auditory reaction time task. 2. Three quarters of dopamine neurons showed a short-latency, phasic response to liquid that was delivered outside the task without being predicted by phasic stimuli. The same neurons responded to liquid reward during learning but not when task performance was established, at which time the neuronal response occurred to the conditioned, reward-predicting, movement-triggering stimulus. 3. These data suggest that the responses of dopamine neurons to rewarding or potentially rewarding liquid are due to the temporally unpredicted stimulus occurrence. A known, reward-predicting, tonic context does not prevent dopamine neurons from responding to the rewarding liquid. The responses during learning apparently occur because reward is not yet reliably predicted by a conditioned phasic stimulus. Because the unpredicted occurrence of reward is of central importance for learning, these responses allow dopamine neurons to play an important role in reward-driven learning.",
+      "publicationTitle": "Journal of Neurophysiology",
+      "volume": "72",
+      "issue": "2",
+      "pages": "1024-1027",
+      "date": "1994-08-01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Neurophysiology",
+      "language": "en",
+      "DOI": "10.1152/jn.1994.72.2.1024",
+      "ISSN": "0022-3077, 1522-1598",
+      "shortTitle": "",
+      "url": "https://www.physiology.org/doi/10.1152/jn.1994.72.2.1024",
+      "accessDate": "2023-06-10T12:16:33Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: mirenowiczImportanceUnpredictabilityReward1994",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T12:16:33Z",
+      "dateModified": "2023-06-10T12:16:40Z"
+    }
+  },
+  {
+    "key": "MJDHBSJK",
+    "version": 2151,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/MJDHBSJK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/MJDHBSJK",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/JPAVJAFV",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 294535
+      }
+    },
+    "meta": {
+      "creatorSummary": "Berns et al.",
+      "parsedDate": "2001-04-15",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "MJDHBSJK",
+      "version": 2151,
+      "itemType": "journalArticle",
+      "title": "Predictability Modulates Human Brain Response to Reward",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gregory S.",
+          "lastName": "Berns"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samuel M.",
+          "lastName": "McClure"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Giuseppe",
+          "lastName": "Pagnoni"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P. Read",
+          "lastName": "Montague"
+        }
+      ],
+      "abstractNote": "Certain classes of stimuli, such as food and drugs, are highly effective in activating reward regions. We show in humans that activity in these regions can be modulated by the predictability of the sequenced delivery of two mildly pleasurable stimuli, orally delivered fruit juice and water. Using functional magnetic resonance imaging, the activity for rewarding stimuli in both the nucleus accumbens and medial orbitofrontal cortex was greatest when the stimuli were unpredictable. Moreover, the subjects' stated preference for either juice or water was not directly correlated with activity in reward regions but instead was correlated with activity in sensorimotor cortex. For pleasurable stimuli, these findings suggest that predictability modulates the response of human reward regions, and subjective preference can be dissociated from this response.",
+      "publicationTitle": "The Journal of Neuroscience",
+      "volume": "21",
+      "issue": "8",
+      "pages": "2793-2798",
+      "date": "2001-04-15",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "J. Neurosci.",
+      "language": "en",
+      "DOI": "10.1523/JNEUROSCI.21-08-02793.2001",
+      "ISSN": "0270-6474, 1529-2401",
+      "shortTitle": "",
+      "url": "https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.21-08-02793.2001",
+      "accessDate": "2023-06-10T12:16:27Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: bernsPredictabilityModulatesHuman2001",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T12:16:27Z",
+      "dateModified": "2023-06-10T12:16:40Z"
+    }
+  },
+  {
+    "key": "GK532XYK",
+    "version": 2149,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/GK532XYK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/GK532XYK",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/CLX7WZGK",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/GK532XYK/file/view",
+        "title": "Mirenowicz and Schultz - 1994 - Importance of unpredictability for reward response.pdf",
+        "length": 871906
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "GK532XYK",
+      "version": 2149,
+      "parentItem": "CLX7WZGK",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Mirenowicz and Schultz - 1994 - Importance of unpredictability for reward response.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Mirenowicz and Schultz - 1994 - Importance of unpredictability for reward response.pdf",
+      "md5": "84346124a03c35f76976b4bceaff8684",
+      "mtime": 1686399393000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T12:16:30Z",
+      "dateModified": "2023-06-10T12:16:34Z"
+    }
+  },
+  {
+    "key": "JPAVJAFV",
+    "version": 2148,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JPAVJAFV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JPAVJAFV",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/MJDHBSJK",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/JPAVJAFV/file/view",
+        "title": "Berns et al. - 2001 - Predictability Modulates Human Brain Response to R.pdf",
+        "length": 294535
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JPAVJAFV",
+      "version": 2148,
+      "parentItem": "MJDHBSJK",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Berns et al. - 2001 - Predictability Modulates Human Brain Response to R.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Berns et al. - 2001 - Predictability Modulates Human Brain Response to R.pdf",
+      "md5": "96773f63576a04600d013b1c359c747e",
+      "mtime": 1686399388000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T12:16:24Z",
+      "dateModified": "2023-06-10T12:16:28Z"
+    }
+  },
+  {
     "key": "TB4AAC9U",
     "version": 2145,
     "library": {
@@ -21,6 +313,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/TB4AAC9U",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/JX7PHSX2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 175985
       }
     },
     "meta": {
@@ -78,7 +376,7 @@
   },
   {
     "key": "JX7PHSX2",
-    "version": 2145,
+    "version": 2150,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -102,6 +400,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/TB4AAC9U",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/JX7PHSX2/file/view",
+        "title": "Liu and Li - 2016 - Develop Habit-forming Products Based on the Axioma.pdf",
+        "length": 175985
       }
     },
     "meta": {
@@ -109,7 +413,7 @@
     },
     "data": {
       "key": "JX7PHSX2",
-      "version": 2145,
+      "version": 2150,
       "parentItem": "TB4AAC9U",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -120,8 +424,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Liu and Li - 2016 - Develop Habit-forming Products Based on the Axioma.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "fc0b35054ed4cbb17b3e2a273455767d",
+      "mtime": 1686398525000,
       "tags": [],
       "relations": {},
       "dateAdded": "2023-06-10T12:02:01Z",
