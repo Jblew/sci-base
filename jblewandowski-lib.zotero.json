@@ -1,5 +1,134 @@
 [
   {
+    "key": "TB4AAC9U",
+    "version": 2145,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/TB4AAC9U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/TB4AAC9U",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Liu and Li",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TB4AAC9U",
+      "version": 2145,
+      "itemType": "journalArticle",
+      "title": "Develop Habit-forming Products Based on the Axiomatic Design Theory",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ang",
+          "lastName": "Liu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tian Meng",
+          "lastName": "Li"
+        }
+      ],
+      "abstractNote": "It is every manufacturer’s desire to drive its target customers to form a long-term habit of regularly using its product. Previous studies indicate that the habit of using a certain product can indeed by formed in a systemic manner, once the right sequence is followed. Against such a background, an existing habit-forming product model, namely the Hook Model, is reviewed with respect to its key components of trigger, action, reward, and investment. Essences of the Hook Model, together with its missing pieces, are reformulated, repositioned, and resynthesized based on the Axiomatic Design Theory. It results in an adapted Axiomatic Design process, which is intended to develop the habit-forming products. The step-by-step design process is explained, and an illustrate example is presented.",
+      "publicationTitle": "Procedia CIRP",
+      "volume": "53",
+      "issue": "",
+      "pages": "119-124",
+      "date": "2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Procedia CIRP",
+      "language": "en",
+      "DOI": "10.1016/j.procir.2016.07.035",
+      "ISSN": "22128271",
+      "shortTitle": "",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2212827116307855",
+      "accessDate": "2023-06-10T12:02:05Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: liuDevelopHabitformingProducts2016",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T12:02:05Z",
+      "dateModified": "2023-06-10T12:02:09Z"
+    }
+  },
+  {
+    "key": "JX7PHSX2",
+    "version": 2145,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JX7PHSX2",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JX7PHSX2",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/TB4AAC9U",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "JX7PHSX2",
+      "version": 2145,
+      "parentItem": "TB4AAC9U",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Liu and Li - 2016 - Develop Habit-forming Products Based on the Axioma.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Liu and Li - 2016 - Develop Habit-forming Products Based on the Axioma.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T12:02:01Z",
+      "dateModified": "2023-06-10T12:02:06Z"
+    }
+  },
+  {
     "key": "6XM26KDL",
     "version": 2142,
     "library": {
@@ -21,6 +150,12 @@
       "alternate": {
         "href": "https://www.zotero.org/jblewandowski/items/6XM26KDL",
         "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/I6TP7S65",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2180386
       }
     },
     "meta": {
@@ -73,7 +208,7 @@
   },
   {
     "key": "I6TP7S65",
-    "version": 2137,
+    "version": 2143,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -97,6 +232,12 @@
       "up": {
         "href": "https://api.zotero.org/users/8674355/items/6XM26KDL",
         "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/I6TP7S65/file/view",
+        "title": "Block - 1984 - Making School Learning Activities More Playlike F.pdf",
+        "length": 2180386
       }
     },
     "meta": {
@@ -104,7 +245,7 @@
     },
     "data": {
       "key": "I6TP7S65",
-      "version": 2137,
+      "version": 2143,
       "parentItem": "6XM26KDL",
       "itemType": "attachment",
       "linkMode": "imported_file",
@@ -115,8 +256,8 @@
       "contentType": "application/pdf",
       "charset": "",
       "filename": "Block - 1984 - Making School Learning Activities More Playlike F.pdf",
-      "md5": null,
-      "mtime": null,
+      "md5": "22d78e18c9b9ddbae1663398524560a1",
+      "mtime": 1686394716000,
       "tags": [],
       "relations": {},
       "dateAdded": "2023-06-10T10:58:32Z",
