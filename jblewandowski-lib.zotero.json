@@ -1,7 +1,7 @@
 [
   {
-    "key": "6ZQPICHC",
-    "version": 2124,
+    "key": "6XM26KDL",
+    "version": 2142,
     "library": {
       "type": "user",
       "id": 8674355,
@@ -15,75 +15,414 @@
     },
     "links": {
       "self": {
-        "href": "https://api.zotero.org/users/8674355/items/6ZQPICHC",
+        "href": "https://api.zotero.org/users/8674355/items/6XM26KDL",
         "type": "application/json"
       },
       "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/6ZQPICHC",
+        "href": "https://www.zotero.org/jblewandowski/items/6XM26KDL",
         "type": "text/html"
-      },
-      "attachment": {
-        "href": "https://api.zotero.org/users/8674355/items/B4JA297Z",
-        "type": "application/json",
-        "attachmentType": "application/pdf",
-        "attachmentSize": 2806154
       }
     },
     "meta": {
-      "creatorSummary": "Istrefi et al.",
+      "creatorSummary": "Block",
+      "parsedDate": "1984",
       "numChildren": 1
     },
     "data": {
-      "key": "6ZQPICHC",
-      "version": 2124,
+      "key": "6XM26KDL",
+      "version": 2142,
       "itemType": "journalArticle",
-      "title": "NUMBER OF CREDITS: 30 ECTS",
+      "title": "Making School Learning Activities More Playlike: Flow and Mastery Learning",
       "creators": [
         {
           "creatorType": "author",
-          "firstName": "Florian",
-          "lastName": "Istrefi"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Tim de Verdier",
-          "lastName": "Below"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Ryan Michael",
-          "lastName": "Rumble"
+          "firstName": "James H.",
+          "lastName": "Block"
         }
       ],
-      "abstractNote": "Background: We are seeing that both the field of gamification and the mobile financial application industry are growing at a rapid pace, without any indication of it declining. Businesses are implementing gamification in their platforms to motivate their users to use their applications and differentiate themselves from competitors. Purpose: This research aims to explore how gamification can influence the user's motivation in mobile financial applications. Previous literature has shown that gamification can have different outcomes on user motivation depending on what kind of environment it is implemented in and not have the desired outcome organisation anticipates it to have. Even though there is clear evidence that MFA is starting to gamify their applications, there is no study investigating how this influences the user's motivations.",
-      "publicationTitle": "",
-      "volume": "",
-      "issue": "",
-      "pages": "",
-      "date": "",
+      "abstractNote": "",
+      "publicationTitle": "The Elementary School Journal",
+      "volume": "85",
+      "issue": "1",
+      "pages": "65-75",
+      "date": "09/1984",
       "series": "",
       "seriesTitle": "",
       "seriesText": "",
-      "journalAbbreviation": "",
+      "journalAbbreviation": "The Elementary School Journal",
       "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
+      "DOI": "10.1086/461392",
+      "ISSN": "0013-5984, 1554-8279",
+      "shortTitle": "Making School Learning Activities More Playlike",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/461392",
+      "accessDate": "2023-06-10T10:58:35Z",
       "archive": "",
       "archiveLocation": "",
-      "libraryCatalog": "Zotero",
+      "libraryCatalog": "DOI.org (Crossref)",
       "callNumber": "",
       "rights": "",
-      "extra": "Citation Key: istrefiNUMBERCREDITS30",
+      "extra": "Citation Key: blockMakingSchoolLearning1984",
       "tags": [],
       "collections": [
         "S2BGKY6M"
       ],
       "relations": {},
-      "dateAdded": "2023-06-10T10:45:48Z",
-      "dateModified": "2023-06-10T10:45:53Z"
+      "dateAdded": "2023-06-10T10:58:35Z",
+      "dateModified": "2023-06-10T10:59:15Z"
+    }
+  },
+  {
+    "key": "I6TP7S65",
+    "version": 2137,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/I6TP7S65",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/I6TP7S65",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/6XM26KDL",
+        "type": "application/json"
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "I6TP7S65",
+      "version": 2137,
+      "parentItem": "6XM26KDL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Block - 1984 - Making School Learning Activities More Playlike F.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Block - 1984 - Making School Learning Activities More Playlike F.pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:58:32Z",
+      "dateModified": "2023-06-10T10:58:36Z"
+    }
+  },
+  {
+    "key": "JNUIVDRA",
+    "version": 2134,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/JNUIVDRA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/JNUIVDRA",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/5S57FJ5U",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1920773
+      }
+    },
+    "meta": {
+      "creatorSummary": "Oliveira Dos Santos et al.",
+      "parsedDate": "2018-05-07",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JNUIVDRA",
+      "version": 2134,
+      "itemType": "journalArticle",
+      "title": "Flow Theory to Promote Learning in Educational Systems: Is it Really Relevant?",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Wilk",
+          "lastName": "Oliveira Dos Santos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ig Ibert",
+          "lastName": "Bittencourt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Seiji",
+          "lastName": "Isotani"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diego",
+          "lastName": "Dermeval"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leonardo",
+          "lastName": "Brandão Marques"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ismar",
+          "lastName": "Frango Silveira"
+        }
+      ],
+      "abstractNote": "Flow Theory has been increasingly applied to Computers and Education to address several topics within this field (e.g., motivation, engagement, learning performance and so on). At the same time, in comparison with other recent theories related to Computers and Education, (e.g., Self-Determination Theory, S-Curve Theory, Intrinsic motivation, etc.), is a young topic, with different open research questions. Additionally, the Computers and Education community still lacks a comprehensive understanding of how Flow Theory is used in the area. Thus, this paper presents a Systematic Literature Review aiming to identify how students' flow state are measured during learning activities, how such activities are designed, which are the flow models used in Computers and Education and which are the main benefits of being in the flow state for the students. The main findings of this work are: (1) there is positive evidence about the benefits of applying Flow Theory in Computers and Education, especially, for increasing students’ learning, to generate students’ satisfaction, and to enable exploratory behavior; (2) the majority of studies use questionnaires to manual identify students’ flow state; (3) a great diversity of flow state scales have been used; (4) the majority of studies are not designing activities for leading students to the flow state, and (5) the Csikszentmihalyi’ flow model is more used. Finally, we conclude this work by showing some promising and interesting research opportunities that are underexplored in current research and practice.",
+      "publicationTitle": "Revista Brasileira de Informática na Educação",
+      "volume": "26",
+      "issue": "02",
+      "pages": "29",
+      "date": "2018-05-07",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "RBIE",
+      "language": "en",
+      "DOI": "10.5753/rbie.2018.26.02.29",
+      "ISSN": "2317-6121, 1414-5685",
+      "shortTitle": "Flow Theory to Promote Learning in Educational Systems",
+      "url": "http://br-ie.org/pub/index.php/rbie/article/view/7106",
+      "accessDate": "2023-06-10T10:57:18Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: oliveiradossantosFlowTheoryPromote2018",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:57:18Z",
+      "dateModified": "2023-06-10T10:57:23Z"
+    }
+  },
+  {
+    "key": "5S57FJ5U",
+    "version": 2135,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/5S57FJ5U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/5S57FJ5U",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/JNUIVDRA",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/5S57FJ5U/file/view",
+        "title": "Oliveira Dos Santos et al. - 2018 - Flow Theory to Promote Learning in Educational Sys.pdf",
+        "length": 1920773
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "5S57FJ5U",
+      "version": 2135,
+      "parentItem": "JNUIVDRA",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Oliveira Dos Santos et al. - 2018 - Flow Theory to Promote Learning in Educational Sys.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Oliveira Dos Santos et al. - 2018 - Flow Theory to Promote Learning in Educational Sys.pdf",
+      "md5": "441f418d225040c6c18e8e96ab6d9c9c",
+      "mtime": 1686394639000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:57:16Z",
+      "dateModified": "2023-06-10T10:57:19Z"
+    }
+  },
+  {
+    "key": "2QKIC2FE",
+    "version": 2133,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/2QKIC2FE",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/2QKIC2FE",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/FRRR465J",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 362098
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fish and Saul",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "2QKIC2FE",
+      "version": 2133,
+      "itemType": "journalArticle",
+      "title": "The Gamification of Meditation: A Randomized-Controlled Study of a Prescribed Mobile Mindfulness Meditation Application in Reducing College Students’ Depression",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Matthew T.",
+          "lastName": "Fish"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amelia D.",
+          "lastName": "Saul"
+        }
+      ],
+      "abstractNote": "Objective. Roughly 35% of college students report depression as a significant concern, which unaddressed, can lead to an increased likelihood to quit school and develop comorbid conditions. Traditional depression interventions are useful; however, they are often expensive, stigmatizing, tedious, and timeintensive. We examined a prescribed mindfulness meditation regimen, which incorporates gamification principles, in reducing symptoms of depression compared to a control group.",
+      "publicationTitle": "Simulation & Gaming",
+      "volume": "50",
+      "issue": "4",
+      "pages": "419-435",
+      "date": "08/2019",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Simulation & Gaming",
+      "language": "en",
+      "DOI": "10.1177/1046878119851821",
+      "ISSN": "1046-8781, 1552-826X",
+      "shortTitle": "The Gamification of Meditation",
+      "url": "http://journals.sagepub.com/doi/10.1177/1046878119851821",
+      "accessDate": "2023-06-10T10:50:00Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Citation Key: fishGamificationMeditationRandomizedControlled2019",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:50:00Z",
+      "dateModified": "2023-06-10T10:51:03Z"
+    }
+  },
+  {
+    "key": "FRRR465J",
+    "version": 2128,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/FRRR465J",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/FRRR465J",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2QKIC2FE",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/FRRR465J/file/view",
+        "title": "Fish and Saul - 2019 - The Gamification of Meditation A Randomized-Contr.pdf",
+        "length": 362098
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "FRRR465J",
+      "version": 2128,
+      "parentItem": "2QKIC2FE",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Fish and Saul - 2019 - The Gamification of Meditation A Randomized-Contr.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Fish and Saul - 2019 - The Gamification of Meditation A Randomized-Contr.pdf",
+      "md5": "90d580a66454ac487d7710e6d3e29ea2",
+      "mtime": 1686394201000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-06-10T10:49:57Z",
+      "dateModified": "2023-06-10T10:50:01Z"
     }
   },
   {
