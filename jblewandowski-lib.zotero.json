@@ -1,5 +1,61 @@
 [
   {
+    "key": "VTGT9IMV",
+    "version": 2155,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/VTGT9IMV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/VTGT9IMV",
+        "type": "text/html"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/VTGT9IMV/file/view",
+        "title": "nsdi13-final170_update.pdf",
+        "length": 378946
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "VTGT9IMV",
+      "version": 2155,
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "nsdi13-final170_update.pdf",
+      "accessDate": "2023-07-08T11:28:01Z",
+      "url": "https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "nsdi13-final170_update.pdf",
+      "md5": "c6868cf61ee073b1e146b7c4ed3d81c4",
+      "mtime": 1688815681858,
+      "tags": [],
+      "collections": [
+        "FC7PYH7E"
+      ],
+      "relations": {},
+      "dateAdded": "2023-07-08T11:28:01Z",
+      "dateModified": "2023-07-08T11:28:01Z"
+    }
+  },
+  {
     "key": "CLX7WZGK",
     "version": 2151,
     "library": {
