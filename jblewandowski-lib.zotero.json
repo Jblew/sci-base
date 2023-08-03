@@ -927,64 +927,6 @@
     }
   },
   {
-    "key": "B4JA297Z",
-    "version": 2125,
-    "library": {
-      "type": "user",
-      "id": 8674355,
-      "name": "jblewandowski",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/jblewandowski",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/8674355/items/B4JA297Z",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/jblewandowski/items/B4JA297Z",
-        "type": "text/html"
-      },
-      "up": {
-        "href": "https://api.zotero.org/users/8674355/items/6ZQPICHC",
-        "type": "application/json"
-      },
-      "enclosure": {
-        "type": "application/pdf",
-        "href": "https://api.zotero.org/users/8674355/items/B4JA297Z/file/view",
-        "title": "Istrefi et al. - NUMBER OF CREDITS 30 ECTS.pdf",
-        "length": 2806154
-      }
-    },
-    "meta": {
-      "numChildren": 0
-    },
-    "data": {
-      "key": "B4JA297Z",
-      "version": 2125,
-      "parentItem": "6ZQPICHC",
-      "itemType": "attachment",
-      "linkMode": "imported_file",
-      "title": "Istrefi et al. - NUMBER OF CREDITS 30 ECTS.pdf",
-      "accessDate": "",
-      "url": "",
-      "note": "",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Istrefi et al. - NUMBER OF CREDITS 30 ECTS.pdf",
-      "md5": "065229eb978b57f439e7928792df1e04",
-      "mtime": 1686393949000,
-      "tags": [],
-      "relations": {},
-      "dateAdded": "2023-06-10T10:45:46Z",
-      "dateModified": "2023-06-10T10:45:49Z"
-    }
-  },
-  {
     "key": "G6FYNS9P",
     "version": 2121,
     "library": {
