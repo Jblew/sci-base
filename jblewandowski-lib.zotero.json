@@ -1,5 +1,52 @@
 [
   {
+    "key": "8PI23UVY",
+    "version": 2164,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/8PI23UVY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/8PI23UVY",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/2G5EXBK7",
+        "type": "application/json"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "8PI23UVY",
+      "version": 2164,
+      "parentItem": "2G5EXBK7",
+      "itemType": "annotation",
+      "annotationType": "highlight",
+      "annotationText": "This view integrates findings from the study of games and other fields to develop recommendations for how to create and evaluate gamification interventions to ensure they influence outcomes as their designers intended. Therefore, gamification science focuses upon the development of theories of gamification design and their empirical evaluation within a post-positivist epistemological framework.",
+      "annotationComment": "",
+      "annotationColor": "#ffd400",
+      "annotationPageLabel": "4",
+      "annotationSortIndex": "00003|000259|00094",
+      "annotationPosition": "{\"pageIndex\":3,\"rects\":[[138.81,542.91,383.99,553.98],[42,530.91,383.96,541.98],[42,518.91,383.97,529.98],[42,506.91,384.03,517.98],[42,494.91,384.02,505.98]]}",
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-08-03T19:48:22Z",
+      "dateModified": "2023-08-03T19:48:22Z"
+    }
+  },
+  {
     "key": "VTGT9IMV",
     "version": 2155,
     "library": {
@@ -57856,7 +57903,7 @@
       }
     },
     "meta": {
-      "numChildren": 0
+      "numChildren": 1
     },
     "data": {
       "key": "2G5EXBK7",
