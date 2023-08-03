@@ -1,5 +1,124 @@
 [
   {
+    "key": "RBA8DB2D",
+    "version": 2171,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/RBA8DB2D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/RBA8DB2D",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/8674355/items/NKDA9GH4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 575075
+      }
+    },
+    "meta": {
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RBA8DB2D",
+      "version": 2171,
+      "itemType": "document",
+      "title": "Gamifikacja w edukacji w Centrum Symulacji Medycznej",
+      "creators": [],
+      "abstractNote": "",
+      "publisher": "",
+      "date": "",
+      "language": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "S2BGKY6M"
+      ],
+      "relations": {},
+      "dateAdded": "2023-08-03T20:04:40Z",
+      "dateModified": "2023-08-03T20:05:00Z"
+    }
+  },
+  {
+    "key": "NKDA9GH4",
+    "version": 2169,
+    "library": {
+      "type": "user",
+      "id": 8674355,
+      "name": "jblewandowski",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/jblewandowski",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/8674355/items/NKDA9GH4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/jblewandowski/items/NKDA9GH4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/8674355/items/RBA8DB2D",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/8674355/items/NKDA9GH4/file/view",
+        "title": "README.pdf",
+        "length": 575075
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "NKDA9GH4",
+      "version": 2169,
+      "parentItem": "RBA8DB2D",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "README.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "README.pdf",
+      "md5": "d73e9544d5ce1f6ed012963b27632731",
+      "mtime": 1691093072000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-08-03T20:04:32Z",
+      "dateModified": "2023-08-03T20:04:40Z"
+    }
+  },
+  {
     "key": "8PI23UVY",
     "version": 2164,
     "library": {
